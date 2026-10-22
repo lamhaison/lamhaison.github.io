@@ -1,1 +1,1 @@
-# lamhaison.github.io
+# lhs-doc-search

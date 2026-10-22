@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-10-22T18:21:09.169Z",
+  "sourceRepo": "https://github.com/lamhaison/lamhaison.github.io",
+  "sourcePath": "content/tenants/help/faq.mdx",
+  "sourceSha": "",
+  "sourcePage": "https://github.com/lamhaison/lamhaison.github.io/docs/tenants/help/faq/",
+  "questions": [
+    {
+      "id": "login-with-azure-cli",
+      "section": "Azure",
+      "subsection": "",
+      "tags": [
+        "azure-cli",
+        "login",
+        "powershell",
+        "authentication",
+        "azure",
+        "azure-cli-login"
+      ],
+      "question": "How to login with Azure CLI?",
+      "searchLine": "[azure-cli • login • powershell • authentication • azure • azure-cli-login] How to login with Azure CLI?",
+      "answerText": "To login to Azure using Azure CLI and run PowerShell commands: powershell Connect-AzAccount -DeviceCode Get-AzSubscription Set-AzContext -Subscription \"azure-practicing\" Get-AzContext Get-AzVM -Status This will authenticate you to Azure and allow you to manage your Azure resources.",
+      "answerHtml": "<p>To login to Azure using Azure CLI and run PowerShell commands:</p>\n<pre><code class=\"language-powershell\">Connect-AzAccount -DeviceCode\nGet-AzSubscription\nSet-AzContext -Subscription &quot;azure-practicing&quot;\nGet-AzContext\nGet-AzVM -Status</code></pre>\n<p>This will authenticate you to Azure and allow you to manage your Azure resources.</p>",
+      "pageUrl": "",
+      "pageLabel": "Open the source",
+      "order": 0
+    },
+    {
+      "id": "vm-gpo",
+      "section": "Azure",
+      "subsection": "",
+      "tags": [
+        "gpo",
+        "group-policy",
+        "admin",
+        "rdp",
+        "windows",
+        "active-directory",
+        "azure",
+        "gpo-admin-rdp"
+      ],
+      "question": "How to grant local Administrator rights centrally via GPO?",
+      "searchLine": "[gpo • group-policy • admin • rdp • windows • active-directory • azure • gpo-admin-rdp] How to grant local Administrator rights centrally via GPO?",
+      "answerText": "configure-admin-gpo.ps1 mirrors configure-rdp-gpo.ps1, but targets the local Administrators group (SID S-1-5-32-544) instead of Remote Desktop Users (SID S-1-5-32-555). Run it on the DC, then grant access domain-wide via one AD group instead of editing local groups per VM: powershell On the DC .\\configure-admin-gpo.ps1 Add-ADGroupMember -Identity \"Domain-Admins\" -Members \"username\" ⚠️ Members of Domain-Admins get full local admin rights on every computer the GPO applies to (domain root by default) — scope the GPO link to a specific OU if that's too broad. To verify on the target VM: powershell gpupdate /force Get-LocalGroupMember -Group \"Administrators\" should list DOMAIN\\Domain-Admins gpresult /r confirm \"Allow Local Admin Access via Group Policy\" is in Applied GPOs whoami /groups | findstr \"Administrators\" confirm the logged-in user has admin rights",
+      "answerHtml": "<p><code>configure-admin-gpo.ps1</code> mirrors <code>configure-rdp-gpo.ps1</code>, but targets the local <code>Administrators</code> group (SID <code>S-1-5-32-544</code>) instead of <code>Remote Desktop Users</code> (SID <code>S-1-5-32-555</code>). Run it on the DC, then grant access domain-wide via one AD group instead of editing local groups per VM:</p>\n<pre><code class=\"language-powershell\"># On the DC\n.\\configure-admin-gpo.ps1\nAdd-ADGroupMember -Identity &quot;Domain-Admins&quot; -Members &quot;username&quot;</code></pre>\n<p>⚠️ Members of <code>Domain-Admins</code> get full local admin rights on every computer the GPO applies to (domain root by default) — scope the GPO link to a specific OU if that's too broad.</p>\n<p>To verify on the target VM:</p>\n<pre><code class=\"language-powershell\">gpupdate /force\nGet-LocalGroupMember -Group &quot;Administrators&quot;   # should list DOMAIN\\Domain-Admins\ngpresult /r                                    # confirm &quot;Allow Local Admin Access via Group Policy&quot; is in Applied GPOs\nwhoami /groups | findstr &quot;Administrators&quot;      # confirm the logged-in user has admin rights</code></pre>",
+      "pageUrl": "",
+      "pageLabel": "Open the source",
+      "order": 1
+    }
+  ]
+}
