@@ -106,9 +106,16 @@ worktree=$(mktemp -d)
 
 # Create or update worktree for gh-pages branch
 if git -C "$root" show-ref --verify --quiet "refs/remotes/origin/$branch"; then
+  # Branch exists remotely, check it out
   git -C "$root" worktree add --quiet \
     --force -B "$branch" "$worktree" \
-    "refs/remotes/origin/$branch" || \
+    "refs/remotes/origin/$branch" || {
+    # Fallback: create orphan branch if checkout fails
+    git -C "$root" worktree add --quiet \
+      --force --orphan -b "$branch" "$worktree"
+  }
+else
+  # Branch doesn't exist yet, create orphan
   git -C "$root" worktree add --quiet \
     --force --orphan -b "$branch" "$worktree"
 fi
@@ -119,7 +126,7 @@ find "$worktree" -mindepth 1 \
 
 cp "$root/index.html" "$worktree/"
 cp -R "$root/assets" "$worktree/"
-cp "$root/data" "$worktree/" 2>/dev/null || true
+cp -R "$root/data" "$worktree/" 2>/dev/null || true
 cp "$root/nojekyll" "$worktree/.nojekyll" 2>/dev/null || true
 
 # Inject base href for GitHub Pages serving at /<owner>/<repo>/
