@@ -386,7 +386,7 @@ function parseFrontMatter(markdown) {
       const value = match[2].trim();
       
       // Parse YAML array format: [item1, item2, item3]
-      if (key === 'tags' && value.startsWith('[') && value.endsWith(']')) {
+      if ((key === 'tags' || key === 'sections' || key === 'subsections') && value.startsWith('[') && value.endsWith(']')) {
         meta[key] = value
           .slice(1, -1)
           .split(',')
@@ -407,10 +407,30 @@ function parseFrontMatter(markdown) {
 function parseDocQuestions(markdown, fallbackId, filePath = '') {
   const { meta, body } = parseFrontMatter(markdown);
 
+  // Support both single value and array for section/subsection
+  // Normalize to arrays for consistent handling
+  let sections = [];
+  if (meta.sections) {
+    sections = Array.isArray(meta.sections) ? meta.sections : [meta.sections];
+  } else if (meta.section) {
+    sections = [meta.section];
+  } else {
+    sections = ['More questions'];
+  }
+
+  let subsections = [];
+  if (meta.subsections) {
+    subsections = Array.isArray(meta.subsections) ? meta.subsections : [meta.subsections];
+  } else if (meta.subsection) {
+    subsections = [meta.subsection];
+  }
+
   // Extract subsection from folder path if not in frontmatter
-  let pathSubsection = '';
-  if (!meta.subsection && filePath) {
-    pathSubsection = getPathSubsection(filePath, meta.section || 'More questions');
+  if (subsections.length === 0 && filePath) {
+    const pathSubsection = getPathSubsection(filePath, sections[0] || 'More questions');
+    if (pathSubsection) {
+      subsections = [pathSubsection];
+    }
   }
 
   // Find all Q: headers
@@ -442,13 +462,15 @@ function parseDocQuestions(markdown, fallbackId, filePath = '') {
       .filter(tag => tag)
       .map(tag => slug(tag));
 
-    // Combine all three tag sources:
+    // Combine all four tag sources:
     // 1. Frontmatter tags (highest priority)
-    // 2. Section from frontmatter
-    // 3. Tags from question header
+    // 2. All sections from frontmatter
+    // 3. All subsections from frontmatter
+    // 4. Tags from question header
     const tags = unique([
       ...(Array.isArray(meta.tags) ? meta.tags.map(tag => slug(tag)) : []),
-      slug(meta.section || ''),
+      ...sections.map(s => slug(s)),
+      ...subsections.map(s => slug(s)),
       ...headerTags,
     ]);
 
@@ -461,10 +483,14 @@ function parseDocQuestions(markdown, fallbackId, filePath = '') {
       questionId = meta.id || fallbackId;
     }
 
+    // Use primary section (first one) and primary subsection (first one)
+    // For backward compatibility with single-value queries
     questions.push({
       id: questionId,
-      section: meta.section || 'More questions',
-      subsection: meta.subsection || pathSubsection,
+      section: sections[0] || 'More questions',
+      subsection: subsections[0] || '',
+      sections: sections,           // NEW: array of all sections
+      subsections: subsections,     // NEW: array of all subsections
       tags,
       question,
       searchLine: `[${tags.join(' • ')}] ${question}`,

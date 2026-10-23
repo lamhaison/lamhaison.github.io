@@ -1,11 +1,12 @@
 ---
-section: DevOps
-subsection: SysAdmin
+sections: [DevOps, SysAdmin, Windows]
+subsections: [Operating Systems]
 id: windows-commands-reference
 pageUrl: https://lamhaison.github.io
 pageLabel: Windows Commands Reference
 tags: [windows, commands, reference, sysadmin, powershell, troubleshooting]
 ---
+
 
 ## Q: **[windows - commands - reference - troubleshooting] What are the essential Windows commands for system administration and troubleshooting?**
 
@@ -432,6 +433,3 @@ Get-WebBinding -Name "Default Web Site"            # Show current bindings
 New-WebBinding -Name "Default Web Site" -Protocol "https" -Port 443 -HostHeader domain.com
 Get-WebCertificate -Name "Default Web Site"       # Show certificate
 ```
-azure_adds_adv_admin_window.cmd.ps1:Get-ADForest  # Show forest details
-azure_adds_adv_admin_window.cmd.ps1:Get-ADDomainController -Filter *  # List all domain controllers
-azure_adds_adv_admin_window.cmd.ps1:Get-ADDomainController -Discover  # Find nearest DC
