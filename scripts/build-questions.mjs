@@ -438,29 +438,69 @@ function parseDocQuestion(markdown, fallbackId) {
   };
 }
 
+function getPathTags(filePath) {
+  // Extract folder structure for tags
+  // e.g., "content/devops/scm/git/git-commands-reference.doc.md"
+  // → ["devops", "scm", "git"]
+  const parts = filePath.split('/');
+  const contentIndex = parts.indexOf('content');
+  
+  if (contentIndex === -1) return [];
+  
+  // Get folders between 'content' and the filename
+  const folderParts = parts.slice(contentIndex + 1, -1);
+  return folderParts.map(part => slug(part));
+}
+
+function walkDocFiles(dir, contentDir = null) {
+  const files = [];
+  const entries = readdirSync(dir, { withFileTypes: true });
+
+  for (const entry of entries) {
+    const fullPath = resolve(dir, entry.name);
+    const relPath = contentDir ? fullPath.replace(contentDir, '') : fullPath;
+    
+    if (entry.isDirectory()) {
+      files.push(...walkDocFiles(fullPath, contentDir || dir));
+    } else if (entry.name.endsWith('.doc.md')) {
+      files.push({ fullPath, relPath });
+    }
+  }
+
+  return files;
+}
+
 function loadExtraQuestions() {
   const dir = resolve(
     dirname(fileURLToPath(import.meta.url)),
     '../content'
   );
 
-  let names = [];
+  let files = [];
 
   try {
-    names = readdirSync(dir)
-      .filter((name) => name.endsWith('.doc.md'))
-      .sort();
+    files = walkDocFiles(dir).sort((a, b) => a.relPath.localeCompare(b.relPath));
   } catch {
     return [];
   }
 
-  return names.map((name) => {
-    const markdown = readFileSync(resolve(dir, name), 'utf8');
-
-    return parseDocQuestion(
-      markdown,
-      name.replace(/\.doc\.md$/, '')
-    );
+  return files.map(({ fullPath, relPath }) => {
+    const markdown = readFileSync(fullPath, 'utf8');
+    const fallbackId = relPath.replace(/^\//, '').replace(/\.doc\.md$/, '');
+    const pathTags = getPathTags(fullPath);
+    
+    const question = parseDocQuestion(markdown, fallbackId);
+    
+    // Merge path-based tags with frontmatter tags
+    question.tags = unique([
+      ...pathTags,
+      ...question.tags,
+    ]);
+    
+    // Update search line with combined tags
+    question.searchLine = `[${question.tags.join(' • ')}] ${question.question}`;
+    
+    return question;
   });
 }
 
