@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:17:28.562Z",
+  "generatedAt": "2026-10-23T16:20:49.417Z",
   "sourceRepo": "https://github.com/lamhaison/lamhaison.github.io",
   "sourcePath": "content/tenants/help/faq.mdx",
   "sourceSha": "",
@@ -8,7 +8,7 @@
     {
       "id": "redis-commands-reference-q1",
       "section": "DevOps",
-      "subsection": "",
+      "subsection": "Databases",
       "tags": [
         "devops",
         "databases",
@@ -32,7 +32,7 @@
     {
       "id": "redis-commands-reference-q2",
       "section": "DevOps",
-      "subsection": "",
+      "subsection": "Databases",
       "tags": [
         "devops",
         "databases",
@@ -60,7 +60,7 @@
     {
       "id": "git-commands-reference",
       "section": "DevOps",
-      "subsection": "",
+      "subsection": "Scm",
       "tags": [
         "devops",
         "scm",
@@ -83,7 +83,7 @@
     {
       "id": "git-commit-conventions",
       "section": "DevOps",
-      "subsection": "",
+      "subsection": "Scm",
       "tags": [
         "devops",
         "scm",
