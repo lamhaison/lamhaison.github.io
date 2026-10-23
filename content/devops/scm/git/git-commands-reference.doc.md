@@ -6,7 +6,7 @@ pageLabel: Git Commands Reference
 tags: [git, commands, reference, scm, version-control, cheatsheet]
 ---
 
-## Q: **[git - commands - reference] What are the essential Git commands and their usage?**
+## Q: **[git - commands - reference - test - tag] What are the essential Git commands and their usage?**
 
 Comprehensive reference for Git commands organized by category with real-world examples.
 
