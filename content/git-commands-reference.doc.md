@@ -402,6 +402,7 @@ git log origin/master..HEAD             # Commits not in remote
 ### Common Workflows
 
 #### Feature Branch Workflow
+
 ```bash
 git checkout -b feature/my-feature       # Create feature branch
 # Make changes...
@@ -416,6 +417,7 @@ git branch -d feature/my-feature
 ```
 
 #### Release Branch Workflow
+
 ```bash
 git checkout -b release/v1.0             # Create release branch
 # Fix bugs only
@@ -429,6 +431,7 @@ git push origin main --tags
 ```
 
 #### Hotfix Workflow
+
 ```bash
 git checkout -b hotfix/critical-bug      # Branch from main
 git commit -m "[Fix] critical production issue"
