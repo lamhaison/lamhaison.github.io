@@ -106,6 +106,50 @@ function renderMarkdown(src) {
       continue;
     }
 
+    // Handle markdown headers
+    const h1 = line.match(/^#\s+(.+)$/);
+    const h2 = line.match(/^##\s+(.+)$/);
+    const h3 = line.match(/^###\s+(.+)$/);
+    const h4 = line.match(/^####\s+(.+)$/);
+    const h5 = line.match(/^#####\s+(.+)$/);
+    const h6 = line.match(/^######\s+(.+)$/);
+
+    if (h1) {
+      html.push(`<h1>${inline(h1[1])}</h1>`);
+      i += 1;
+      continue;
+    }
+
+    if (h2) {
+      html.push(`<h2>${inline(h2[1])}</h2>`);
+      i += 1;
+      continue;
+    }
+
+    if (h3) {
+      html.push(`<h3>${inline(h3[1])}</h3>`);
+      i += 1;
+      continue;
+    }
+
+    if (h4) {
+      html.push(`<h4>${inline(h4[1])}</h4>`);
+      i += 1;
+      continue;
+    }
+
+    if (h5) {
+      html.push(`<h5>${inline(h5[1])}</h5>`);
+      i += 1;
+      continue;
+    }
+
+    if (h6) {
+      html.push(`<h6>${inline(h6[1])}</h6>`);
+      i += 1;
+      continue;
+    }
+
     if (line.trim() === ':::callout') {
       i += 1;
 
