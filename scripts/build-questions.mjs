@@ -452,14 +452,13 @@ function parseDocQuestions(markdown, fallbackId, filePath = '') {
       ...headerTags,
     ]);
 
-    // Generate question ID
-    let questionId = meta.id || fallbackId;
+    // Generate question ID from the question text itself
+    // Sanitize question by slugifying it (lowercase, remove special chars, replace spaces with hyphens)
+    let questionId = slug(question);
     
-    // If multiple questions, append index to ID
-    if (matches.length > 1) {
-      questionId = meta.id 
-        ? `${meta.id}-q${questionIndex + 1}`
-        : `${fallbackId}-q${questionIndex + 1}`;
+    // If no valid ID from question, fall back to meta.id or fallbackId
+    if (!questionId) {
+      questionId = meta.id || fallbackId;
     }
 
     questions.push({
