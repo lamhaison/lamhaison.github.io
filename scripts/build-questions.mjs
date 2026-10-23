@@ -404,49 +404,75 @@ function parseFrontMatter(markdown) {
   };
 }
 
-function parseDocQuestion(markdown, fallbackId) {
+function parseDocQuestions(markdown, fallbackId) {
   const { meta, body } = parseFrontMatter(markdown);
 
-  const match =
-    /^##\s+Q:\s+\*\*\[([^\]]+)\]\s+(.+?)\*\*\s*$/m.exec(body);
+  // Find all Q: headers
+  const questionPattern = /^##\s+Q:\s+\*\*\[([^\]]+)\]\s+(.+?)\*\*\s*$/gm;
+  const matches = [...body.matchAll(questionPattern)];
 
-  if (!match) {
+  if (matches.length === 0) {
     throw new Error(`No Q header in ${fallbackId}`);
   }
 
-  const question = match[2].trim();
-  const answer = body.slice(match.index + match[0].length).trim();
+  const questions = [];
+  let questionIndex = 0;
 
-  // Extract tags from question header: [tag1 - tag2 - tag3] or [tag1 + tag2]
-  const headerTagsStr = match[1].trim();
-  const headerTags = headerTagsStr
-    .split(/\s*[-+]\s*/)  // Split on - or + with optional whitespace
-    .map(tag => tag.trim())
-    .filter(tag => tag)
-    .map(tag => slug(tag));
+  for (let i = 0; i < matches.length; i++) {
+    const match = matches[i];
+    const question = match[2].trim();
+    
+    // Answer is from end of Q: header until start of next Q: header or end of content
+    const answerStart = match.index + match[0].length;
+    const nextMatch = matches[i + 1];
+    const answerEnd = nextMatch ? nextMatch.index : body.length;
+    const answer = body.slice(answerStart, answerEnd).trim();
 
-  // Combine all three tag sources:
-  // 1. Frontmatter tags (highest priority)
-  // 2. Section from frontmatter
-  // 3. Tags from question header
-  const tags = unique([
-    ...(Array.isArray(meta.tags) ? meta.tags.map(tag => slug(tag)) : []),
-    slug(meta.section || ''),
-    ...headerTags,
-  ]);
+    // Extract tags from question header: [tag1 - tag2 - tag3] or [tag1 + tag2]
+    const headerTagsStr = match[1].trim();
+    const headerTags = headerTagsStr
+      .split(/\s*[-+]\s*/)  // Split on - or + with optional whitespace
+      .map(tag => tag.trim())
+      .filter(tag => tag)
+      .map(tag => slug(tag));
 
-  return {
-    id: meta.id || fallbackId,
-    section: meta.section || 'More questions',
-    subsection: meta.subsection || '',
-    tags,
-    question,
-    searchLine: `[${tags.join(' • ')}] ${question}`,
-    answerText: plainText(answer),
-    answerHtml: renderMarkdown(answer),
-    pageUrl: meta.pageUrl || '',
-    pageLabel: meta.pageLabel || 'Open the source',
-  };
+    // Combine all three tag sources:
+    // 1. Frontmatter tags (highest priority)
+    // 2. Section from frontmatter
+    // 3. Tags from question header
+    const tags = unique([
+      ...(Array.isArray(meta.tags) ? meta.tags.map(tag => slug(tag)) : []),
+      slug(meta.section || ''),
+      ...headerTags,
+    ]);
+
+    // Generate question ID
+    let questionId = meta.id || fallbackId;
+    
+    // If multiple questions, append index to ID
+    if (matches.length > 1) {
+      questionId = meta.id 
+        ? `${meta.id}-q${questionIndex + 1}`
+        : `${fallbackId}-q${questionIndex + 1}`;
+    }
+
+    questions.push({
+      id: questionId,
+      section: meta.section || 'More questions',
+      subsection: meta.subsection || '',
+      tags,
+      question,
+      searchLine: `[${tags.join(' • ')}] ${question}`,
+      answerText: plainText(answer),
+      answerHtml: renderMarkdown(answer),
+      pageUrl: meta.pageUrl || '',
+      pageLabel: meta.pageLabel || 'Open the source',
+    });
+
+    questionIndex++;
+  }
+
+  return questions;
 }
 
 function getPathTags(filePath) {
@@ -500,19 +526,22 @@ function loadExtraQuestions() {
     const fallbackId = relPath.replace(/^\//, '').replace(/\.doc\.md$/, '');
     const pathTags = getPathTags(fullPath);
     
-    const question = parseDocQuestion(markdown, fallbackId);
+    // Parse potentially multiple questions from file
+    const questionList = parseDocQuestions(markdown, fallbackId);
     
-    // Merge path-based tags with frontmatter tags
-    question.tags = unique([
-      ...pathTags,
-      ...question.tags,
-    ]);
+    // Merge path-based tags with each question's tags
+    questionList.forEach(question => {
+      question.tags = unique([
+        ...pathTags,
+        ...question.tags,
+      ]);
+      
+      // Update search line with combined tags
+      question.searchLine = `[${question.tags.join(' • ')}] ${question.question}`;
+    });
     
-    // Update search line with combined tags
-    question.searchLine = `[${question.tags.join(' • ')}] ${question.question}`;
-    
-    return question;
-  });
+    return questionList;
+  }).flat();  // Flatten array of arrays into single array
 }
 
 function insertBySection(questions, extra) {

@@ -1,5 +1,6 @@
 ---
 section: DevOps
+
 id: redis-commands-reference
 pageUrl: https://lamhaison.github.io
 pageLabel: Redis Commands Reference
@@ -138,8 +139,78 @@ INFO replication           # Master/slave information
 ```
 
 ### References
-
 * [Testing connection of Redis using telnet](https://cloud.google.com/memorystore/docs/redis/create-instance-console?_gl=1*ff61ve*_up*MQ..&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xTZXWqPYAjyHWLjqWHgLxtvRxeF2_Uty8ZzYFOiHxBij0_w9ANSl04aAi1wEALw_wcB&gclsrc=aw.ds)
 * [Redis Official Documentation](https://redis.io/documentation)
 * [Redis Commands](https://redis.io/commands/)
 * [Google Cloud Memorystore for Redis](https://cloud.google.com/memorystore/docs/redis)
+
+## Q: **[redis - caching - patterns - best-practices] What are the common Redis caching patterns and strategies?**
+
+Redis caching patterns help optimize application performance and data consistency. Common patterns include Cache-Aside, Write-Through, and Write-Behind.
+
+### Cache-Aside (Lazy Loading)
+
+Load data into cache only when necessary. Application checks cache first, and if data is missing, loads from database.
+
+```
+1. Application requests data from cache
+2. Cache miss → Application loads from database
+3. Application stores data in cache
+4. Next requests get data from cache
+```
+
+**Pros:**
+- Simple to implement
+- Only cached data is truly relevant
+- Resilient to cache failures
+
+**Cons:**
+- Cache misses cause application delay
+- Stale data possible if database changes
+- Cache stampede risk (many clients fetch same data)
+
+### Write-Through
+
+Data is written to both cache and database simultaneously.
+
+```
+1. Application writes to cache
+2. Cache writes to database (synchronously)
+3. Acknowledgment returned to application
+```
+
+**Pros:**
+- Data consistency guaranteed
+- Simple to understand
+- No stale data
+
+**Cons:**
+- Slower write operations
+- Write latency depends on database
+- Wasted cache space for never-read data
+
+### Write-Behind (Write-Back)
+
+Data is written to cache first, database updated asynchronously.
+
+```
+1. Application writes to cache
+2. Cache returns immediately (before DB write)
+3. Background job writes to database
+```
+
+**Pros:**
+- Fast write operations
+- Good for write-heavy workloads
+- Batches can be optimized
+
+**Cons:**
+- Risk of data loss if cache fails
+- Complex to implement correctly
+- Potential data inconsistency during failures
+
+### References
+
+* [Caching Patterns - AWS Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
+* [Redis Caching Best Practices](https://redis.io/docs/management/persistence/)
+* [Cache Stampede Problem](https://en.wikipedia.org/wiki/Cache_stampede)
