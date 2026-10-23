@@ -203,6 +203,16 @@ h1 {
   text-transform: uppercase;
 }
 
+.toc-path {
+  margin: 0.5rem 0 0.2rem;
+  padding-left: 0.65rem;
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  opacity: 0.8;
+}
+
 .toc-question {
   display: block;
   margin-left: 0.15rem;

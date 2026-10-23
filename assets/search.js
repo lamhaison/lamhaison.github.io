@@ -155,8 +155,22 @@ function renderToc() {
     const list = document.createElement('div');
 
     let lastSub = '';
+    let lastPath = '';
 
     for (const question of questions) {
+      // Extract folder structure tags (first tags that aren't document-specific)
+      // These are typically: [folder1, folder2, folder3, ...]
+      const pathTags = question.tags.slice(0, 3).join(' / ');
+
+      // Show path separator when path changes
+      if (pathTags && pathTags !== lastPath) {
+        const path = document.createElement('p');
+        path.className = 'toc-path';
+        path.textContent = pathTags;
+        list.append(path);
+        lastPath = pathTags;
+      }
+
       if (
         question.subsection &&
         question.subsection !== lastSub
