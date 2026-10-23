@@ -1,5 +1,5 @@
 ---
-section: DevOps
+section: Redis
 
 id: redis-commands-reference
 pageUrl: https://lamhaison.github.io
@@ -144,7 +144,7 @@ INFO replication           # Master/slave information
 * [Redis Commands](https://redis.io/commands/)
 * [Google Cloud Memorystore for Redis](https://cloud.google.com/memorystore/docs/redis)
 
-## Q: **[redis - caching - patterns - best-practices] What are the common Redis caching patterns and strategies?**
+## Q: **[redis - caching - patterns - best-practices - pattern] What are the common Redis caching patterns and strategies?**
 
 Redis caching patterns help optimize application performance and data consistency. Common patterns include Cache-Aside, Write-Through, and Write-Behind.
 
