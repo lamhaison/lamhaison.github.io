@@ -21,6 +21,18 @@ function escapeHtml(value) {
     .replace(/"/g, '&quot;');
 }
 
+// Simple suffix-stripping stemmer for better partial matching
+// Strips common plural/verb suffixes
+function stem(word) {
+  // Remove common suffixes
+  if (word.endsWith('ies')) return word.slice(0, -3);
+  if (word.endsWith('es')) return word.slice(0, -2);
+  if (word.endsWith('s')) return word.slice(0, -1);
+  if (word.endsWith('ed')) return word.slice(0, -2);
+  if (word.endsWith('ing')) return word.slice(0, -3);
+  return word;
+}
+
 function occurs(haystack, token) {
   let from = 0;
 
@@ -44,6 +56,23 @@ function occurs(haystack, token) {
   return false;
 }
 
+// Check if token matches word in haystack using stemming
+// E.g., "window" matches "windows" by comparing stems
+function occursWithStemming(haystack, token) {
+  const tokenStem = stem(token);
+  
+  // Extract words from haystack and compare stems
+  const words = haystack.split(/[^a-z0-9]+/);
+  
+  for (const word of words) {
+    if (word && stem(word) === tokenStem) {
+      return true;
+    }
+  }
+  
+  return false;
+}
+
 function scoreOne(question, tokens, rawQuery) {
   const title = fold(question.question);
   const tags = fold(question.tags.join(' '));
@@ -56,8 +85,9 @@ function scoreOne(question, tokens, rawQuery) {
 
   for (const token of tokens) {
     const inTitle = occurs(title, token);
-    const inTags = occurs(tags, token);
-    const inGroup = occurs(group, token);
+    // Try exact match first, then stemming-based match for tags
+    const inTags = occurs(tags, token) || occursWithStemming(tags, token);
+    const inGroup = occurs(group, token) || occursWithStemming(group, token);
     const inAnswer = occurs(answer, token);
 
     if (!inTitle && !inTags && !inGroup && !inAnswer) {
