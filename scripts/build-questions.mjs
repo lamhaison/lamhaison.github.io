@@ -417,11 +417,22 @@ function parseDocQuestion(markdown, fallbackId) {
   const question = match[2].trim();
   const answer = body.slice(match.index + match[0].length).trim();
 
-  // Use tags from frontmatter if available, otherwise build from section and question tags
+  // Extract tags from question header: [tag1 - tag2 - tag3] or [tag1 + tag2]
+  const headerTagsStr = match[1].trim();
+  const headerTags = headerTagsStr
+    .split(/\s*[-+]\s*/)  // Split on - or + with optional whitespace
+    .map(tag => tag.trim())
+    .filter(tag => tag)
+    .map(tag => slug(tag));
+
+  // Combine all three tag sources:
+  // 1. Frontmatter tags (highest priority)
+  // 2. Section from frontmatter
+  // 3. Tags from question header
   const tags = unique([
     ...(Array.isArray(meta.tags) ? meta.tags.map(tag => slug(tag)) : []),
     slug(meta.section || ''),
-    ...match[1].split(/\s+\+\s+/).map((tag) => slug(tag)),
+    ...headerTags,
   ]);
 
   return {
