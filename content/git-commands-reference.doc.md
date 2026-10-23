@@ -350,12 +350,14 @@ git reset --hard <commit>
 ### Useful Patterns
 
 #### Check what needs to be merged
+
 ```bash
 git log --abbrev-commit --no-merges your_branch..origin/master
 git log -n <number> your_branch..origin/master
 ```
 
 #### See remote references
+
 ```bash
 git ls-remote                           # All refs
 git ls-remote | grep pull               # Pull requests
@@ -363,12 +365,14 @@ git ls-remote origin                    # Branch refs
 ```
 
 #### Track remote branch
+
 ```bash
 git checkout -b [local_branch] [remote]/[branch]
 git branch --track <branch> origin/<branch>
 ```
 
 #### Sync with remote after others pushed
+
 ```bash
 git fetch origin
 git merge origin/master
@@ -376,6 +380,7 @@ git push
 ```
 
 #### View all changes before push
+
 ```bash
 git diff --cached HEAD
 git log origin/master..HEAD             # Commits not in remote
