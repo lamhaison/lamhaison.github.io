@@ -404,8 +404,14 @@ function parseFrontMatter(markdown) {
   };
 }
 
-function parseDocQuestions(markdown, fallbackId) {
+function parseDocQuestions(markdown, fallbackId, filePath = '') {
   const { meta, body } = parseFrontMatter(markdown);
+
+  // Extract subsection from folder path if not in frontmatter
+  let pathSubsection = '';
+  if (!meta.subsection && filePath) {
+    pathSubsection = getPathSubsection(filePath, meta.section || 'More questions');
+  }
 
   // Find all Q: headers
   const questionPattern = /^##\s+Q:\s+\*\*\[([^\]]+)\]\s+(.+?)\*\*\s*$/gm;
@@ -459,7 +465,7 @@ function parseDocQuestions(markdown, fallbackId) {
     questions.push({
       id: questionId,
       section: meta.section || 'More questions',
-      subsection: meta.subsection || '',
+      subsection: meta.subsection || pathSubsection,
       tags,
       question,
       searchLine: `[${tags.join(' • ')}] ${question}`,
@@ -487,6 +493,45 @@ function getPathTags(filePath) {
   // Get folders between 'content' and the filename
   const folderParts = parts.slice(contentIndex + 1, -1);
   return folderParts.map(part => slug(part));
+}
+
+function getPathSubsection(filePath, section) {
+  // Extract subsection from folder structure based on section
+  // e.g., "content/devops/scm/git/git-commands-reference.doc.md"
+  // with section "DevOps" → "scm" (first folder after content/)
+  // 
+  // e.g., "content/devops/databases/memory_dbs/redis/redis.doc.md"
+  // with section "DevOps" → "databases" (first folder after content/)
+  
+  if (!section) return '';
+  
+  const parts = filePath.split('/');
+  const contentIndex = parts.indexOf('content');
+  
+  if (contentIndex === -1) return '';
+  
+  // Get folders between 'content' and the filename
+  const folderParts = parts.slice(contentIndex + 1, -1);
+  
+  if (folderParts.length === 0) return '';
+  
+  // The subsection is the first folder after 'content' that's not the section itself
+  // e.g., in [devops, scm, git], section is DevOps (matches "devops")
+  // so subsection is "scm" (next folder)
+  const sectionSlug = slug(section);
+  
+  for (let i = 0; i < folderParts.length; i++) {
+    if (slug(folderParts[i]) === sectionSlug) {
+      // Found section folder, next folder is subsection
+      if (i + 1 < folderParts.length) {
+        return folderParts[i + 1].charAt(0).toUpperCase() + 
+               folderParts[i + 1].slice(1).replace(/_/g, ' ');
+      }
+      break;
+    }
+  }
+  
+  return '';
 }
 
 function walkDocFiles(dir, contentDir = null) {
@@ -527,7 +572,7 @@ function loadExtraQuestions() {
     const pathTags = getPathTags(fullPath);
     
     // Parse potentially multiple questions from file
-    const questionList = parseDocQuestions(markdown, fallbackId);
+    const questionList = parseDocQuestions(markdown, fallbackId, fullPath);
     
     // Merge path-based tags with each question's tags
     questionList.forEach(question => {
