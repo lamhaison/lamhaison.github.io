@@ -161,8 +161,10 @@ export function highlight(text, query) {
   const ranges = [];
 
   for (const token of tokens) {
+    const tokenStem = stem(token);
     let from = 0;
 
+    // First try exact matches
     while (from < folded.length) {
       const at = folded.indexOf(token, from);
 
@@ -180,6 +182,37 @@ export function highlight(text, query) {
       }
 
       from = at + token.length;
+    }
+
+    // Then try stemming matches (highlight the stem part of longer words)
+    from = 0;
+    while (from < folded.length) {
+      const at = folded.indexOf(tokenStem, from);
+
+      if (at < 0) break;
+
+      const before =
+        at === 0 || /[^a-z0-9]/.test(folded[at - 1]);
+
+      if (before) {
+        // Find the end of the word
+        let wordEnd = at + tokenStem.length;
+        while (
+          wordEnd < folded.length &&
+          /[a-z0-9-]/.test(folded[wordEnd])
+        ) {
+          wordEnd++;
+        }
+
+        // Check if stemming actually finds a match
+        const word = folded.slice(at, wordEnd);
+        if (stem(word) === tokenStem && word !== token) {
+          // Highlight only the stem part (not the suffix)
+          ranges.push([at, at + tokenStem.length]);
+        }
+      }
+
+      from = at + 1;
     }
   }
 
