@@ -845,14 +845,15 @@ async function main() {
   state.sections = [];
 
   for (const question of data.questions) {
-    if (
-      !state.sections.includes(
-        question.section
-      )
-    ) {
-      state.sections.push(
-        question.section
-      );
+    // Support both new 'sections' array and legacy 'section' single value
+    const sections = question.sections || [question.section];
+    
+    for (const sec of sections) {
+      if (
+        !state.sections.includes(sec)
+      ) {
+        state.sections.push(sec);
+      }
     }
   }
 

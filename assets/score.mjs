@@ -92,7 +92,11 @@ export function filterQuestions(
 
   if (section && section !== 'all') {
     list = list.filter(
-      (question) => question.section === section
+      (question) => {
+        // Support both new 'sections' array and legacy 'section' single value
+        const sections = question.sections || [question.section];
+        return sections.includes(section);
+      }
     );
   }
 
