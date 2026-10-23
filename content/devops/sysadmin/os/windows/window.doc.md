@@ -1,6 +1,6 @@
 ---
-sections: [SYSADMIN, DevOps]
-subsections: [Windows]
+sections: [SYSADMIN, SysAdmin-Windows, DevOps]
+subsections: [SysAdmin-Windows]
 id: windows-commands-reference
 pageUrl: https://lamhaison.github.io
 pageLabel: Windows Commands Reference

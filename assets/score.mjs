@@ -73,6 +73,24 @@ function occursWithStemming(haystack, token) {
   return false;
 }
 
+// Check if token is a prefix of any word in haystack
+// E.g., "dev" matches "devops", "sto" matches "storage"
+function occursAsPrefix(haystack, token) {
+  // Only use prefix matching for shorter tokens (2-3 chars)
+  // to avoid matching too many results with very short prefixes
+  if (token.length > 3) return false;
+  
+  const words = haystack.split(/[^a-z0-9]+/);
+  
+  for (const word of words) {
+    if (word && word.startsWith(token)) {
+      return true;
+    }
+  }
+  
+  return false;
+}
+
 function scoreOne(question, tokens, rawQuery) {
   const title = fold(question.question);
   const tags = fold(question.tags.join(' '));
@@ -85,9 +103,9 @@ function scoreOne(question, tokens, rawQuery) {
 
   for (const token of tokens) {
     const inTitle = occurs(title, token);
-    // Try exact match first, then stemming-based match for tags
-    const inTags = occurs(tags, token) || occursWithStemming(tags, token);
-    const inGroup = occurs(group, token) || occursWithStemming(group, token);
+    // Try exact match first, then stemming-based match, then prefix match for tags
+    const inTags = occurs(tags, token) || occursWithStemming(tags, token) || occursAsPrefix(tags, token);
+    const inGroup = occurs(group, token) || occursWithStemming(group, token) || occursAsPrefix(group, token);
     const inAnswer = occurs(answer, token);
 
     if (!inTitle && !inTags && !inGroup && !inAnswer) {
@@ -213,6 +231,39 @@ export function highlight(text, query) {
       }
 
       from = at + 1;
+    }
+
+    // Then try prefix matches for short tokens (highlight the matching prefix)
+    if (token.length <= 3) {
+      from = 0;
+      while (from < folded.length) {
+        const at = folded.indexOf(token, from);
+
+        if (at < 0) break;
+
+        const before =
+          at === 0 || /[^a-z0-9]/.test(folded[at - 1]);
+
+        if (before) {
+          // Find the end of the word
+          let wordEnd = at + token.length;
+          while (
+            wordEnd < folded.length &&
+            /[a-z0-9-]/.test(folded[wordEnd])
+          ) {
+            wordEnd++;
+          }
+
+          // Check if this is a prefix match (not already matched by exact/stemming)
+          const word = folded.slice(at, wordEnd);
+          if (word.length > token.length && word.startsWith(token)) {
+            // Highlight only the prefix part
+            ranges.push([at, at + token.length]);
+          }
+        }
+
+        from = at + 1;
+      }
     }
   }
 
