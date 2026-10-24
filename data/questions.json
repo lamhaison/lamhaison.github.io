@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:13:07.018Z",
+  "generatedAt": "2026-10-24T17:13:58.619Z",
   "sourceRepo": "https://github.com/lamhaison/lamhaison.github.io",
   "sourcePath": "content/tenants/help/faq.mdx",
   "sourceSha": "",
@@ -209,7 +209,7 @@
       "order": 6
     },
     {
-      "id": "oxford-3000-most-common-american-english-words-unknow",
+      "id": "oxford-3000-unknown-words-level-0",
       "section": "Languages",
       "subsection": "English",
       "sections": [
@@ -230,13 +230,11 @@
         "language",
         "level-0",
         "unknown",
-        "words",
-        "new",
-        "level0",
-        "classify"
+        "level",
+        "0"
       ],
-      "question": "Oxford 3000 Most Common American English Words unknow?",
-      "searchLine": "[skill • languages • english • american • oxford • 3000 • common • word • language • level-0 • unknown • words • new • level0 • classify] Oxford 3000 Most Common American English Words unknow?",
+      "question": "Oxford 3000 - Unknown Words (Level 0)?",
+      "searchLine": "[skill • languages • english • american • oxford • 3000 • common • word • language • level-0 • unknown • level • 0] Oxford 3000 - Unknown Words (Level 0)?",
       "answerText": "",
       "answerHtml": "",
       "pageUrl": "",
@@ -244,7 +242,7 @@
       "order": 7
     },
     {
-      "id": "oxford-3000-most-common-american-english-words-unknow",
+      "id": "oxford-3000-familiar-words-level-1",
       "section": "Languages",
       "subsection": "English",
       "sections": [
@@ -265,13 +263,11 @@
         "language",
         "level-1",
         "familiar",
-        "words",
-        "new",
-        "level0",
-        "classify"
+        "level",
+        "1"
       ],
-      "question": "Oxford 3000 Most Common American English Words unknow?",
-      "searchLine": "[skill • languages • english • american • oxford • 3000 • common • word • language • level-1 • familiar • words • new • level0 • classify] Oxford 3000 Most Common American English Words unknow?",
+      "question": "Oxford 3000 - Familiar Words (Level 1)?",
+      "searchLine": "[skill • languages • english • american • oxford • 3000 • common • word • language • level-1 • familiar • level • 1] Oxford 3000 - Familiar Words (Level 1)?",
       "answerText": "",
       "answerHtml": "",
       "pageUrl": "",
@@ -279,7 +275,7 @@
       "order": 8
     },
     {
-      "id": "oxford-3000-most-common-american-english-words-passive",
+      "id": "oxford-3000-passive-vocabulary-level-2",
       "section": "Languages",
       "subsection": "English",
       "sections": [
@@ -300,12 +296,11 @@
         "language",
         "level-2",
         "passive",
-        "words",
-        "0001",
-        "0100"
+        "level",
+        "2"
       ],
-      "question": "Oxford 3000 Most Common American English Words passive?",
-      "searchLine": "[skill • languages • english • american • oxford • 3000 • common • word • language • level-2 • passive • words • 0001 • 0100] Oxford 3000 Most Common American English Words passive?",
+      "question": "Oxford 3000 - Passive Vocabulary (Level 2)?",
+      "searchLine": "[skill • languages • english • american • oxford • 3000 • common • word • language • level-2 • passive • level • 2] Oxford 3000 - Passive Vocabulary (Level 2)?",
       "answerText": "",
       "answerHtml": "",
       "pageUrl": "",
@@ -313,7 +308,7 @@
       "order": 9
     },
     {
-      "id": "oxford-3000-most-common-american-english-words-unknow",
+      "id": "oxford-3000-native-proficiency-level-4",
       "section": "Languages",
       "subsection": "English",
       "sections": [
@@ -335,13 +330,11 @@
         "level-4",
         "native",
         "proficiency",
-        "words",
-        "new",
-        "level0",
-        "classify"
+        "level",
+        "4"
       ],
-      "question": "Oxford 3000 Most Common American English Words unknow?",
-      "searchLine": "[skill • languages • english • american • oxford • 3000 • common • word • language • level-4 • native • proficiency • words • new • level0 • classify] Oxford 3000 Most Common American English Words unknow?",
+      "question": "Oxford 3000 - Native Proficiency (Level 4)?",
+      "searchLine": "[skill • languages • english • american • oxford • 3000 • common • word • language • level-4 • native • proficiency • level • 4] Oxford 3000 - Native Proficiency (Level 4)?",
       "answerText": "",
       "answerHtml": "",
       "pageUrl": "",
