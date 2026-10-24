@@ -12,703 +12,1203 @@ Words 1701 to 1800 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### multiple
+## 1701. multiple
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[multiple]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with multiple.
+- Example Translation: Ví dụ với multiple.
 
 ---
 
-### multiply
+## 1702. multiply
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[multiply]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with multiply.
+- Example Translation: Ví dụ với multiply.
 
 ---
 
-### murder n.,
+## 1703. murder n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[murder]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with murder n.,.
+- Example Translation: Ví dụ với murder n.,.
 
 ---
 
-### muscle
+## 1704. muscle
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[muscle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with muscle.
+- Example Translation: Ví dụ với muscle.
 
 ---
 
-### museum
+## 1705. museum
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[museum]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with museum.
+- Example Translation: Ví dụ với museum.
 
 ---
 
-### music
+## 1706. music
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[music]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with music.
+- Example Translation: Ví dụ với music.
 
 ---
 
-### musical adj. A2,
+## 1707. musical adj. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[musical]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with musical adj. A2,.
+- Example Translation: Ví dụ với musical adj. A2,.
 
 ---
 
-### musician
+## 1708. musician
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[musician]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with musician.
+- Example Translation: Ví dụ với musician.
 
 ---
 
-### must modal
+## 1709. must modal
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[must]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with must modal.
+- Example Translation: Ví dụ với must modal.
 
 ---
 
-### my
+## 1710. my
 
-- Type: det.
+- Type: Determiner (det.)
 - CEFR Level: A1
+- IPA (US): /[my]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with my.
+- Example Translation: Ví dụ với my.
 
 ---
 
-### myself
+## 1711. myself
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A2
+- IPA (US): /[myself]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with myself.
+- Example Translation: Ví dụ với myself.
 
 ---
 
-### mysterious
+## 1712. mysterious
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[mysterious]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mysterious.
+- Example Translation: Ví dụ với mysterious.
 
 ---
 
-### mystery
+## 1713. mystery
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[mystery]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mystery.
+- Example Translation: Ví dụ với mystery.
 
 ---
 
-### nail
+## 1714. nail
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[nail]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nail.
+- Example Translation: Ví dụ với nail.
 
 ---
 
-### name n.,
+## 1715. name n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[name]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with name n.,.
+- Example Translation: Ví dụ với name n.,.
 
 ---
 
-### narrative n.,
+## 1716. narrative n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[narrative]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with narrative n.,.
+- Example Translation: Ví dụ với narrative n.,.
 
 ---
 
-### narrow adj. A2,
+## 1717. narrow adj. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[narrow]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with narrow adj. A2,.
+- Example Translation: Ví dụ với narrow adj. A2,.
 
 ---
 
-### nation
+## 1718. nation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[nation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nation.
+- Example Translation: Ví dụ với nation.
 
 ---
 
-### national adj. A2,
+## 1719. national adj. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[national]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with national adj. A2,.
+- Example Translation: Ví dụ với national adj. A2,.
 
 ---
 
-### native adj.,
+## 1720. native adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[native]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with native adj.,.
+- Example Translation: Ví dụ với native adj.,.
 
 ---
 
-### natural
+## 1721. natural
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[natural]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with natural.
+- Example Translation: Ví dụ với natural.
 
 ---
 
-### naturally
+## 1722. naturally
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[naturally]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with naturally.
+- Example Translation: Ví dụ với naturally.
 
 ---
 
-### nature
+## 1723. nature
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[nature]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nature.
+- Example Translation: Ví dụ với nature.
 
 ---
 
-### near prep., adj.,
+## 1724. near prep., adj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[near]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with near prep., adj.,.
+- Example Translation: Ví dụ với near prep., adj.,.
 
 ---
 
-### nearly
+## 1725. nearly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[nearly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nearly.
+- Example Translation: Ví dụ với nearly.
 
 ---
 
-### neat
+## 1726. neat
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[neat]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with neat.
+- Example Translation: Ví dụ với neat.
 
 ---
 
-### necessarily
+## 1727. necessarily
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[necessarily]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with necessarily.
+- Example Translation: Ví dụ với necessarily.
 
 ---
 
-### necessary
+## 1728. necessary
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[necessary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with necessary.
+- Example Translation: Ví dụ với necessary.
 
 ---
 
-### neck
+## 1729. neck
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[neck]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with neck.
+- Example Translation: Ví dụ với neck.
 
 ---
 
-### need v. A1, n. A2, modal
+## 1730. need v. A1, n. A2, modal
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[need]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with need v. A1, n. A2, modal.
+- Example Translation: Ví dụ với need v. A1, n. A2, modal.
 
 ---
 
-### needle
+## 1731. needle
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[needle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with needle.
+- Example Translation: Ví dụ với needle.
 
 ---
 
-### negative adj. A1,
+## 1732. negative adj. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[negative]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with negative adj. A1,.
+- Example Translation: Ví dụ với negative adj. A1,.
 
 ---
 
-### neighbor
+## 1733. neighbor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[neighbor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with neighbor.
+- Example Translation: Ví dụ với neighbor.
 
 ---
 
-### neighborhood
+## 1734. neighborhood
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[neighborhood]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with neighborhood.
+- Example Translation: Ví dụ với neighborhood.
 
 ---
 
-### neither det./pron. A2,
+## 1735. neither det./pron. A2,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[neither]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with neither det./pron. A2,.
+- Example Translation: Ví dụ với neither det./pron. A2,.
 
 ---
 
-### nerve
+## 1736. nerve
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[nerve]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nerve.
+- Example Translation: Ví dụ với nerve.
 
 ---
 
-### nervous
+## 1737. nervous
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[nervous]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nervous.
+- Example Translation: Ví dụ với nervous.
 
 ---
 
-### net
+## 1738. net
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[net]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with net.
+- Example Translation: Ví dụ với net.
 
 ---
 
-### network
+## 1739. network
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[network]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with network.
+- Example Translation: Ví dụ với network.
 
 ---
 
-### never
+## 1740. never
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[never]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with never.
+- Example Translation: Ví dụ với never.
 
 ---
 
-### nevertheless
+## 1741. nevertheless
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[nevertheless]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nevertheless.
+- Example Translation: Ví dụ với nevertheless.
 
 ---
 
-### new
+## 1742. new
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[new]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with new.
+- Example Translation: Ví dụ với new.
 
 ---
 
-### news
+## 1743. news
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[news]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with news.
+- Example Translation: Ví dụ với news.
 
 ---
 
-### newspaper
+## 1744. newspaper
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[newspaper]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with newspaper.
+- Example Translation: Ví dụ với newspaper.
 
 ---
 
-### next adj., adv. A1,
+## 1745. next adj., adv. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[next]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with next adj., adv. A1,.
+- Example Translation: Ví dụ với next adj., adv. A1,.
 
 ---
 
-### next to
+## 1746. next to
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[next]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with next to.
+- Example Translation: Ví dụ với next to.
 
 ---
 
-### nice
+## 1747. nice
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[nice]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nice.
+- Example Translation: Ví dụ với nice.
 
 ---
 
-### night
+## 1748. night
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[night]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with night.
+- Example Translation: Ví dụ với night.
 
 ---
 
-### nightmare
+## 1749. nightmare
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[nightmare]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nightmare.
+- Example Translation: Ví dụ với nightmare.
 
 ---
 
-### nine
+## 1750. nine
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[nine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nine.
+- Example Translation: Ví dụ với nine.
 
 ---
 
-### nineteen
+## 1751. nineteen
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[nineteen]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nineteen.
+- Example Translation: Ví dụ với nineteen.
 
 ---
 
-### ninety
+## 1752. ninety
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[ninety]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ninety.
+- Example Translation: Ví dụ với ninety.
 
 ---
 
-### no exclam.,
+## 1753. no exclam.,
 
-- Type: det.
+- Type: Determiner (det.)
 - CEFR Level: A1
+- IPA (US): /[no]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with no exclam.,.
+- Example Translation: Ví dụ với no exclam.,.
 
 ---
 
-### nobody
+## 1754. nobody
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[nobody]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nobody.
+- Example Translation: Ví dụ với nobody.
 
 ---
 
-### noise
+## 1755. noise
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[noise]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with noise.
+- Example Translation: Ví dụ với noise.
 
 ---
 
-### noisy
+## 1756. noisy
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[noisy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with noisy.
+- Example Translation: Ví dụ với noisy.
 
 ---
 
-### none
+## 1757. none
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A2
+- IPA (US): /[none]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with none.
+- Example Translation: Ví dụ với none.
 
 ---
 
-### no one
+## 1758. no one
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[no]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with no one.
+- Example Translation: Ví dụ với no one.
 
 ---
 
-### nor conj./adv.
+## 1759. nor conj./adv.
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[nor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nor conj./adv..
+- Example Translation: Ví dụ với nor conj./adv..
 
 ---
 
-### normal adj. A2,
+## 1760. normal adj. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[normal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with normal adj. A2,.
+- Example Translation: Ví dụ với normal adj. A2,.
 
 ---
 
-### normally
+## 1761. normally
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[normally]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with normally.
+- Example Translation: Ví dụ với normally.
 
 ---
 
-### north n., adj.,
+## 1762. north n., adj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[north]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with north n., adj.,.
+- Example Translation: Ví dụ với north n., adj.,.
 
 ---
 
-### northern
+## 1763. northern
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[northern]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with northern.
+- Example Translation: Ví dụ với northern.
 
 ---
 
-### nose
+## 1764. nose
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[nose]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nose.
+- Example Translation: Ví dụ với nose.
 
 ---
 
-### not
+## 1765. not
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[not]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with not.
+- Example Translation: Ví dụ với not.
 
 ---
 
-### note n. A1,
+## 1766. note n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[note]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with note n. A1,.
+- Example Translation: Ví dụ với note n. A1,.
 
 ---
 
-### nothing
+## 1767. nothing
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[nothing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nothing.
+- Example Translation: Ví dụ với nothing.
 
 ---
 
-### notice v.,
+## 1768. notice v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[notice]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with notice v.,.
+- Example Translation: Ví dụ với notice v.,.
 
 ---
 
-### notion
+## 1769. notion
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[notion]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with notion.
+- Example Translation: Ví dụ với notion.
 
 ---
 
-### novel
+## 1770. novel
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[novel]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with novel.
+- Example Translation: Ví dụ với novel.
 
 ---
 
-### November
+## 1771. November
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[november]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with November.
+- Example Translation: Ví dụ với November.
 
 ---
 
-### now adv. A1,
+## 1772. now adv. A1,
 
-- Type: conj.
+- Type: Conjunction (conj.)
 - CEFR Level: B1
+- IPA (US): /[now]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with now adv. A1,.
+- Example Translation: Ví dụ với now adv. A1,.
 
 ---
 
-### nowhere
+## 1773. nowhere
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[nowhere]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nowhere.
+- Example Translation: Ví dụ với nowhere.
 
 ---
 
-### nuclear
+## 1774. nuclear
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[nuclear]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nuclear.
+- Example Translation: Ví dụ với nuclear.
 
 ---
 
-### number n. A1,
+## 1775. number n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[number]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with number n. A1,.
+- Example Translation: Ví dụ với number n. A1,.
 
 ---
 
-### numerous
+## 1776. numerous
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[numerous]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with numerous.
+- Example Translation: Ví dụ với numerous.
 
 ---
 
-### nurse
+## 1777. nurse
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[nurse]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nurse.
+- Example Translation: Ví dụ với nurse.
 
 ---
 
-### nut
+## 1778. nut
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[nut]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with nut.
+- Example Translation: Ví dụ với nut.
 
 ---
 
-### obey
+## 1779. obey
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[obey]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with obey.
+- Example Translation: Ví dụ với obey.
 
 ---
 
-### object n. A1,
+## 1780. object n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[object]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with object n. A1,.
+- Example Translation: Ví dụ với object n. A1,.
 
 ---
 
-### objective n.,
+## 1781. objective n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[objective]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with objective n.,.
+- Example Translation: Ví dụ với objective n.,.
 
 ---
 
-### obligation
+## 1782. obligation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[obligation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with obligation.
+- Example Translation: Ví dụ với obligation.
 
 ---
 
-### observation
+## 1783. observation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[observation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with observation.
+- Example Translation: Ví dụ với observation.
 
 ---
 
-### observe
+## 1784. observe
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[observe]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with observe.
+- Example Translation: Ví dụ với observe.
 
 ---
 
-### obtain
+## 1785. obtain
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[obtain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with obtain.
+- Example Translation: Ví dụ với obtain.
 
 ---
 
-### obvious
+## 1786. obvious
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[obvious]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with obvious.
+- Example Translation: Ví dụ với obvious.
 
 ---
 
-### obviously
+## 1787. obviously
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[obviously]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with obviously.
+- Example Translation: Ví dụ với obviously.
 
 ---
 
-### occasion
+## 1788. occasion
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[occasion]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with occasion.
+- Example Translation: Ví dụ với occasion.
 
 ---
 
-### occasionally
+## 1789. occasionally
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[occasionally]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with occasionally.
+- Example Translation: Ví dụ với occasionally.
 
 ---
 
-### occur
+## 1790. occur
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[occur]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with occur.
+- Example Translation: Ví dụ với occur.
 
 ---
 
-### ocean
+## 1791. ocean
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[ocean]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ocean.
+- Example Translation: Ví dụ với ocean.
 
 ---
 
-### o’clock
+## 1792. o’clock
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[o’clock]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with o’clock.
+- Example Translation: Ví dụ với o’clock.
 
 ---
 
-### October
+## 1793. October
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[october]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with October.
+- Example Translation: Ví dụ với October.
 
 ---
 
-### odd
+## 1794. odd
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[odd]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with odd.
+- Example Translation: Ví dụ với odd.
 
 ---
 
-### of
+## 1795. of
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[of]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with of.
+- Example Translation: Ví dụ với of.
 
 ---
 
-### off adv.,
+## 1796. off adv.,
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[off]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with off adv.,.
+- Example Translation: Ví dụ với off adv.,.
 
 ---
 
-### offend
+## 1797. offend
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[offend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with offend.
+- Example Translation: Ví dụ với offend.
 
 ---
 
-### offense
+## 1798. offense
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[offense]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with offense.
+- Example Translation: Ví dụ với offense.
 
 ---
 
-### offensive
+## 1799. offensive
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[offensive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with offensive.
+- Example Translation: Ví dụ với offensive.
 
 ---
 
-### offer v.,
+## 1800. offer v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[offer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with offer v.,.
+- Example Translation: Ví dụ với offer v.,.
 
 ---
 

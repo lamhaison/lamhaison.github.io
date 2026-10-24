@@ -12,703 +12,1203 @@ Words 2101 to 2200 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### quality
+## 2101. quality
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[quality]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quality.
+- Example Translation: Ví dụ với quality.
 
 ---
 
-### quantity
+## 2102. quantity
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[quantity]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quantity.
+- Example Translation: Ví dụ với quantity.
 
 ---
 
-### quarter
+## 2103. quarter
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[quarter]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quarter.
+- Example Translation: Ví dụ với quarter.
 
 ---
 
-### queen
+## 2104. queen
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[queen]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with queen.
+- Example Translation: Ví dụ với queen.
 
 ---
 
-### question n. A1,
+## 2105. question n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[question]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with question n. A1,.
+- Example Translation: Ví dụ với question n. A1,.
 
 ---
 
-### quick
+## 2106. quick
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[quick]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quick.
+- Example Translation: Ví dụ với quick.
 
 ---
 
-### quickly
+## 2107. quickly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[quickly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quickly.
+- Example Translation: Ví dụ với quickly.
 
 ---
 
-### quiet
+## 2108. quiet
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[quiet]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quiet.
+- Example Translation: Ví dụ với quiet.
 
 ---
 
-### quietly
+## 2109. quietly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[quietly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quietly.
+- Example Translation: Ví dụ với quietly.
 
 ---
 
-### quit
+## 2110. quit
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[quit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quit.
+- Example Translation: Ví dụ với quit.
 
 ---
 
-### quite
+## 2111. quite
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[quite]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quite.
+- Example Translation: Ví dụ với quite.
 
 ---
 
-### quotation
+## 2112. quotation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[quotation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quotation.
+- Example Translation: Ví dụ với quotation.
 
 ---
 
-### quote v.,
+## 2113. quote v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[quote]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with quote v.,.
+- Example Translation: Ví dụ với quote v.,.
 
 ---
 
-### race (competition) n.,
+## 2114. race (competition) n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[race]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with race (competition) n.,.
+- Example Translation: Ví dụ với race (competition) n.,.
 
 ---
 
-### race (of people)
+## 2115. race (of people)
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[race]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with race (of people).
+- Example Translation: Ví dụ với race (of people).
 
 ---
 
-### racing
+## 2116. racing
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[racing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with racing.
+- Example Translation: Ví dụ với racing.
 
 ---
 
-### radio
+## 2117. radio
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[radio]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with radio.
+- Example Translation: Ví dụ với radio.
 
 ---
 
-### railroad
+## 2118. railroad
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[railroad]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with railroad.
+- Example Translation: Ví dụ với railroad.
 
 ---
 
-### rain n.,
+## 2119. rain n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[rain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rain n.,.
+- Example Translation: Ví dụ với rain n.,.
 
 ---
 
-### raise v. A2,
+## 2120. raise v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[raise]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with raise v. A2,.
+- Example Translation: Ví dụ với raise v. A2,.
 
 ---
 
-### range n. B1,
+## 2121. range n. B1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[range]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with range n. B1,.
+- Example Translation: Ví dụ với range n. B1,.
 
 ---
 
-### rank n.,
+## 2122. rank n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[rank]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rank n.,.
+- Example Translation: Ví dụ với rank n.,.
 
 ---
 
-### rapid
+## 2123. rapid
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[rapid]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rapid.
+- Example Translation: Ví dụ với rapid.
 
 ---
 
-### rapidly
+## 2124. rapidly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[rapidly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rapidly.
+- Example Translation: Ví dụ với rapidly.
 
 ---
 
-### rare
+## 2125. rare
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[rare]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rare.
+- Example Translation: Ví dụ với rare.
 
 ---
 
-### rarely
+## 2126. rarely
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[rarely]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rarely.
+- Example Translation: Ví dụ với rarely.
 
 ---
 
-### rate n. A2,
+## 2127. rate n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[rate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rate n. A2,.
+- Example Translation: Ví dụ với rate n. A2,.
 
 ---
 
-### rather
+## 2128. rather
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[rather]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rather.
+- Example Translation: Ví dụ với rather.
 
 ---
 
-### raw
+## 2129. raw
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[raw]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with raw.
+- Example Translation: Ví dụ với raw.
 
 ---
 
-### reach v. A2,
+## 2130. reach v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[reach]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reach v. A2,.
+- Example Translation: Ví dụ với reach v. A2,.
 
 ---
 
-### react
+## 2131. react
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[react]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with react.
+- Example Translation: Ví dụ với react.
 
 ---
 
-### reaction
+## 2132. reaction
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[reaction]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reaction.
+- Example Translation: Ví dụ với reaction.
 
 ---
 
-### read
+## 2133. read
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[read]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with read.
+- Example Translation: Ví dụ với read.
 
 ---
 
-### reader
+## 2134. reader
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[reader]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reader.
+- Example Translation: Ví dụ với reader.
 
 ---
 
-### reading
+## 2135. reading
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[reading]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reading.
+- Example Translation: Ví dụ với reading.
 
 ---
 
-### ready
+## 2136. ready
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[ready]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ready.
+- Example Translation: Ví dụ với ready.
 
 ---
 
-### real
+## 2137. real
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[real]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with real.
+- Example Translation: Ví dụ với real.
 
 ---
 
-### realistic
+## 2138. realistic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[realistic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with realistic.
+- Example Translation: Ví dụ với realistic.
 
 ---
 
-### reality
+## 2139. reality
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[reality]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reality.
+- Example Translation: Ví dụ với reality.
 
 ---
 
-### realize
+## 2140. realize
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[realize]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with realize.
+- Example Translation: Ví dụ với realize.
 
 ---
 
-### really
+## 2141. really
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[really]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with really.
+- Example Translation: Ví dụ với really.
 
 ---
 
-### reason
+## 2142. reason
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[reason]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reason.
+- Example Translation: Ví dụ với reason.
 
 ---
 
-### reasonable
+## 2143. reasonable
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[reasonable]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reasonable.
+- Example Translation: Ví dụ với reasonable.
 
 ---
 
-### recall
+## 2144. recall
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[recall]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recall.
+- Example Translation: Ví dụ với recall.
 
 ---
 
-### receipt
+## 2145. receipt
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[receipt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with receipt.
+- Example Translation: Ví dụ với receipt.
 
 ---
 
-### receive
+## 2146. receive
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[receive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with receive.
+- Example Translation: Ví dụ với receive.
 
 ---
 
-### recent
+## 2147. recent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[recent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recent.
+- Example Translation: Ví dụ với recent.
 
 ---
 
-### recently
+## 2148. recently
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[recently]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recently.
+- Example Translation: Ví dụ với recently.
 
 ---
 
-### reception
+## 2149. reception
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[reception]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reception.
+- Example Translation: Ví dụ với reception.
 
 ---
 
-### recipe
+## 2150. recipe
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[recipe]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recipe.
+- Example Translation: Ví dụ với recipe.
 
 ---
 
-### recognize
+## 2151. recognize
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[recognize]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recognize.
+- Example Translation: Ví dụ với recognize.
 
 ---
 
-### recommend
+## 2152. recommend
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[recommend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recommend.
+- Example Translation: Ví dụ với recommend.
 
 ---
 
-### recommendation
+## 2153. recommendation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[recommendation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recommendation.
+- Example Translation: Ví dụ với recommendation.
 
 ---
 
-### record n.,
+## 2154. record n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[record]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with record n.,.
+- Example Translation: Ví dụ với record n.,.
 
 ---
 
-### recording
+## 2155. recording
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[recording]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recording.
+- Example Translation: Ví dụ với recording.
 
 ---
 
-### recover
+## 2156. recover
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[recover]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recover.
+- Example Translation: Ví dụ với recover.
 
 ---
 
-### recycle
+## 2157. recycle
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[recycle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with recycle.
+- Example Translation: Ví dụ với recycle.
 
 ---
 
-### red adj.,
+## 2158. red adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[red]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with red adj.,.
+- Example Translation: Ví dụ với red adj.,.
 
 ---
 
-### reduce
+## 2159. reduce
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[reduce]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reduce.
+- Example Translation: Ví dụ với reduce.
 
 ---
 
-### reduction
+## 2160. reduction
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[reduction]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reduction.
+- Example Translation: Ví dụ với reduction.
 
 ---
 
-### refer
+## 2161. refer
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[refer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with refer.
+- Example Translation: Ví dụ với refer.
 
 ---
 
-### reference
+## 2162. reference
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[reference]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reference.
+- Example Translation: Ví dụ với reference.
 
 ---
 
-### reflect
+## 2163. reflect
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[reflect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reflect.
+- Example Translation: Ví dụ với reflect.
 
 ---
 
-### refrigerator
+## 2164. refrigerator
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[refrigerator]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with refrigerator.
+- Example Translation: Ví dụ với refrigerator.
 
 ---
 
-### refuse1
+## 2165. refuse1
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[refuse1]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with refuse1.
+- Example Translation: Ví dụ với refuse1.
 
 ---
 
-### regard v.,
+## 2166. regard v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[regard]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with regard v.,.
+- Example Translation: Ví dụ với regard v.,.
 
 ---
 
-### region
+## 2167. region
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[region]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with region.
+- Example Translation: Ví dụ với region.
 
 ---
 
-### regional
+## 2168. regional
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[regional]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with regional.
+- Example Translation: Ví dụ với regional.
 
 ---
 
-### register v.,
+## 2169. register v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[register]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with register v.,.
+- Example Translation: Ví dụ với register v.,.
 
 ---
 
-### regret v.,
+## 2170. regret v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[regret]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with regret v.,.
+- Example Translation: Ví dụ với regret v.,.
 
 ---
 
-### regular
+## 2171. regular
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[regular]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with regular.
+- Example Translation: Ví dụ với regular.
 
 ---
 
-### regularly
+## 2172. regularly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[regularly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with regularly.
+- Example Translation: Ví dụ với regularly.
 
 ---
 
-### regulation
+## 2173. regulation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[regulation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with regulation.
+- Example Translation: Ví dụ với regulation.
 
 ---
 
-### reject
+## 2174. reject
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[reject]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reject.
+- Example Translation: Ví dụ với reject.
 
 ---
 
-### relate
+## 2175. relate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[relate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relate.
+- Example Translation: Ví dụ với relate.
 
 ---
 
-### related
+## 2176. related
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[related]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with related.
+- Example Translation: Ví dụ với related.
 
 ---
 
-### relation
+## 2177. relation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[relation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relation.
+- Example Translation: Ví dụ với relation.
 
 ---
 
-### relationship
+## 2178. relationship
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[relationship]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relationship.
+- Example Translation: Ví dụ với relationship.
 
 ---
 
-### relative adj.,
+## 2179. relative adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[relative]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relative adj.,.
+- Example Translation: Ví dụ với relative adj.,.
 
 ---
 
-### relatively
+## 2180. relatively
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[relatively]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relatively.
+- Example Translation: Ví dụ với relatively.
 
 ---
 
-### relax
+## 2181. relax
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[relax]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relax.
+- Example Translation: Ví dụ với relax.
 
 ---
 
-### relaxed
+## 2182. relaxed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[relaxed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relaxed.
+- Example Translation: Ví dụ với relaxed.
 
 ---
 
-### relaxing
+## 2183. relaxing
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[relaxing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relaxing.
+- Example Translation: Ví dụ với relaxing.
 
 ---
 
-### release v.,
+## 2184. release v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[release]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with release v.,.
+- Example Translation: Ví dụ với release v.,.
 
 ---
 
-### relevant
+## 2185. relevant
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[relevant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relevant.
+- Example Translation: Ví dụ với relevant.
 
 ---
 
-### reliable
+## 2186. reliable
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[reliable]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with reliable.
+- Example Translation: Ví dụ với reliable.
 
 ---
 
-### relief
+## 2187. relief
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[relief]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with relief.
+- Example Translation: Ví dụ với relief.
 
 ---
 
-### religion
+## 2188. religion
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[religion]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with religion.
+- Example Translation: Ví dụ với religion.
 
 ---
 
-### religious
+## 2189. religious
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[religious]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with religious.
+- Example Translation: Ví dụ với religious.
 
 ---
 
-### rely
+## 2190. rely
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[rely]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rely.
+- Example Translation: Ví dụ với rely.
 
 ---
 
-### remain
+## 2191. remain
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[remain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with remain.
+- Example Translation: Ví dụ với remain.
 
 ---
 
-### remark n.,
+## 2192. remark n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[remark]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with remark n.,.
+- Example Translation: Ví dụ với remark n.,.
 
 ---
 
-### remember
+## 2193. remember
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[remember]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with remember.
+- Example Translation: Ví dụ với remember.
 
 ---
 
-### remind
+## 2194. remind
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[remind]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with remind.
+- Example Translation: Ví dụ với remind.
 
 ---
 
-### remote
+## 2195. remote
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[remote]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with remote.
+- Example Translation: Ví dụ với remote.
 
 ---
 
-### remove
+## 2196. remove
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[remove]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with remove.
+- Example Translation: Ví dụ với remove.
 
 ---
 
-### renewable
+## 2197. renewable
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[renewable]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with renewable.
+- Example Translation: Ví dụ với renewable.
 
 ---
 
-### rent n.,
+## 2198. rent n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[rent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with rent n.,.
+- Example Translation: Ví dụ với rent n.,.
 
 ---
 
-### repair v. A2,
+## 2199. repair v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[repair]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with repair v. A2,.
+- Example Translation: Ví dụ với repair v. A2,.
 
 ---
 
-### repeat v. A1,
+## 2200. repeat v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[repeat]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with repeat v. A1,.
+- Example Translation: Ví dụ với repeat v. A1,.
 
 ---
 

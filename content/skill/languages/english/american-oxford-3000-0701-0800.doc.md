@@ -12,703 +12,1203 @@ Words 701 to 800 from the Oxford 3000 list - the 3000 most important words to le
 
 ---
 
-### deliver
+## 701. deliver
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[deliver]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with deliver.
+- Example Translation: Ví dụ với deliver.
 
 ---
 
-### delivery
+## 702. delivery
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[delivery]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with delivery.
+- Example Translation: Ví dụ với delivery.
 
 ---
 
-### demand n.,
+## 703. demand n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[demand]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with demand n.,.
+- Example Translation: Ví dụ với demand n.,.
 
 ---
 
-### demonstrate
+## 704. demonstrate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[demonstrate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with demonstrate.
+- Example Translation: Ví dụ với demonstrate.
 
 ---
 
-### dentist
+## 705. dentist
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[dentist]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dentist.
+- Example Translation: Ví dụ với dentist.
 
 ---
 
-### deny
+## 706. deny
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[deny]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with deny.
+- Example Translation: Ví dụ với deny.
 
 ---
 
-### department
+## 707. department
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[department]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with department.
+- Example Translation: Ví dụ với department.
 
 ---
 
-### departure
+## 708. departure
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[departure]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with departure.
+- Example Translation: Ví dụ với departure.
 
 ---
 
-### depend
+## 709. depend
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[depend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with depend.
+- Example Translation: Ví dụ với depend.
 
 ---
 
-### depressed
+## 710. depressed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[depressed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with depressed.
+- Example Translation: Ví dụ với depressed.
 
 ---
 
-### depressing
+## 711. depressing
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[depressing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with depressing.
+- Example Translation: Ví dụ với depressing.
 
 ---
 
-### depth
+## 712. depth
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[depth]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with depth.
+- Example Translation: Ví dụ với depth.
 
 ---
 
-### describe
+## 713. describe
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[describe]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with describe.
+- Example Translation: Ví dụ với describe.
 
 ---
 
-### description
+## 714. description
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[description]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with description.
+- Example Translation: Ví dụ với description.
 
 ---
 
-### desert n. A2,
+## 715. desert n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[desert]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with desert n. A2,.
+- Example Translation: Ví dụ với desert n. A2,.
 
 ---
 
-### deserve
+## 716. deserve
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[deserve]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with deserve.
+- Example Translation: Ví dụ với deserve.
 
 ---
 
-### design n.,
+## 717. design n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[design]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with design n.,.
+- Example Translation: Ví dụ với design n.,.
 
 ---
 
-### designer
+## 718. designer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[designer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with designer.
+- Example Translation: Ví dụ với designer.
 
 ---
 
-### desire n.,
+## 719. desire n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[desire]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with desire n.,.
+- Example Translation: Ví dụ với desire n.,.
 
 ---
 
-### desk
+## 720. desk
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[desk]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with desk.
+- Example Translation: Ví dụ với desk.
 
 ---
 
-### desperate
+## 721. desperate
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[desperate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with desperate.
+- Example Translation: Ví dụ với desperate.
 
 ---
 
-### despite
+## 722. despite
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: B1
+- IPA (US): /[despite]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with despite.
+- Example Translation: Ví dụ với despite.
 
 ---
 
-### dessert
+## 723. dessert
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[dessert]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dessert.
+- Example Translation: Ví dụ với dessert.
 
 ---
 
-### destination
+## 724. destination
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[destination]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with destination.
+- Example Translation: Ví dụ với destination.
 
 ---
 
-### destroy
+## 725. destroy
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[destroy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with destroy.
+- Example Translation: Ví dụ với destroy.
 
 ---
 
-### detail n. A1,
+## 726. detail n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[detail]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with detail n. A1,.
+- Example Translation: Ví dụ với detail n. A1,.
 
 ---
 
-### detailed
+## 727. detailed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[detailed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with detailed.
+- Example Translation: Ví dụ với detailed.
 
 ---
 
-### detect
+## 728. detect
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[detect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with detect.
+- Example Translation: Ví dụ với detect.
 
 ---
 
-### detective
+## 729. detective
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[detective]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with detective.
+- Example Translation: Ví dụ với detective.
 
 ---
 
-### determine
+## 730. determine
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[determine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with determine.
+- Example Translation: Ví dụ với determine.
 
 ---
 
-### determined
+## 731. determined
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[determined]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with determined.
+- Example Translation: Ví dụ với determined.
 
 ---
 
-### develop
+## 732. develop
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[develop]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with develop.
+- Example Translation: Ví dụ với develop.
 
 ---
 
-### development
+## 733. development
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[development]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with development.
+- Example Translation: Ví dụ với development.
 
 ---
 
-### device
+## 734. device
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[device]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with device.
+- Example Translation: Ví dụ với device.
 
 ---
 
-### diagram
+## 735. diagram
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[diagram]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with diagram.
+- Example Translation: Ví dụ với diagram.
 
 ---
 
-### dialogue
+## 736. dialogue
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[dialogue]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dialogue.
+- Example Translation: Ví dụ với dialogue.
 
 ---
 
-### diamond
+## 737. diamond
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[diamond]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with diamond.
+- Example Translation: Ví dụ với diamond.
 
 ---
 
-### diary
+## 738. diary
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[diary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with diary.
+- Example Translation: Ví dụ với diary.
 
 ---
 
-### dictionary
+## 739. dictionary
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[dictionary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dictionary.
+- Example Translation: Ví dụ với dictionary.
 
 ---
 
-### die
+## 740. die
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[die]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with die.
+- Example Translation: Ví dụ với die.
 
 ---
 
-### diet
+## 741. diet
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[diet]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with diet.
+- Example Translation: Ví dụ với diet.
 
 ---
 
-### difference
+## 742. difference
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[difference]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with difference.
+- Example Translation: Ví dụ với difference.
 
 ---
 
-### different
+## 743. different
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[different]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with different.
+- Example Translation: Ví dụ với different.
 
 ---
 
-### differently
+## 744. differently
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[differently]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with differently.
+- Example Translation: Ví dụ với differently.
 
 ---
 
-### difficult
+## 745. difficult
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[difficult]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with difficult.
+- Example Translation: Ví dụ với difficult.
 
 ---
 
-### difficulty
+## 746. difficulty
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[difficulty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with difficulty.
+- Example Translation: Ví dụ với difficulty.
 
 ---
 
-### dig
+## 747. dig
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[dig]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dig.
+- Example Translation: Ví dụ với dig.
 
 ---
 
-### digital
+## 748. digital
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[digital]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with digital.
+- Example Translation: Ví dụ với digital.
 
 ---
 
-### dinner
+## 749. dinner
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[dinner]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dinner.
+- Example Translation: Ví dụ với dinner.
 
 ---
 
-### direct adj. A2, v.,
+## 750. direct adj. A2, v.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[direct]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with direct adj. A2, v.,.
+- Example Translation: Ví dụ với direct adj. A2, v.,.
 
 ---
 
-### direction
+## 751. direction
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[direction]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with direction.
+- Example Translation: Ví dụ với direction.
 
 ---
 
-### directly
+## 752. directly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[directly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with directly.
+- Example Translation: Ví dụ với directly.
 
 ---
 
-### director
+## 753. director
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[director]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with director.
+- Example Translation: Ví dụ với director.
 
 ---
 
-### dirt
+## 754. dirt
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[dirt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dirt.
+- Example Translation: Ví dụ với dirt.
 
 ---
 
-### dirty
+## 755. dirty
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[dirty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dirty.
+- Example Translation: Ví dụ với dirty.
 
 ---
 
-### disadvantage
+## 756. disadvantage
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[disadvantage]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with disadvantage.
+- Example Translation: Ví dụ với disadvantage.
 
 ---
 
-### disagree
+## 757. disagree
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[disagree]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with disagree.
+- Example Translation: Ví dụ với disagree.
 
 ---
 
-### disappear
+## 758. disappear
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[disappear]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with disappear.
+- Example Translation: Ví dụ với disappear.
 
 ---
 
-### disappointed
+## 759. disappointed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[disappointed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with disappointed.
+- Example Translation: Ví dụ với disappointed.
 
 ---
 
-### disappointing
+## 760. disappointing
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[disappointing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with disappointing.
+- Example Translation: Ví dụ với disappointing.
 
 ---
 
-### disaster
+## 761. disaster
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[disaster]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with disaster.
+- Example Translation: Ví dụ với disaster.
 
 ---
 
-### discipline
+## 762. discipline
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[discipline]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with discipline.
+- Example Translation: Ví dụ với discipline.
 
 ---
 
-### discount n. B1,
+## 763. discount n. B1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[discount]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with discount n. B1,.
+- Example Translation: Ví dụ với discount n. B1,.
 
 ---
 
-### discover
+## 764. discover
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[discover]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with discover.
+- Example Translation: Ví dụ với discover.
 
 ---
 
-### discovery
+## 765. discovery
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[discovery]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with discovery.
+- Example Translation: Ví dụ với discovery.
 
 ---
 
-### discuss
+## 766. discuss
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[discuss]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with discuss.
+- Example Translation: Ví dụ với discuss.
 
 ---
 
-### discussion
+## 767. discussion
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[discussion]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with discussion.
+- Example Translation: Ví dụ với discussion.
 
 ---
 
-### disease
+## 768. disease
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[disease]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with disease.
+- Example Translation: Ví dụ với disease.
 
 ---
 
-### dish
+## 769. dish
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[dish]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dish.
+- Example Translation: Ví dụ với dish.
 
 ---
 
-### dishonest
+## 770. dishonest
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[dishonest]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dishonest.
+- Example Translation: Ví dụ với dishonest.
 
 ---
 
-### dislike v.,
+## 771. dislike v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[dislike]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dislike v.,.
+- Example Translation: Ví dụ với dislike v.,.
 
 ---
 
-### dismiss
+## 772. dismiss
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[dismiss]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dismiss.
+- Example Translation: Ví dụ với dismiss.
 
 ---
 
-### display v.,
+## 773. display v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[display]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with display v.,.
+- Example Translation: Ví dụ với display v.,.
 
 ---
 
-### distance
+## 774. distance
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[distance]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with distance.
+- Example Translation: Ví dụ với distance.
 
 ---
 
-### distribute
+## 775. distribute
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[distribute]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with distribute.
+- Example Translation: Ví dụ với distribute.
 
 ---
 
-### distribution
+## 776. distribution
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[distribution]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with distribution.
+- Example Translation: Ví dụ với distribution.
 
 ---
 
-### district
+## 777. district
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[district]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with district.
+- Example Translation: Ví dụ với district.
 
 ---
 
-### divide v. B1,
+## 778. divide v. B1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[divide]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with divide v. B1,.
+- Example Translation: Ví dụ với divide v. B1,.
 
 ---
 
-### division
+## 779. division
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[division]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with division.
+- Example Translation: Ví dụ với division.
 
 ---
 
-### divorced
+## 780. divorced
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[divorced]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with divorced.
+- Example Translation: Ví dụ với divorced.
 
 ---
 
-### do1 v., auxiliary
+## 781. do1 v., auxiliary
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[do1]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with do1 v., auxiliary.
+- Example Translation: Ví dụ với do1 v., auxiliary.
 
 ---
 
-### doctor
+## 782. doctor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[doctor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with doctor.
+- Example Translation: Ví dụ với doctor.
 
 ---
 
-### document n. A2,
+## 783. document n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[document]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with document n. A2,.
+- Example Translation: Ví dụ với document n. A2,.
 
 ---
 
-### documentary
+## 784. documentary
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[documentary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with documentary.
+- Example Translation: Ví dụ với documentary.
 
 ---
 
-### dog
+## 785. dog
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[dog]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dog.
+- Example Translation: Ví dụ với dog.
 
 ---
 
-### dollar
+## 786. dollar
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[dollar]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dollar.
+- Example Translation: Ví dụ với dollar.
 
 ---
 
-### domestic
+## 787. domestic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[domestic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with domestic.
+- Example Translation: Ví dụ với domestic.
 
 ---
 
-### dominate
+## 788. dominate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[dominate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dominate.
+- Example Translation: Ví dụ với dominate.
 
 ---
 
-### donate
+## 789. donate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[donate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with donate.
+- Example Translation: Ví dụ với donate.
 
 ---
 
-### door
+## 790. door
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[door]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with door.
+- Example Translation: Ví dụ với door.
 
 ---
 
-### doubt n.,
+## 791. doubt n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[doubt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with doubt n.,.
+- Example Translation: Ví dụ với doubt n.,.
 
 ---
 
-### down adv.,
+## 792. down adv.,
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[down]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with down adv.,.
+- Example Translation: Ví dụ với down adv.,.
 
 ---
 
-### download v.,
+## 793. download v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[download]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with download v.,.
+- Example Translation: Ví dụ với download v.,.
 
 ---
 
-### downstairs adv. A1,
+## 794. downstairs adv. A1,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[downstairs]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with downstairs adv. A1,.
+- Example Translation: Ví dụ với downstairs adv. A1,.
 
 ---
 
-### downtown adv., n.,
+## 795. downtown adv., n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[downtown]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with downtown adv., n.,.
+- Example Translation: Ví dụ với downtown adv., n.,.
 
 ---
 
-### downward adj.,
+## 796. downward adj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[downward]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with downward adj.,.
+- Example Translation: Ví dụ với downward adj.,.
 
 ---
 
-### dozen n.,
+## 797. dozen n.,
 
-- Type: det.
+- Type: Determiner (det.)
 - CEFR Level: B2
+- IPA (US): /[dozen]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dozen n.,.
+- Example Translation: Ví dụ với dozen n.,.
 
 ---
 
-### draft n.,
+## 798. draft n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[draft]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with draft n.,.
+- Example Translation: Ví dụ với draft n.,.
 
 ---
 
-### drag
+## 799. drag
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[drag]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drag.
+- Example Translation: Ví dụ với drag.
 
 ---
 
-### drama
+## 800. drama
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[drama]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drama.
+- Example Translation: Ví dụ với drama.
 
 ---
 

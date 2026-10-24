@@ -12,703 +12,1203 @@ Words 501 to 600 from the Oxford 3000 list - the 3000 most important words to le
 
 ---
 
-### column
+## 501. column
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[column]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with column.
+- Example Translation: Ví dụ với column.
 
 ---
 
-### combination
+## 502. combination
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[combination]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with combination.
+- Example Translation: Ví dụ với combination.
 
 ---
 
-### combine
+## 503. combine
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[combine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with combine.
+- Example Translation: Ví dụ với combine.
 
 ---
 
-### come
+## 504. come
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[come]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with come.
+- Example Translation: Ví dụ với come.
 
 ---
 
-### comedy
+## 505. comedy
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[comedy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with comedy.
+- Example Translation: Ví dụ với comedy.
 
 ---
 
-### comfort n.,
+## 506. comfort n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[comfort]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with comfort n.,.
+- Example Translation: Ví dụ với comfort n.,.
 
 ---
 
-### comfortable
+## 507. comfortable
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[comfortable]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with comfortable.
+- Example Translation: Ví dụ với comfortable.
 
 ---
 
-### command n.,
+## 508. command n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[command]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with command n.,.
+- Example Translation: Ví dụ với command n.,.
 
 ---
 
-### comment n. A2,
+## 509. comment n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[comment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with comment n. A2,.
+- Example Translation: Ví dụ với comment n. A2,.
 
 ---
 
-### commercial adj.,
+## 510. commercial adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[commercial]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with commercial adj.,.
+- Example Translation: Ví dụ với commercial adj.,.
 
 ---
 
-### commission n.,
+## 511. commission n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[commission]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with commission n.,.
+- Example Translation: Ví dụ với commission n.,.
 
 ---
 
-### commit
+## 512. commit
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[commit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with commit.
+- Example Translation: Ví dụ với commit.
 
 ---
 
-### commitment
+## 513. commitment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[commitment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with commitment.
+- Example Translation: Ví dụ với commitment.
 
 ---
 
-### committee
+## 514. committee
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[committee]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with committee.
+- Example Translation: Ví dụ với committee.
 
 ---
 
-### common
+## 515. common
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[common]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with common.
+- Example Translation: Ví dụ với common.
 
 ---
 
-### commonly
+## 516. commonly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[commonly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with commonly.
+- Example Translation: Ví dụ với commonly.
 
 ---
 
-### communicate
+## 517. communicate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[communicate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with communicate.
+- Example Translation: Ví dụ với communicate.
 
 ---
 
-### communication
+## 518. communication
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[communication]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with communication.
+- Example Translation: Ví dụ với communication.
 
 ---
 
-### community
+## 519. community
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[community]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with community.
+- Example Translation: Ví dụ với community.
 
 ---
 
-### company
+## 520. company
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[company]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with company.
+- Example Translation: Ví dụ với company.
 
 ---
 
-### compare
+## 521. compare
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[compare]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with compare.
+- Example Translation: Ví dụ với compare.
 
 ---
 
-### comparison
+## 522. comparison
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[comparison]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with comparison.
+- Example Translation: Ví dụ với comparison.
 
 ---
 
-### compete
+## 523. compete
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[compete]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with compete.
+- Example Translation: Ví dụ với compete.
 
 ---
 
-### competition
+## 524. competition
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[competition]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with competition.
+- Example Translation: Ví dụ với competition.
 
 ---
 
-### competitive
+## 525. competitive
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[competitive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with competitive.
+- Example Translation: Ví dụ với competitive.
 
 ---
 
-### competitor
+## 526. competitor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[competitor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with competitor.
+- Example Translation: Ví dụ với competitor.
 
 ---
 
-### complain
+## 527. complain
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[complain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with complain.
+- Example Translation: Ví dụ với complain.
 
 ---
 
-### complaint
+## 528. complaint
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[complaint]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with complaint.
+- Example Translation: Ví dụ với complaint.
 
 ---
 
-### complete adj.,
+## 529. complete adj.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[complete]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with complete adj.,.
+- Example Translation: Ví dụ với complete adj.,.
 
 ---
 
-### completely
+## 530. completely
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[completely]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with completely.
+- Example Translation: Ví dụ với completely.
 
 ---
 
-### complex adj. B1,
+## 531. complex adj. B1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[complex]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with complex adj. B1,.
+- Example Translation: Ví dụ với complex adj. B1,.
 
 ---
 
-### complicated
+## 532. complicated
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[complicated]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with complicated.
+- Example Translation: Ví dụ với complicated.
 
 ---
 
-### component
+## 533. component
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[component]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with component.
+- Example Translation: Ví dụ với component.
 
 ---
 
-### computer
+## 534. computer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[computer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with computer.
+- Example Translation: Ví dụ với computer.
 
 ---
 
-### concentrate
+## 535. concentrate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[concentrate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with concentrate.
+- Example Translation: Ví dụ với concentrate.
 
 ---
 
-### concentration
+## 536. concentration
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[concentration]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with concentration.
+- Example Translation: Ví dụ với concentration.
 
 ---
 
-### concept
+## 537. concept
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[concept]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with concept.
+- Example Translation: Ví dụ với concept.
 
 ---
 
-### concern n.,
+## 538. concern n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[concern]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with concern n.,.
+- Example Translation: Ví dụ với concern n.,.
 
 ---
 
-### concerned
+## 539. concerned
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[concerned]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with concerned.
+- Example Translation: Ví dụ với concerned.
 
 ---
 
-### concert
+## 540. concert
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[concert]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with concert.
+- Example Translation: Ví dụ với concert.
 
 ---
 
-### conclude
+## 541. conclude
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[conclude]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with conclude.
+- Example Translation: Ví dụ với conclude.
 
 ---
 
-### conclusion
+## 542. conclusion
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[conclusion]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with conclusion.
+- Example Translation: Ví dụ với conclusion.
 
 ---
 
-### condition
+## 543. condition
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[condition]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with condition.
+- Example Translation: Ví dụ với condition.
 
 ---
 
-### conduct v.,
+## 544. conduct v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[conduct]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with conduct v.,.
+- Example Translation: Ví dụ với conduct v.,.
 
 ---
 
-### conference
+## 545. conference
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[conference]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with conference.
+- Example Translation: Ví dụ với conference.
 
 ---
 
-### confidence
+## 546. confidence
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[confidence]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with confidence.
+- Example Translation: Ví dụ với confidence.
 
 ---
 
-### confident
+## 547. confident
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[confident]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with confident.
+- Example Translation: Ví dụ với confident.
 
 ---
 
-### confirm
+## 548. confirm
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[confirm]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with confirm.
+- Example Translation: Ví dụ với confirm.
 
 ---
 
-### conflict n.,
+## 549. conflict n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[conflict]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with conflict n.,.
+- Example Translation: Ví dụ với conflict n.,.
 
 ---
 
-### confuse
+## 550. confuse
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[confuse]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with confuse.
+- Example Translation: Ví dụ với confuse.
 
 ---
 
-### confused
+## 551. confused
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[confused]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with confused.
+- Example Translation: Ví dụ với confused.
 
 ---
 
-### confusing
+## 552. confusing
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[confusing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with confusing.
+- Example Translation: Ví dụ với confusing.
 
 ---
 
-### congress
+## 553. congress
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[congress]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with congress.
+- Example Translation: Ví dụ với congress.
 
 ---
 
-### connect
+## 554. connect
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[connect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with connect.
+- Example Translation: Ví dụ với connect.
 
 ---
 
-### connected
+## 555. connected
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[connected]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with connected.
+- Example Translation: Ví dụ với connected.
 
 ---
 
-### connection
+## 556. connection
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[connection]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with connection.
+- Example Translation: Ví dụ với connection.
 
 ---
 
-### conscious
+## 557. conscious
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[conscious]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with conscious.
+- Example Translation: Ví dụ với conscious.
 
 ---
 
-### consequence
+## 558. consequence
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[consequence]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with consequence.
+- Example Translation: Ví dụ với consequence.
 
 ---
 
-### conservative adj.,
+## 559. conservative adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[conservative]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with conservative adj.,.
+- Example Translation: Ví dụ với conservative adj.,.
 
 ---
 
-### consider
+## 560. consider
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[consider]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with consider.
+- Example Translation: Ví dụ với consider.
 
 ---
 
-### consideration
+## 561. consideration
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[consideration]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with consideration.
+- Example Translation: Ví dụ với consideration.
 
 ---
 
-### consist
+## 562. consist
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[consist]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with consist.
+- Example Translation: Ví dụ với consist.
 
 ---
 
-### consistent
+## 563. consistent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[consistent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with consistent.
+- Example Translation: Ví dụ với consistent.
 
 ---
 
-### constant
+## 564. constant
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[constant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with constant.
+- Example Translation: Ví dụ với constant.
 
 ---
 
-### constantly
+## 565. constantly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[constantly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with constantly.
+- Example Translation: Ví dụ với constantly.
 
 ---
 
-### construct
+## 566. construct
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[construct]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with construct.
+- Example Translation: Ví dụ với construct.
 
 ---
 
-### construction
+## 567. construction
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[construction]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with construction.
+- Example Translation: Ví dụ với construction.
 
 ---
 
-### consume
+## 568. consume
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[consume]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with consume.
+- Example Translation: Ví dụ với consume.
 
 ---
 
-### consumer
+## 569. consumer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[consumer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with consumer.
+- Example Translation: Ví dụ với consumer.
 
 ---
 
-### contact n.,
+## 570. contact n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[contact]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with contact n.,.
+- Example Translation: Ví dụ với contact n.,.
 
 ---
 
-### contain
+## 571. contain
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[contain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with contain.
+- Example Translation: Ví dụ với contain.
 
 ---
 
-### container
+## 572. container
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[container]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with container.
+- Example Translation: Ví dụ với container.
 
 ---
 
-### contemporary
+## 573. contemporary
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[contemporary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with contemporary.
+- Example Translation: Ví dụ với contemporary.
 
 ---
 
-### content1
+## 574. content1
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[content1]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with content1.
+- Example Translation: Ví dụ với content1.
 
 ---
 
-### contest n.,
+## 575. contest n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[contest]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with contest n.,.
+- Example Translation: Ví dụ với contest n.,.
 
 ---
 
-### context
+## 576. context
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[context]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with context.
+- Example Translation: Ví dụ với context.
 
 ---
 
-### continent
+## 577. continent
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[continent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with continent.
+- Example Translation: Ví dụ với continent.
 
 ---
 
-### continue
+## 578. continue
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[continue]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with continue.
+- Example Translation: Ví dụ với continue.
 
 ---
 
-### continuous
+## 579. continuous
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[continuous]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with continuous.
+- Example Translation: Ví dụ với continuous.
 
 ---
 
-### contract n.,
+## 580. contract n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[contract]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with contract n.,.
+- Example Translation: Ví dụ với contract n.,.
 
 ---
 
-### contrast n.,
+## 581. contrast n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[contrast]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with contrast n.,.
+- Example Translation: Ví dụ với contrast n.,.
 
 ---
 
-### contribute
+## 582. contribute
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[contribute]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with contribute.
+- Example Translation: Ví dụ với contribute.
 
 ---
 
-### contribution
+## 583. contribution
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[contribution]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with contribution.
+- Example Translation: Ví dụ với contribution.
 
 ---
 
-### control n.,
+## 584. control n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[control]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with control n.,.
+- Example Translation: Ví dụ với control n.,.
 
 ---
 
-### convenient
+## 585. convenient
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[convenient]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with convenient.
+- Example Translation: Ví dụ với convenient.
 
 ---
 
-### conversation
+## 586. conversation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[conversation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with conversation.
+- Example Translation: Ví dụ với conversation.
 
 ---
 
-### convert
+## 587. convert
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[convert]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with convert.
+- Example Translation: Ví dụ với convert.
 
 ---
 
-### convince
+## 588. convince
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[convince]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with convince.
+- Example Translation: Ví dụ với convince.
 
 ---
 
-### convinced
+## 589. convinced
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[convinced]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with convinced.
+- Example Translation: Ví dụ với convinced.
 
 ---
 
-### cook v. A1,
+## 590. cook v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[cook]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with cook v. A1,.
+- Example Translation: Ví dụ với cook v. A1,.
 
 ---
 
-### cookie
+## 591. cookie
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[cookie]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with cookie.
+- Example Translation: Ví dụ với cookie.
 
 ---
 
-### cooking
+## 592. cooking
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[cooking]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with cooking.
+- Example Translation: Ví dụ với cooking.
 
 ---
 
-### cool adj. A1,
+## 593. cool adj. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[cool]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with cool adj. A1,.
+- Example Translation: Ví dụ với cool adj. A1,.
 
 ---
 
-### copy n.,
+## 594. copy n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[copy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with copy n.,.
+- Example Translation: Ví dụ với copy n.,.
 
 ---
 
-### core n.,
+## 595. core n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[core]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with core n.,.
+- Example Translation: Ví dụ với core n.,.
 
 ---
 
-### corn
+## 596. corn
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[corn]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with corn.
+- Example Translation: Ví dụ với corn.
 
 ---
 
-### corner
+## 597. corner
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[corner]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with corner.
+- Example Translation: Ví dụ với corner.
 
 ---
 
-### corporate
+## 598. corporate
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[corporate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with corporate.
+- Example Translation: Ví dụ với corporate.
 
 ---
 
-### correct adj.,
+## 599. correct adj.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[correct]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with correct adj.,.
+- Example Translation: Ví dụ với correct adj.,.
 
 ---
 
-### correctly
+## 600. correctly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[correctly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with correctly.
+- Example Translation: Ví dụ với correctly.
 
 ---
 

@@ -12,703 +12,1203 @@ Words 2801 to 2900 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### under prep.,
+## 2801. under prep.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[under]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with under prep.,.
+- Example Translation: Ví dụ với under prep.,.
 
 ---
 
-### underground adj.,
+## 2802. underground adj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[underground]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with underground adj.,.
+- Example Translation: Ví dụ với underground adj.,.
 
 ---
 
-### understand
+## 2803. understand
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[understand]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with understand.
+- Example Translation: Ví dụ với understand.
 
 ---
 
-### understanding
+## 2804. understanding
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[understanding]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with understanding.
+- Example Translation: Ví dụ với understanding.
 
 ---
 
-### underwear
+## 2805. underwear
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[underwear]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with underwear.
+- Example Translation: Ví dụ với underwear.
 
 ---
 
-### unemployed
+## 2806. unemployed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[unemployed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unemployed.
+- Example Translation: Ví dụ với unemployed.
 
 ---
 
-### unemployment
+## 2807. unemployment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[unemployment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unemployment.
+- Example Translation: Ví dụ với unemployment.
 
 ---
 
-### unexpected
+## 2808. unexpected
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[unexpected]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unexpected.
+- Example Translation: Ví dụ với unexpected.
 
 ---
 
-### unfair
+## 2809. unfair
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[unfair]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unfair.
+- Example Translation: Ví dụ với unfair.
 
 ---
 
-### unfortunately
+## 2810. unfortunately
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[unfortunately]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unfortunately.
+- Example Translation: Ví dụ với unfortunately.
 
 ---
 
-### unhappy
+## 2811. unhappy
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[unhappy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unhappy.
+- Example Translation: Ví dụ với unhappy.
 
 ---
 
-### uniform
+## 2812. uniform
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[uniform]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with uniform.
+- Example Translation: Ví dụ với uniform.
 
 ---
 
-### union
+## 2813. union
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[union]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with union.
+- Example Translation: Ví dụ với union.
 
 ---
 
-### unique
+## 2814. unique
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[unique]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unique.
+- Example Translation: Ví dụ với unique.
 
 ---
 
-### unit
+## 2815. unit
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[unit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unit.
+- Example Translation: Ví dụ với unit.
 
 ---
 
-### united
+## 2816. united
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[united]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with united.
+- Example Translation: Ví dụ với united.
 
 ---
 
-### universe
+## 2817. universe
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[universe]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with universe.
+- Example Translation: Ví dụ với universe.
 
 ---
 
-### university
+## 2818. university
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[university]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with university.
+- Example Translation: Ví dụ với university.
 
 ---
 
-### unknown
+## 2819. unknown
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[unknown]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unknown.
+- Example Translation: Ví dụ với unknown.
 
 ---
 
-### unless
+## 2820. unless
 
-- Type: conj.
+- Type: Conjunction (conj.)
 - CEFR Level: B1
+- IPA (US): /[unless]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unless.
+- Example Translation: Ví dụ với unless.
 
 ---
 
-### unlike
+## 2821. unlike
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: B1
+- IPA (US): /[unlike]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unlike.
+- Example Translation: Ví dụ với unlike.
 
 ---
 
-### unlikely
+## 2822. unlikely
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[unlikely]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unlikely.
+- Example Translation: Ví dụ với unlikely.
 
 ---
 
-### unnecessary
+## 2823. unnecessary
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[unnecessary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unnecessary.
+- Example Translation: Ví dụ với unnecessary.
 
 ---
 
-### unpleasant
+## 2824. unpleasant
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[unpleasant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unpleasant.
+- Example Translation: Ví dụ với unpleasant.
 
 ---
 
-### until conj./prep.
+## 2825. until conj./prep.
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[until]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with until conj./prep..
+- Example Translation: Ví dụ với until conj./prep..
 
 ---
 
-### unusual
+## 2826. unusual
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[unusual]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with unusual.
+- Example Translation: Ví dụ với unusual.
 
 ---
 
-### up adv.,
+## 2827. up adv.,
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[up]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with up adv.,.
+- Example Translation: Ví dụ với up adv.,.
 
 ---
 
-### update v.,
+## 2828. update v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[update]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with update v.,.
+- Example Translation: Ví dụ với update v.,.
 
 ---
 
-### upon
+## 2829. upon
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: B2
+- IPA (US): /[upon]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with upon.
+- Example Translation: Ví dụ với upon.
 
 ---
 
-### upper
+## 2830. upper
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[upper]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with upper.
+- Example Translation: Ví dụ với upper.
 
 ---
 
-### upset adj.,
+## 2831. upset adj.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[upset]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with upset adj.,.
+- Example Translation: Ví dụ với upset adj.,.
 
 ---
 
-### upstairs adv. A1,
+## 2832. upstairs adv. A1,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[upstairs]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with upstairs adv. A1,.
+- Example Translation: Ví dụ với upstairs adv. A1,.
 
 ---
 
-### upward
+## 2833. upward
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[upward]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with upward.
+- Example Translation: Ví dụ với upward.
 
 ---
 
-### urban
+## 2834. urban
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[urban]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with urban.
+- Example Translation: Ví dụ với urban.
 
 ---
 
-### urge
+## 2835. urge
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[urge]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with urge.
+- Example Translation: Ví dụ với urge.
 
 ---
 
-### us
+## 2836. us
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[us]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with us.
+- Example Translation: Ví dụ với us.
 
 ---
 
-### use v. A1,
+## 2837. use v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[use]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with use v. A1,.
+- Example Translation: Ví dụ với use v. A1,.
 
 ---
 
-### used
+## 2838. used
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[used]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with used.
+- Example Translation: Ví dụ với used.
 
 ---
 
-### used to modal
+## 2839. used to modal
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[used]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with used to modal.
+- Example Translation: Ví dụ với used to modal.
 
 ---
 
-### used to
+## 2840. used to
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[used]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with used to.
+- Example Translation: Ví dụ với used to.
 
 ---
 
-### useful
+## 2841. useful
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[useful]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with useful.
+- Example Translation: Ví dụ với useful.
 
 ---
 
-### user
+## 2842. user
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[user]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with user.
+- Example Translation: Ví dụ với user.
 
 ---
 
-### usual
+## 2843. usual
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[usual]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with usual.
+- Example Translation: Ví dụ với usual.
 
 ---
 
-### usually
+## 2844. usually
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[usually]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with usually.
+- Example Translation: Ví dụ với usually.
 
 ---
 
-### vacation
+## 2845. vacation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[vacation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vacation.
+- Example Translation: Ví dụ với vacation.
 
 ---
 
-### vaccine
+## 2846. vaccine
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[vaccine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vaccine.
+- Example Translation: Ví dụ với vaccine.
 
 ---
 
-### valley
+## 2847. valley
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[valley]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with valley.
+- Example Translation: Ví dụ với valley.
 
 ---
 
-### valuable
+## 2848. valuable
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[valuable]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with valuable.
+- Example Translation: Ví dụ với valuable.
 
 ---
 
-### value n. B1,
+## 2849. value n. B1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[value]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with value n. B1,.
+- Example Translation: Ví dụ với value n. B1,.
 
 ---
 
-### van
+## 2850. van
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[van]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with van.
+- Example Translation: Ví dụ với van.
 
 ---
 
-### variety
+## 2851. variety
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[variety]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with variety.
+- Example Translation: Ví dụ với variety.
 
 ---
 
-### various
+## 2852. various
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[various]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with various.
+- Example Translation: Ví dụ với various.
 
 ---
 
-### vary
+## 2853. vary
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[vary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vary.
+- Example Translation: Ví dụ với vary.
 
 ---
 
-### vast
+## 2854. vast
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[vast]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vast.
+- Example Translation: Ví dụ với vast.
 
 ---
 
-### vegetable
+## 2855. vegetable
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[vegetable]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vegetable.
+- Example Translation: Ví dụ với vegetable.
 
 ---
 
-### vehicle
+## 2856. vehicle
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[vehicle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vehicle.
+- Example Translation: Ví dụ với vehicle.
 
 ---
 
-### venue
+## 2857. venue
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[venue]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with venue.
+- Example Translation: Ví dụ với venue.
 
 ---
 
-### version
+## 2858. version
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[version]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with version.
+- Example Translation: Ví dụ với version.
 
 ---
 
-### very adv. A1,
+## 2859. very adv. A1,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[very]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with very adv. A1,.
+- Example Translation: Ví dụ với very adv. A1,.
 
 ---
 
-### via
+## 2860. via
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: B2
+- IPA (US): /[via]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with via.
+- Example Translation: Ví dụ với via.
 
 ---
 
-### victim
+## 2861. victim
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[victim]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with victim.
+- Example Translation: Ví dụ với victim.
 
 ---
 
-### victory
+## 2862. victory
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[victory]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with victory.
+- Example Translation: Ví dụ với victory.
 
 ---
 
-### video
+## 2863. video
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[video]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with video.
+- Example Translation: Ví dụ với video.
 
 ---
 
-### view n. A2,
+## 2864. view n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[view]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with view n. A2,.
+- Example Translation: Ví dụ với view n. A2,.
 
 ---
 
-### viewer
+## 2865. viewer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[viewer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with viewer.
+- Example Translation: Ví dụ với viewer.
 
 ---
 
-### village
+## 2866. village
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[village]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with village.
+- Example Translation: Ví dụ với village.
 
 ---
 
-### violence
+## 2867. violence
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[violence]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with violence.
+- Example Translation: Ví dụ với violence.
 
 ---
 
-### violent
+## 2868. violent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[violent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with violent.
+- Example Translation: Ví dụ với violent.
 
 ---
 
-### virtual
+## 2869. virtual
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[virtual]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with virtual.
+- Example Translation: Ví dụ với virtual.
 
 ---
 
-### virus
+## 2870. virus
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[virus]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with virus.
+- Example Translation: Ví dụ với virus.
 
 ---
 
-### vision
+## 2871. vision
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[vision]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vision.
+- Example Translation: Ví dụ với vision.
 
 ---
 
-### visit v.,
+## 2872. visit v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[visit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with visit v.,.
+- Example Translation: Ví dụ với visit v.,.
 
 ---
 
-### visitor
+## 2873. visitor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[visitor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with visitor.
+- Example Translation: Ví dụ với visitor.
 
 ---
 
-### visual
+## 2874. visual
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[visual]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with visual.
+- Example Translation: Ví dụ với visual.
 
 ---
 
-### vital
+## 2875. vital
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[vital]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vital.
+- Example Translation: Ví dụ với vital.
 
 ---
 
-### vitamin
+## 2876. vitamin
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[vitamin]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vitamin.
+- Example Translation: Ví dụ với vitamin.
 
 ---
 
-### voice
+## 2877. voice
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[voice]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with voice.
+- Example Translation: Ví dụ với voice.
 
 ---
 
-### volume
+## 2878. volume
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[volume]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with volume.
+- Example Translation: Ví dụ với volume.
 
 ---
 
-### volunteer n.,
+## 2879. volunteer n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[volunteer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with volunteer n.,.
+- Example Translation: Ví dụ với volunteer n.,.
 
 ---
 
-### vote n.,
+## 2880. vote n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[vote]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with vote n.,.
+- Example Translation: Ví dụ với vote n.,.
 
 ---
 
-### wage
+## 2881. wage
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[wage]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with wage.
+- Example Translation: Ví dụ với wage.
 
 ---
 
-### wait v. A1,
+## 2882. wait v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[wait]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with wait v. A1,.
+- Example Translation: Ví dụ với wait v. A1,.
 
 ---
 
-### waiter
+## 2883. waiter
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[waiter]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with waiter.
+- Example Translation: Ví dụ với waiter.
 
 ---
 
-### wake
+## 2884. wake
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[wake]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with wake.
+- Example Translation: Ví dụ với wake.
 
 ---
 
-### walk v.,
+## 2885. walk v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[walk]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with walk v.,.
+- Example Translation: Ví dụ với walk v.,.
 
 ---
 
-### wall
+## 2886. wall
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[wall]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with wall.
+- Example Translation: Ví dụ với wall.
 
 ---
 
-### want
+## 2887. want
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[want]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with want.
+- Example Translation: Ví dụ với want.
 
 ---
 
-### war
+## 2888. war
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[war]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with war.
+- Example Translation: Ví dụ với war.
 
 ---
 
-### warm adj. A1,
+## 2889. warm adj. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[warm]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with warm adj. A1,.
+- Example Translation: Ví dụ với warm adj. A1,.
 
 ---
 
-### warn
+## 2890. warn
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[warn]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with warn.
+- Example Translation: Ví dụ với warn.
 
 ---
 
-### warning
+## 2891. warning
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[warning]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with warning.
+- Example Translation: Ví dụ với warning.
 
 ---
 
-### wash v. A1,
+## 2892. wash v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[wash]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with wash v. A1,.
+- Example Translation: Ví dụ với wash v. A1,.
 
 ---
 
-### washing
+## 2893. washing
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[washing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with washing.
+- Example Translation: Ví dụ với washing.
 
 ---
 
-### waste n., v.,
+## 2894. waste n., v.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[waste]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with waste n., v.,.
+- Example Translation: Ví dụ với waste n., v.,.
 
 ---
 
-### watch v.,
+## 2895. watch v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[watch]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with watch v.,.
+- Example Translation: Ví dụ với watch v.,.
 
 ---
 
-### water n. A1,
+## 2896. water n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[water]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with water n. A1,.
+- Example Translation: Ví dụ với water n. A1,.
 
 ---
 
-### wave n. A2,
+## 2897. wave n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[wave]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with wave n. A2,.
+- Example Translation: Ví dụ với wave n. A2,.
 
 ---
 
-### way n. A1,
+## 2898. way n. A1,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[way]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with way n. A1,.
+- Example Translation: Ví dụ với way n. A1,.
 
 ---
 
-### we
+## 2899. we
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[we]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with we.
+- Example Translation: Ví dụ với we.
 
 ---
 
-### weak
+## 2900. weak
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[weak]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with weak.
+- Example Translation: Ví dụ với weak.
 
 ---
 

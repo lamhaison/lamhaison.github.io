@@ -12,703 +12,1203 @@ Words 2001 to 2100 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### pot
+## 2001. pot
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[pot]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pot.
+- Example Translation: Ví dụ với pot.
 
 ---
 
-### potato
+## 2002. potato
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[potato]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with potato.
+- Example Translation: Ví dụ với potato.
 
 ---
 
-### potential adj.,
+## 2003. potential adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[potential]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with potential adj.,.
+- Example Translation: Ví dụ với potential adj.,.
 
 ---
 
-### pound
+## 2004. pound
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[pound]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pound.
+- Example Translation: Ví dụ với pound.
 
 ---
 
-### pour
+## 2005. pour
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[pour]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pour.
+- Example Translation: Ví dụ với pour.
 
 ---
 
-### poverty
+## 2006. poverty
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[poverty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with poverty.
+- Example Translation: Ví dụ với poverty.
 
 ---
 
-### powder
+## 2007. powder
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[powder]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with powder.
+- Example Translation: Ví dụ với powder.
 
 ---
 
-### power n. A2,
+## 2008. power n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[power]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with power n. A2,.
+- Example Translation: Ví dụ với power n. A2,.
 
 ---
 
-### powerful
+## 2009. powerful
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[powerful]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with powerful.
+- Example Translation: Ví dụ với powerful.
 
 ---
 
-### practical
+## 2010. practical
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[practical]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with practical.
+- Example Translation: Ví dụ với practical.
 
 ---
 
-### practice n.,
+## 2011. practice n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[practice]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with practice n.,.
+- Example Translation: Ví dụ với practice n.,.
 
 ---
 
-### praise n.,
+## 2012. praise n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[praise]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with praise n.,.
+- Example Translation: Ví dụ với praise n.,.
 
 ---
 
-### pray
+## 2013. pray
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[pray]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pray.
+- Example Translation: Ví dụ với pray.
 
 ---
 
-### prayer
+## 2014. prayer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[prayer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prayer.
+- Example Translation: Ví dụ với prayer.
 
 ---
 
-### predict
+## 2015. predict
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[predict]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with predict.
+- Example Translation: Ví dụ với predict.
 
 ---
 
-### prediction
+## 2016. prediction
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[prediction]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prediction.
+- Example Translation: Ví dụ với prediction.
 
 ---
 
-### prefer
+## 2017. prefer
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[prefer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prefer.
+- Example Translation: Ví dụ với prefer.
 
 ---
 
-### pregnant
+## 2018. pregnant
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[pregnant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pregnant.
+- Example Translation: Ví dụ với pregnant.
 
 ---
 
-### preparation
+## 2019. preparation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[preparation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with preparation.
+- Example Translation: Ví dụ với preparation.
 
 ---
 
-### prepare
+## 2020. prepare
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[prepare]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prepare.
+- Example Translation: Ví dụ với prepare.
 
 ---
 
-### prepared
+## 2021. prepared
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[prepared]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prepared.
+- Example Translation: Ví dụ với prepared.
 
 ---
 
-### presence
+## 2022. presence
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[presence]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with presence.
+- Example Translation: Ví dụ với presence.
 
 ---
 
-### present adj., n. A1,
+## 2023. present adj., n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[present]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with present adj., n. A1,.
+- Example Translation: Ví dụ với present adj., n. A1,.
 
 ---
 
-### presentation
+## 2024. presentation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[presentation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with presentation.
+- Example Translation: Ví dụ với presentation.
 
 ---
 
-### preserve
+## 2025. preserve
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[preserve]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with preserve.
+- Example Translation: Ví dụ với preserve.
 
 ---
 
-### president
+## 2026. president
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[president]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with president.
+- Example Translation: Ví dụ với president.
 
 ---
 
-### press v.,
+## 2027. press v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[press]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with press v.,.
+- Example Translation: Ví dụ với press v.,.
 
 ---
 
-### pressure
+## 2028. pressure
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[pressure]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pressure.
+- Example Translation: Ví dụ với pressure.
 
 ---
 
-### pretend
+## 2029. pretend
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[pretend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pretend.
+- Example Translation: Ví dụ với pretend.
 
 ---
 
-### pretty adj.,
+## 2030. pretty adj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[pretty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pretty adj.,.
+- Example Translation: Ví dụ với pretty adj.,.
 
 ---
 
-### prevent
+## 2031. prevent
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[prevent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prevent.
+- Example Translation: Ví dụ với prevent.
 
 ---
 
-### previous
+## 2032. previous
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[previous]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with previous.
+- Example Translation: Ví dụ với previous.
 
 ---
 
-### previously
+## 2033. previously
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[previously]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with previously.
+- Example Translation: Ví dụ với previously.
 
 ---
 
-### price n. A1,
+## 2034. price n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[price]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with price n. A1,.
+- Example Translation: Ví dụ với price n. A1,.
 
 ---
 
-### priest
+## 2035. priest
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[priest]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with priest.
+- Example Translation: Ví dụ với priest.
 
 ---
 
-### primary
+## 2036. primary
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[primary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with primary.
+- Example Translation: Ví dụ với primary.
 
 ---
 
-### prime
+## 2037. prime
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[prime]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prime.
+- Example Translation: Ví dụ với prime.
 
 ---
 
-### prince
+## 2038. prince
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[prince]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prince.
+- Example Translation: Ví dụ với prince.
 
 ---
 
-### princess
+## 2039. princess
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[princess]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with princess.
+- Example Translation: Ví dụ với princess.
 
 ---
 
-### principal n. B1,
+## 2040. principal n. B1,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[principal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with principal n. B1,.
+- Example Translation: Ví dụ với principal n. B1,.
 
 ---
 
-### principle
+## 2041. principle
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[principle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with principle.
+- Example Translation: Ví dụ với principle.
 
 ---
 
-### print v. A2,
+## 2042. print v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[print]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with print v. A2,.
+- Example Translation: Ví dụ với print v. A2,.
 
 ---
 
-### printer
+## 2043. printer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[printer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with printer.
+- Example Translation: Ví dụ với printer.
 
 ---
 
-### printing
+## 2044. printing
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[printing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with printing.
+- Example Translation: Ví dụ với printing.
 
 ---
 
-### priority
+## 2045. priority
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[priority]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with priority.
+- Example Translation: Ví dụ với priority.
 
 ---
 
-### prison
+## 2046. prison
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[prison]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prison.
+- Example Translation: Ví dụ với prison.
 
 ---
 
-### prisoner
+## 2047. prisoner
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[prisoner]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prisoner.
+- Example Translation: Ví dụ với prisoner.
 
 ---
 
-### privacy
+## 2048. privacy
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[privacy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with privacy.
+- Example Translation: Ví dụ với privacy.
 
 ---
 
-### private
+## 2049. private
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[private]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with private.
+- Example Translation: Ví dụ với private.
 
 ---
 
-### prize
+## 2050. prize
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[prize]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prize.
+- Example Translation: Ví dụ với prize.
 
 ---
 
-### probably
+## 2051. probably
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[probably]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with probably.
+- Example Translation: Ví dụ với probably.
 
 ---
 
-### problem
+## 2052. problem
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[problem]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with problem.
+- Example Translation: Ví dụ với problem.
 
 ---
 
-### procedure
+## 2053. procedure
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[procedure]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with procedure.
+- Example Translation: Ví dụ với procedure.
 
 ---
 
-### process n. A2,
+## 2054. process n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[process]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with process n. A2,.
+- Example Translation: Ví dụ với process n. A2,.
 
 ---
 
-### produce v. A2,
+## 2055. produce v. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[produce]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with produce v. A2,.
+- Example Translation: Ví dụ với produce v. A2,.
 
 ---
 
-### producer
+## 2056. producer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[producer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with producer.
+- Example Translation: Ví dụ với producer.
 
 ---
 
-### product
+## 2057. product
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[product]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with product.
+- Example Translation: Ví dụ với product.
 
 ---
 
-### production
+## 2058. production
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[production]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with production.
+- Example Translation: Ví dụ với production.
 
 ---
 
-### profession
+## 2059. profession
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[profession]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with profession.
+- Example Translation: Ví dụ với profession.
 
 ---
 
-### professional adj. A2,
+## 2060. professional adj. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[professional]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with professional adj. A2,.
+- Example Translation: Ví dụ với professional adj. A2,.
 
 ---
 
-### professor
+## 2061. professor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[professor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with professor.
+- Example Translation: Ví dụ với professor.
 
 ---
 
-### profile
+## 2062. profile
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[profile]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with profile.
+- Example Translation: Ví dụ với profile.
 
 ---
 
-### profit
+## 2063. profit
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[profit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with profit.
+- Example Translation: Ví dụ với profit.
 
 ---
 
-### program n. A1,
+## 2064. program n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[program]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with program n. A1,.
+- Example Translation: Ví dụ với program n. A1,.
 
 ---
 
-### progress n.,
+## 2065. progress n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[progress]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with progress n.,.
+- Example Translation: Ví dụ với progress n.,.
 
 ---
 
-### project n. A1,
+## 2066. project n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[project]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with project n. A1,.
+- Example Translation: Ví dụ với project n. A1,.
 
 ---
 
-### promise v.,
+## 2067. promise v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[promise]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with promise v.,.
+- Example Translation: Ví dụ với promise v.,.
 
 ---
 
-### promote
+## 2068. promote
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[promote]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with promote.
+- Example Translation: Ví dụ với promote.
 
 ---
 
-### pronounce
+## 2069. pronounce
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[pronounce]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pronounce.
+- Example Translation: Ví dụ với pronounce.
 
 ---
 
-### proof
+## 2070. proof
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[proof]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with proof.
+- Example Translation: Ví dụ với proof.
 
 ---
 
-### proper
+## 2071. proper
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[proper]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with proper.
+- Example Translation: Ví dụ với proper.
 
 ---
 
-### properly
+## 2072. properly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[properly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with properly.
+- Example Translation: Ví dụ với properly.
 
 ---
 
-### property
+## 2073. property
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[property]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with property.
+- Example Translation: Ví dụ với property.
 
 ---
 
-### proposal
+## 2074. proposal
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[proposal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with proposal.
+- Example Translation: Ví dụ với proposal.
 
 ---
 
-### propose
+## 2075. propose
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[propose]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with propose.
+- Example Translation: Ví dụ với propose.
 
 ---
 
-### prospect
+## 2076. prospect
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[prospect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prospect.
+- Example Translation: Ví dụ với prospect.
 
 ---
 
-### protect
+## 2077. protect
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[protect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with protect.
+- Example Translation: Ví dụ với protect.
 
 ---
 
-### protection
+## 2078. protection
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[protection]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with protection.
+- Example Translation: Ví dụ với protection.
 
 ---
 
-### protest n.,
+## 2079. protest n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[protest]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with protest n.,.
+- Example Translation: Ví dụ với protest n.,.
 
 ---
 
-### proud
+## 2080. proud
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[proud]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with proud.
+- Example Translation: Ví dụ với proud.
 
 ---
 
-### prove
+## 2081. prove
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[prove]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with prove.
+- Example Translation: Ví dụ với prove.
 
 ---
 
-### provide
+## 2082. provide
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[provide]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with provide.
+- Example Translation: Ví dụ với provide.
 
 ---
 
-### psychologist
+## 2083. psychologist
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[psychologist]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with psychologist.
+- Example Translation: Ví dụ với psychologist.
 
 ---
 
-### psychology
+## 2084. psychology
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[psychology]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with psychology.
+- Example Translation: Ví dụ với psychology.
 
 ---
 
-### public adj.,
+## 2085. public adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[public]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with public adj.,.
+- Example Translation: Ví dụ với public adj.,.
 
 ---
 
-### publication
+## 2086. publication
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[publication]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with publication.
+- Example Translation: Ví dụ với publication.
 
 ---
 
-### publish
+## 2087. publish
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[publish]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with publish.
+- Example Translation: Ví dụ với publish.
 
 ---
 
-### pull v. A2,
+## 2088. pull v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[pull]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pull v. A2,.
+- Example Translation: Ví dụ với pull v. A2,.
 
 ---
 
-### punish
+## 2089. punish
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[punish]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with punish.
+- Example Translation: Ví dụ với punish.
 
 ---
 
-### punishment
+## 2090. punishment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[punishment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with punishment.
+- Example Translation: Ví dụ với punishment.
 
 ---
 
-### purchase n.,
+## 2091. purchase n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[purchase]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with purchase n.,.
+- Example Translation: Ví dụ với purchase n.,.
 
 ---
 
-### pure
+## 2092. pure
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[pure]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pure.
+- Example Translation: Ví dụ với pure.
 
 ---
 
-### purple adj.,
+## 2093. purple adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[purple]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with purple adj.,.
+- Example Translation: Ví dụ với purple adj.,.
 
 ---
 
-### purpose
+## 2094. purpose
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[purpose]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with purpose.
+- Example Translation: Ví dụ với purpose.
 
 ---
 
-### pursue
+## 2095. pursue
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[pursue]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pursue.
+- Example Translation: Ví dụ với pursue.
 
 ---
 
-### push v. A2,
+## 2096. push v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[push]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with push v. A2,.
+- Example Translation: Ví dụ với push v. A2,.
 
 ---
 
-### put
+## 2097. put
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[put]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with put.
+- Example Translation: Ví dụ với put.
 
 ---
 
-### qualification
+## 2098. qualification
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[qualification]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with qualification.
+- Example Translation: Ví dụ với qualification.
 
 ---
 
-### qualified
+## 2099. qualified
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[qualified]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with qualified.
+- Example Translation: Ví dụ với qualified.
 
 ---
 
-### qualify
+## 2100. qualify
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[qualify]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with qualify.
+- Example Translation: Ví dụ với qualify.
 
 ---
 

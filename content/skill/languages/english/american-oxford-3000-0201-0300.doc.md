@@ -12,703 +12,1203 @@ Words 201 to 300 from the Oxford 3000 list - the 3000 most important words to le
 
 ---
 
-### author
+## 201. author
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[author]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with author.
+- Example Translation: Ví dụ với author.
 
 ---
 
-### authority
+## 202. authority
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[authority]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with authority.
+- Example Translation: Ví dụ với authority.
 
 ---
 
-### automatic
+## 203. automatic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[automatic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with automatic.
+- Example Translation: Ví dụ với automatic.
 
 ---
 
-### automatically
+## 204. automatically
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[automatically]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with automatically.
+- Example Translation: Ví dụ với automatically.
 
 ---
 
-### available
+## 205. available
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[available]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with available.
+- Example Translation: Ví dụ với available.
 
 ---
 
-### average adj., n. A2,
+## 206. average adj., n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[average]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with average adj., n. A2,.
+- Example Translation: Ví dụ với average adj., n. A2,.
 
 ---
 
-### avoid
+## 207. avoid
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[avoid]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with avoid.
+- Example Translation: Ví dụ với avoid.
 
 ---
 
-### award n. A2,
+## 208. award n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[award]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with award n. A2,.
+- Example Translation: Ví dụ với award n. A2,.
 
 ---
 
-### aware
+## 209. aware
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[aware]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with aware.
+- Example Translation: Ví dụ với aware.
 
 ---
 
-### away
+## 210. away
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[away]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with away.
+- Example Translation: Ví dụ với away.
 
 ---
 
-### awesome
+## 211. awesome
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[awesome]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with awesome.
+- Example Translation: Ví dụ với awesome.
 
 ---
 
-### awful
+## 212. awful
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[awful]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with awful.
+- Example Translation: Ví dụ với awful.
 
 ---
 
-### baby
+## 213. baby
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[baby]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with baby.
+- Example Translation: Ví dụ với baby.
 
 ---
 
-### back n., adv. A1, adj. A2,
+## 214. back n., adv. A1, adj. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[back]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with back n., adv. A1, adj. A2,.
+- Example Translation: Ví dụ với back n., adv. A1, adj. A2,.
 
 ---
 
-### background
+## 215. background
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[background]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with background.
+- Example Translation: Ví dụ với background.
 
 ---
 
-### backward
+## 216. backward
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[backward]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with backward.
+- Example Translation: Ví dụ với backward.
 
 ---
 
-### bacteria
+## 217. bacteria
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[bacteria]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bacteria.
+- Example Translation: Ví dụ với bacteria.
 
 ---
 
-### bad
+## 218. bad
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[bad]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bad.
+- Example Translation: Ví dụ với bad.
 
 ---
 
-### badly
+## 219. badly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[badly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with badly.
+- Example Translation: Ví dụ với badly.
 
 ---
 
-### bag
+## 220. bag
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bag]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bag.
+- Example Translation: Ví dụ với bag.
 
 ---
 
-### bake
+## 221. bake
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[bake]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bake.
+- Example Translation: Ví dụ với bake.
 
 ---
 
-### balance n.,
+## 222. balance n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[balance]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with balance n.,.
+- Example Translation: Ví dụ với balance n.,.
 
 ---
 
-### ball
+## 223. ball
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[ball]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ball.
+- Example Translation: Ví dụ với ball.
 
 ---
 
-### ban v.,
+## 224. ban v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[ban]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ban v.,.
+- Example Translation: Ví dụ với ban v.,.
 
 ---
 
-### banana
+## 225. banana
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[banana]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with banana.
+- Example Translation: Ví dụ với banana.
 
 ---
 
-### band
+## 226. band
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[band]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with band.
+- Example Translation: Ví dụ với band.
 
 ---
 
-### bank (money)
+## 227. bank (money)
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bank]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bank (money).
+- Example Translation: Ví dụ với bank (money).
 
 ---
 
-### bank (river)
+## 228. bank (river)
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[bank]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bank (river).
+- Example Translation: Ví dụ với bank (river).
 
 ---
 
-### bar n. A1,
+## 229. bar n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[bar]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bar n. A1,.
+- Example Translation: Ví dụ với bar n. A1,.
 
 ---
 
-### barrier
+## 230. barrier
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[barrier]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with barrier.
+- Example Translation: Ví dụ với barrier.
 
 ---
 
-### base n.,
+## 231. base n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[base]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with base n.,.
+- Example Translation: Ví dụ với base n.,.
 
 ---
 
-### baseball
+## 232. baseball
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[baseball]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with baseball.
+- Example Translation: Ví dụ với baseball.
 
 ---
 
-### based
+## 233. based
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[based]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with based.
+- Example Translation: Ví dụ với based.
 
 ---
 
-### basketball
+## 234. basketball
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[basketball]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with basketball.
+- Example Translation: Ví dụ với basketball.
 
 ---
 
-### basic
+## 235. basic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[basic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with basic.
+- Example Translation: Ví dụ với basic.
 
 ---
 
-### basically
+## 236. basically
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[basically]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with basically.
+- Example Translation: Ví dụ với basically.
 
 ---
 
-### basis
+## 237. basis
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[basis]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with basis.
+- Example Translation: Ví dụ với basis.
 
 ---
 
-### bath
+## 238. bath
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bath]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bath.
+- Example Translation: Ví dụ với bath.
 
 ---
 
-### bathroom
+## 239. bathroom
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bathroom]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bathroom.
+- Example Translation: Ví dụ với bathroom.
 
 ---
 
-### battery
+## 240. battery
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[battery]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with battery.
+- Example Translation: Ví dụ với battery.
 
 ---
 
-### battle n. B1,
+## 241. battle n. B1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[battle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with battle n. B1,.
+- Example Translation: Ví dụ với battle n. B1,.
 
 ---
 
-### be v., auxiliary
+## 242. be v., auxiliary
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[be]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with be v., auxiliary.
+- Example Translation: Ví dụ với be v., auxiliary.
 
 ---
 
-### beach
+## 243. beach
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[beach]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beach.
+- Example Translation: Ví dụ với beach.
 
 ---
 
-### bean
+## 244. bean
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[bean]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bean.
+- Example Translation: Ví dụ với bean.
 
 ---
 
-### bear (deal with)
+## 245. bear (deal with)
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[bear]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bear (deal with).
+- Example Translation: Ví dụ với bear (deal with).
 
 ---
 
-### bear (animal)
+## 246. bear (animal)
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[bear]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bear (animal).
+- Example Translation: Ví dụ với bear (animal).
 
 ---
 
-### beat v. B1,
+## 247. beat v. B1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[beat]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beat v. B1,.
+- Example Translation: Ví dụ với beat v. B1,.
 
 ---
 
-### beautiful
+## 248. beautiful
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[beautiful]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beautiful.
+- Example Translation: Ví dụ với beautiful.
 
 ---
 
-### beauty
+## 249. beauty
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[beauty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beauty.
+- Example Translation: Ví dụ với beauty.
 
 ---
 
-### because
+## 250. because
 
-- Type: conj.
+- Type: Conjunction (conj.)
 - CEFR Level: A1
+- IPA (US): /[because]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with because.
+- Example Translation: Ví dụ với because.
 
 ---
 
-### because of
+## 251. because of
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[because]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with because of.
+- Example Translation: Ví dụ với because of.
 
 ---
 
-### become
+## 252. become
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[become]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with become.
+- Example Translation: Ví dụ với become.
 
 ---
 
-### bed
+## 253. bed
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bed.
+- Example Translation: Ví dụ với bed.
 
 ---
 
-### bedroom
+## 254. bedroom
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bedroom]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bedroom.
+- Example Translation: Ví dụ với bedroom.
 
 ---
 
-### bee
+## 255. bee
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[bee]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bee.
+- Example Translation: Ví dụ với bee.
 
 ---
 
-### beef
+## 256. beef
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[beef]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beef.
+- Example Translation: Ví dụ với beef.
 
 ---
 
-### beer
+## 257. beer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[beer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beer.
+- Example Translation: Ví dụ với beer.
 
 ---
 
-### before prep. A1, conj.,
+## 258. before prep. A1, conj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[before]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with before prep. A1, conj.,.
+- Example Translation: Ví dụ với before prep. A1, conj.,.
 
 ---
 
-### beg
+## 259. beg
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[beg]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beg.
+- Example Translation: Ví dụ với beg.
 
 ---
 
-### begin
+## 260. begin
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[begin]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with begin.
+- Example Translation: Ví dụ với begin.
 
 ---
 
-### beginning
+## 261. beginning
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[beginning]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beginning.
+- Example Translation: Ví dụ với beginning.
 
 ---
 
-### behave
+## 262. behave
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[behave]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with behave.
+- Example Translation: Ví dụ với behave.
 
 ---
 
-### behavior
+## 263. behavior
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[behavior]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with behavior.
+- Example Translation: Ví dụ với behavior.
 
 ---
 
-### behind prep.,
+## 264. behind prep.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[behind]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with behind prep.,.
+- Example Translation: Ví dụ với behind prep.,.
 
 ---
 
-### being
+## 265. being
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[being]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with being.
+- Example Translation: Ví dụ với being.
 
 ---
 
-### belief
+## 266. belief
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[belief]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with belief.
+- Example Translation: Ví dụ với belief.
 
 ---
 
-### believe
+## 267. believe
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[believe]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with believe.
+- Example Translation: Ví dụ với believe.
 
 ---
 
-### bell
+## 268. bell
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[bell]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bell.
+- Example Translation: Ví dụ với bell.
 
 ---
 
-### belong
+## 269. belong
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[belong]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with belong.
+- Example Translation: Ví dụ với belong.
 
 ---
 
-### below adv.,
+## 270. below adv.,
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[below]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with below adv.,.
+- Example Translation: Ví dụ với below adv.,.
 
 ---
 
-### belt
+## 271. belt
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[belt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with belt.
+- Example Translation: Ví dụ với belt.
 
 ---
 
-### bend v.,
+## 272. bend v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[bend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bend v.,.
+- Example Translation: Ví dụ với bend v.,.
 
 ---
 
-### benefit n. A2,
+## 273. benefit n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[benefit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with benefit n. A2,.
+- Example Translation: Ví dụ với benefit n. A2,.
 
 ---
 
-### bent
+## 274. bent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[bent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bent.
+- Example Translation: Ví dụ với bent.
 
 ---
 
-### best adj. A1, adv.,
+## 275. best adj. A1, adv.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[best]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with best adj. A1, adv.,.
+- Example Translation: Ví dụ với best adj. A1, adv.,.
 
 ---
 
-### bet v.,
+## 276. bet v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[bet]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bet v.,.
+- Example Translation: Ví dụ với bet v.,.
 
 ---
 
-### better adj. A1, adv. A2,
+## 277. better adj. A1, adv. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[better]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with better adj. A1, adv. A2,.
+- Example Translation: Ví dụ với better adj. A1, adv. A2,.
 
 ---
 
-### between prep. A1,
+## 278. between prep. A1,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[between]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with between prep. A1,.
+- Example Translation: Ví dụ với between prep. A1,.
 
 ---
 
-### beyond prep.,
+## 279. beyond prep.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[beyond]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with beyond prep.,.
+- Example Translation: Ví dụ với beyond prep.,.
 
 ---
 
-### bicycle
+## 280. bicycle
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bicycle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bicycle.
+- Example Translation: Ví dụ với bicycle.
 
 ---
 
-### big
+## 281. big
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[big]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with big.
+- Example Translation: Ví dụ với big.
 
 ---
 
-### bike
+## 282. bike
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bike]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bike.
+- Example Translation: Ví dụ với bike.
 
 ---
 
-### bill n. A1,
+## 283. bill n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[bill]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bill n. A1,.
+- Example Translation: Ví dụ với bill n. A1,.
 
 ---
 
-### billion
+## 284. billion
 
 - Type: number
 - CEFR Level: A2
+- IPA (US): /[billion]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with billion.
+- Example Translation: Ví dụ với billion.
 
 ---
 
-### biology
+## 285. biology
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[biology]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with biology.
+- Example Translation: Ví dụ với biology.
 
 ---
 
-### bird
+## 286. bird
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[bird]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bird.
+- Example Translation: Ví dụ với bird.
 
 ---
 
-### birth
+## 287. birth
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[birth]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with birth.
+- Example Translation: Ví dụ với birth.
 
 ---
 
-### birthday
+## 288. birthday
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[birthday]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with birthday.
+- Example Translation: Ví dụ với birthday.
 
 ---
 
-### bit
+## 289. bit
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[bit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bit.
+- Example Translation: Ví dụ với bit.
 
 ---
 
-### bite v.,
+## 290. bite v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[bite]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bite v.,.
+- Example Translation: Ví dụ với bite v.,.
 
 ---
 
-### bitter
+## 291. bitter
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[bitter]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with bitter.
+- Example Translation: Ví dụ với bitter.
 
 ---
 
-### black adj.,
+## 292. black adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[black]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with black adj.,.
+- Example Translation: Ví dụ với black adj.,.
 
 ---
 
-### blame v.,
+## 293. blame v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[blame]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with blame v.,.
+- Example Translation: Ví dụ với blame v.,.
 
 ---
 
-### blind
+## 294. blind
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[blind]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with blind.
+- Example Translation: Ví dụ với blind.
 
 ---
 
-### block n. A2,
+## 295. block n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[block]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with block n. A2,.
+- Example Translation: Ví dụ với block n. A2,.
 
 ---
 
-### blog
+## 296. blog
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[blog]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with blog.
+- Example Translation: Ví dụ với blog.
 
 ---
 
-### blond
+## 297. blond
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[blond]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with blond.
+- Example Translation: Ví dụ với blond.
 
 ---
 
-### blood
+## 298. blood
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[blood]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with blood.
+- Example Translation: Ví dụ với blood.
 
 ---
 
-### blow
+## 299. blow
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[blow]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with blow.
+- Example Translation: Ví dụ với blow.
 
 ---
 
-### blue adj.,
+## 300. blue adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[blue]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with blue adj.,.
+- Example Translation: Ví dụ với blue adj.,.
 
 ---
 

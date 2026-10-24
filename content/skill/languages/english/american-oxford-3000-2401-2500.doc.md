@@ -12,703 +12,1203 @@ Words 2401 to 2500 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### side
+## 2401. side
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[side]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with side.
+- Example Translation: Ví dụ với side.
 
 ---
 
-### sight
+## 2402. sight
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[sight]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sight.
+- Example Translation: Ví dụ với sight.
 
 ---
 
-### sign n.,
+## 2403. sign n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[sign]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sign n.,.
+- Example Translation: Ví dụ với sign n.,.
 
 ---
 
-### signal n.,
+## 2404. signal n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[signal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with signal n.,.
+- Example Translation: Ví dụ với signal n.,.
 
 ---
 
-### significant
+## 2405. significant
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[significant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with significant.
+- Example Translation: Ví dụ với significant.
 
 ---
 
-### significantly
+## 2406. significantly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[significantly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with significantly.
+- Example Translation: Ví dụ với significantly.
 
 ---
 
-### silence
+## 2407. silence
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[silence]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with silence.
+- Example Translation: Ví dụ với silence.
 
 ---
 
-### silent
+## 2408. silent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[silent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with silent.
+- Example Translation: Ví dụ với silent.
 
 ---
 
-### silk
+## 2409. silk
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[silk]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with silk.
+- Example Translation: Ví dụ với silk.
 
 ---
 
-### silly
+## 2410. silly
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[silly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with silly.
+- Example Translation: Ví dụ với silly.
 
 ---
 
-### silver n.,
+## 2411. silver n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[silver]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with silver n.,.
+- Example Translation: Ví dụ với silver n.,.
 
 ---
 
-### similar
+## 2412. similar
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[similar]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with similar.
+- Example Translation: Ví dụ với similar.
 
 ---
 
-### similarity
+## 2413. similarity
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[similarity]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with similarity.
+- Example Translation: Ví dụ với similarity.
 
 ---
 
-### similarly
+## 2414. similarly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[similarly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with similarly.
+- Example Translation: Ví dụ với similarly.
 
 ---
 
-### simple
+## 2415. simple
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[simple]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with simple.
+- Example Translation: Ví dụ với simple.
 
 ---
 
-### simply
+## 2416. simply
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[simply]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with simply.
+- Example Translation: Ví dụ với simply.
 
 ---
 
-### since prep., conj. A2,
+## 2417. since prep., conj. A2,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[since]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with since prep., conj. A2,.
+- Example Translation: Ví dụ với since prep., conj. A2,.
 
 ---
 
-### sincere
+## 2418. sincere
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[sincere]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sincere.
+- Example Translation: Ví dụ với sincere.
 
 ---
 
-### sing
+## 2419. sing
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[sing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sing.
+- Example Translation: Ví dụ với sing.
 
 ---
 
-### singer
+## 2420. singer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[singer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with singer.
+- Example Translation: Ví dụ với singer.
 
 ---
 
-### singing
+## 2421. singing
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[singing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with singing.
+- Example Translation: Ví dụ với singing.
 
 ---
 
-### single adj.,
+## 2422. single adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[single]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with single adj.,.
+- Example Translation: Ví dụ với single adj.,.
 
 ---
 
-### sink
+## 2423. sink
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[sink]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sink.
+- Example Translation: Ví dụ với sink.
 
 ---
 
-### sir
+## 2424. sir
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[sir]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sir.
+- Example Translation: Ví dụ với sir.
 
 ---
 
-### sister
+## 2425. sister
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[sister]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sister.
+- Example Translation: Ví dụ với sister.
 
 ---
 
-### sit
+## 2426. sit
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[sit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sit.
+- Example Translation: Ví dụ với sit.
 
 ---
 
-### site
+## 2427. site
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[site]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with site.
+- Example Translation: Ví dụ với site.
 
 ---
 
-### situation
+## 2428. situation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[situation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with situation.
+- Example Translation: Ví dụ với situation.
 
 ---
 
-### six
+## 2429. six
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[six]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with six.
+- Example Translation: Ví dụ với six.
 
 ---
 
-### sixteen
+## 2430. sixteen
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[sixteen]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sixteen.
+- Example Translation: Ví dụ với sixteen.
 
 ---
 
-### sixty
+## 2431. sixty
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[sixty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sixty.
+- Example Translation: Ví dụ với sixty.
 
 ---
 
-### size
+## 2432. size
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[size]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with size.
+- Example Translation: Ví dụ với size.
 
 ---
 
-### ski v., n.,
+## 2433. ski v., n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[ski]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ski v., n.,.
+- Example Translation: Ví dụ với ski v., n.,.
 
 ---
 
-### skiing
+## 2434. skiing
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[skiing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with skiing.
+- Example Translation: Ví dụ với skiing.
 
 ---
 
-### skill
+## 2435. skill
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[skill]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with skill.
+- Example Translation: Ví dụ với skill.
 
 ---
 
-### skin
+## 2436. skin
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[skin]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with skin.
+- Example Translation: Ví dụ với skin.
 
 ---
 
-### skirt
+## 2437. skirt
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[skirt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with skirt.
+- Example Translation: Ví dụ với skirt.
 
 ---
 
-### sky
+## 2438. sky
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[sky]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sky.
+- Example Translation: Ví dụ với sky.
 
 ---
 
-### slave
+## 2439. slave
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[slave]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slave.
+- Example Translation: Ví dụ với slave.
 
 ---
 
-### sleep v. A1,
+## 2440. sleep v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[sleep]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sleep v. A1,.
+- Example Translation: Ví dụ với sleep v. A1,.
 
 ---
 
-### slice n.,
+## 2441. slice n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[slice]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slice n.,.
+- Example Translation: Ví dụ với slice n.,.
 
 ---
 
-### slide v.,
+## 2442. slide v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[slide]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slide v.,.
+- Example Translation: Ví dụ với slide v.,.
 
 ---
 
-### slight
+## 2443. slight
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[slight]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slight.
+- Example Translation: Ví dụ với slight.
 
 ---
 
-### slightly
+## 2444. slightly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[slightly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slightly.
+- Example Translation: Ví dụ với slightly.
 
 ---
 
-### slip
+## 2445. slip
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[slip]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slip.
+- Example Translation: Ví dụ với slip.
 
 ---
 
-### slope n.,
+## 2446. slope n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[slope]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slope n.,.
+- Example Translation: Ví dụ với slope n.,.
 
 ---
 
-### slow adj. A1,
+## 2447. slow adj. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[slow]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slow adj. A1,.
+- Example Translation: Ví dụ với slow adj. A1,.
 
 ---
 
-### slowly
+## 2448. slowly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[slowly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with slowly.
+- Example Translation: Ví dụ với slowly.
 
 ---
 
-### small
+## 2449. small
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[small]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with small.
+- Example Translation: Ví dụ với small.
 
 ---
 
-### smart
+## 2450. smart
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[smart]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with smart.
+- Example Translation: Ví dụ với smart.
 
 ---
 
-### smartphone
+## 2451. smartphone
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[smartphone]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with smartphone.
+- Example Translation: Ví dụ với smartphone.
 
 ---
 
-### smell v.,
+## 2452. smell v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[smell]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with smell v.,.
+- Example Translation: Ví dụ với smell v.,.
 
 ---
 
-### smile v.,
+## 2453. smile v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[smile]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with smile v.,.
+- Example Translation: Ví dụ với smile v.,.
 
 ---
 
-### smoke n.,
+## 2454. smoke n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[smoke]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with smoke n.,.
+- Example Translation: Ví dụ với smoke n.,.
 
 ---
 
-### smoking
+## 2455. smoking
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[smoking]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with smoking.
+- Example Translation: Ví dụ với smoking.
 
 ---
 
-### smooth
+## 2456. smooth
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[smooth]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with smooth.
+- Example Translation: Ví dụ với smooth.
 
 ---
 
-### snake
+## 2457. snake
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[snake]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with snake.
+- Example Translation: Ví dụ với snake.
 
 ---
 
-### sneaker
+## 2458. sneaker
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[sneaker]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sneaker.
+- Example Translation: Ví dụ với sneaker.
 
 ---
 
-### snow n.,
+## 2459. snow n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[snow]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with snow n.,.
+- Example Translation: Ví dụ với snow n.,.
 
 ---
 
-### so adv.,
+## 2460. so adv.,
 
-- Type: conj.
+- Type: Conjunction (conj.)
 - CEFR Level: A1
+- IPA (US): /[so]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with so adv.,.
+- Example Translation: Ví dụ với so adv.,.
 
 ---
 
-### soap
+## 2461. soap
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[soap]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with soap.
+- Example Translation: Ví dụ với soap.
 
 ---
 
-### soccer
+## 2462. soccer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[soccer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with soccer.
+- Example Translation: Ví dụ với soccer.
 
 ---
 
-### social
+## 2463. social
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[social]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with social.
+- Example Translation: Ví dụ với social.
 
 ---
 
-### society
+## 2464. society
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[society]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with society.
+- Example Translation: Ví dụ với society.
 
 ---
 
-### sock
+## 2465. sock
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[sock]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sock.
+- Example Translation: Ví dụ với sock.
 
 ---
 
-### soft
+## 2466. soft
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[soft]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with soft.
+- Example Translation: Ví dụ với soft.
 
 ---
 
-### software
+## 2467. software
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[software]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with software.
+- Example Translation: Ví dụ với software.
 
 ---
 
-### soil
+## 2468. soil
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[soil]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with soil.
+- Example Translation: Ví dụ với soil.
 
 ---
 
-### solar
+## 2469. solar
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[solar]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with solar.
+- Example Translation: Ví dụ với solar.
 
 ---
 
-### soldier
+## 2470. soldier
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[soldier]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with soldier.
+- Example Translation: Ví dụ với soldier.
 
 ---
 
-### solid adj.,
+## 2471. solid adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[solid]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with solid adj.,.
+- Example Translation: Ví dụ với solid adj.,.
 
 ---
 
-### solution
+## 2472. solution
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[solution]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with solution.
+- Example Translation: Ví dụ với solution.
 
 ---
 
-### solve
+## 2473. solve
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[solve]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with solve.
+- Example Translation: Ví dụ với solve.
 
 ---
 
-### some det.,
+## 2474. some det.,
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[some]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with some det.,.
+- Example Translation: Ví dụ với some det.,.
 
 ---
 
-### somebody
+## 2475. somebody
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[somebody]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with somebody.
+- Example Translation: Ví dụ với somebody.
 
 ---
 
-### someone
+## 2476. someone
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[someone]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with someone.
+- Example Translation: Ví dụ với someone.
 
 ---
 
-### something
+## 2477. something
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[something]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with something.
+- Example Translation: Ví dụ với something.
 
 ---
 
-### sometimes
+## 2478. sometimes
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[sometimes]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sometimes.
+- Example Translation: Ví dụ với sometimes.
 
 ---
 
-### somewhat
+## 2479. somewhat
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[somewhat]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with somewhat.
+- Example Translation: Ví dụ với somewhat.
 
 ---
 
-### somewhere adv.,
+## 2480. somewhere adv.,
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A2
+- IPA (US): /[somewhere]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with somewhere adv.,.
+- Example Translation: Ví dụ với somewhere adv.,.
 
 ---
 
-### son
+## 2481. son
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[son]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with son.
+- Example Translation: Ví dụ với son.
 
 ---
 
-### song
+## 2482. song
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[song]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with song.
+- Example Translation: Ví dụ với song.
 
 ---
 
-### soon
+## 2483. soon
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[soon]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with soon.
+- Example Translation: Ví dụ với soon.
 
 ---
 
-### sorry adj.,
+## 2484. sorry adj.,
 
 - Type: exclam.
 - CEFR Level: A1
+- IPA (US): /[sorry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sorry adj.,.
+- Example Translation: Ví dụ với sorry adj.,.
 
 ---
 
-### sort n. A2,
+## 2485. sort n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[sort]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sort n. A2,.
+- Example Translation: Ví dụ với sort n. A2,.
 
 ---
 
-### soul
+## 2486. soul
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[soul]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with soul.
+- Example Translation: Ví dụ với soul.
 
 ---
 
-### sound n.,
+## 2487. sound n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[sound]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with sound n.,.
+- Example Translation: Ví dụ với sound n.,.
 
 ---
 
-### soup
+## 2488. soup
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[soup]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with soup.
+- Example Translation: Ví dụ với soup.
 
 ---
 
-### source
+## 2489. source
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[source]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with source.
+- Example Translation: Ví dụ với source.
 
 ---
 
-### south n., adj.,
+## 2490. south n., adj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[south]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with south n., adj.,.
+- Example Translation: Ví dụ với south n., adj.,.
 
 ---
 
-### southern
+## 2491. southern
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[southern]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with southern.
+- Example Translation: Ví dụ với southern.
 
 ---
 
-### space
+## 2492. space
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[space]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with space.
+- Example Translation: Ví dụ với space.
 
 ---
 
-### speak
+## 2493. speak
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[speak]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with speak.
+- Example Translation: Ví dụ với speak.
 
 ---
 
-### speaker
+## 2494. speaker
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[speaker]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with speaker.
+- Example Translation: Ví dụ với speaker.
 
 ---
 
-### special
+## 2495. special
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[special]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with special.
+- Example Translation: Ví dụ với special.
 
 ---
 
-### specialist n.,
+## 2496. specialist n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[specialist]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with specialist n.,.
+- Example Translation: Ví dụ với specialist n.,.
 
 ---
 
-### species
+## 2497. species
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[species]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with species.
+- Example Translation: Ví dụ với species.
 
 ---
 
-### specific
+## 2498. specific
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[specific]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with specific.
+- Example Translation: Ví dụ với specific.
 
 ---
 
-### specifically
+## 2499. specifically
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[specifically]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with specifically.
+- Example Translation: Ví dụ với specifically.
 
 ---
 
-### speech
+## 2500. speech
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[speech]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with speech.
+- Example Translation: Ví dụ với speech.
 
 ---
 

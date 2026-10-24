@@ -12,703 +12,1203 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### humorous
+## 1301. humorous
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[humorous]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with humorous.
+- Example Translation: Ví dụ với humorous.
 
 ---
 
-### hundred
+## 1302. hundred
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[hundred]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with hundred.
+- Example Translation: Ví dụ với hundred.
 
 ---
 
-### hungry
+## 1303. hungry
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[hungry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with hungry.
+- Example Translation: Ví dụ với hungry.
 
 ---
 
-### hunt v. B1,
+## 1304. hunt v. B1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[hunt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with hunt v. B1,.
+- Example Translation: Ví dụ với hunt v. B1,.
 
 ---
 
-### hunting
+## 1305. hunting
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[hunting]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with hunting.
+- Example Translation: Ví dụ với hunting.
 
 ---
 
-### hurricane
+## 1306. hurricane
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[hurricane]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with hurricane.
+- Example Translation: Ví dụ với hurricane.
 
 ---
 
-### hurry n.,
+## 1307. hurry n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[hurry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with hurry n.,.
+- Example Translation: Ví dụ với hurry n.,.
 
 ---
 
-### hurt v., adj. A2,
+## 1308. hurt v., adj. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[hurt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with hurt v., adj. A2,.
+- Example Translation: Ví dụ với hurt v., adj. A2,.
 
 ---
 
-### husband
+## 1309. husband
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[husband]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with husband.
+- Example Translation: Ví dụ với husband.
 
 ---
 
-### I
+## 1310. I
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[i]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with I.
+- Example Translation: Ví dụ với I.
 
 ---
 
-### ice
+## 1311. ice
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[ice]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ice.
+- Example Translation: Ví dụ với ice.
 
 ---
 
-### ice cream
+## 1312. ice cream
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[ice]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ice cream.
+- Example Translation: Ví dụ với ice cream.
 
 ---
 
-### idea
+## 1313. idea
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[idea]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with idea.
+- Example Translation: Ví dụ với idea.
 
 ---
 
-### ideal adj. A2,
+## 1314. ideal adj. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[ideal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ideal adj. A2,.
+- Example Translation: Ví dụ với ideal adj. A2,.
 
 ---
 
-### identify
+## 1315. identify
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[identify]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with identify.
+- Example Translation: Ví dụ với identify.
 
 ---
 
-### identity
+## 1316. identity
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[identity]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with identity.
+- Example Translation: Ví dụ với identity.
 
 ---
 
-### if
+## 1317. if
 
-- Type: conj.
+- Type: Conjunction (conj.)
 - CEFR Level: A1
+- IPA (US): /[if]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with if.
+- Example Translation: Ví dụ với if.
 
 ---
 
-### ignore
+## 1318. ignore
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[ignore]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ignore.
+- Example Translation: Ví dụ với ignore.
 
 ---
 
-### ill
+## 1319. ill
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[ill]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ill.
+- Example Translation: Ví dụ với ill.
 
 ---
 
-### illegal
+## 1320. illegal
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[illegal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with illegal.
+- Example Translation: Ví dụ với illegal.
 
 ---
 
-### illness
+## 1321. illness
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[illness]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with illness.
+- Example Translation: Ví dụ với illness.
 
 ---
 
-### illustrate
+## 1322. illustrate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[illustrate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with illustrate.
+- Example Translation: Ví dụ với illustrate.
 
 ---
 
-### illustration
+## 1323. illustration
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[illustration]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with illustration.
+- Example Translation: Ví dụ với illustration.
 
 ---
 
-### image
+## 1324. image
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[image]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with image.
+- Example Translation: Ví dụ với image.
 
 ---
 
-### imaginary
+## 1325. imaginary
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[imaginary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with imaginary.
+- Example Translation: Ví dụ với imaginary.
 
 ---
 
-### imagination
+## 1326. imagination
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[imagination]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with imagination.
+- Example Translation: Ví dụ với imagination.
 
 ---
 
-### imagine
+## 1327. imagine
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[imagine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with imagine.
+- Example Translation: Ví dụ với imagine.
 
 ---
 
-### immediate
+## 1328. immediate
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[immediate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with immediate.
+- Example Translation: Ví dụ với immediate.
 
 ---
 
-### immediately
+## 1329. immediately
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[immediately]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with immediately.
+- Example Translation: Ví dụ với immediately.
 
 ---
 
-### immigrant
+## 1330. immigrant
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[immigrant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with immigrant.
+- Example Translation: Ví dụ với immigrant.
 
 ---
 
-### impact n.,
+## 1331. impact n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[impact]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with impact n.,.
+- Example Translation: Ví dụ với impact n.,.
 
 ---
 
-### impatient
+## 1332. impatient
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[impatient]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with impatient.
+- Example Translation: Ví dụ với impatient.
 
 ---
 
-### imply
+## 1333. imply
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[imply]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with imply.
+- Example Translation: Ví dụ với imply.
 
 ---
 
-### import n.,
+## 1334. import n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[import]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with import n.,.
+- Example Translation: Ví dụ với import n.,.
 
 ---
 
-### importance
+## 1335. importance
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[importance]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with importance.
+- Example Translation: Ví dụ với importance.
 
 ---
 
-### important
+## 1336. important
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[important]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with important.
+- Example Translation: Ví dụ với important.
 
 ---
 
-### impose
+## 1337. impose
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[impose]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with impose.
+- Example Translation: Ví dụ với impose.
 
 ---
 
-### impossible
+## 1338. impossible
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[impossible]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with impossible.
+- Example Translation: Ví dụ với impossible.
 
 ---
 
-### impress
+## 1339. impress
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[impress]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with impress.
+- Example Translation: Ví dụ với impress.
 
 ---
 
-### impressed
+## 1340. impressed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[impressed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with impressed.
+- Example Translation: Ví dụ với impressed.
 
 ---
 
-### impression
+## 1341. impression
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[impression]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with impression.
+- Example Translation: Ví dụ với impression.
 
 ---
 
-### impressive
+## 1342. impressive
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[impressive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with impressive.
+- Example Translation: Ví dụ với impressive.
 
 ---
 
-### improve
+## 1343. improve
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[improve]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with improve.
+- Example Translation: Ví dụ với improve.
 
 ---
 
-### improvement
+## 1344. improvement
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[improvement]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with improvement.
+- Example Translation: Ví dụ với improvement.
 
 ---
 
-### in prep.,
+## 1345. in prep.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[in]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with in prep.,.
+- Example Translation: Ví dụ với in prep.,.
 
 ---
 
-### inch
+## 1346. inch
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[inch]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with inch.
+- Example Translation: Ví dụ với inch.
 
 ---
 
-### incident
+## 1347. incident
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[incident]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with incident.
+- Example Translation: Ví dụ với incident.
 
 ---
 
-### include
+## 1348. include
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[include]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with include.
+- Example Translation: Ví dụ với include.
 
 ---
 
-### included
+## 1349. included
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[included]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with included.
+- Example Translation: Ví dụ với included.
 
 ---
 
-### including
+## 1350. including
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A2
+- IPA (US): /[including]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with including.
+- Example Translation: Ví dụ với including.
 
 ---
 
-### income
+## 1351. income
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[income]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with income.
+- Example Translation: Ví dụ với income.
 
 ---
 
-### increase v.,
+## 1352. increase v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[increase]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with increase v.,.
+- Example Translation: Ví dụ với increase v.,.
 
 ---
 
-### increasingly
+## 1353. increasingly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[increasingly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with increasingly.
+- Example Translation: Ví dụ với increasingly.
 
 ---
 
-### incredible
+## 1354. incredible
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[incredible]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with incredible.
+- Example Translation: Ví dụ với incredible.
 
 ---
 
-### incredibly
+## 1355. incredibly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[incredibly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with incredibly.
+- Example Translation: Ví dụ với incredibly.
 
 ---
 
-### indeed
+## 1356. indeed
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[indeed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with indeed.
+- Example Translation: Ví dụ với indeed.
 
 ---
 
-### independent
+## 1357. independent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[independent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with independent.
+- Example Translation: Ví dụ với independent.
 
 ---
 
-### indicate
+## 1358. indicate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[indicate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with indicate.
+- Example Translation: Ví dụ với indicate.
 
 ---
 
-### indirect
+## 1359. indirect
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[indirect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with indirect.
+- Example Translation: Ví dụ với indirect.
 
 ---
 
-### individual n.,
+## 1360. individual n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[individual]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with individual n.,.
+- Example Translation: Ví dụ với individual n.,.
 
 ---
 
-### indoor
+## 1361. indoor
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[indoor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with indoor.
+- Example Translation: Ví dụ với indoor.
 
 ---
 
-### indoors
+## 1362. indoors
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[indoors]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with indoors.
+- Example Translation: Ví dụ với indoors.
 
 ---
 
-### industrial
+## 1363. industrial
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[industrial]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with industrial.
+- Example Translation: Ví dụ với industrial.
 
 ---
 
-### industry
+## 1364. industry
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[industry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with industry.
+- Example Translation: Ví dụ với industry.
 
 ---
 
-### infection
+## 1365. infection
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[infection]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with infection.
+- Example Translation: Ví dụ với infection.
 
 ---
 
-### influence n.,
+## 1366. influence n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[influence]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with influence n.,.
+- Example Translation: Ví dụ với influence n.,.
 
 ---
 
-### inform
+## 1367. inform
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[inform]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with inform.
+- Example Translation: Ví dụ với inform.
 
 ---
 
-### informal
+## 1368. informal
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[informal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with informal.
+- Example Translation: Ví dụ với informal.
 
 ---
 
-### information
+## 1369. information
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[information]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with information.
+- Example Translation: Ví dụ với information.
 
 ---
 
-### ingredient
+## 1370. ingredient
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[ingredient]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ingredient.
+- Example Translation: Ví dụ với ingredient.
 
 ---
 
-### initial
+## 1371. initial
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[initial]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with initial.
+- Example Translation: Ví dụ với initial.
 
 ---
 
-### initially
+## 1372. initially
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[initially]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with initially.
+- Example Translation: Ví dụ với initially.
 
 ---
 
-### initiative
+## 1373. initiative
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[initiative]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with initiative.
+- Example Translation: Ví dụ với initiative.
 
 ---
 
-### injure
+## 1374. injure
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[injure]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with injure.
+- Example Translation: Ví dụ với injure.
 
 ---
 
-### injured
+## 1375. injured
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[injured]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with injured.
+- Example Translation: Ví dụ với injured.
 
 ---
 
-### injury
+## 1376. injury
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[injury]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with injury.
+- Example Translation: Ví dụ với injury.
 
 ---
 
-### inner
+## 1377. inner
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[inner]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with inner.
+- Example Translation: Ví dụ với inner.
 
 ---
 
-### innocent
+## 1378. innocent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[innocent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with innocent.
+- Example Translation: Ví dụ với innocent.
 
 ---
 
-### inquiry
+## 1379. inquiry
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[inquiry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with inquiry.
+- Example Translation: Ví dụ với inquiry.
 
 ---
 
-### insect
+## 1380. insect
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[insect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with insect.
+- Example Translation: Ví dụ với insect.
 
 ---
 
-### inside prep., adv., n.,
+## 1381. inside prep., adv., n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[inside]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with inside prep., adv., n.,.
+- Example Translation: Ví dụ với inside prep., adv., n.,.
 
 ---
 
-### insight
+## 1382. insight
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[insight]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with insight.
+- Example Translation: Ví dụ với insight.
 
 ---
 
-### insist
+## 1383. insist
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[insist]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with insist.
+- Example Translation: Ví dụ với insist.
 
 ---
 
-### inspire
+## 1384. inspire
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[inspire]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with inspire.
+- Example Translation: Ví dụ với inspire.
 
 ---
 
-### install
+## 1385. install
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[install]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with install.
+- Example Translation: Ví dụ với install.
 
 ---
 
-### instance
+## 1386. instance
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[instance]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with instance.
+- Example Translation: Ví dụ với instance.
 
 ---
 
-### instead
+## 1387. instead
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[instead]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with instead.
+- Example Translation: Ví dụ với instead.
 
 ---
 
-### instead of
+## 1388. instead of
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A2
+- IPA (US): /[instead]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with instead of.
+- Example Translation: Ví dụ với instead of.
 
 ---
 
-### institute
+## 1389. institute
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[institute]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with institute.
+- Example Translation: Ví dụ với institute.
 
 ---
 
-### institution
+## 1390. institution
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[institution]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with institution.
+- Example Translation: Ví dụ với institution.
 
 ---
 
-### instruction
+## 1391. instruction
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[instruction]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with instruction.
+- Example Translation: Ví dụ với instruction.
 
 ---
 
-### instructor
+## 1392. instructor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[instructor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with instructor.
+- Example Translation: Ví dụ với instructor.
 
 ---
 
-### instrument
+## 1393. instrument
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[instrument]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with instrument.
+- Example Translation: Ví dụ với instrument.
 
 ---
 
-### insurance
+## 1394. insurance
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[insurance]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with insurance.
+- Example Translation: Ví dụ với insurance.
 
 ---
 
-### intelligence
+## 1395. intelligence
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[intelligence]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with intelligence.
+- Example Translation: Ví dụ với intelligence.
 
 ---
 
-### intelligent
+## 1396. intelligent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[intelligent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with intelligent.
+- Example Translation: Ví dụ với intelligent.
 
 ---
 
-### intend
+## 1397. intend
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[intend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with intend.
+- Example Translation: Ví dụ với intend.
 
 ---
 
-### intended
+## 1398. intended
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[intended]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with intended.
+- Example Translation: Ví dụ với intended.
 
 ---
 
-### intense
+## 1399. intense
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[intense]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with intense.
+- Example Translation: Ví dụ với intense.
 
 ---
 
-### intention
+## 1400. intention
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[intention]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with intention.
+- Example Translation: Ví dụ với intention.
 
 ---
 

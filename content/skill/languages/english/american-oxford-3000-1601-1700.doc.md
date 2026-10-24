@@ -12,703 +12,1203 @@ Words 1601 to 1700 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### mark v.,
+## 1601. mark v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[mark]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mark v.,.
+- Example Translation: Ví dụ với mark v.,.
 
 ---
 
-### market n. A1,
+## 1602. market n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[market]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with market n. A1,.
+- Example Translation: Ví dụ với market n. A1,.
 
 ---
 
-### marketing
+## 1603. marketing
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[marketing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with marketing.
+- Example Translation: Ví dụ với marketing.
 
 ---
 
-### marriage
+## 1604. marriage
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[marriage]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with marriage.
+- Example Translation: Ví dụ với marriage.
 
 ---
 
-### married
+## 1605. married
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[married]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with married.
+- Example Translation: Ví dụ với married.
 
 ---
 
-### marry
+## 1606. marry
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[marry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with marry.
+- Example Translation: Ví dụ với marry.
 
 ---
 
-### mass n.,
+## 1607. mass n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[mass]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mass n.,.
+- Example Translation: Ví dụ với mass n.,.
 
 ---
 
-### massive
+## 1608. massive
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[massive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with massive.
+- Example Translation: Ví dụ với massive.
 
 ---
 
-### master n.,
+## 1609. master n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[master]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with master n.,.
+- Example Translation: Ví dụ với master n.,.
 
 ---
 
-### v.
+## 1610. v.
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[v.]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with v..
+- Example Translation: Ví dụ với v..
 
 ---
 
-### matching
+## 1611. matching
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[matching]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with matching.
+- Example Translation: Ví dụ với matching.
 
 ---
 
-### material n. A2,
+## 1612. material n. A2,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[material]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with material n. A2,.
+- Example Translation: Ví dụ với material n. A2,.
 
 ---
 
-### math
+## 1613. math
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[math]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with math.
+- Example Translation: Ví dụ với math.
 
 ---
 
-### mathematics
+## 1614. mathematics
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[mathematics]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mathematics.
+- Example Translation: Ví dụ với mathematics.
 
 ---
 
-### matter n.,
+## 1615. matter n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[matter]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with matter n.,.
+- Example Translation: Ví dụ với matter n.,.
 
 ---
 
-### maximum adj.,
+## 1616. maximum adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[maximum]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with maximum adj.,.
+- Example Translation: Ví dụ với maximum adj.,.
 
 ---
 
-### May
+## 1617. May
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[may]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with May.
+- Example Translation: Ví dụ với May.
 
 ---
 
-### may modal
+## 1618. may modal
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[may]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with may modal.
+- Example Translation: Ví dụ với may modal.
 
 ---
 
-### maybe
+## 1619. maybe
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[maybe]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with maybe.
+- Example Translation: Ví dụ với maybe.
 
 ---
 
-### mayor
+## 1620. mayor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[mayor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mayor.
+- Example Translation: Ví dụ với mayor.
 
 ---
 
-### me
+## 1621. me
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[me]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with me.
+- Example Translation: Ví dụ với me.
 
 ---
 
-### meal
+## 1622. meal
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[meal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with meal.
+- Example Translation: Ví dụ với meal.
 
 ---
 
-### mean
+## 1623. mean
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[mean]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mean.
+- Example Translation: Ví dụ với mean.
 
 ---
 
-### meaning
+## 1624. meaning
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[meaning]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with meaning.
+- Example Translation: Ví dụ với meaning.
 
 ---
 
-### means
+## 1625. means
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[means]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with means.
+- Example Translation: Ví dụ với means.
 
 ---
 
-### meanwhile
+## 1626. meanwhile
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[meanwhile]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with meanwhile.
+- Example Translation: Ví dụ với meanwhile.
 
 ---
 
-### measure v.,
+## 1627. measure v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[measure]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with measure v.,.
+- Example Translation: Ví dụ với measure v.,.
 
 ---
 
-### measurement
+## 1628. measurement
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[measurement]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with measurement.
+- Example Translation: Ví dụ với measurement.
 
 ---
 
-### meat
+## 1629. meat
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[meat]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with meat.
+- Example Translation: Ví dụ với meat.
 
 ---
 
-### media
+## 1630. media
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[media]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with media.
+- Example Translation: Ví dụ với media.
 
 ---
 
-### medical
+## 1631. medical
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[medical]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with medical.
+- Example Translation: Ví dụ với medical.
 
 ---
 
-### medicine
+## 1632. medicine
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[medicine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with medicine.
+- Example Translation: Ví dụ với medicine.
 
 ---
 
-### medium adj. B1,
+## 1633. medium adj. B1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[medium]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with medium adj. B1,.
+- Example Translation: Ví dụ với medium adj. B1,.
 
 ---
 
-### meet
+## 1634. meet
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[meet]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with meet.
+- Example Translation: Ví dụ với meet.
 
 ---
 
-### meeting
+## 1635. meeting
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[meeting]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with meeting.
+- Example Translation: Ví dụ với meeting.
 
 ---
 
-### melt
+## 1636. melt
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[melt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with melt.
+- Example Translation: Ví dụ với melt.
 
 ---
 
-### member
+## 1637. member
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[member]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with member.
+- Example Translation: Ví dụ với member.
 
 ---
 
-### memory
+## 1638. memory
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[memory]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with memory.
+- Example Translation: Ví dụ với memory.
 
 ---
 
-### mental
+## 1639. mental
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[mental]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mental.
+- Example Translation: Ví dụ với mental.
 
 ---
 
-### mention v. A2,
+## 1640. mention v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[mention]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mention v. A2,.
+- Example Translation: Ví dụ với mention v. A2,.
 
 ---
 
-### menu
+## 1641. menu
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[menu]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with menu.
+- Example Translation: Ví dụ với menu.
 
 ---
 
-### mess n.,
+## 1642. mess n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[mess]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mess n.,.
+- Example Translation: Ví dụ với mess n.,.
 
 ---
 
-### message
+## 1643. message
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[message]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with message.
+- Example Translation: Ví dụ với message.
 
 ---
 
-### metal
+## 1644. metal
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[metal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with metal.
+- Example Translation: Ví dụ với metal.
 
 ---
 
-### meter
+## 1645. meter
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[meter]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with meter.
+- Example Translation: Ví dụ với meter.
 
 ---
 
-### method
+## 1646. method
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[method]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with method.
+- Example Translation: Ví dụ với method.
 
 ---
 
-### middle n.,
+## 1647. middle n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[middle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with middle n.,.
+- Example Translation: Ví dụ với middle n.,.
 
 ---
 
-### midnight
+## 1648. midnight
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[midnight]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with midnight.
+- Example Translation: Ví dụ với midnight.
 
 ---
 
-### might modal
+## 1649. might modal
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[might]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with might modal.
+- Example Translation: Ví dụ với might modal.
 
 ---
 
-### mild
+## 1650. mild
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[mild]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mild.
+- Example Translation: Ví dụ với mild.
 
 ---
 
-### mile
+## 1651. mile
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[mile]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mile.
+- Example Translation: Ví dụ với mile.
 
 ---
 
-### military adj.,
+## 1652. military adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[military]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with military adj.,.
+- Example Translation: Ví dụ với military adj.,.
 
 ---
 
-### milk
+## 1653. milk
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[milk]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with milk.
+- Example Translation: Ví dụ với milk.
 
 ---
 
-### million
+## 1654. million
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[million]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with million.
+- Example Translation: Ví dụ với million.
 
 ---
 
-### mind n.,
+## 1655. mind n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[mind]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mind n.,.
+- Example Translation: Ví dụ với mind n.,.
 
 ---
 
-### mine (belongs to me)
+## 1656. mine (belongs to me)
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A2
+- IPA (US): /[mine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mine (belongs to me).
+- Example Translation: Ví dụ với mine (belongs to me).
 
 ---
 
-### mine (hole in the ground)
+## 1657. mine (hole in the ground)
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[mine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mine (hole in the ground).
+- Example Translation: Ví dụ với mine (hole in the ground).
 
 ---
 
-### mineral
+## 1658. mineral
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[mineral]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mineral.
+- Example Translation: Ví dụ với mineral.
 
 ---
 
-### minimum adj.,
+## 1659. minimum adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[minimum]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with minimum adj.,.
+- Example Translation: Ví dụ với minimum adj.,.
 
 ---
 
-### minister
+## 1660. minister
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[minister]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with minister.
+- Example Translation: Ví dụ với minister.
 
 ---
 
-### minor
+## 1661. minor
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[minor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with minor.
+- Example Translation: Ví dụ với minor.
 
 ---
 
-### minority
+## 1662. minority
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[minority]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with minority.
+- Example Translation: Ví dụ với minority.
 
 ---
 
-### minute1
+## 1663. minute1
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[minute1]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with minute1.
+- Example Translation: Ví dụ với minute1.
 
 ---
 
-### mirror
+## 1664. mirror
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[mirror]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mirror.
+- Example Translation: Ví dụ với mirror.
 
 ---
 
-### miss
+## 1665. miss
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[miss]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with miss.
+- Example Translation: Ví dụ với miss.
 
 ---
 
-### missing
+## 1666. missing
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[missing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with missing.
+- Example Translation: Ví dụ với missing.
 
 ---
 
-### mission
+## 1667. mission
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[mission]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mission.
+- Example Translation: Ví dụ với mission.
 
 ---
 
-### mistake n. A1,
+## 1668. mistake n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[mistake]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mistake n. A1,.
+- Example Translation: Ví dụ với mistake n. A1,.
 
 ---
 
-### mix v.,
+## 1669. mix v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[mix]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mix v.,.
+- Example Translation: Ví dụ với mix v.,.
 
 ---
 
-### mixed
+## 1670. mixed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[mixed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mixed.
+- Example Translation: Ví dụ với mixed.
 
 ---
 
-### mixture
+## 1671. mixture
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[mixture]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mixture.
+- Example Translation: Ví dụ với mixture.
 
 ---
 
-### model n. A1,
+## 1672. model n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[model]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with model n. A1,.
+- Example Translation: Ví dụ với model n. A1,.
 
 ---
 
-### modern
+## 1673. modern
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[modern]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with modern.
+- Example Translation: Ví dụ với modern.
 
 ---
 
-### modify
+## 1674. modify
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[modify]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with modify.
+- Example Translation: Ví dụ với modify.
 
 ---
 
-### mom
+## 1675. mom
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[mom]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mom.
+- Example Translation: Ví dụ với mom.
 
 ---
 
-### moment
+## 1676. moment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[moment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with moment.
+- Example Translation: Ví dụ với moment.
 
 ---
 
-### Monday
+## 1677. Monday
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[monday]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with Monday.
+- Example Translation: Ví dụ với Monday.
 
 ---
 
-### money
+## 1678. money
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[money]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with money.
+- Example Translation: Ví dụ với money.
 
 ---
 
-### monitor n.,
+## 1679. monitor n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[monitor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with monitor n.,.
+- Example Translation: Ví dụ với monitor n.,.
 
 ---
 
-### monkey
+## 1680. monkey
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[monkey]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with monkey.
+- Example Translation: Ví dụ với monkey.
 
 ---
 
-### month
+## 1681. month
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[month]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with month.
+- Example Translation: Ví dụ với month.
 
 ---
 
-### mood
+## 1682. mood
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[mood]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mood.
+- Example Translation: Ví dụ với mood.
 
 ---
 
-### moon
+## 1683. moon
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[moon]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with moon.
+- Example Translation: Ví dụ với moon.
 
 ---
 
-### moral adj.,
+## 1684. moral adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[moral]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with moral adj.,.
+- Example Translation: Ví dụ với moral adj.,.
 
 ---
 
-### more det./pron.,
+## 1685. more det./pron.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[more]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with more det./pron.,.
+- Example Translation: Ví dụ với more det./pron.,.
 
 ---
 
-### morning
+## 1686. morning
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[morning]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with morning.
+- Example Translation: Ví dụ với morning.
 
 ---
 
-### most det./pron.,
+## 1687. most det./pron.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[most]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with most det./pron.,.
+- Example Translation: Ví dụ với most det./pron.,.
 
 ---
 
-### mostly
+## 1688. mostly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[mostly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mostly.
+- Example Translation: Ví dụ với mostly.
 
 ---
 
-### mother
+## 1689. mother
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[mother]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mother.
+- Example Translation: Ví dụ với mother.
 
 ---
 
-### motor n.,
+## 1690. motor n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[motor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with motor n.,.
+- Example Translation: Ví dụ với motor n.,.
 
 ---
 
-### motorcycle
+## 1691. motorcycle
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[motorcycle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with motorcycle.
+- Example Translation: Ví dụ với motorcycle.
 
 ---
 
-### mount
+## 1692. mount
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[mount]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mount.
+- Example Translation: Ví dụ với mount.
 
 ---
 
-### mountain
+## 1693. mountain
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[mountain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mountain.
+- Example Translation: Ví dụ với mountain.
 
 ---
 
-### mouse
+## 1694. mouse
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[mouse]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mouse.
+- Example Translation: Ví dụ với mouse.
 
 ---
 
-### mouth
+## 1695. mouth
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[mouth]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mouth.
+- Example Translation: Ví dụ với mouth.
 
 ---
 
-### move v. A1,
+## 1696. move v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[move]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with move v. A1,.
+- Example Translation: Ví dụ với move v. A1,.
 
 ---
 
-### movement
+## 1697. movement
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[movement]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with movement.
+- Example Translation: Ví dụ với movement.
 
 ---
 
-### movie
+## 1698. movie
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[movie]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with movie.
+- Example Translation: Ví dụ với movie.
 
 ---
 
-### much det./pron.,
+## 1699. much det./pron.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[much]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with much det./pron.,.
+- Example Translation: Ví dụ với much det./pron.,.
 
 ---
 
-### mud
+## 1700. mud
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[mud]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with mud.
+- Example Translation: Ví dụ với mud.
 
 ---
 

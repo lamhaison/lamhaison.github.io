@@ -12,703 +12,1203 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### pen
+## 1901. pen
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[pen]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pen.
+- Example Translation: Ví dụ với pen.
 
 ---
 
-### pencil
+## 1902. pencil
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[pencil]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pencil.
+- Example Translation: Ví dụ với pencil.
 
 ---
 
-### penny
+## 1903. penny
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[penny]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with penny.
+- Example Translation: Ví dụ với penny.
 
 ---
 
-### people
+## 1904. people
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[people]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with people.
+- Example Translation: Ví dụ với people.
 
 ---
 
-### pepper
+## 1905. pepper
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[pepper]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pepper.
+- Example Translation: Ví dụ với pepper.
 
 ---
 
-### per
+## 1906. per
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A2
+- IPA (US): /[per]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with per.
+- Example Translation: Ví dụ với per.
 
 ---
 
-### percent noun., adj./adv.
+## 1907. percent noun., adj./adv.
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[percent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with percent noun., adj./adv..
+- Example Translation: Ví dụ với percent noun., adj./adv..
 
 ---
 
-### percentage
+## 1908. percentage
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[percentage]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with percentage.
+- Example Translation: Ví dụ với percentage.
 
 ---
 
-### perfect
+## 1909. perfect
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[perfect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with perfect.
+- Example Translation: Ví dụ với perfect.
 
 ---
 
-### perfectly
+## 1910. perfectly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[perfectly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with perfectly.
+- Example Translation: Ví dụ với perfectly.
 
 ---
 
-### perform
+## 1911. perform
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[perform]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with perform.
+- Example Translation: Ví dụ với perform.
 
 ---
 
-### performance
+## 1912. performance
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[performance]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with performance.
+- Example Translation: Ví dụ với performance.
 
 ---
 
-### perhaps
+## 1913. perhaps
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[perhaps]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with perhaps.
+- Example Translation: Ví dụ với perhaps.
 
 ---
 
-### period
+## 1914. period
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[period]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with period.
+- Example Translation: Ví dụ với period.
 
 ---
 
-### permanent
+## 1915. permanent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[permanent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with permanent.
+- Example Translation: Ví dụ với permanent.
 
 ---
 
-### permission
+## 1916. permission
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[permission]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with permission.
+- Example Translation: Ví dụ với permission.
 
 ---
 
-### permit v.,
+## 1917. permit v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[permit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with permit v.,.
+- Example Translation: Ví dụ với permit v.,.
 
 ---
 
-### person
+## 1918. person
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[person]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with person.
+- Example Translation: Ví dụ với person.
 
 ---
 
-### personal
+## 1919. personal
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[personal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with personal.
+- Example Translation: Ví dụ với personal.
 
 ---
 
-### personality
+## 1920. personality
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[personality]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with personality.
+- Example Translation: Ví dụ với personality.
 
 ---
 
-### personally
+## 1921. personally
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[personally]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with personally.
+- Example Translation: Ví dụ với personally.
 
 ---
 
-### perspective
+## 1922. perspective
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[perspective]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with perspective.
+- Example Translation: Ví dụ với perspective.
 
 ---
 
-### persuade
+## 1923. persuade
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[persuade]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with persuade.
+- Example Translation: Ví dụ với persuade.
 
 ---
 
-### pet
+## 1924. pet
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[pet]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pet.
+- Example Translation: Ví dụ với pet.
 
 ---
 
-### phase
+## 1925. phase
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[phase]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with phase.
+- Example Translation: Ví dụ với phase.
 
 ---
 
-### phenomenon
+## 1926. phenomenon
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[phenomenon]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with phenomenon.
+- Example Translation: Ví dụ với phenomenon.
 
 ---
 
-### philosophy
+## 1927. philosophy
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[philosophy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with philosophy.
+- Example Translation: Ví dụ với philosophy.
 
 ---
 
-### phone n.,
+## 1928. phone n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[phone]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with phone n.,.
+- Example Translation: Ví dụ với phone n.,.
 
 ---
 
-### photo
+## 1929. photo
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[photo]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with photo.
+- Example Translation: Ví dụ với photo.
 
 ---
 
-### photograph n. A1,
+## 1930. photograph n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[photograph]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with photograph n. A1,.
+- Example Translation: Ví dụ với photograph n. A1,.
 
 ---
 
-### photographer
+## 1931. photographer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[photographer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with photographer.
+- Example Translation: Ví dụ với photographer.
 
 ---
 
-### photography
+## 1932. photography
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[photography]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with photography.
+- Example Translation: Ví dụ với photography.
 
 ---
 
-### phrase
+## 1933. phrase
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[phrase]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with phrase.
+- Example Translation: Ví dụ với phrase.
 
 ---
 
-### physical
+## 1934. physical
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[physical]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with physical.
+- Example Translation: Ví dụ với physical.
 
 ---
 
-### physics
+## 1935. physics
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[physics]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with physics.
+- Example Translation: Ví dụ với physics.
 
 ---
 
-### piano
+## 1936. piano
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[piano]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with piano.
+- Example Translation: Ví dụ với piano.
 
 ---
 
-### pick v. A2,
+## 1937. pick v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[pick]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pick v. A2,.
+- Example Translation: Ví dụ với pick v. A2,.
 
 ---
 
-### picture n. A1,
+## 1938. picture n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[picture]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with picture n. A1,.
+- Example Translation: Ví dụ với picture n. A1,.
 
 ---
 
-### piece
+## 1939. piece
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[piece]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with piece.
+- Example Translation: Ví dụ với piece.
 
 ---
 
-### pig
+## 1940. pig
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[pig]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pig.
+- Example Translation: Ví dụ với pig.
 
 ---
 
-### pile n.,
+## 1941. pile n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[pile]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pile n.,.
+- Example Translation: Ví dụ với pile n.,.
 
 ---
 
-### pilot
+## 1942. pilot
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[pilot]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pilot.
+- Example Translation: Ví dụ với pilot.
 
 ---
 
-### pin n.,
+## 1943. pin n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[pin]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pin n.,.
+- Example Translation: Ví dụ với pin n.,.
 
 ---
 
-### pink adj.,
+## 1944. pink adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[pink]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pink adj.,.
+- Example Translation: Ví dụ với pink adj.,.
 
 ---
 
-### pipe
+## 1945. pipe
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[pipe]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pipe.
+- Example Translation: Ví dụ với pipe.
 
 ---
 
-### pitch
+## 1946. pitch
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[pitch]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pitch.
+- Example Translation: Ví dụ với pitch.
 
 ---
 
-### pizza
+## 1947. pizza
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[pizza]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pizza.
+- Example Translation: Ví dụ với pizza.
 
 ---
 
-### place n. A1,
+## 1948. place n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[place]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with place n. A1,.
+- Example Translation: Ví dụ với place n. A1,.
 
 ---
 
-### plain
+## 1949. plain
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[plain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plain.
+- Example Translation: Ví dụ với plain.
 
 ---
 
-### plan n.,
+## 1950. plan n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[plan]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plan n.,.
+- Example Translation: Ví dụ với plan n.,.
 
 ---
 
-### plane
+## 1951. plane
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[plane]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plane.
+- Example Translation: Ví dụ với plane.
 
 ---
 
-### planet
+## 1952. planet
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[planet]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with planet.
+- Example Translation: Ví dụ với planet.
 
 ---
 
-### planning
+## 1953. planning
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[planning]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with planning.
+- Example Translation: Ví dụ với planning.
 
 ---
 
-### plant n. A1,
+## 1954. plant n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[plant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plant n. A1,.
+- Example Translation: Ví dụ với plant n. A1,.
 
 ---
 
-### plastic n.,
+## 1955. plastic n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[plastic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plastic n.,.
+- Example Translation: Ví dụ với plastic n.,.
 
 ---
 
-### plate
+## 1956. plate
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[plate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plate.
+- Example Translation: Ví dụ với plate.
 
 ---
 
-### platform
+## 1957. platform
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[platform]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with platform.
+- Example Translation: Ví dụ với platform.
 
 ---
 
-### play v.,
+## 1958. play v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[play]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with play v.,.
+- Example Translation: Ví dụ với play v.,.
 
 ---
 
-### player
+## 1959. player
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[player]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with player.
+- Example Translation: Ví dụ với player.
 
 ---
 
-### pleasant
+## 1960. pleasant
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[pleasant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pleasant.
+- Example Translation: Ví dụ với pleasant.
 
 ---
 
-### please exclam. A1,
+## 1961. please exclam. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[please]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with please exclam. A1,.
+- Example Translation: Ví dụ với please exclam. A1,.
 
 ---
 
-### pleased
+## 1962. pleased
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[pleased]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pleased.
+- Example Translation: Ví dụ với pleased.
 
 ---
 
-### pleasure
+## 1963. pleasure
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[pleasure]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pleasure.
+- Example Translation: Ví dụ với pleasure.
 
 ---
 
-### plenty
+## 1964. plenty
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: B1
+- IPA (US): /[plenty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plenty.
+- Example Translation: Ví dụ với plenty.
 
 ---
 
-### plot n. B1,
+## 1965. plot n. B1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[plot]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plot n. B1,.
+- Example Translation: Ví dụ với plot n. B1,.
 
 ---
 
-### plus1 prep. B1,  adj., conj.,
+## 1966. plus1 prep. B1,  adj., conj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[plus1]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with plus1 prep. B1,  adj., conj.,.
+- Example Translation: Ví dụ với plus1 prep. B1,  adj., conj.,.
 
 ---
 
-### pocket
+## 1967. pocket
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[pocket]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pocket.
+- Example Translation: Ví dụ với pocket.
 
 ---
 
-### podcast
+## 1968. podcast
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[podcast]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with podcast.
+- Example Translation: Ví dụ với podcast.
 
 ---
 
-### poem
+## 1969. poem
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[poem]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with poem.
+- Example Translation: Ví dụ với poem.
 
 ---
 
-### poet
+## 1970. poet
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[poet]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with poet.
+- Example Translation: Ví dụ với poet.
 
 ---
 
-### poetry
+## 1971. poetry
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[poetry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with poetry.
+- Example Translation: Ví dụ với poetry.
 
 ---
 
-### point n. A1,
+## 1972. point n. A1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[point]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with point n. A1,.
+- Example Translation: Ví dụ với point n. A1,.
 
 ---
 
-### pointed
+## 1973. pointed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[pointed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pointed.
+- Example Translation: Ví dụ với pointed.
 
 ---
 
-### poison n.,
+## 1974. poison n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[poison]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with poison n.,.
+- Example Translation: Ví dụ với poison n.,.
 
 ---
 
-### poisonous
+## 1975. poisonous
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[poisonous]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with poisonous.
+- Example Translation: Ví dụ với poisonous.
 
 ---
 
-### police
+## 1976. police
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[police]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with police.
+- Example Translation: Ví dụ với police.
 
 ---
 
-### policy
+## 1977. policy
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[policy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with policy.
+- Example Translation: Ví dụ với policy.
 
 ---
 
-### polite
+## 1978. polite
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[polite]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with polite.
+- Example Translation: Ví dụ với polite.
 
 ---
 
-### political
+## 1979. political
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[political]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with political.
+- Example Translation: Ví dụ với political.
 
 ---
 
-### politician
+## 1980. politician
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[politician]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with politician.
+- Example Translation: Ví dụ với politician.
 
 ---
 
-### politics
+## 1981. politics
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[politics]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with politics.
+- Example Translation: Ví dụ với politics.
 
 ---
 
-### pollution
+## 1982. pollution
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[pollution]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pollution.
+- Example Translation: Ví dụ với pollution.
 
 ---
 
-### pool
+## 1983. pool
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[pool]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pool.
+- Example Translation: Ví dụ với pool.
 
 ---
 
-### poor
+## 1984. poor
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[poor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with poor.
+- Example Translation: Ví dụ với poor.
 
 ---
 
-### pop n.,
+## 1985. pop n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[pop]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pop n.,.
+- Example Translation: Ví dụ với pop n.,.
 
 ---
 
-### popular
+## 1986. popular
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[popular]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with popular.
+- Example Translation: Ví dụ với popular.
 
 ---
 
-### popularity
+## 1987. popularity
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[popularity]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with popularity.
+- Example Translation: Ví dụ với popularity.
 
 ---
 
-### population
+## 1988. population
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[population]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with population.
+- Example Translation: Ví dụ với population.
 
 ---
 
-### port
+## 1989. port
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[port]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with port.
+- Example Translation: Ví dụ với port.
 
 ---
 
-### portrait
+## 1990. portrait
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[portrait]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with portrait.
+- Example Translation: Ví dụ với portrait.
 
 ---
 
-### pose
+## 1991. pose
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[pose]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with pose.
+- Example Translation: Ví dụ với pose.
 
 ---
 
-### position n. A2,
+## 1992. position n. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[position]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with position n. A2,.
+- Example Translation: Ví dụ với position n. A2,.
 
 ---
 
-### positive adj. A1,
+## 1993. positive adj. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[positive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with positive adj. A1,.
+- Example Translation: Ví dụ với positive adj. A1,.
 
 ---
 
-### possess
+## 1994. possess
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[possess]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with possess.
+- Example Translation: Ví dụ với possess.
 
 ---
 
-### possession
+## 1995. possession
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[possession]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with possession.
+- Example Translation: Ví dụ với possession.
 
 ---
 
-### possibility
+## 1996. possibility
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[possibility]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with possibility.
+- Example Translation: Ví dụ với possibility.
 
 ---
 
-### possible
+## 1997. possible
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[possible]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with possible.
+- Example Translation: Ví dụ với possible.
 
 ---
 
-### possibly
+## 1998. possibly
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[possibly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with possibly.
+- Example Translation: Ví dụ với possibly.
 
 ---
 
-### post n.,
+## 1999. post n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[post]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with post n.,.
+- Example Translation: Ví dụ với post n.,.
 
 ---
 
-### poster
+## 2000. poster
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[poster]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with poster.
+- Example Translation: Ví dụ với poster.
 
 ---
 

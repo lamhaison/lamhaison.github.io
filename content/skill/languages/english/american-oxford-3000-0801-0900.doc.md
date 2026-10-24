@@ -12,703 +12,1203 @@ Words 801 to 900 from the Oxford 3000 list - the 3000 most important words to le
 
 ---
 
-### dramatic
+## 801. dramatic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[dramatic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dramatic.
+- Example Translation: Ví dụ với dramatic.
 
 ---
 
-### draw
+## 802. draw
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[draw]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with draw.
+- Example Translation: Ví dụ với draw.
 
 ---
 
-### drawing
+## 803. drawing
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[drawing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drawing.
+- Example Translation: Ví dụ với drawing.
 
 ---
 
-### dream n.,
+## 804. dream n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[dream]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dream n.,.
+- Example Translation: Ví dụ với dream n.,.
 
 ---
 
-### dress n.,
+## 805. dress n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[dress]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dress n.,.
+- Example Translation: Ví dụ với dress n.,.
 
 ---
 
-### dressed
+## 806. dressed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[dressed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dressed.
+- Example Translation: Ví dụ với dressed.
 
 ---
 
-### drink n.,
+## 807. drink n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[drink]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drink n.,.
+- Example Translation: Ví dụ với drink n.,.
 
 ---
 
-### drive v. A1,
+## 808. drive v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[drive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drive v. A1,.
+- Example Translation: Ví dụ với drive v. A1,.
 
 ---
 
-### driver
+## 809. driver
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[driver]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with driver.
+- Example Translation: Ví dụ với driver.
 
 ---
 
-### driving
+## 810. driving
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[driving]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with driving.
+- Example Translation: Ví dụ với driving.
 
 ---
 
-### drop v. A2,
+## 811. drop v. A2,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[drop]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drop v. A2,.
+- Example Translation: Ví dụ với drop v. A2,.
 
 ---
 
-### drug
+## 812. drug
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[drug]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drug.
+- Example Translation: Ví dụ với drug.
 
 ---
 
-### drum
+## 813. drum
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[drum]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drum.
+- Example Translation: Ví dụ với drum.
 
 ---
 
-### drunk
+## 814. drunk
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[drunk]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with drunk.
+- Example Translation: Ví dụ với drunk.
 
 ---
 
-### dry adj.,
+## 815. dry adj.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[dry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dry adj.,.
+- Example Translation: Ví dụ với dry adj.,.
 
 ---
 
-### due
+## 816. due
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[due]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with due.
+- Example Translation: Ví dụ với due.
 
 ---
 
-### during
+## 817. during
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[during]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with during.
+- Example Translation: Ví dụ với during.
 
 ---
 
-### dust
+## 818. dust
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[dust]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with dust.
+- Example Translation: Ví dụ với dust.
 
 ---
 
-### duty
+## 819. duty
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[duty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with duty.
+- Example Translation: Ví dụ với duty.
 
 ---
 
-### each det./pron./adv.
+## 820. each det./pron./adv.
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[each]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with each det./pron./adv..
+- Example Translation: Ví dụ với each det./pron./adv..
 
 ---
 
-### ear
+## 821. ear
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[ear]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ear.
+- Example Translation: Ví dụ với ear.
 
 ---
 
-### early adj.,
+## 822. early adj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[early]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with early adj.,.
+- Example Translation: Ví dụ với early adj.,.
 
 ---
 
-### earn
+## 823. earn
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[earn]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with earn.
+- Example Translation: Ví dụ với earn.
 
 ---
 
-### earth
+## 824. earth
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[earth]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with earth.
+- Example Translation: Ví dụ với earth.
 
 ---
 
-### earthquake
+## 825. earthquake
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[earthquake]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with earthquake.
+- Example Translation: Ví dụ với earthquake.
 
 ---
 
-### easily
+## 826. easily
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[easily]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with easily.
+- Example Translation: Ví dụ với easily.
 
 ---
 
-### east n., adj.,
+## 827. east n., adj.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[east]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with east n., adj.,.
+- Example Translation: Ví dụ với east n., adj.,.
 
 ---
 
-### eastern
+## 828. eastern
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[eastern]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with eastern.
+- Example Translation: Ví dụ với eastern.
 
 ---
 
-### easy
+## 829. easy
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[easy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with easy.
+- Example Translation: Ví dụ với easy.
 
 ---
 
-### eat
+## 830. eat
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[eat]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with eat.
+- Example Translation: Ví dụ với eat.
 
 ---
 
-### economic
+## 831. economic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[economic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with economic.
+- Example Translation: Ví dụ với economic.
 
 ---
 
-### economy
+## 832. economy
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[economy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with economy.
+- Example Translation: Ví dụ với economy.
 
 ---
 
-### edge
+## 833. edge
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[edge]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with edge.
+- Example Translation: Ví dụ với edge.
 
 ---
 
-### edit
+## 834. edit
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[edit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with edit.
+- Example Translation: Ví dụ với edit.
 
 ---
 
-### edition
+## 835. edition
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[edition]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with edition.
+- Example Translation: Ví dụ với edition.
 
 ---
 
-### editor
+## 836. editor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[editor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with editor.
+- Example Translation: Ví dụ với editor.
 
 ---
 
-### educate
+## 837. educate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[educate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with educate.
+- Example Translation: Ví dụ với educate.
 
 ---
 
-### educated
+## 838. educated
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[educated]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with educated.
+- Example Translation: Ví dụ với educated.
 
 ---
 
-### education
+## 839. education
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[education]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with education.
+- Example Translation: Ví dụ với education.
 
 ---
 
-### educational
+## 840. educational
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[educational]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with educational.
+- Example Translation: Ví dụ với educational.
 
 ---
 
-### effect
+## 841. effect
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[effect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with effect.
+- Example Translation: Ví dụ với effect.
 
 ---
 
-### effective
+## 842. effective
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[effective]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with effective.
+- Example Translation: Ví dụ với effective.
 
 ---
 
-### effectively
+## 843. effectively
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[effectively]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with effectively.
+- Example Translation: Ví dụ với effectively.
 
 ---
 
-### efficient
+## 844. efficient
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[efficient]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with efficient.
+- Example Translation: Ví dụ với efficient.
 
 ---
 
-### effort
+## 845. effort
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[effort]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with effort.
+- Example Translation: Ví dụ với effort.
 
 ---
 
-### egg
+## 846. egg
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[egg]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with egg.
+- Example Translation: Ví dụ với egg.
 
 ---
 
-### eight
+## 847. eight
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[eight]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with eight.
+- Example Translation: Ví dụ với eight.
 
 ---
 
-### eighteen
+## 848. eighteen
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[eighteen]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with eighteen.
+- Example Translation: Ví dụ với eighteen.
 
 ---
 
-### eighty
+## 849. eighty
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[eighty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with eighty.
+- Example Translation: Ví dụ với eighty.
 
 ---
 
-### either det./pron.,
+## 850. either det./pron.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[either]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with either det./pron.,.
+- Example Translation: Ví dụ với either det./pron.,.
 
 ---
 
-### elderly
+## 851. elderly
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[elderly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with elderly.
+- Example Translation: Ví dụ với elderly.
 
 ---
 
-### elect
+## 852. elect
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[elect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with elect.
+- Example Translation: Ví dụ với elect.
 
 ---
 
-### election
+## 853. election
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[election]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with election.
+- Example Translation: Ví dụ với election.
 
 ---
 
-### electric
+## 854. electric
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[electric]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with electric.
+- Example Translation: Ví dụ với electric.
 
 ---
 
-### electrical
+## 855. electrical
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[electrical]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with electrical.
+- Example Translation: Ví dụ với electrical.
 
 ---
 
-### electricity
+## 856. electricity
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[electricity]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with electricity.
+- Example Translation: Ví dụ với electricity.
 
 ---
 
-### electronic
+## 857. electronic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[electronic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with electronic.
+- Example Translation: Ví dụ với electronic.
 
 ---
 
-### element
+## 858. element
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[element]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with element.
+- Example Translation: Ví dụ với element.
 
 ---
 
-### elephant
+## 859. elephant
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[elephant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with elephant.
+- Example Translation: Ví dụ với elephant.
 
 ---
 
-### elevator
+## 860. elevator
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[elevator]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with elevator.
+- Example Translation: Ví dụ với elevator.
 
 ---
 
-### eleven
+## 861. eleven
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[eleven]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with eleven.
+- Example Translation: Ví dụ với eleven.
 
 ---
 
-### else
+## 862. else
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[else]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with else.
+- Example Translation: Ví dụ với else.
 
 ---
 
-### elsewhere
+## 863. elsewhere
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[elsewhere]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with elsewhere.
+- Example Translation: Ví dụ với elsewhere.
 
 ---
 
-### email n.,
+## 864. email n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[email]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with email n.,.
+- Example Translation: Ví dụ với email n.,.
 
 ---
 
-### embarrassed
+## 865. embarrassed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[embarrassed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with embarrassed.
+- Example Translation: Ví dụ với embarrassed.
 
 ---
 
-### embarrassing
+## 866. embarrassing
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[embarrassing]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with embarrassing.
+- Example Translation: Ví dụ với embarrassing.
 
 ---
 
-### emerge
+## 867. emerge
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[emerge]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with emerge.
+- Example Translation: Ví dụ với emerge.
 
 ---
 
-### emergency
+## 868. emergency
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[emergency]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with emergency.
+- Example Translation: Ví dụ với emergency.
 
 ---
 
-### emotion
+## 869. emotion
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[emotion]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with emotion.
+- Example Translation: Ví dụ với emotion.
 
 ---
 
-### emotional
+## 870. emotional
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[emotional]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with emotional.
+- Example Translation: Ví dụ với emotional.
 
 ---
 
-### emphasis
+## 871. emphasis
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[emphasis]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with emphasis.
+- Example Translation: Ví dụ với emphasis.
 
 ---
 
-### emphasize
+## 872. emphasize
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[emphasize]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with emphasize.
+- Example Translation: Ví dụ với emphasize.
 
 ---
 
-### employ
+## 873. employ
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[employ]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with employ.
+- Example Translation: Ví dụ với employ.
 
 ---
 
-### employee
+## 874. employee
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[employee]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with employee.
+- Example Translation: Ví dụ với employee.
 
 ---
 
-### employer
+## 875. employer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[employer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with employer.
+- Example Translation: Ví dụ với employer.
 
 ---
 
-### employment
+## 876. employment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[employment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with employment.
+- Example Translation: Ví dụ với employment.
 
 ---
 
-### empty adj. A2,
+## 877. empty adj. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[empty]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with empty adj. A2,.
+- Example Translation: Ví dụ với empty adj. A2,.
 
 ---
 
-### enable
+## 878. enable
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[enable]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enable.
+- Example Translation: Ví dụ với enable.
 
 ---
 
-### encounter v.,
+## 879. encounter v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[encounter]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with encounter v.,.
+- Example Translation: Ví dụ với encounter v.,.
 
 ---
 
-### encourage
+## 880. encourage
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[encourage]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with encourage.
+- Example Translation: Ví dụ với encourage.
 
 ---
 
-### end n.,
+## 881. end n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[end]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with end n.,.
+- Example Translation: Ví dụ với end n.,.
 
 ---
 
-### ending
+## 882. ending
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[ending]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ending.
+- Example Translation: Ví dụ với ending.
 
 ---
 
-### enemy
+## 883. enemy
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[enemy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enemy.
+- Example Translation: Ví dụ với enemy.
 
 ---
 
-### energy
+## 884. energy
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[energy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with energy.
+- Example Translation: Ví dụ với energy.
 
 ---
 
-### engage
+## 885. engage
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[engage]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with engage.
+- Example Translation: Ví dụ với engage.
 
 ---
 
-### engaged
+## 886. engaged
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[engaged]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with engaged.
+- Example Translation: Ví dụ với engaged.
 
 ---
 
-### engine
+## 887. engine
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[engine]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with engine.
+- Example Translation: Ví dụ với engine.
 
 ---
 
-### engineer
+## 888. engineer
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[engineer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with engineer.
+- Example Translation: Ví dụ với engineer.
 
 ---
 
-### engineering
+## 889. engineering
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[engineering]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with engineering.
+- Example Translation: Ví dụ với engineering.
 
 ---
 
-### enhance
+## 890. enhance
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[enhance]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enhance.
+- Example Translation: Ví dụ với enhance.
 
 ---
 
-### enjoy
+## 891. enjoy
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[enjoy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enjoy.
+- Example Translation: Ví dụ với enjoy.
 
 ---
 
-### enormous
+## 892. enormous
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[enormous]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enormous.
+- Example Translation: Ví dụ với enormous.
 
 ---
 
-### enough det., pron.,
+## 893. enough det., pron.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[enough]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enough det., pron.,.
+- Example Translation: Ví dụ với enough det., pron.,.
 
 ---
 
-### ensure
+## 894. ensure
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[ensure]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ensure.
+- Example Translation: Ví dụ với ensure.
 
 ---
 
-### enter
+## 895. enter
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[enter]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enter.
+- Example Translation: Ví dụ với enter.
 
 ---
 
-### entertain
+## 896. entertain
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[entertain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with entertain.
+- Example Translation: Ví dụ với entertain.
 
 ---
 
-### entertainment
+## 897. entertainment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[entertainment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with entertainment.
+- Example Translation: Ví dụ với entertainment.
 
 ---
 
-### enthusiasm
+## 898. enthusiasm
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[enthusiasm]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enthusiasm.
+- Example Translation: Ví dụ với enthusiasm.
 
 ---
 
-### enthusiastic
+## 899. enthusiastic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[enthusiastic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with enthusiastic.
+- Example Translation: Ví dụ với enthusiastic.
 
 ---
 
-### entire
+## 900. entire
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[entire]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with entire.
+- Example Translation: Ví dụ với entire.
 
 ---
 

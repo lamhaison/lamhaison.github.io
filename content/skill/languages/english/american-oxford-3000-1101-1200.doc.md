@@ -12,703 +12,1203 @@ Words 1101 to 1200 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### fourteen
+## 1101. fourteen
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[fourteen]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fourteen.
+- Example Translation: Ví dụ với fourteen.
 
 ---
 
-### fourth
+## 1102. fourth
 
 - Type: number
 - CEFR Level: A1
+- IPA (US): /[fourth]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fourth.
+- Example Translation: Ví dụ với fourth.
 
 ---
 
-### frame n.,
+## 1103. frame n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[frame]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with frame n.,.
+- Example Translation: Ví dụ với frame n.,.
 
 ---
 
-### free adj. A1, adv. A2,
+## 1104. free adj. A1, adv. A2,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[free]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with free adj. A1, adv. A2,.
+- Example Translation: Ví dụ với free adj. A1, adv. A2,.
 
 ---
 
-### freedom
+## 1105. freedom
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[freedom]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with freedom.
+- Example Translation: Ví dụ với freedom.
 
 ---
 
-### freeze
+## 1106. freeze
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[freeze]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with freeze.
+- Example Translation: Ví dụ với freeze.
 
 ---
 
-### frequency
+## 1107. frequency
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[frequency]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with frequency.
+- Example Translation: Ví dụ với frequency.
 
 ---
 
-### frequently
+## 1108. frequently
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[frequently]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with frequently.
+- Example Translation: Ví dụ với frequently.
 
 ---
 
-### fresh
+## 1109. fresh
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[fresh]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fresh.
+- Example Translation: Ví dụ với fresh.
 
 ---
 
-### Friday
+## 1110. Friday
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[friday]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with Friday.
+- Example Translation: Ví dụ với Friday.
 
 ---
 
-### friend
+## 1111. friend
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[friend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with friend.
+- Example Translation: Ví dụ với friend.
 
 ---
 
-### friendly
+## 1112. friendly
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[friendly]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with friendly.
+- Example Translation: Ví dụ với friendly.
 
 ---
 
-### friendship
+## 1113. friendship
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[friendship]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with friendship.
+- Example Translation: Ví dụ với friendship.
 
 ---
 
-### frighten
+## 1114. frighten
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[frighten]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with frighten.
+- Example Translation: Ví dụ với frighten.
 
 ---
 
-### frightened
+## 1115. frightened
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[frightened]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with frightened.
+- Example Translation: Ví dụ với frightened.
 
 ---
 
-### frightening
+## 1116. frightening
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[frightening]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with frightening.
+- Example Translation: Ví dụ với frightening.
 
 ---
 
-### frog
+## 1117. frog
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[frog]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with frog.
+- Example Translation: Ví dụ với frog.
 
 ---
 
-### from
+## 1118. from
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[from]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with from.
+- Example Translation: Ví dụ với from.
 
 ---
 
-### front n.,
+## 1119. front n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[front]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with front n.,.
+- Example Translation: Ví dụ với front n.,.
 
 ---
 
-### frozen
+## 1120. frozen
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[frozen]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with frozen.
+- Example Translation: Ví dụ với frozen.
 
 ---
 
-### fruit
+## 1121. fruit
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[fruit]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fruit.
+- Example Translation: Ví dụ với fruit.
 
 ---
 
-### fry
+## 1122. fry
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[fry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fry.
+- Example Translation: Ví dụ với fry.
 
 ---
 
-### fuel n. B1,
+## 1123. fuel n. B1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[fuel]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fuel n. B1,.
+- Example Translation: Ví dụ với fuel n. B1,.
 
 ---
 
-### full
+## 1124. full
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[full]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with full.
+- Example Translation: Ví dụ với full.
 
 ---
 
-### fully
+## 1125. fully
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[fully]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fully.
+- Example Translation: Ví dụ với fully.
 
 ---
 
-### fun n. A1,
+## 1126. fun n. A1,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[fun]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fun n. A1,.
+- Example Translation: Ví dụ với fun n. A1,.
 
 ---
 
-### function n. B1,
+## 1127. function n. B1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[function]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with function n. B1,.
+- Example Translation: Ví dụ với function n. B1,.
 
 ---
 
-### fund n.,
+## 1128. fund n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[fund]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fund n.,.
+- Example Translation: Ví dụ với fund n.,.
 
 ---
 
-### fundamental
+## 1129. fundamental
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[fundamental]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fundamental.
+- Example Translation: Ví dụ với fundamental.
 
 ---
 
-### funding
+## 1130. funding
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[funding]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with funding.
+- Example Translation: Ví dụ với funding.
 
 ---
 
-### funny
+## 1131. funny
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[funny]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with funny.
+- Example Translation: Ví dụ với funny.
 
 ---
 
-### fur
+## 1132. fur
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[fur]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with fur.
+- Example Translation: Ví dụ với fur.
 
 ---
 
-### furniture
+## 1133. furniture
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[furniture]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with furniture.
+- Example Translation: Ví dụ với furniture.
 
 ---
 
-### further adj. A2,
+## 1134. further adj. A2,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[further]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with further adj. A2,.
+- Example Translation: Ví dụ với further adj. A2,.
 
 ---
 
-### furthermore
+## 1135. furthermore
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[furthermore]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with furthermore.
+- Example Translation: Ví dụ với furthermore.
 
 ---
 
-### future n. A1,
+## 1136. future n. A1,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[future]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with future n. A1,.
+- Example Translation: Ví dụ với future n. A1,.
 
 ---
 
-### gain v.,
+## 1137. gain v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[gain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gain v.,.
+- Example Translation: Ví dụ với gain v.,.
 
 ---
 
-### gallery
+## 1138. gallery
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[gallery]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gallery.
+- Example Translation: Ví dụ với gallery.
 
 ---
 
-### game
+## 1139. game
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[game]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with game.
+- Example Translation: Ví dụ với game.
 
 ---
 
-### gang
+## 1140. gang
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[gang]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gang.
+- Example Translation: Ví dụ với gang.
 
 ---
 
-### gap
+## 1141. gap
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[gap]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gap.
+- Example Translation: Ví dụ với gap.
 
 ---
 
-### garage
+## 1142. garage
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[garage]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with garage.
+- Example Translation: Ví dụ với garage.
 
 ---
 
-### garbage
+## 1143. garbage
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[garbage]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with garbage.
+- Example Translation: Ví dụ với garbage.
 
 ---
 
-### garden
+## 1144. garden
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[garden]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with garden.
+- Example Translation: Ví dụ với garden.
 
 ---
 
-### gas
+## 1145. gas
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[gas]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gas.
+- Example Translation: Ví dụ với gas.
 
 ---
 
-### gate
+## 1146. gate
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[gate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gate.
+- Example Translation: Ví dụ với gate.
 
 ---
 
-### gather
+## 1147. gather
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[gather]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gather.
+- Example Translation: Ví dụ với gather.
 
 ---
 
-### gender
+## 1148. gender
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[gender]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gender.
+- Example Translation: Ví dụ với gender.
 
 ---
 
-### general
+## 1149. general
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[general]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with general.
+- Example Translation: Ví dụ với general.
 
 ---
 
-### generally
+## 1150. generally
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[generally]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with generally.
+- Example Translation: Ví dụ với generally.
 
 ---
 
-### generate
+## 1151. generate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[generate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with generate.
+- Example Translation: Ví dụ với generate.
 
 ---
 
-### generation
+## 1152. generation
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[generation]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with generation.
+- Example Translation: Ví dụ với generation.
 
 ---
 
-### generous
+## 1153. generous
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[generous]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with generous.
+- Example Translation: Ví dụ với generous.
 
 ---
 
-### genre
+## 1154. genre
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[genre]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with genre.
+- Example Translation: Ví dụ với genre.
 
 ---
 
-### gentle
+## 1155. gentle
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[gentle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gentle.
+- Example Translation: Ví dụ với gentle.
 
 ---
 
-### geography
+## 1156. geography
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[geography]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with geography.
+- Example Translation: Ví dụ với geography.
 
 ---
 
-### get
+## 1157. get
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[get]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with get.
+- Example Translation: Ví dụ với get.
 
 ---
 
-### ghost
+## 1158. ghost
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[ghost]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ghost.
+- Example Translation: Ví dụ với ghost.
 
 ---
 
-### giant adj.,
+## 1159. giant adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[giant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with giant adj.,.
+- Example Translation: Ví dụ với giant adj.,.
 
 ---
 
-### gift
+## 1160. gift
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[gift]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gift.
+- Example Translation: Ví dụ với gift.
 
 ---
 
-### girl
+## 1161. girl
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[girl]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with girl.
+- Example Translation: Ví dụ với girl.
 
 ---
 
-### girlfriend
+## 1162. girlfriend
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[girlfriend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with girlfriend.
+- Example Translation: Ví dụ với girlfriend.
 
 ---
 
-### give
+## 1163. give
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[give]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with give.
+- Example Translation: Ví dụ với give.
 
 ---
 
-### glad
+## 1164. glad
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[glad]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with glad.
+- Example Translation: Ví dụ với glad.
 
 ---
 
-### glass
+## 1165. glass
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[glass]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with glass.
+- Example Translation: Ví dụ với glass.
 
 ---
 
-### global
+## 1166. global
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[global]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with global.
+- Example Translation: Ví dụ với global.
 
 ---
 
-### glove
+## 1167. glove
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[glove]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with glove.
+- Example Translation: Ví dụ với glove.
 
 ---
 
-### go v. A1,
+## 1168. go v. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[go]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with go v. A1,.
+- Example Translation: Ví dụ với go v. A1,.
 
 ---
 
-### goal
+## 1169. goal
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[goal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with goal.
+- Example Translation: Ví dụ với goal.
 
 ---
 
-### god
+## 1170. god
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[god]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with god.
+- Example Translation: Ví dụ với god.
 
 ---
 
-### gold n.,
+## 1171. gold n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[gold]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gold n.,.
+- Example Translation: Ví dụ với gold n.,.
 
 ---
 
-### golf
+## 1172. golf
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[golf]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with golf.
+- Example Translation: Ví dụ với golf.
 
 ---
 
-### good adj. A1,
+## 1173. good adj. A1,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[good]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with good adj. A1,.
+- Example Translation: Ví dụ với good adj. A1,.
 
 ---
 
-### goodbye exclam./n.
+## 1174. goodbye exclam./n.
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[goodbye]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with goodbye exclam./n..
+- Example Translation: Ví dụ với goodbye exclam./n..
 
 ---
 
-### goods
+## 1175. goods
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[goods]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with goods.
+- Example Translation: Ví dụ với goods.
 
 ---
 
-### govern
+## 1176. govern
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[govern]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with govern.
+- Example Translation: Ví dụ với govern.
 
 ---
 
-### government
+## 1177. government
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[government]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with government.
+- Example Translation: Ví dụ với government.
 
 ---
 
-### governor
+## 1178. governor
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[governor]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with governor.
+- Example Translation: Ví dụ với governor.
 
 ---
 
-### grab
+## 1179. grab
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[grab]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grab.
+- Example Translation: Ví dụ với grab.
 
 ---
 
-### grade n. B1,
+## 1180. grade n. B1,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[grade]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grade n. B1,.
+- Example Translation: Ví dụ với grade n. B1,.
 
 ---
 
-### gradually
+## 1181. gradually
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[gradually]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gradually.
+- Example Translation: Ví dụ với gradually.
 
 ---
 
-### graduate n.,
+## 1182. graduate n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[graduate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with graduate n.,.
+- Example Translation: Ví dụ với graduate n.,.
 
 ---
 
-### grain
+## 1183. grain
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[grain]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grain.
+- Example Translation: Ví dụ với grain.
 
 ---
 
-### grand
+## 1184. grand
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[grand]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grand.
+- Example Translation: Ví dụ với grand.
 
 ---
 
-### grandfather
+## 1185. grandfather
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[grandfather]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grandfather.
+- Example Translation: Ví dụ với grandfather.
 
 ---
 
-### grandmother
+## 1186. grandmother
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[grandmother]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grandmother.
+- Example Translation: Ví dụ với grandmother.
 
 ---
 
-### grandparent
+## 1187. grandparent
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[grandparent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grandparent.
+- Example Translation: Ví dụ với grandparent.
 
 ---
 
-### grant v.,
+## 1188. grant v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[grant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grant v.,.
+- Example Translation: Ví dụ với grant v.,.
 
 ---
 
-### grass
+## 1189. grass
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[grass]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grass.
+- Example Translation: Ví dụ với grass.
 
 ---
 
-### grateful
+## 1190. grateful
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[grateful]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grateful.
+- Example Translation: Ví dụ với grateful.
 
 ---
 
-### gray adj.,
+## 1191. gray adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[gray]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with gray adj.,.
+- Example Translation: Ví dụ với gray adj.,.
 
 ---
 
-### great
+## 1192. great
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[great]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with great.
+- Example Translation: Ví dụ với great.
 
 ---
 
-### green adj.,
+## 1193. green adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[green]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with green adj.,.
+- Example Translation: Ví dụ với green adj.,.
 
 ---
 
-### greet
+## 1194. greet
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[greet]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with greet.
+- Example Translation: Ví dụ với greet.
 
 ---
 
-### grocery
+## 1195. grocery
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[grocery]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grocery.
+- Example Translation: Ví dụ với grocery.
 
 ---
 
-### ground
+## 1196. ground
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[ground]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ground.
+- Example Translation: Ví dụ với ground.
 
 ---
 
-### group
+## 1197. group
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[group]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with group.
+- Example Translation: Ví dụ với group.
 
 ---
 
-### grow
+## 1198. grow
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[grow]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with grow.
+- Example Translation: Ví dụ với grow.
 
 ---
 
-### growth
+## 1199. growth
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[growth]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with growth.
+- Example Translation: Ví dụ với growth.
 
 ---
 
-### guarantee v.,
+## 1200. guarantee v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[guarantee]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with guarantee v.,.
+- Example Translation: Ví dụ với guarantee v.,.
 
 ---
 

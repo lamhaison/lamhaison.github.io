@@ -12,703 +12,1203 @@ Words 101 to 200 from the Oxford 3000 list - the 3000 most important words to le
 
 ---
 
-### analysis
+## 101. analysis
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[analysis]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with analysis.
+- Example Translation: Ví dụ với analysis.
 
 ---
 
-### analyze
+## 102. analyze
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[analyze]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with analyze.
+- Example Translation: Ví dụ với analyze.
 
 ---
 
-### ancient
+## 103. ancient
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[ancient]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ancient.
+- Example Translation: Ví dụ với ancient.
 
 ---
 
-### an
+## 104. an
 
-- Type: indefinite article
+- Type: Indefinite Article
 - CEFR Level: A1
+- IPA (US): /[an]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with an.
+- Example Translation: Ví dụ với an.
 
 ---
 
-### and
+## 105. and
 
-- Type: conj.
+- Type: Conjunction (conj.)
 - CEFR Level: A1
+- IPA (US): /[and]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with and.
+- Example Translation: Ví dụ với and.
 
 ---
 
-### anger
+## 106. anger
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[anger]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anger.
+- Example Translation: Ví dụ với anger.
 
 ---
 
-### angle
+## 107. angle
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[angle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with angle.
+- Example Translation: Ví dụ với angle.
 
 ---
 
-### angry
+## 108. angry
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A1
+- IPA (US): /[angry]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with angry.
+- Example Translation: Ví dụ với angry.
 
 ---
 
-### animal
+## 109. animal
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[animal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with animal.
+- Example Translation: Ví dụ với animal.
 
 ---
 
-### ankle
+## 110. ankle
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[ankle]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ankle.
+- Example Translation: Ví dụ với ankle.
 
 ---
 
-### anniversary
+## 111. anniversary
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[anniversary]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anniversary.
+- Example Translation: Ví dụ với anniversary.
 
 ---
 
-### announce
+## 112. announce
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[announce]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with announce.
+- Example Translation: Ví dụ với announce.
 
 ---
 
-### announcement
+## 113. announcement
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[announcement]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with announcement.
+- Example Translation: Ví dụ với announcement.
 
 ---
 
-### annoy
+## 114. annoy
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[annoy]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with annoy.
+- Example Translation: Ví dụ với annoy.
 
 ---
 
-### annoyed
+## 115. annoyed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[annoyed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with annoyed.
+- Example Translation: Ví dụ với annoyed.
 
 ---
 
-### annoying
+## 116. annoying
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B1
+- IPA (US): /[annoying]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with annoying.
+- Example Translation: Ví dụ với annoying.
 
 ---
 
-### annual
+## 117. annual
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[annual]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with annual.
+- Example Translation: Ví dụ với annual.
 
 ---
 
-### another det./pron.
+## 118. another det./pron.
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[another]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with another det./pron..
+- Example Translation: Ví dụ với another det./pron..
 
 ---
 
-### answer n.,
+## 119. answer n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[answer]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with answer n.,.
+- Example Translation: Ví dụ với answer n.,.
 
 ---
 
-### anxious
+## 120. anxious
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[anxious]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anxious.
+- Example Translation: Ví dụ với anxious.
 
 ---
 
-### any det., pron. A1,
+## 121. any det., pron. A1,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[any]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with any det., pron. A1,.
+- Example Translation: Ví dụ với any det., pron. A1,.
 
 ---
 
-### anybody
+## 122. anybody
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A2
+- IPA (US): /[anybody]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anybody.
+- Example Translation: Ví dụ với anybody.
 
 ---
 
-### anymore
+## 123. anymore
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[anymore]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anymore.
+- Example Translation: Ví dụ với anymore.
 
 ---
 
-### anyone
+## 124. anyone
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[anyone]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anyone.
+- Example Translation: Ví dụ với anyone.
 
 ---
 
-### anything
+## 125. anything
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A1
+- IPA (US): /[anything]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anything.
+- Example Translation: Ví dụ với anything.
 
 ---
 
-### anyway
+## 126. anyway
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A2
+- IPA (US): /[anyway]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anyway.
+- Example Translation: Ví dụ với anyway.
 
 ---
 
-### anywhere adv.,
+## 127. anywhere adv.,
 
-- Type: pron.
+- Type: Pronoun (pron.)
 - CEFR Level: A2
+- IPA (US): /[anywhere]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with anywhere adv.,.
+- Example Translation: Ví dụ với anywhere adv.,.
 
 ---
 
-### apart
+## 128. apart
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[apart]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with apart.
+- Example Translation: Ví dụ với apart.
 
 ---
 
-### apartment
+## 129. apartment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[apartment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with apartment.
+- Example Translation: Ví dụ với apartment.
 
 ---
 
-### apologize
+## 130. apologize
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[apologize]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with apologize.
+- Example Translation: Ví dụ với apologize.
 
 ---
 
-### app
+## 131. app
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[app]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with app.
+- Example Translation: Ví dụ với app.
 
 ---
 
-### apparent
+## 132. apparent
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[apparent]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with apparent.
+- Example Translation: Ví dụ với apparent.
 
 ---
 
-### apparently
+## 133. apparently
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B2
+- IPA (US): /[apparently]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with apparently.
+- Example Translation: Ví dụ với apparently.
 
 ---
 
-### appeal n.,
+## 134. appeal n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[appeal]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with appeal n.,.
+- Example Translation: Ví dụ với appeal n.,.
 
 ---
 
-### appear
+## 135. appear
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[appear]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with appear.
+- Example Translation: Ví dụ với appear.
 
 ---
 
-### appearance
+## 136. appearance
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[appearance]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with appearance.
+- Example Translation: Ví dụ với appearance.
 
 ---
 
-### apple
+## 137. apple
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[apple]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with apple.
+- Example Translation: Ví dụ với apple.
 
 ---
 
-### application
+## 138. application
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[application]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with application.
+- Example Translation: Ví dụ với application.
 
 ---
 
-### apply
+## 139. apply
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[apply]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with apply.
+- Example Translation: Ví dụ với apply.
 
 ---
 
-### appointment
+## 140. appointment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[appointment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with appointment.
+- Example Translation: Ví dụ với appointment.
 
 ---
 
-### appreciate
+## 141. appreciate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[appreciate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with appreciate.
+- Example Translation: Ví dụ với appreciate.
 
 ---
 
-### approach n.,
+## 142. approach n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[approach]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with approach n.,.
+- Example Translation: Ví dụ với approach n.,.
 
 ---
 
-### appropriate
+## 143. appropriate
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[appropriate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with appropriate.
+- Example Translation: Ví dụ với appropriate.
 
 ---
 
-### approval
+## 144. approval
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[approval]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with approval.
+- Example Translation: Ví dụ với approval.
 
 ---
 
-### approve
+## 145. approve
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[approve]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with approve.
+- Example Translation: Ví dụ với approve.
 
 ---
 
-### approximately
+## 146. approximately
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[approximately]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with approximately.
+- Example Translation: Ví dụ với approximately.
 
 ---
 
-### April
+## 147. April
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[april]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with April.
+- Example Translation: Ví dụ với April.
 
 ---
 
-### architect
+## 148. architect
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[architect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with architect.
+- Example Translation: Ví dụ với architect.
 
 ---
 
-### architecture
+## 149. architecture
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[architecture]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with architecture.
+- Example Translation: Ví dụ với architecture.
 
 ---
 
-### area
+## 150. area
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[area]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with area.
+- Example Translation: Ví dụ với area.
 
 ---
 
-### argue
+## 151. argue
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[argue]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with argue.
+- Example Translation: Ví dụ với argue.
 
 ---
 
-### argument
+## 152. argument
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[argument]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with argument.
+- Example Translation: Ví dụ với argument.
 
 ---
 
-### arise
+## 153. arise
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[arise]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with arise.
+- Example Translation: Ví dụ với arise.
 
 ---
 
-### arm
+## 154. arm
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[arm]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with arm.
+- Example Translation: Ví dụ với arm.
 
 ---
 
-### armed
+## 155. armed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[armed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with armed.
+- Example Translation: Ví dụ với armed.
 
 ---
 
-### arms
+## 156. arms
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[arms]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with arms.
+- Example Translation: Ví dụ với arms.
 
 ---
 
-### army
+## 157. army
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[army]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with army.
+- Example Translation: Ví dụ với army.
 
 ---
 
-### around prep.,
+## 158. around prep.,
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: A1
+- IPA (US): /[around]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with around prep.,.
+- Example Translation: Ví dụ với around prep.,.
 
 ---
 
-### arrange
+## 159. arrange
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[arrange]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with arrange.
+- Example Translation: Ví dụ với arrange.
 
 ---
 
-### arrangement
+## 160. arrangement
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[arrangement]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with arrangement.
+- Example Translation: Ví dụ với arrangement.
 
 ---
 
-### arrest v.,
+## 161. arrest v.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[arrest]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with arrest v.,.
+- Example Translation: Ví dụ với arrest v.,.
 
 ---
 
-### arrival
+## 162. arrival
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[arrival]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with arrival.
+- Example Translation: Ví dụ với arrival.
 
 ---
 
-### arrive
+## 163. arrive
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[arrive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with arrive.
+- Example Translation: Ví dụ với arrive.
 
 ---
 
-### art
+## 164. art
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[art]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with art.
+- Example Translation: Ví dụ với art.
 
 ---
 
-### article
+## 165. article
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[article]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with article.
+- Example Translation: Ví dụ với article.
 
 ---
 
-### artificial
+## 166. artificial
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[artificial]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with artificial.
+- Example Translation: Ví dụ với artificial.
 
 ---
 
-### artist
+## 167. artist
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[artist]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with artist.
+- Example Translation: Ví dụ với artist.
 
 ---
 
-### artistic
+## 168. artistic
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[artistic]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with artistic.
+- Example Translation: Ví dụ với artistic.
 
 ---
 
-### as prep. A1, adv.,
+## 169. as prep. A1, adv.,
 
-- Type: conj.
+- Type: Conjunction (conj.)
 - CEFR Level: A2
+- IPA (US): /[as]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with as prep. A1, adv.,.
+- Example Translation: Ví dụ với as prep. A1, adv.,.
 
 ---
 
-### ashamed
+## 170. ashamed
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[ashamed]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ashamed.
+- Example Translation: Ví dụ với ashamed.
 
 ---
 
-### aside
+## 171. aside
 
-- Type: adv.
+- Type: Adverb (adv.)
 - CEFR Level: B1
+- IPA (US): /[aside]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with aside.
+- Example Translation: Ví dụ với aside.
 
 ---
 
-### asleep
+## 172. asleep
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[asleep]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with asleep.
+- Example Translation: Ví dụ với asleep.
 
 ---
 
-### ask
+## 173. ask
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A1
+- IPA (US): /[ask]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with ask.
+- Example Translation: Ví dụ với ask.
 
 ---
 
-### aspect
+## 174. aspect
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[aspect]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with aspect.
+- Example Translation: Ví dụ với aspect.
 
 ---
 
-### assess
+## 175. assess
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[assess]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with assess.
+- Example Translation: Ví dụ với assess.
 
 ---
 
-### assessment
+## 176. assessment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[assessment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with assessment.
+- Example Translation: Ví dụ với assessment.
 
 ---
 
-### assignment
+## 177. assignment
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[assignment]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with assignment.
+- Example Translation: Ví dụ với assignment.
 
 ---
 
-### assist
+## 178. assist
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[assist]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with assist.
+- Example Translation: Ví dụ với assist.
 
 ---
 
-### assistant n.,
+## 179. assistant n.,
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[assistant]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with assistant n.,.
+- Example Translation: Ví dụ với assistant n.,.
 
 ---
 
-### associate
+## 180. associate
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[associate]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with associate.
+- Example Translation: Ví dụ với associate.
 
 ---
 
-### associated
+## 181. associated
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: B2
+- IPA (US): /[associated]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with associated.
+- Example Translation: Ví dụ với associated.
 
 ---
 
-### association
+## 182. association
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[association]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with association.
+- Example Translation: Ví dụ với association.
 
 ---
 
-### assume
+## 183. assume
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[assume]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with assume.
+- Example Translation: Ví dụ với assume.
 
 ---
 
-### at
+## 184. at
 
-- Type: prep.
+- Type: Preposition (prep.)
 - CEFR Level: A1
+- IPA (US): /[at]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with at.
+- Example Translation: Ví dụ với at.
 
 ---
 
-### athlete
+## 185. athlete
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[athlete]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with athlete.
+- Example Translation: Ví dụ với athlete.
 
 ---
 
-### atmosphere
+## 186. atmosphere
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[atmosphere]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with atmosphere.
+- Example Translation: Ví dụ với atmosphere.
 
 ---
 
-### attach
+## 187. attach
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[attach]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attach.
+- Example Translation: Ví dụ với attach.
 
 ---
 
-### attack n.,
+## 188. attack n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[attack]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attack n.,.
+- Example Translation: Ví dụ với attack n.,.
 
 ---
 
-### attempt n.,
+## 189. attempt n.,
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B2
+- IPA (US): /[attempt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attempt n.,.
+- Example Translation: Ví dụ với attempt n.,.
 
 ---
 
-### attend
+## 190. attend
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: A2
+- IPA (US): /[attend]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attend.
+- Example Translation: Ví dụ với attend.
 
 ---
 
-### attention
+## 191. attention
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[attention]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attention.
+- Example Translation: Ví dụ với attention.
 
 ---
 
-### attitude
+## 192. attitude
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[attitude]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attitude.
+- Example Translation: Ví dụ với attitude.
 
 ---
 
-### attorney
+## 193. attorney
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[attorney]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attorney.
+- Example Translation: Ví dụ với attorney.
 
 ---
 
-### attract
+## 194. attract
 
-- Type: v.
+- Type: Verb (v.)
 - CEFR Level: B1
+- IPA (US): /[attract]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attract.
+- Example Translation: Ví dụ với attract.
 
 ---
 
-### attraction
+## 195. attraction
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B1
+- IPA (US): /[attraction]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attraction.
+- Example Translation: Ví dụ với attraction.
 
 ---
 
-### attractive
+## 196. attractive
 
-- Type: adj.
+- Type: Adjective (adj.)
 - CEFR Level: A2
+- IPA (US): /[attractive]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with attractive.
+- Example Translation: Ví dụ với attractive.
 
 ---
 
-### audience
+## 197. audience
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[audience]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with audience.
+- Example Translation: Ví dụ với audience.
 
 ---
 
-### audio adj.,
+## 198. audio adj.,
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A2
+- IPA (US): /[audio]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with audio adj.,.
+- Example Translation: Ví dụ với audio adj.,.
 
 ---
 
-### August
+## 199. August
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[august]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with August.
+- Example Translation: Ví dụ với August.
 
 ---
 
-### aunt
+## 200. aunt
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: A1
+- IPA (US): /[aunt]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with aunt.
+- Example Translation: Ví dụ với aunt.
 
 ---
 

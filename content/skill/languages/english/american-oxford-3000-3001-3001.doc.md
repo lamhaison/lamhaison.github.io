@@ -12,10 +12,15 @@ Words 3001 to 3001 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-### zone
+## 3001. zone
 
-- Type: n.
+- Type: Noun (n.)
 - CEFR Level: B2
+- IPA (US): /[zone]/
+- English Meaning: To be added
+- Vietnamese Meaning: Cần được thêm vào
+- Example: Example with zone.
+- Example Translation: Ví dụ với zone.
 
 ---
 
