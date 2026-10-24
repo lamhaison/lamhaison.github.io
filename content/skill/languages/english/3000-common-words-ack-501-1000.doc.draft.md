@@ -1,12 +1,12 @@
 ---
 sections: [Languages]
-id: english-3000-common-words-1001-1500
+id: english-3000-common-words-501-1000
 pageUrl: https://lamhaison.github.io
 pageLabel: English 3000 Common Words
-tags: [english, 3000, common, word, language, 1001-1500]
+tags: [english, 3000, common, word, language, 501-1000]
 ---
 
-## Q: **[common - 3000 - words]  3000 Most Common American English Words (1001-1500)?**
+## Q: **[common - 3000 - words]  3000 Most Common American English Words (501-1000)?**
 
 ## 501. meeting
 
