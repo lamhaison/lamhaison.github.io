@@ -11,18 +11,11 @@ tags: [english, american, oxford, 3000, common, word, language, words-3001-3001]
 Words 3001 to 3001 from the Oxford 3000 list - the 3000 most important words to learn in English from A1 to B2 level.
 
 ---
-
-## 3001. zone
-
-- Type: Noun (n.)
+### 3001. zone
+- Type: Noun
 - CEFR Level: B2
-- IPA (US): /[zone]/
-- English Meaning: To be added
-- Vietnamese Meaning: Cần được thêm vào
-- Example: Example with zone.
-- Example Translation: Ví dụ với zone.
-
----
-
-This document contains 1 words from the Oxford 3000 American English list (words 3001-3001).
-CEFR Levels: A1 (elementary), A2 (elementary), B1 (intermediate), B2 (upper-intermediate).
+- IPA (US): /zoʊn/
+- English Meaning: An area that is set apart for a particular purpose or activity.
+- Vietnamese Meaning: Khu vực; vùng.
+- Example: This is a no-parking zone.
+- Example Translation: Đây là khu vực cấm đỗ xe.
