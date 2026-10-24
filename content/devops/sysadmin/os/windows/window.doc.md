@@ -1,12 +1,11 @@
 ---
-sections: [SYSADMIN, SysAdmin-Windows, DevOps]
-subsections: [SysAdmin-Windows]
+sections: [Windows, DevOps]
+subsections: []
 id: windows-commands-reference
 pageUrl: https://lamhaison.github.io
 pageLabel: Windows Commands Reference
 tags: [windows, commands, reference, sysadmin, powershell, troubleshooting]
 ---
-
 
 ## Q: **[windows - commands - reference - troubleshooting] What are the essential Windows commands for system administration and troubleshooting?**
 
@@ -435,7 +434,38 @@ Get-WebCertificate -Name "Default Web Site"       # Show certificate
 ```
 
 
-## Q: **[windows - powershell - commands - reference - administration] What are the essential Windows PowerShell and command-line tools for system administration?**
+
+
+```powershell
+ipconfig /all
+ipconfig /flushdns
+ipconfig /registerdns
+
+nslookup hostname
+nslookup -type=SRV _ldap._tcp.domain.local
+
+Resolve-DnsName domain.local
+
+Get-DnsServerZone
+
+Get-DnsServerResourceRecord
+```
+
+x
+
+```powershell
+Get-GPO
+
+New-GPO
+
+New-GPLink
+
+gpupdate
+
+gpresult
+```
+
+## Q: **[windows - powershell - commands - reference - administration - raw-data - full-command] What are the essential Windows PowerShell and command-line tools for system administration?**
 
 ```powershell
 azure_ad.cmd.ps1:nltest /dsgetdc:lab.example.com # Get the domain controller for the specified domain (lab.example.com) using nltest command.
