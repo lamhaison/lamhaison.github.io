@@ -4,10 +4,10 @@ section: Redis
 id: redis-commands-reference
 pageUrl: https://lamhaison.github.io
 pageLabel: Redis Commands Reference
-tags: [redis, commands, reference, database, memory, cache, debugging]
+tags: [redis, database, caching]
 ---
 
-## Q: **[redis - commands - debugging - reference] What are the essential Redis commands and connection testing?**
+## Q: **[redis - command - debug - reference - telnet] What are the essential Redis commands and connection testing?**
 
 Comprehensive reference for Redis commands organized by category with real-world examples for connection testing, key management, and data operations.
 
@@ -144,7 +144,7 @@ INFO replication           # Master/slave information
 * [Redis Commands](https://redis.io/commands/)
 * [Google Cloud Memorystore for Redis](https://cloud.google.com/memorystore/docs/redis)
 
-## Q: **[redis - caching - patterns - best-practices - pattern] What are the common Redis caching patterns and strategies?**
+## Q: **[redis - caching - best-practices - pattern] What are the common Redis caching patterns and strategies?**
 
 Redis caching patterns help optimize application performance and data consistency. Common patterns include Cache-Aside, Write-Through, and Write-Behind.
 
