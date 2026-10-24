@@ -1711,6 +1711,7 @@ tags: [english, 3000, common, word, language, 1-500]
 ## 176. consider
 
 - Type: Verb (v.)
+- CEFR Level: A1
 - IPA (US): /kənˈsɪdər/
 - English Meaning: To think carefully about something before making a decision.
 - Vietnamese Meaning: Cân nhắc; xem xét.
