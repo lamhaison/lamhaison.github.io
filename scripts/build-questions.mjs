@@ -433,8 +433,8 @@ function parseDocQuestions(markdown, fallbackId, filePath = '') {
     }
   }
 
-  // Find all Q: headers
-  const questionPattern = /^##\s+Q:\s+\*\*\[([^\]]+)\]\s+(.+?)\*\*\s*$/gm;
+  // Find all Q: headers (tags in [] can be empty)
+  const questionPattern = /^##\s+Q:\s+\*\*\[([^\]]*)\]\s+(.+?)\*\*\s*$/gm;
   const matches = [...body.matchAll(questionPattern)];
 
   if (matches.length === 0) {
