@@ -33,6 +33,67 @@ function stem(word) {
   return word;
 }
 
+// Levenshtein distance - calculates minimum edits needed to transform one string to another
+// Used for fuzzy matching to tolerate typos
+function levenshteinDistance(a, b) {
+  const matrix = [];
+
+  for (let i = 0; i <= b.length; i++) {
+    matrix[i] = [i];
+  }
+
+  for (let j = 0; j <= a.length; j++) {
+    matrix[0][j] = j;
+  }
+
+  for (let i = 1; i <= b.length; i++) {
+    for (let j = 1; j <= a.length; j++) {
+      if (b.charAt(i - 1) === a.charAt(j - 1)) {
+        matrix[i][j] = matrix[i - 1][j - 1];
+      } else {
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j - 1] + 1, // substitution
+          matrix[i][j - 1] + 1,     // insertion
+          matrix[i - 1][j] + 1      // deletion
+        );
+      }
+    }
+  }
+
+  return matrix[b.length][a.length];
+}
+
+// Check if token fuzzy-matches a word (within edit distance)
+// E.g., "rediss" matches "redis" (1 edit distance)
+function isFuzzyMatch(token, word, maxDistance = 1) {
+  // Only use fuzzy matching for queries of reasonable length
+  if (token.length < 3) return false;
+  
+  const distance = levenshteinDistance(token, word);
+  
+  // Allow up to 2 edits for reasonable typo tolerance
+  // But require word length to be similar (prevent false positives)
+  const lengthDiff = Math.abs(token.length - word.length);
+  
+  // Stricter: max 1 edit for short words, max 2 for longer words
+  const maxEdit = token.length > 6 ? 2 : 1;
+  
+  return distance > 0 && distance <= maxEdit && lengthDiff <= 2;
+}
+
+// Check if token fuzzy-matches any word in haystack
+function occursWithFuzzy(haystack, token) {
+  const words = haystack.split(/[^a-z0-9]+/);
+  
+  for (const word of words) {
+    if (word && isFuzzyMatch(token, word)) {
+      return true;
+    }
+  }
+  
+  return false;
+}
+
 function occurs(haystack, token) {
   let from = 0;
 
@@ -103,9 +164,19 @@ function scoreOne(question, tokens, rawQuery) {
 
   for (const token of tokens) {
     const inTitle = occurs(title, token);
-    // Try exact match first, then stemming-based match, then prefix match for tags
-    const inTags = occurs(tags, token) || occursWithStemming(tags, token) || occursAsPrefix(tags, token);
-    const inGroup = occurs(group, token) || occursWithStemming(group, token) || occursAsPrefix(group, token);
+    // Try 4 strategies in order (most to least strict):
+    // 1. Exact match (full word boundaries)
+    // 2. Stemming match (plural/verb forms)
+    // 3. Prefix match (partial category names like "dev" → "devops")
+    // 4. Fuzzy match (typo tolerance like "rediss" → "redis")
+    const inTags = occurs(tags, token) || 
+                   occursWithStemming(tags, token) || 
+                   occursAsPrefix(tags, token) ||
+                   occursWithFuzzy(tags, token);
+    const inGroup = occurs(group, token) || 
+                    occursWithStemming(group, token) || 
+                    occursAsPrefix(group, token) ||
+                    occursWithFuzzy(group, token);
     const inAnswer = occurs(answer, token);
 
     if (!inTitle && !inTags && !inGroup && !inAnswer) {
