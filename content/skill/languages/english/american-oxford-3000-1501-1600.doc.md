@@ -982,12 +982,4 @@ Words 1501 to 1600 from the Oxford 3000 list - the 3000 most important words to 
 - Example: The course begins in March.
 - Example Translation: Khóa học bắt đầu vào tháng Ba.
 
-## 1600. mark
 
-- Type: Noun, Verb
-- CEFR Level: A2
-- IPA (US): /mɑːrk/
-- English Meaning: A symbol, sign, or score; to make a sign.
-- Vietnamese Meaning: Dấu hiệu; điểm số; đánh dấu.
-- Example: She got a high mark on the test.
-- Example Translation: Cô ấy đạt điểm cao trong bài kiểm tra.

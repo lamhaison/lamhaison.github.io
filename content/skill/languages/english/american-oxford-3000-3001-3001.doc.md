@@ -10,9 +10,7 @@ tags: [english, american, oxford, 3000, common, word, language, words-3001-3001]
 
 Words 3001 to 3001 from the Oxford 3000 list - the 3000 most important words to learn in English from A1 to B2 level.
 
-
-
-### 3001. zone
+## 3001. zone
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /zoʊn/

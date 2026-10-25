@@ -12,97 +12,167 @@ Words 2001 to 2100 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-## 2001. powder
+## 2001. pot
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /pɑːt/
+- English Meaning: A deep round container used for cooking or holding plants.
+- Vietnamese Meaning: Nồi; chậu.
+- Example: She cooked soup in a large pot.
+- Example Translation: Cô ấy nấu súp trong một cái nồi lớn.
+
+## 2002. potato
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /pəˈteɪtoʊ/
+- English Meaning: A round vegetable that grows underground.
+- Vietnamese Meaning: Khoai tây.
+- Example: Potatoes are a common food around the world.
+- Example Translation: Khoai tây là một loại thực phẩm phổ biến trên thế giới.
+
+## 2003. potential
+
+- Type: Adjective, Noun
+- CEFR Level: B2
+- IPA (US): /pəˈtenʃl/
+- English Meaning: Having the possibility to develop or succeed; capability.
+- Vietnamese Meaning: Tiềm năng.
+- Example: She has the potential to become a great leader.
+- Example Translation: Cô ấy có tiềm năng trở thành một nhà lãnh đạo xuất sắc.
+
+## 2004. pound
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /paʊnd/
+- English Meaning: A unit of weight or the currency of the UK.
+- Vietnamese Meaning: Pound; bảng Anh.
+- Example: The package weighs two pounds.
+- Example Translation: Gói hàng nặng hai pound.
+
+## 2005. pour
+
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /pɔːr/
+- English Meaning: To make a liquid flow from one container to another.
+- Vietnamese Meaning: Rót.
+- Example: Please pour me a glass of water.
+- Example Translation: Làm ơn rót cho tôi một cốc nước.
+
+## 2006. poverty
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ˈpɑːvərti/
+- English Meaning: The state of being extremely poor.
+- Vietnamese Meaning: Nghèo đói.
+- Example: Many organizations work to reduce poverty.
+- Example Translation: Nhiều tổ chức đang nỗ lực giảm nghèo đói.
+
+## 2007. powder
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈpaʊdər/
-- English Meaning: A dry substance made of very small grains.
+- English Meaning: A dry substance made of very small particles.
 - Vietnamese Meaning: Bột.
 - Example: Mix the powder with water.
-- Example Translation: Hãy trộn bột với nước.
+- Example Translation: Trộn bột với nước.
 
-## 2002. power
+## 2008. power
 
-- Type: Noun
-- CEFR Level: A2
+- Type: Noun, Verb
+- CEFR Level: A2, B2
 - IPA (US): /ˈpaʊər/
-- English Meaning: The ability to control people or things; energy.
-- Vietnamese Meaning: Quyền lực; năng lượng.
+- English Meaning: Energy, strength, or control; to provide energy.
+- Vietnamese Meaning: Quyền lực; điện năng; cung cấp năng lượng.
 - Example: The storm caused a power outage.
-- Example Translation: Cơn bão gây mất điện.
+- Example Translation: Cơn bão đã gây mất điện.
 
-## 2003. powerful
+## 2009. powerful
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈpaʊərfl/
 - English Meaning: Having great power or strength.
-- Vietnamese Meaning: Mạnh mẽ.
+- Vietnamese Meaning: Mạnh mẽ; có quyền lực.
 - Example: She gave a powerful speech.
 - Example Translation: Cô ấy đã có một bài phát biểu đầy sức mạnh.
 
-## 2004. practical
+## 2010. practical
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈpræktɪkl/
-- English Meaning: Useful and suitable for real situations.
+- English Meaning: Useful and sensible in real situations.
 - Vietnamese Meaning: Thực tế; thiết thực.
 - Example: That's a practical solution.
 - Example Translation: Đó là một giải pháp thiết thực.
 
-## 2005. practice
+## 2011. practice
 
 - Type: Noun, Verb
 - CEFR Level: A1
 - IPA (US): /ˈpræktɪs/
-- English Meaning: Repeated activity to improve a skill.
+- English Meaning: Repeated exercise to improve a skill; to do repeatedly.
 - Vietnamese Meaning: Sự luyện tập; luyện tập.
-- Example: Practice makes perfect.
-- Example Translation: Có công mài sắt, có ngày nên kim.
+- Example: You need practice to improve your English.
+- Example Translation: Bạn cần luyện tập để cải thiện tiếng Anh.
 
-## 2006. praise
+## 2012. praise
 
 - Type: Noun, Verb
 - CEFR Level: B2
 - IPA (US): /preɪz/
-- English Meaning: Approval or admiration for someone.
+- English Meaning: Approval or admiration; to express admiration.
 - Vietnamese Meaning: Lời khen; khen ngợi.
-- Example: The teacher praised her effort.
-- Example Translation: Giáo viên khen ngợi nỗ lực của cô ấy.
+- Example: The teacher praised her hard work.
+- Example Translation: Giáo viên đã khen ngợi sự chăm chỉ của cô ấy.
 
-## 2007. pray
+## 2013. pray
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /preɪ/
-- English Meaning: To speak to a god in order to give thanks or ask for help.
+- English Meaning: To speak to God or another deity.
 - Vietnamese Meaning: Cầu nguyện.
 - Example: They prayed for peace.
 - Example Translation: Họ cầu nguyện cho hòa bình.
 
-## 2008. prayer
+## 2014. prayer
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /prer/
-- English Meaning: Words spoken when praying.
+- English Meaning: The act or words of praying.
 - Vietnamese Meaning: Lời cầu nguyện.
-- Example: She said a prayer before dinner.
-- Example Translation: Cô ấy cầu nguyện trước bữa tối.
+- Example: She said a short prayer.
+- Example Translation: Cô ấy đọc một lời cầu nguyện ngắn.
 
-## 2009. predict
+## 2015. predict
 
 - Type: Verb
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /prɪˈdɪkt/
-- English Meaning: To say what will happen in the future.
+- English Meaning: To say what you think will happen in the future.
 - Vietnamese Meaning: Dự đoán.
-- Example: Scientists predict higher temperatures.
-- Example Translation: Các nhà khoa học dự đoán nhiệt độ sẽ tăng.
+- Example: Experts predict rain tomorrow.
+- Example Translation: Các chuyên gia dự đoán ngày mai sẽ có mưa.
 
-## 2010. prefer
+## 2016. prediction
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /prɪˈdɪkʃn/
+- English Meaning: A statement about what will happen in the future.
+- Vietnamese Meaning: Sự dự đoán.
+- Example: His prediction was correct.
+- Example Translation: Dự đoán của anh ấy là chính xác.
+
+## 2017. prefer
 
 - Type: Verb
 - CEFR Level: A1
@@ -112,87 +182,88 @@ Words 2001 to 2100 from the Oxford 3000 list - the 3000 most important words to 
 - Example: I prefer tea to coffee.
 - Example Translation: Tôi thích trà hơn cà phê.
 
-## 2011. preference
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /ˈprefrəns/
-- English Meaning: A greater liking for one thing over another.
-- Vietnamese Meaning: Sở thích; sự ưu tiên.
-- Example: Personal preference varies.
-- Example Translation: Sở thích cá nhân khác nhau.
-
-## 2012. pregnant
+## 2018. pregnant
 
 - Type: Adjective
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ˈpreɡnənt/
 - English Meaning: Having a baby developing inside the body.
 - Vietnamese Meaning: Mang thai.
-- Example: She is six months pregnant.
-- Example Translation: Cô ấy đang mang thai sáu tháng.
+- Example: She is pregnant with her first child.
+- Example Translation: Cô ấy đang mang thai đứa con đầu lòng.
 
-## 2013. preparation
+## 2019. preparation
 
 - Type: Noun
-- CEFR Level: B1
-- IPA (US): /ˌprepəˈreɪʃən/
-- English Meaning: The process of getting ready.
+- CEFR Level: B2
+- IPA (US): /ˌprepəˈreɪʃn/
+- English Meaning: The act of getting ready for something.
 - Vietnamese Meaning: Sự chuẩn bị.
-- Example: Good preparation leads to success.
-- Example Translation: Chuẩn bị tốt dẫn đến thành công.
+- Example: Careful preparation is important for success.
+- Example Translation: Sự chuẩn bị kỹ lưỡng rất quan trọng cho thành công.
 
-## 2014. prepare
+## 2020. prepare
 
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /prɪˈper/
-- English Meaning: To make ready.
+- English Meaning: To make ready for a particular purpose or event.
 - Vietnamese Meaning: Chuẩn bị.
-- Example: I need to prepare for the test.
-- Example Translation: Tôi cần chuẩn bị cho bài kiểm tra.
+- Example: We need to prepare for the meeting.
+- Example Translation: Chúng ta cần chuẩn bị cho cuộc họp.
 
-## 2015. presence
+
+## 2021. prepared
+
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /prɪˈperd/
+- English Meaning: Ready and able to deal with something.
+- Vietnamese Meaning: Được chuẩn bị; sẵn sàng.
+- Example: We are prepared for the exam.
+- Example Translation: Chúng tôi đã sẵn sàng cho kỳ thi.
+
+## 2022. presence
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˈprezns/
-- English Meaning: The fact of being in a place.
+- IPA (US): /ˈprezəns/
+- English Meaning: The state of being in a particular place.
 - Vietnamese Meaning: Sự hiện diện.
 - Example: Her presence made everyone feel comfortable.
 - Example Translation: Sự hiện diện của cô ấy khiến mọi người cảm thấy thoải mái.
 
-## 2016. present
+## 2023. present
 
 - Type: Adjective, Noun, Verb
-- CEFR Level: A2, B1
-- IPA (US): /ˈpreznt/, /prɪˈzent/
-- English Meaning: Existing now; a gift; to show or give.
+- CEFR Level: A1, A2
+- IPA (US): /ˈpreznt/ (adj., n.), /prɪˈzent/ (v.)
+- English Meaning: Existing now; a gift; to show or give something formally.
 - Vietnamese Meaning: Hiện tại; món quà; trình bày.
-- Example: He presented the award to the winner.
-- Example Translation: Anh ấy trao giải thưởng cho người chiến thắng.
+- Example: She presented the report to the team.
+- Example Translation: Cô ấy đã trình bày báo cáo cho nhóm.
 
-## 2017. presentation
+## 2024. presentation
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /ˌpreznˈteɪʃən/
+- IPA (US): /ˌpriːzenˈteɪʃn/
 - English Meaning: A talk in which information is given to an audience.
 - Vietnamese Meaning: Bài thuyết trình.
-- Example: She gave a presentation on climate change.
-- Example Translation: Cô ấy thuyết trình về biến đổi khí hậu.
+- Example: His presentation was very informative.
+- Example Translation: Bài thuyết trình của anh ấy rất bổ ích.
 
-## 2018. preserve
+## 2025. preserve
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /prɪˈzɜːrv/
-- English Meaning: To keep something in its original state.
-- Vietnamese Meaning: Bảo tồn.
-- Example: We must preserve historical sites.
-- Example Translation: Chúng ta phải bảo tồn các di tích lịch sử.
+- English Meaning: To protect something and keep it in good condition.
+- Vietnamese Meaning: Bảo tồn; gìn giữ.
+- Example: We must preserve the environment.
+- Example Translation: Chúng ta phải bảo vệ môi trường.
 
-## 2019. president
+## 2026. president
 
 - Type: Noun
 - CEFR Level: A2
@@ -200,659 +271,680 @@ Words 2001 to 2100 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: The leader of a country or organization.
 - Vietnamese Meaning: Tổng thống; chủ tịch.
 - Example: The president addressed the nation.
-- Example Translation: Tổng thống phát biểu trước quốc dân.
+- Example Translation: Tổng thống đã phát biểu trước toàn quốc.
 
-## 2020. press
+## 2027. press
 
 - Type: Verb, Noun
 - CEFR Level: B1
 - IPA (US): /pres/
-- English Meaning: To push something; newspapers and journalists.
-- Vietnamese Meaning: Ấn; báo chí.
-- Example: Press the button to start.
-- Example Translation: Nhấn nút để bắt đầu.
+- English Meaning: To push firmly; newspapers and news organizations.
+- Vietnamese Meaning: Nhấn; báo chí.
+- Example: Press the button to start the machine.
+- Example Translation: Nhấn nút để khởi động máy.
 
-## 2021. pressure
+## 2028. pressure
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈpreʃər/
-- English Meaning: Force applied to something or stress.
+- English Meaning: The force applied to something; stress caused by demands.
 - Vietnamese Meaning: Áp lực.
-- Example: He works well under pressure.
-- Example Translation: Anh ấy làm việc tốt dưới áp lực.
+- Example: She works well under pressure.
+- Example Translation: Cô ấy làm việc tốt dưới áp lực.
 
-## 2022. pretend
+## 2029. pretend
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /prɪˈtend/
-- English Meaning: To act as if something is true when it is not.
+- English Meaning: To behave as if something is true when it is not.
 - Vietnamese Meaning: Giả vờ.
-- Example: The children pretended to be astronauts.
-- Example Translation: Những đứa trẻ giả vờ là phi hành gia.
+- Example: The child pretended to be a doctor.
+- Example Translation: Đứa trẻ giả vờ làm bác sĩ.
 
-## 2023. pretty
+## 2030. pretty
 
 - Type: Adjective, Adverb
 - CEFR Level: A1
 - IPA (US): /ˈprɪti/
-- English Meaning: Attractive; fairly.
+- English Meaning: Attractive; fairly or quite.
 - Vietnamese Meaning: Xinh đẹp; khá.
-- Example: She is wearing a pretty dress.
-- Example Translation: Cô ấy đang mặc một chiếc váy đẹp.
+- Example: She is a pretty girl.
+- Example Translation: Cô ấy là một cô gái xinh đẹp.
 
-## 2024. prevent
+## 2031. prevent
 
 - Type: Verb
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /prɪˈvent/
 - English Meaning: To stop something from happening.
 - Vietnamese Meaning: Ngăn chặn.
-- Example: Exercise helps prevent disease.
-- Example Translation: Tập thể dục giúp ngăn ngừa bệnh tật.
+- Example: Exercise can prevent health problems.
+- Example Translation: Tập thể dục có thể ngăn ngừa các vấn đề sức khỏe.
 
-## 2025. previous
+## 2032. previous
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈpriːviəs/
-- English Meaning: Happening before.
+- English Meaning: Happening or existing before.
 - Vietnamese Meaning: Trước đó.
-- Example: Please refer to the previous chapter.
-- Example Translation: Hãy tham khảo chương trước.
+- Example: I have experience from my previous job.
+- Example Translation: Tôi có kinh nghiệm từ công việc trước đây.
 
-## 2026. previously
+## 2033. previously
 
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ˈpriːviəsli/
-- English Meaning: Before now.
+- English Meaning: Before the present time.
 - Vietnamese Meaning: Trước đây.
-- Example: She had previously worked in London.
-- Example Translation: Trước đây cô ấy từng làm việc tại London.
+- Example: She had previously lived in Canada.
+- Example Translation: Trước đây cô ấy đã từng sống ở Canada.
 
-## 2027. price
+## 2034. price
 
-- Type: Noun
-- CEFR Level: A1
+- Type: Noun, Verb
+- CEFR Level: A1, B2
 - IPA (US): /praɪs/
 - English Meaning: The amount of money needed to buy something.
-- Vietnamese Meaning: Giá cả.
-- Example: The price of food has increased.
-- Example Translation: Giá thực phẩm đã tăng.
+- Vietnamese Meaning: Giá; định giá.
+- Example: The price of fuel has increased.
+- Example Translation: Giá nhiên liệu đã tăng.
 
-## 2028. pride
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /praɪd/
-- English Meaning: A feeling of satisfaction in achievements.
-- Vietnamese Meaning: Niềm tự hào.
-- Example: She felt pride in her work.
-- Example Translation: Cô ấy cảm thấy tự hào về công việc của mình.
-
-## 2029. priest
+## 2035. priest
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /priːst/
-- English Meaning: A religious leader in some religions.
-- Vietnamese Meaning: Linh mục.
+- English Meaning: A person qualified to perform religious duties.
+- Vietnamese Meaning: Linh mục; tu sĩ.
 - Example: The priest led the ceremony.
-- Example Translation: Linh mục chủ trì buổi lễ.
+- Example Translation: Vị linh mục đã chủ trì buổi lễ.
 
-## 2030. primary
+## 2036. primary
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈpraɪmeri/
-- English Meaning: Main or most important.
-- Vietnamese Meaning: Chính; chủ yếu.
-- Example: Safety is our primary concern.
-- Example Translation: An toàn là mối quan tâm chính của chúng tôi.
+- English Meaning: Most important; first in order.
+- Vietnamese Meaning: Chính; chủ yếu; sơ cấp.
+- Example: Our primary concern is safety.
+- Example Translation: Mối quan tâm chính của chúng tôi là sự an toàn.
 
-## 2031. prime
+## 2037. prime
 
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /praɪm/
-- English Meaning: Most important or best.
-- Vietnamese Meaning: Hàng đầu; chủ yếu.
-- Example: This area is prime real estate.
-- Example Translation: Khu vực này là bất động sản hàng đầu.
+- English Meaning: Main, most important, or best.
+- Vietnamese Meaning: Chủ yếu; tốt nhất.
+- Example: This location is prime real estate.
+- Example Translation: Đây là vị trí bất động sản đắc địa.
 
-## 2032. prince
+## 2038. prince
 
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /prɪns/
-- English Meaning: The son of a king or queen.
+- English Meaning: A male member of a royal family.
 - Vietnamese Meaning: Hoàng tử.
-- Example: The prince attended the ceremony.
-- Example Translation: Hoàng tử tham dự buổi lễ.
+- Example: The prince attended the event.
+- Example Translation: Hoàng tử đã tham dự sự kiện.
 
-## 2033. princess
+## 2039. princess
 
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /ˌprɪnˈses/
-- English Meaning: The daughter of a king or queen.
+- English Meaning: A female member of a royal family.
 - Vietnamese Meaning: Công chúa.
-- Example: The princess greeted the crowd.
-- Example Translation: Công chúa chào đón đám đông.
+- Example: The children listened to a story about a princess.
+- Example Translation: Bọn trẻ nghe một câu chuyện về công chúa.
 
-## 2034. principal
+## 2040. principal
 
 - Type: Noun, Adjective
-- CEFR Level: B1
+- CEFR Level: B1, B2
 - IPA (US): /ˈprɪnsəpl/
-- English Meaning: The head of a school; main.
+- English Meaning: The head of a school; most important.
 - Vietnamese Meaning: Hiệu trưởng; chính yếu.
-- Example: The principal spoke to the students.
-- Example Translation: Hiệu trưởng đã nói chuyện với học sinh.
+- Example: The principal spoke to all students.
+- Example Translation: Hiệu trưởng đã nói chuyện với toàn thể học sinh.
 
-## 2035. principle
+## 2041. principle
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈprɪnsəpl/
-- English Meaning: A basic truth or rule.
-- Vietnamese Meaning: Nguyên tắc.
-- Example: Honesty is an important principle.
-- Example Translation: Trung thực là một nguyên tắc quan trọng.
+- English Meaning: A basic rule, belief, or idea that guides behavior or reasoning.
+- Vietnamese Meaning: Nguyên tắc; nguyên lý.
+- Example: Honesty is one of her core principles.
+- Example Translation: Sự trung thực là một trong những nguyên tắc cốt lõi của cô ấy.
 
-## 2036. print
+## 2042. print
 
 - Type: Verb, Noun
-- CEFR Level: A2
+- CEFR Level: A2, B2
 - IPA (US): /prɪnt/
-- English Meaning: To produce text or images on paper.
+- English Meaning: To produce text or images on paper; printed text or pictures.
 - Vietnamese Meaning: In; bản in.
-- Example: Please print this document.
-- Example Translation: Hãy in tài liệu này.
+- Example: Please print a copy of the report.
+- Example Translation: Vui lòng in một bản sao của báo cáo.
 
-## 2037. printer
+## 2043. printer
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈprɪntər/
-- English Meaning: A machine that prints documents.
+- English Meaning: A machine used for printing documents or images.
 - Vietnamese Meaning: Máy in.
 - Example: The printer is out of paper.
 - Example Translation: Máy in đã hết giấy.
 
-## 2038. priority
+## 2044. printing
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ˈprɪntɪŋ/
+- English Meaning: The process or business of producing printed material.
+- Vietnamese Meaning: Việc in ấn.
+- Example: Modern printing technology is very efficient.
+- Example Translation: Công nghệ in ấn hiện đại rất hiệu quả.
+
+## 2045. priority
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /praɪˈɔːrəti/
-- English Meaning: Something more important than other things.
+- English Meaning: Something that is considered more important than other things.
 - Vietnamese Meaning: Ưu tiên.
-- Example: Education should be a priority.
-- Example Translation: Giáo dục nên là ưu tiên hàng đầu.
+- Example: Safety is our top priority.
+- Example Translation: An toàn là ưu tiên hàng đầu của chúng tôi.
 
-## 2039. prison
+## 2046. prison
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈprɪzn/
+- English Meaning: A place where criminals are kept as punishment.
+- Vietnamese Meaning: Nhà tù.
+- Example: The criminal was sent to prison.
+- Example Translation: Tên tội phạm đã bị đưa vào tù.
+
+## 2047. prisoner
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /ˈprɪzn/
-- English Meaning: A place where criminals are kept.
-- Vietnamese Meaning: Nhà tù.
-- Example: The criminal was sent to prison.
-- Example Translation: Tội phạm bị đưa vào tù.
+- IPA (US): /ˈprɪznər/
+- English Meaning: A person who is kept in prison.
+- Vietnamese Meaning: Tù nhân.
+- Example: The prisoner was released last year.
+- Example Translation: Người tù đã được trả tự do năm ngoái.
 
-## 2040. prisoner
+## 2048. privacy
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˈprɪznər/
-- English Meaning: A person kept in prison.
-- Vietnamese Meaning: Tù nhân.
-- Example: The prisoner escaped.
-- Example Translation: Tù nhân đã trốn thoát.
+- IPA (US): /ˈpraɪvəsi/
+- English Meaning: The state of being free from public attention or interference.
+- Vietnamese Meaning: Sự riêng tư.
+- Example: Online privacy is becoming increasingly important.
+- Example Translation: Quyền riêng tư trực tuyến ngày càng trở nên quan trọng.
 
-## 2041. private
+## 2049. private
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈpraɪvət/
-- English Meaning: Not public; personal.
-- Vietnamese Meaning: Riêng tư.
+- English Meaning: Not for public use or knowledge.
+- Vietnamese Meaning: Riêng tư; cá nhân.
 - Example: This is a private conversation.
 - Example Translation: Đây là một cuộc trò chuyện riêng tư.
 
-## 2042. prize
+## 2050. prize
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /praɪz/
-- English Meaning: Something given to a winner.
+- English Meaning: Something given to someone who wins a competition.
 - Vietnamese Meaning: Giải thưởng.
-- Example: She won first prize.
-- Example Translation: Cô ấy giành giải nhất.
+- Example: She won first prize in the contest.
+- Example Translation: Cô ấy đã giành giải nhất trong cuộc thi.
 
-## 2043. probably
+## 2051. probably
 
 - Type: Adverb
 - CEFR Level: A1
 - IPA (US): /ˈprɑːbəbli/
-- English Meaning: Almost certainly.
+- English Meaning: Almost certainly; very likely.
 - Vietnamese Meaning: Có lẽ.
-- Example: He will probably arrive late.
-- Example Translation: Có lẽ anh ấy sẽ đến muộn.
+- Example: It will probably rain tomorrow.
+- Example Translation: Có lẽ ngày mai trời sẽ mưa.
 
-## 2044. problem
+## 2052. problem
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈprɑːbləm/
-- English Meaning: A situation causing difficulty.
+- English Meaning: A situation that causes difficulty and needs a solution.
 - Vietnamese Meaning: Vấn đề.
-- Example: We solved the problem together.
-- Example Translation: Chúng tôi đã giải quyết vấn đề cùng nhau.
+- Example: We need to solve this problem quickly.
+- Example Translation: Chúng ta cần giải quyết vấn đề này nhanh chóng.
 
-## 2045. procedure
+## 2053. procedure
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /prəˈsiːdʒər/
-- English Meaning: An official or accepted way of doing something.
+- English Meaning: An official or correct way of doing something.
 - Vietnamese Meaning: Thủ tục; quy trình.
 - Example: Follow the safety procedure carefully.
-- Example Translation: Hãy tuân thủ quy trình an toàn cẩn thận.
+- Example Translation: Hãy tuân thủ cẩn thận quy trình an toàn.
 
-## 2046. proceed
-
-- Type: Verb
-- CEFR Level: B2
-- IPA (US): /prəˈsiːd/
-- English Meaning: To continue after a pause.
-- Vietnamese Meaning: Tiếp tục.
-- Example: The meeting proceeded as planned.
-- Example Translation: Cuộc họp diễn ra theo đúng kế hoạch.
-
-## 2047. process
+## 2054. process
 
 - Type: Noun, Verb
-- CEFR Level: B1
-- IPA (US): /ˈprɑːses/
-- English Meaning: A series of actions to achieve a result.
+- CEFR Level: A2, B2
+- IPA (US): /ˈprɑːses/, /ˈprɑːsɛs/
+- English Meaning: A series of actions to achieve a result; to deal with information.
 - Vietnamese Meaning: Quá trình; xử lý.
-- Example: Learning a language is a long process.
-- Example Translation: Học một ngôn ngữ là một quá trình dài.
+- Example: Learning a language is a gradual process.
+- Example Translation: Học một ngôn ngữ là một quá trình dần dần.
 
-## 2048. produce
+## 2055. produce
 
 - Type: Verb
-- CEFR Level: A2
+- CEFR Level: A2, B2
 - IPA (US): /prəˈduːs/
-- English Meaning: To make or create something.
+- English Meaning: To make, create, or grow something.
 - Vietnamese Meaning: Sản xuất; tạo ra.
-- Example: The factory produces cars.
-- Example Translation: Nhà máy sản xuất ô tô.
+- Example: The company produces high-quality products.
+- Example Translation: Công ty sản xuất các sản phẩm chất lượng cao.
 
-## 2049. product
+## 2056. producer
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /prəˈduːsər/
+- English Meaning: A person or company that makes goods, films, music, etc.
+- Vietnamese Meaning: Nhà sản xuất.
+- Example: The producer approved the final version of the film.
+- Example Translation: Nhà sản xuất đã phê duyệt phiên bản cuối của bộ phim.
+
+## 2057. product
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈprɑːdʌkt/
-- English Meaning: Something that is made to be sold.
+- English Meaning: Something that is made or grown to be sold.
 - Vietnamese Meaning: Sản phẩm.
-- Example: This product is popular worldwide.
-- Example Translation: Sản phẩm này phổ biến trên toàn thế giới.
+- Example: This product is popular among customers.
+- Example Translation: Sản phẩm này rất phổ biến với khách hàng.
 
-## 2050. production
+## 2058. production
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /prəˈdʌkʃən/
+- IPA (US): /prəˈdʌkʃn/
 - English Meaning: The process of making goods or creating something.
 - Vietnamese Meaning: Sự sản xuất.
-- Example: The production of goods increased this year.
-- Example Translation: Sản lượng hàng hóa đã tăng trong năm nay.
+- Example: Car production increased last year.
+- Example Translation: Sản lượng sản xuất ô tô đã tăng năm ngoái.
 
-## 2051. profession
+## 2059. profession
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /prəˈfeʃən/
-- English Meaning: A job that requires special training or education.
+- IPA (US): /prəˈfeʃn/
+- English Meaning: A job that requires special education and training.
 - Vietnamese Meaning: Nghề nghiệp.
 - Example: Teaching is a respected profession.
 - Example Translation: Nghề giáo là một nghề được tôn trọng.
 
-## 2052. professional
+## 2060. professional
 
 - Type: Adjective, Noun
-- CEFR Level: B1
+- CEFR Level: A2, B2
 - IPA (US): /prəˈfeʃənl/
-- English Meaning: Related to a job requiring special skills.
+- English Meaning: Connected with a job requiring special training; an expert worker.
 - Vietnamese Meaning: Chuyên nghiệp; chuyên gia.
 - Example: She is a professional photographer.
 - Example Translation: Cô ấy là một nhiếp ảnh gia chuyên nghiệp.
 
-## 2053. professor
+## 2061. professor
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /prəˈfesər/
-- English Meaning: A senior teacher at a university.
+- English Meaning: A teacher of the highest rank at a college or university.
 - Vietnamese Meaning: Giáo sư.
 - Example: The professor gave an interesting lecture.
-- Example Translation: Giáo sư đã có một bài giảng thú vị.
+- Example Translation: Vị giáo sư đã có một bài giảng thú vị.
 
-## 2054. profile
+## 2062. profile
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈproʊfaɪl/
+- English Meaning: A description of a person, organization, or activity.
+- Vietnamese Meaning: Hồ sơ; lý lịch.
+- Example: She updated her online profile.
+- Example Translation: Cô ấy đã cập nhật hồ sơ trực tuyến của mình.
+
+## 2063. profit
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /ˈproʊfaɪl/
-- English Meaning: A description of a person or organization.
-- Vietnamese Meaning: Hồ sơ; tiểu sử.
-- Example: Update your online profile regularly.
-- Example Translation: Hãy cập nhật hồ sơ trực tuyến của bạn thường xuyên.
-
-## 2055. profit
-
-- Type: Noun, Verb
-- CEFR Level: B1
 - IPA (US): /ˈprɑːfɪt/
-- English Meaning: Money gained from business activities.
+- English Meaning: Money gained from business after costs have been paid.
 - Vietnamese Meaning: Lợi nhuận.
-- Example: The company made a large profit.
-- Example Translation: Công ty đạt được lợi nhuận lớn.
+- Example: The company made a large profit last year.
+- Example Translation: Công ty đã đạt lợi nhuận lớn vào năm ngoái.
 
-## 2056. program
+## 2064. program
 
 - Type: Noun, Verb
-- CEFR Level: A1
+- CEFR Level: A1, B1
 - IPA (US): /ˈproʊɡræm/
-- English Meaning: A planned series of activities or a software application.
-- Vietnamese Meaning: Chương trình.
-- Example: I'm watching my favorite TV program.
-- Example Translation: Tôi đang xem chương trình TV yêu thích.
+- English Meaning: A planned series of activities; to write instructions for a computer.
+- Vietnamese Meaning: Chương trình; lập trình.
+- Example: The school started a new educational program.
+- Example Translation: Trường học đã bắt đầu một chương trình giáo dục mới.
 
-## 2057. progress
+## 2065. progress
 
 - Type: Noun, Verb
 - CEFR Level: A2
-- IPA (US): /ˈprɑːɡres/, /prəˈɡres/
-- English Meaning: Movement toward improvement or success.
+- IPA (US): /ˈprɑːɡres/ (n.), /prəˈɡres/ (v.)
+- English Meaning: Improvement or development over time.
 - Vietnamese Meaning: Tiến bộ; tiến triển.
-- Example: She has made significant progress.
-- Example Translation: Cô ấy đã đạt được tiến bộ đáng kể.
+- Example: She has made great progress in English.
+- Example Translation: Cô ấy đã đạt được nhiều tiến bộ trong tiếng Anh.
 
-## 2058. project
-
-- Type: Noun, Verb
-- CEFR Level: A1
-- IPA (US): /ˈprɑːdʒekt/
-- English Meaning: A planned piece of work.
-- Vietnamese Meaning: Dự án.
-- Example: We are working on a new project.
-- Example Translation: Chúng tôi đang làm một dự án mới.
-
-## 2059. promise
+## 2066. project
 
 - Type: Noun, Verb
+- CEFR Level: A1, B2
+- IPA (US): /ˈprɑːdʒekt/ (n.), /prəˈdʒekt/ (v.)
+- English Meaning: A planned piece of work; to estimate or forecast.
+- Vietnamese Meaning: Dự án; dự đoán.
+- Example: Our team is working on a new project.
+- Example Translation: Nhóm của chúng tôi đang thực hiện một dự án mới.
+
+## 2067. promise
+
+- Type: Verb, Noun
 - CEFR Level: A2
 - IPA (US): /ˈprɑːmɪs/
-- English Meaning: A statement that you will do something.
-- Vietnamese Meaning: Lời hứa.
-- Example: He kept his promise.
-- Example Translation: Anh ấy đã giữ lời hứa.
+- English Meaning: To tell someone that you will definitely do something; a commitment.
+- Vietnamese Meaning: Hứa; lời hứa.
+- Example: I promise to help you tomorrow.
+- Example Translation: Tôi hứa sẽ giúp bạn vào ngày mai.
 
-## 2060. promote
+## 2068. promote
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /prəˈmoʊt/
-- English Meaning: To encourage or support something.
-- Vietnamese Meaning: Thúc đẩy; quảng bá.
-- Example: The campaign promotes healthy living.
-- Example Translation: Chiến dịch thúc đẩy lối sống lành mạnh.
+- English Meaning: To support the development of something; to raise to a higher position.
+- Vietnamese Meaning: Thúc đẩy; thăng chức.
+- Example: The company promoted her to manager.
+- Example Translation: Công ty đã thăng chức cô ấy lên làm quản lý.
 
-## 2061. proof
+## 2069. pronounce
+
+- Type: Verb
+- CEFR Level: A2
+- IPA (US): /prəˈnaʊns/
+- English Meaning: To say a word or sound in a particular way.
+- Vietnamese Meaning: Phát âm.
+- Example: Can you pronounce this word correctly?
+- Example Translation: Bạn có thể phát âm từ này chính xác không?
+
+## 2070. proof
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /pruːf/
 - English Meaning: Evidence that shows something is true.
 - Vietnamese Meaning: Bằng chứng.
-- Example: We need proof of identity.
-- Example Translation: Chúng tôi cần bằng chứng về danh tính.
+- Example: There is no proof that he was involved.
+- Example Translation: Không có bằng chứng cho thấy anh ấy có liên quan.
 
-## 2062. proper
+## 2071. proper
 
 - Type: Adjective
-- CEFR Level: B2
+- CEFR Level: B1
 - IPA (US): /ˈprɑːpər/
-- English Meaning: Correct or suitable.
+- English Meaning: Correct, suitable, or appropriate.
 - Vietnamese Meaning: Thích hợp; đúng đắn.
-- Example: Wear proper clothing for the interview.
-- Example Translation: Hãy mặc trang phục phù hợp cho cuộc phỏng vấn.
+- Example: You should wear proper clothing for the interview.
+- Example Translation: Bạn nên mặc trang phục phù hợp cho buổi phỏng vấn.
 
-## 2063. property
+## 2072. properly
+
+- Type: Adverb
+- CEFR Level: B1
+- IPA (US): /ˈprɑːpərli/
+- English Meaning: In a correct or satisfactory way.
+- Vietnamese Meaning: Đúng cách.
+- Example: The machine is not working properly.
+- Example Translation: Máy không hoạt động đúng cách.
+
+## 2073. property
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈprɑːpərti/
-- English Meaning: Land, buildings, or possessions.
+- English Meaning: Land, buildings, or other things owned by someone.
 - Vietnamese Meaning: Tài sản; bất động sản.
-- Example: The property was sold last year.
-- Example Translation: Tài sản đó đã được bán năm ngoái.
+- Example: He owns several properties in the city.
+- Example Translation: Anh ấy sở hữu nhiều bất động sản trong thành phố.
 
-## 2064. proportion
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /prəˈpɔːrʃən/
-- English Meaning: A part compared to the whole.
-- Vietnamese Meaning: Tỷ lệ.
-- Example: A large proportion of students passed.
-- Example Translation: Một tỷ lệ lớn sinh viên đã vượt qua.
-
-## 2065. proposal
+## 2074. proposal
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /prəˈpoʊzl/
-- English Meaning: A plan or suggestion for consideration.
+- English Meaning: A formal suggestion or plan.
 - Vietnamese Meaning: Đề xuất.
-- Example: The committee accepted the proposal.
-- Example Translation: Ủy ban đã chấp nhận đề xuất.
+- Example: The committee reviewed the proposal.
+- Example Translation: Ủy ban đã xem xét đề xuất đó.
 
-## 2066. propose
+## 2075. propose
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /prəˈpoʊz/
-- English Meaning: To suggest a plan or idea.
+- English Meaning: To suggest a plan, idea, or action.
 - Vietnamese Meaning: Đề xuất.
 - Example: I propose a different solution.
 - Example Translation: Tôi đề xuất một giải pháp khác.
 
-## 2067. prospect
+## 2076. prospect
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈprɑːspekt/
-- English Meaning: The possibility that something will happen.
+- English Meaning: The possibility that something will happen in the future.
 - Vietnamese Meaning: Triển vọng.
-- Example: Job prospects are improving.
-- Example Translation: Triển vọng việc làm đang được cải thiện.
+- Example: The job offers good career prospects.
+- Example Translation: Công việc này mang lại triển vọng nghề nghiệp tốt.
 
-## 2068. protect
+## 2077. protect
 
 - Type: Verb
 - CEFR Level: A2
 - IPA (US): /prəˈtekt/
-- English Meaning: To keep someone or something safe.
+- English Meaning: To keep someone or something safe from harm.
 - Vietnamese Meaning: Bảo vệ.
 - Example: Sunscreen helps protect your skin.
-- Example Translation: Kem chống nắng giúp bảo vệ làn da.
+- Example Translation: Kem chống nắng giúp bảo vệ làn da của bạn.
 
-## 2069. protection
+## 2078. protection
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /prəˈtekʃən/
-- English Meaning: The act of protecting.
+- IPA (US): /prəˈtekʃn/
+- English Meaning: The action of keeping someone or something safe.
 - Vietnamese Meaning: Sự bảo vệ.
-- Example: The law provides protection for workers.
-- Example Translation: Luật pháp bảo vệ người lao động.
+- Example: Animals need protection from hunters.
+- Example Translation: Động vật cần được bảo vệ khỏi những người săn bắn.
 
-## 2070. protest
+## 2079. protest
 
 - Type: Noun, Verb
 - CEFR Level: B1
-- IPA (US): /ˈproʊtest/, /prəˈtest/
-- English Meaning: An expression of disagreement.
+- IPA (US): /ˈproʊtest/ (n.), /prəˈtest/ (v.)
+- English Meaning: A public expression of disagreement; to express opposition.
 - Vietnamese Meaning: Sự phản đối; phản đối.
 - Example: Thousands joined the protest.
-- Example Translation: Hàng nghìn người tham gia cuộc biểu tình.
+- Example Translation: Hàng nghìn người đã tham gia cuộc biểu tình.
 
-## 2071. proud
+## 2080. proud
 
 - Type: Adjective
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /praʊd/
-- English Meaning: Feeling pleased about achievements.
+- English Meaning: Feeling pleased and satisfied about something you have done.
 - Vietnamese Meaning: Tự hào.
-- Example: Her parents are proud of her.
-- Example Translation: Bố mẹ cô ấy tự hào về cô ấy.
+- Example: She is proud of her achievements.
+- Example Translation: Cô ấy tự hào về những thành tựu của mình.
 
-## 2072. prove
+
+## 2081. prove
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /pruːv/
 - English Meaning: To show that something is true.
 - Vietnamese Meaning: Chứng minh.
-- Example: Can you prove your claim?
-- Example Translation: Bạn có thể chứng minh tuyên bố của mình không?
+- Example: The research proved that the method works.
+- Example Translation: Nghiên cứu đã chứng minh rằng phương pháp này hiệu quả.
 
-## 2073. provide
+## 2082. provide
 
 - Type: Verb
 - CEFR Level: A2
 - IPA (US): /prəˈvaɪd/
-- English Meaning: To give something needed.
+- English Meaning: To give someone something they need.
 - Vietnamese Meaning: Cung cấp.
-- Example: The hotel provides free breakfast.
-- Example Translation: Khách sạn cung cấp bữa sáng miễn phí.
+- Example: The company provides free training.
+- Example Translation: Công ty cung cấp đào tạo miễn phí.
 
-## 2074. psychologist
+## 2083. psychologist
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /saɪˈkɑːlədʒɪst/
-- English Meaning: A specialist in the study of the mind.
+- English Meaning: A person who studies the human mind and behavior.
 - Vietnamese Meaning: Nhà tâm lý học.
-- Example: She consulted a psychologist.
-- Example Translation: Cô ấy đã tham vấn một nhà tâm lý học.
+- Example: She consulted a psychologist for advice.
+- Example Translation: Cô ấy đã tham khảo ý kiến của một nhà tâm lý học.
 
-## 2075. psychology
+## 2084. psychology
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /saɪˈkɑːlədʒi/
 - English Meaning: The scientific study of the mind and behavior.
 - Vietnamese Meaning: Tâm lý học.
-- Example: He studies psychology at college.
-- Example Translation: Anh ấy học tâm lý học ở trường đại học.
+- Example: Psychology helps us understand human behavior.
+- Example Translation: Tâm lý học giúp chúng ta hiểu hành vi con người.
 
-## 2076. public
+## 2085. public
 
 - Type: Adjective, Noun
 - CEFR Level: A2
 - IPA (US): /ˈpʌblɪk/
-- English Meaning: Relating to all people in a community.
-- Vietnamese Meaning: Công cộng.
+- English Meaning: Belonging to or affecting all people; ordinary people in general.
+- Vietnamese Meaning: Công cộng; công chúng.
 - Example: The library is open to the public.
 - Example Translation: Thư viện mở cửa cho công chúng.
 
-## 2077. publication
+## 2086. publication
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˌpʌblɪˈkeɪʃən/
-- English Meaning: Something that is published.
-- Vietnamese Meaning: Ấn phẩm.
-- Example: The publication received positive reviews.
-- Example Translation: Ấn phẩm nhận được nhiều đánh giá tích cực.
+- IPA (US): /ˌpʌblɪˈkeɪʃn/
+- English Meaning: A book, magazine, or document that has been published.
+- Vietnamese Meaning: Ấn phẩm; sự xuất bản.
+- Example: The article appeared in an international publication.
+- Example Translation: Bài báo xuất hiện trong một ấn phẩm quốc tế.
 
-## 2078. publish
+## 2087. publish
+
+- Type: Verb
+- CEFR Level: A2
+- IPA (US): /ˈpʌblɪʃ/
+- English Meaning: To prepare and produce a book, article, or report for public sale or distribution.
+- Vietnamese Meaning: Xuất bản.
+- Example: She hopes to publish her first novel.
+- Example Translation: Cô ấy hy vọng sẽ xuất bản cuốn tiểu thuyết đầu tiên.
+
+## 2088. pull
+
+- Type: Verb, Noun
+- CEFR Level: A2, B1
+- IPA (US): /pʊl/
+- English Meaning: To move something toward yourself; an act of pulling.
+- Vietnamese Meaning: Kéo; sự kéo.
+- Example: Pull the door to open it.
+- Example Translation: Hãy kéo cửa để mở.
+
+## 2089. punish
 
 - Type: Verb
 - CEFR Level: B1
-- IPA (US): /ˈpʌblɪʃ/
-- English Meaning: To produce and distribute printed or digital content.
-- Vietnamese Meaning: Xuất bản.
-- Example: She published her first novel.
-- Example Translation: Cô ấy đã xuất bản cuốn tiểu thuyết đầu tiên.
+- IPA (US): /ˈpʌnɪʃ/
+- English Meaning: To make someone suffer because they have done something wrong.
+- Vietnamese Meaning: Trừng phạt.
+- Example: Students should not be punished unfairly.
+- Example Translation: Học sinh không nên bị trừng phạt một cách bất công.
 
-## 2079. pull
-
-- Type: Verb, Noun
-- CEFR Level: A2
-- IPA (US): /pʊl/
-- English Meaning: To move something toward yourself.
-- Vietnamese Meaning: Kéo.
-- Example: Pull the door open.
-- Example Translation: Hãy kéo cửa ra.
-
-## 2080. punishment
+## 2090. punishment
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈpʌnɪʃmənt/
-- English Meaning: A penalty given for doing something wrong.
-- Vietnamese Meaning: Hình phạt.
-- Example: The punishment was fair.
-- Example Translation: Hình phạt đó công bằng.
+- English Meaning: A penalty given for wrongdoing.
+- Vietnamese Meaning: Sự trừng phạt; hình phạt.
+- Example: The crime resulted in severe punishment.
+- Example Translation: Tội ác đó dẫn đến hình phạt nghiêm khắc.
 
-## 2081. pupil
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˈpjuːpl/
-- English Meaning: A student in school.
-- Vietnamese Meaning: Học sinh.
-- Example: The pupils listened carefully.
-- Example Translation: Các học sinh lắng nghe cẩn thận.
-
-## 2082. purchase
+## 2091. purchase
 
 - Type: Noun, Verb
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ˈpɜːrtʃəs/
-- English Meaning: To buy something.
-- Vietnamese Meaning: Mua; sự mua bán.
-- Example: Thank you for your purchase.
-- Example Translation: Cảm ơn bạn đã mua hàng.
+- English Meaning: To buy something; something that has been bought.
+- Vietnamese Meaning: Mua hàng; sự mua.
+- Example: Customers can purchase tickets online.
+- Example Translation: Khách hàng có thể mua vé trực tuyến.
 
-## 2083. pure
+## 2092. pure
 
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /pjʊr/
-- English Meaning: Not mixed with anything else.
-- Vietnamese Meaning: Tinh khiết.
-- Example: The water is pure and clean.
-- Example Translation: Nước tinh khiết và sạch.
+- English Meaning: Not mixed with anything else; complete and total.
+- Vietnamese Meaning: Tinh khiết; hoàn toàn.
+- Example: The water is pure and safe to drink.
+- Example Translation: Nước tinh khiết và an toàn để uống.
 
-## 2084. purple
+## 2093. purple
 
 - Type: Adjective, Noun
 - CEFR Level: A1
 - IPA (US): /ˈpɜːrpl/
-- English Meaning: A color between red and blue.
+- English Meaning: Having the color between red and blue.
 - Vietnamese Meaning: Màu tím.
-- Example: She wore a purple jacket.
-- Example Translation: Cô ấy mặc một chiếc áo khoác màu tím.
+- Example: She wore a purple dress.
+- Example Translation: Cô ấy mặc một chiếc váy màu tím.
 
-## 2085. purpose
+## 2094. purpose
 
 - Type: Noun
 - CEFR Level: A2
@@ -862,7 +954,7 @@ Words 2001 to 2100 from the Oxford 3000 list - the 3000 most important words to 
 - Example: What is the purpose of this meeting?
 - Example Translation: Mục đích của cuộc họp này là gì?
 
-## 2086. pursue
+## 2095. pursue
 
 - Type: Verb
 - CEFR Level: B2
@@ -870,145 +962,54 @@ Words 2001 to 2100 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: To continue trying to achieve something.
 - Vietnamese Meaning: Theo đuổi.
 - Example: She decided to pursue a career in medicine.
-- Example Translation: Cô ấy quyết định theo đuổi nghề y.
+- Example Translation: Cô ấy quyết định theo đuổi sự nghiệp y khoa.
 
-## 2087. push
+## 2096. push
 
 - Type: Verb, Noun
-- CEFR Level: A2
+- CEFR Level: A2, B1
 - IPA (US): /pʊʃ/
-- English Meaning: To move something away using force.
-- Vietnamese Meaning: Đẩy.
-- Example: Push the box across the floor.
-- Example Translation: Hãy đẩy chiếc hộp qua sàn nhà.
+- English Meaning: To move something away from yourself using force.
+- Vietnamese Meaning: Đẩy; sự đẩy.
+- Example: Push the cart carefully.
+- Example Translation: Hãy đẩy xe cẩn thận.
 
-## 2088. put
+## 2097. put
 
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /pʊt/
-- English Meaning: To place something somewhere.
-- Vietnamese Meaning: Đặt.
-- Example: Put your bag on the chair.
-- Example Translation: Hãy đặt túi của bạn lên ghế.
+- English Meaning: To move something into a particular place or position.
+- Vietnamese Meaning: Đặt; để.
+- Example: Put the keys on the table.
+- Example Translation: Hãy đặt chìa khóa lên bàn.
 
-## 2089. qualification
+## 2098. qualification
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /ˌkwɑːləfɪˈkeɪʃən/
-- English Meaning: An official record of achievement.
-- Vietnamese Meaning: Bằng cấp; trình độ.
-- Example: She has the qualifications for the job.
-- Example Translation: Cô ấy có đủ trình độ cho công việc.
+- IPA (US): /ˌkwɑːlɪfɪˈkeɪʃn/
+- English Meaning: An official record that shows you have completed training or study.
+- Vietnamese Meaning: Trình độ; bằng cấp.
+- Example: This job requires special qualifications.
+- Example Translation: Công việc này yêu cầu trình độ chuyên môn đặc biệt.
 
-## 2090. qualify
+## 2099. qualified
+
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /ˈkwɑːlɪfaɪd/
+- English Meaning: Having the skills, knowledge, or certification needed for something.
+- Vietnamese Meaning: Đủ năng lực; có trình độ.
+- Example: She is qualified for the position.
+- Example Translation: Cô ấy đủ năng lực cho vị trí đó.
+
+## 2100. qualify
 
 - Type: Verb
 - CEFR Level: B1
-- IPA (US): /ˈkwɑːləfaɪ/
-- English Meaning: To have the right skills or knowledge.
-- Vietnamese Meaning: Đủ điều kiện.
-- Example: He qualified as an engineer.
-- Example Translation: Anh ấy đủ điều kiện trở thành kỹ sư.
-
-## 2091. quality
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˈkwɑːləti/
-- English Meaning: The standard of something.
-- Vietnamese Meaning: Chất lượng.
-- Example: The product is known for its quality.
-- Example Translation: Sản phẩm này nổi tiếng vì chất lượng.
-
-## 2092. quantity
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /ˈkwɑːntəti/
-- English Meaning: The amount or number of something.
-- Vietnamese Meaning: Số lượng.
-- Example: We need a larger quantity of materials.
-- Example Translation: Chúng ta cần số lượng vật liệu lớn hơn.
-
-## 2093. quarter
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˈkwɔːrtər/
-- English Meaning: One of four equal parts.
-- Vietnamese Meaning: Một phần tư.
-- Example: A quarter of the class was absent.
-- Example Translation: Một phần tư lớp học đã vắng mặt.
-
-## 2094. queen
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /kwiːn/
-- English Meaning: A female ruler of a country.
-- Vietnamese Meaning: Nữ hoàng.
-- Example: The queen greeted the visitors.
-- Example Translation: Nữ hoàng chào đón các vị khách.
-
-## 2095. question
-
-- Type: Noun, Verb
-- CEFR Level: A1
-- IPA (US): /ˈkwestʃən/
-- English Meaning: A sentence used to ask for information.
-- Vietnamese Meaning: Câu hỏi.
-- Example: I have a question for you.
-- Example Translation: Tôi có một câu hỏi dành cho bạn.
-
-## 2096. quick
-
-- Type: Adjective
-- CEFR Level: A1
-- IPA (US): /kwɪk/
-- English Meaning: Done in a short time.
-- Vietnamese Meaning: Nhanh.
-- Example: She gave a quick answer.
-- Example Translation: Cô ấy đưa ra câu trả lời nhanh.
-
-## 2097. quickly
-
-- Type: Adverb
-- CEFR Level: A1
-- IPA (US): /ˈkwɪkli/
-- English Meaning: At a fast speed.
-- Vietnamese Meaning: Nhanh chóng.
-- Example: The children ran quickly.
-- Example Translation: Những đứa trẻ chạy rất nhanh.
-
-## 2098. quiet
-
-- Type: Adjective
-- CEFR Level: A1
-- IPA (US): /ˈkwaɪət/
-- English Meaning: Making little or no noise.
-- Vietnamese Meaning: Yên tĩnh.
-- Example: It's a quiet neighborhood.
-- Example Translation: Đó là một khu phố yên tĩnh.
-
-## 2099. quietly
-
-- Type: Adverb
-- CEFR Level: A2
-- IPA (US): /ˈkwaɪətli/
-- English Meaning: In a quiet manner.
-- Vietnamese Meaning: Một cách yên lặng.
-- Example: She spoke quietly.
-- Example Translation: Cô ấy nói một cách nhẹ nhàng.
-
-## 2100. quit
-
-- Type: Verb
-- CEFR Level: B1
-- IPA (US): /kwɪt/
-- English Meaning: To stop doing something.
-- Vietnamese Meaning: Từ bỏ; nghỉ.
-- Example: He decided to quit smoking.
-- Example Translation: Anh ấy quyết định bỏ thuốc lá.
-
+- IPA (US): /ˈkwɑːlɪfaɪ/
+- English Meaning: To have the right skills or conditions for something.
+- Vietnamese Meaning: Đủ điều kiện; đạt tiêu chuẩn.
+- Example: He qualified for the final round.
+- Example Translation: Anh ấy đã đủ điều kiện vào vòng chung kết.

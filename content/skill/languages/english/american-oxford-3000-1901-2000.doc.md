@@ -19,18 +19,18 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /pen/
 - English Meaning: A tool used for writing with ink.
 - Vietnamese Meaning: Bút mực.
-- Example: I wrote the letter with a blue pen.
-- Example Translation: Tôi viết lá thư bằng một cây bút mực màu xanh.
+- Example: I wrote a note with my pen.
+- Example Translation: Tôi đã viết một ghi chú bằng bút mực.
 
 ## 1902. pencil
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈpensl/
-- English Meaning: A writing instrument with graphite inside.
+- English Meaning: A tool used for writing or drawing with graphite.
 - Vietnamese Meaning: Bút chì.
-- Example: Draw the picture with a pencil.
-- Example Translation: Hãy vẽ bức tranh bằng bút chì.
+- Example: Please use a pencil for the test.
+- Example Translation: Vui lòng dùng bút chì cho bài kiểm tra.
 
 ## 1903. penny
 
@@ -40,14 +40,14 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: A small coin worth one cent.
 - Vietnamese Meaning: Đồng xu một xu.
 - Example: He found a penny on the sidewalk.
-- Example Translation: Anh ấy tìm thấy một đồng xu trên vỉa hè.
+- Example Translation: Anh ấy nhặt được một đồng xu trên vỉa hè.
 
 ## 1904. people
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈpiːpl/
-- English Meaning: Human beings in general.
+- English Meaning: Human beings in general or a group of persons.
 - Vietnamese Meaning: Mọi người; con người.
 - Example: Many people attended the concert.
 - Example Translation: Nhiều người đã tham dự buổi hòa nhạc.
@@ -57,8 +57,8 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈpepər/
-- English Meaning: A spice or vegetable with a strong flavor.
-- Vietnamese Meaning: Hạt tiêu; ớt.
+- English Meaning: A spice or vegetable used in cooking.
+- Vietnamese Meaning: Hạt tiêu; ớt chuông.
 - Example: Add some pepper to the soup.
 - Example Translation: Hãy thêm một ít tiêu vào món súp.
 
@@ -69,8 +69,8 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /pər/
 - English Meaning: For each.
 - Vietnamese Meaning: Mỗi.
-- Example: The speed limit is 60 kilometers per hour.
-- Example Translation: Giới hạn tốc độ là 60 km mỗi giờ.
+- Example: The car traveled 50 miles per hour.
+- Example Translation: Chiếc xe chạy 50 dặm mỗi giờ.
 
 ## 1907. percent
 
@@ -79,28 +79,28 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /pərˈsent/
 - English Meaning: One part in every hundred.
 - Vietnamese Meaning: Phần trăm.
-- Example: Eighty percent of students passed.
-- Example Translation: Tám mươi phần trăm học sinh đã vượt qua.
+- Example: Twenty percent of the students were absent.
+- Example Translation: Hai mươi phần trăm học sinh đã vắng mặt.
 
 ## 1908. percentage
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /pərˈsentɪdʒ/
-- English Meaning: The amount represented as a percent.
+- English Meaning: A rate or amount expressed as a percent.
 - Vietnamese Meaning: Tỷ lệ phần trăm.
-- Example: The percentage of success increased.
-- Example Translation: Tỷ lệ thành công đã tăng lên.
+- Example: A high percentage of employees work remotely.
+- Example Translation: Một tỷ lệ cao nhân viên làm việc từ xa.
 
 ## 1909. perfect
 
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /ˈpɜːrfɪkt/
-- English Meaning: Having no faults or mistakes.
+- English Meaning: Complete and without faults.
 - Vietnamese Meaning: Hoàn hảo.
-- Example: It was a perfect day for a picnic.
-- Example Translation: Đó là một ngày hoàn hảo để đi dã ngoại.
+- Example: The weather was perfect for a picnic.
+- Example Translation: Thời tiết rất hoàn hảo cho một buổi dã ngoại.
 
 ## 1910. perfectly
 
@@ -109,15 +109,15 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /ˈpɜːrfɪktli/
 - English Meaning: In a perfect way; completely.
 - Vietnamese Meaning: Hoàn toàn; một cách hoàn hảo.
-- Example: I understand perfectly.
-- Example Translation: Tôi hoàn toàn hiểu.
+- Example: I understand your point perfectly.
+- Example Translation: Tôi hoàn toàn hiểu quan điểm của bạn.
 
 ## 1911. perform
 
 - Type: Verb
 - CEFR Level: A2
 - IPA (US): /pərˈfɔːrm/
-- English Meaning: To carry out an action or entertain an audience.
+- English Meaning: To do an action, task, or entertainment activity.
 - Vietnamese Meaning: Thực hiện; biểu diễn.
 - Example: The band will perform tonight.
 - Example Translation: Ban nhạc sẽ biểu diễn tối nay.
@@ -127,20 +127,20 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /pərˈfɔːrməns/
-- English Meaning: An act of performing or the quality of how something works.
+- English Meaning: How well someone does something; a public entertainment event.
 - Vietnamese Meaning: Màn trình diễn; hiệu suất.
-- Example: Her performance was impressive.
-- Example Translation: Màn trình diễn của cô ấy rất ấn tượng.
+- Example: Her performance impressed the audience.
+- Example Translation: Màn trình diễn của cô ấy đã gây ấn tượng với khán giả.
 
 ## 1913. perhaps
 
 - Type: Adverb
 - CEFR Level: A2
 - IPA (US): /pərˈhæps/
-- English Meaning: Possibly.
+- English Meaning: Possibly; maybe.
 - Vietnamese Meaning: Có lẽ.
-- Example: Perhaps we should leave early.
-- Example Translation: Có lẽ chúng ta nên rời đi sớm.
+- Example: Perhaps we should leave earlier.
+- Example Translation: Có lẽ chúng ta nên đi sớm hơn.
 
 ## 1914. period
 
@@ -148,7 +148,7 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - CEFR Level: A1
 - IPA (US): /ˈpɪriəd/
 - English Meaning: A length of time.
-- Vietnamese Meaning: Khoảng thời gian.
+- Vietnamese Meaning: Khoảng thời gian; giai đoạn.
 - Example: It was a difficult period in her life.
 - Example Translation: Đó là một giai đoạn khó khăn trong cuộc đời cô ấy.
 
@@ -157,57 +157,57 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /ˈpɜːrmənənt/
-- English Meaning: Lasting for a long time or forever.
+- English Meaning: Lasting forever or for a long time.
 - Vietnamese Meaning: Vĩnh viễn; lâu dài.
-- Example: She found a permanent job.
-- Example Translation: Cô ấy đã tìm được một công việc lâu dài.
+- Example: They are looking for a permanent solution.
+- Example Translation: Họ đang tìm kiếm một giải pháp lâu dài.
 
 ## 1916. permission
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /pərˈmɪʃn/
-- English Meaning: Approval allowing someone to do something.
+- English Meaning: The right to do something given by someone in authority.
 - Vietnamese Meaning: Sự cho phép.
-- Example: You need permission to enter.
-- Example Translation: Bạn cần được cho phép để vào.
+- Example: You need permission to enter the building.
+- Example Translation: Bạn cần được cho phép để vào tòa nhà.
 
 ## 1917. permit
 
 - Type: Verb, Noun
 - CEFR Level: B2
-- IPA (US): /pərˈmɪt/ (v), /ˈpɜːrmɪt/ (n)
+- IPA (US): /pərˈmɪt/ (v.), /ˈpɜːrmɪt/ (n.)
 - English Meaning: To allow; an official document giving permission.
 - Vietnamese Meaning: Cho phép; giấy phép.
-- Example: The law permits this activity.
-- Example Translation: Luật pháp cho phép hoạt động này.
+- Example: Smoking is not permitted here.
+- Example Translation: Không được phép hút thuốc ở đây.
 
 ## 1918. person
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈpɜːrsn/
-- English Meaning: A human being.
+- English Meaning: An individual human being.
 - Vietnamese Meaning: Người.
-- Example: She is a kind person.
-- Example Translation: Cô ấy là một người tốt bụng.
+- Example: She is a very kind person.
+- Example Translation: Cô ấy là một người rất tốt bụng.
 
 ## 1919. personal
 
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /ˈpɜːrsənl/
-- English Meaning: Relating to one individual.
-- Vietnamese Meaning: Cá nhân.
+- English Meaning: Relating to one particular person.
+- Vietnamese Meaning: Cá nhân; riêng tư.
 - Example: That's a personal question.
-- Example Translation: Đó là một câu hỏi cá nhân.
+- Example Translation: Đó là một câu hỏi riêng tư.
 
 ## 1920. personality
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˌpɜːrsəˈnæləti/
-- English Meaning: The combination of qualities that make someone unique.
+- English Meaning: The set of qualities that make a person different from others.
 - Vietnamese Meaning: Tính cách.
 - Example: She has a friendly personality.
 - Example Translation: Cô ấy có tính cách thân thiện.
@@ -217,49 +217,49 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ˈpɜːrsənəli/
-- English Meaning: In a way that relates to a particular person.
+- English Meaning: In a personal manner; from one's own point of view.
 - Vietnamese Meaning: Cá nhân; đích thân.
-- Example: I personally agree with the decision.
-- Example Translation: Cá nhân tôi đồng ý với quyết định đó.
+- Example: I personally think it's a good idea.
+- Example Translation: Cá nhân tôi nghĩ đó là một ý tưởng hay.
 
 ## 1922. perspective
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /pərˈspektɪv/
-- English Meaning: A particular way of thinking about something.
-- Vietnamese Meaning: Quan điểm; góc nhìn.
-- Example: Try to see the issue from another perspective.
-- Example Translation: Hãy cố gắng nhìn vấn đề từ một góc nhìn khác.
+- English Meaning: A particular way of thinking about or understanding something.
+- Vietnamese Meaning: Góc nhìn; quan điểm.
+- Example: Try to see the issue from a different perspective.
+- Example Translation: Hãy thử nhìn vấn đề từ một góc độ khác.
 
 ## 1923. persuade
 
 - Type: Verb
-- CEFR Level: B2
+- CEFR Level: B1
 - IPA (US): /pərˈsweɪd/
-- English Meaning: To make someone agree to do something.
+- English Meaning: To make someone do or believe something through reasoning.
 - Vietnamese Meaning: Thuyết phục.
-- Example: She persuaded him to apply for the job.
-- Example Translation: Cô ấy thuyết phục anh ấy nộp đơn xin việc.
+- Example: She persuaded him to join the team.
+- Example Translation: Cô ấy đã thuyết phục anh ấy tham gia đội.
 
 ## 1924. pet
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /pet/
-- English Meaning: An animal kept for companionship.
+- English Meaning: An animal kept at home for companionship.
 - Vietnamese Meaning: Thú cưng.
-- Example: Their pet dog is very friendly.
-- Example Translation: Chú chó cưng của họ rất thân thiện.
+- Example: Their dog is a beloved family pet.
+- Example Translation: Chú chó của họ là thú cưng được cả gia đình yêu quý.
 
 ## 1925. phase
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /feɪz/
-- English Meaning: A stage in a process of development.
+- English Meaning: A stage in a process of development or change.
 - Vietnamese Meaning: Giai đoạn.
-- Example: The project entered a new phase.
+- Example: The project has entered a new phase.
 - Example Translation: Dự án đã bước sang một giai đoạn mới.
 
 ## 1926. phenomenon
@@ -267,7 +267,7 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /fəˈnɑːmɪnən/
-- English Meaning: A fact or event that can be observed.
+- English Meaning: A fact or event that can be observed and studied.
 - Vietnamese Meaning: Hiện tượng.
 - Example: Climate change is a global phenomenon.
 - Example Translation: Biến đổi khí hậu là một hiện tượng toàn cầu.
@@ -277,20 +277,20 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /fəˈlɑːsəfi/
-- English Meaning: The study of knowledge and existence.
+- English Meaning: The study of knowledge, reality, and existence.
 - Vietnamese Meaning: Triết học.
 - Example: She studied philosophy at university.
-- Example Translation: Cô ấy học triết học tại trường đại học.
+- Example Translation: Cô ấy đã học triết học ở trường đại học.
 
 ## 1928. phone
 
 - Type: Noun, Verb
 - CEFR Level: A1
 - IPA (US): /foʊn/
-- English Meaning: A device used for communication.
-- Vietnamese Meaning: Điện thoại.
-- Example: My phone battery is low.
-- Example Translation: Pin điện thoại của tôi sắp hết.
+- English Meaning: A device used for communication; to call someone.
+- Vietnamese Meaning: Điện thoại; gọi điện.
+- Example: I'll phone you tonight.
+- Example Translation: Tôi sẽ gọi cho bạn tối nay.
 
 ## 1929. photo
 
@@ -298,29 +298,29 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - CEFR Level: A1
 - IPA (US): /ˈfoʊtoʊ/
 - English Meaning: A picture taken with a camera.
-- Vietnamese Meaning: Ảnh.
+- Vietnamese Meaning: Ảnh; bức ảnh.
 - Example: She showed me a photo of her family.
 - Example Translation: Cô ấy cho tôi xem một bức ảnh gia đình.
 
 ## 1930. photograph
 
 - Type: Noun, Verb
-- CEFR Level: A2
-- IPA (US): /ˈfoʊtəɡræf/
-- English Meaning: A picture taken by a camera; to take pictures.
+- CEFR Level: A1, A2
+- IPA (US): /ˈfoʊtəɡræf/ (n.), /ˈfoʊtəɡræf/ (v.)
+- English Meaning: A photo; to take pictures using a camera.
 - Vietnamese Meaning: Bức ảnh; chụp ảnh.
-- Example: He likes to photograph nature.
-- Example Translation: Anh ấy thích chụp ảnh thiên nhiên.
+- Example: He photographed the beautiful scenery.
+- Example Translation: Anh ấy đã chụp ảnh khung cảnh đẹp.
 
 ## 1931. photographer
 
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /fəˈtɑːɡrəfər/
-- English Meaning: A person who takes photographs.
+- English Meaning: A person who takes photographs professionally or as a hobby.
 - Vietnamese Meaning: Nhiếp ảnh gia.
-- Example: The photographer captured beautiful images.
-- Example Translation: Nhiếp ảnh gia đã chụp được những hình ảnh đẹp.
+- Example: The photographer captured amazing images.
+- Example Translation: Nhiếp ảnh gia đã ghi lại những hình ảnh tuyệt vời.
 
 ## 1932. photography
 
@@ -329,8 +329,8 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /fəˈtɑːɡrəfi/
 - English Meaning: The activity or art of taking photographs.
 - Vietnamese Meaning: Nhiếp ảnh.
-- Example: Photography is his hobby.
-- Example Translation: Nhiếp ảnh là sở thích của anh ấy.
+- Example: Photography is one of her hobbies.
+- Example Translation: Nhiếp ảnh là một trong những sở thích của cô ấy.
 
 ## 1933. phrase
 
@@ -339,15 +339,15 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /freɪz/
 - English Meaning: A small group of words forming part of a sentence.
 - Vietnamese Meaning: Cụm từ.
-- Example: This phrase is commonly used.
-- Example Translation: Cụm từ này được sử dụng phổ biến.
+- Example: This phrase is commonly used in English.
+- Example Translation: Cụm từ này thường được dùng trong tiếng Anh.
 
 ## 1934. physical
 
 - Type: Adjective
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈfɪzɪkl/
-- English Meaning: Related to the body or material things.
+- English Meaning: Connected with the body rather than the mind.
 - Vietnamese Meaning: Thuộc thể chất; vật lý.
 - Example: Regular exercise improves physical health.
 - Example Translation: Tập thể dục thường xuyên cải thiện sức khỏe thể chất.
@@ -357,10 +357,10 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈfɪzɪks/
-- English Meaning: The science of matter, energy, and forces.
-- Vietnamese Meaning: Vật lý.
-- Example: Physics explains how objects move.
-- Example Translation: Vật lý giải thích cách các vật thể chuyển động.
+- English Meaning: The scientific study of matter, energy, and forces.
+- Vietnamese Meaning: Vật lý học.
+- Example: Physics is my favorite subject.
+- Example Translation: Vật lý là môn học yêu thích của tôi.
 
 ## 1936. piano
 
@@ -369,38 +369,38 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /piˈænoʊ/
 - English Meaning: A musical instrument with keys.
 - Vietnamese Meaning: Đàn piano.
-- Example: She plays the piano every evening.
-- Example Translation: Cô ấy chơi đàn piano mỗi tối.
+- Example: She plays the piano very well.
+- Example Translation: Cô ấy chơi đàn piano rất hay.
 
 ## 1937. pick
 
-- Type: Verb
-- CEFR Level: A2
+- Type: Verb, Noun
+- CEFR Level: A2, B2
 - IPA (US): /pɪk/
-- English Meaning: To choose or take something.
-- Vietnamese Meaning: Chọn; nhặt.
-- Example: Please pick a number.
-- Example Translation: Hãy chọn một con số.
+- English Meaning: To choose or collect something; a selection.
+- Vietnamese Meaning: Chọn; hái; sự lựa chọn.
+- Example: Please pick your favorite color.
+- Example Translation: Hãy chọn màu sắc yêu thích của bạn.
 
 ## 1938. picture
 
 - Type: Noun, Verb
-- CEFR Level: A1, B1
+- CEFR Level: A1, B2
 - IPA (US): /ˈpɪktʃər/
-- English Meaning: An image, drawing, or photograph.
-- Vietnamese Meaning: Bức tranh; hình ảnh.
-- Example: The picture is hanging on the wall.
-- Example Translation: Bức tranh được treo trên tường.
+- English Meaning: An image; to imagine something.
+- Vietnamese Meaning: Bức tranh; hình ảnh; tưởng tượng.
+- Example: I can picture the scene clearly.
+- Example Translation: Tôi có thể hình dung khung cảnh đó rất rõ.
 
 ## 1939. piece
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /piːs/
-- English Meaning: A part cut or broken from something.
-- Vietnamese Meaning: Mảnh; miếng.
-- Example: Would you like a piece of cake?
-- Example Translation: Bạn có muốn một miếng bánh không?
+- English Meaning: A part of something larger.
+- Vietnamese Meaning: Mảnh; phần.
+- Example: He ate a piece of cake.
+- Example Translation: Anh ấy đã ăn một miếng bánh.
 
 ## 1940. pig
 
@@ -408,36 +408,36 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - CEFR Level: A1
 - IPA (US): /pɪɡ/
 - English Meaning: A farm animal raised for meat.
-- Vietnamese Meaning: Con lợn.
-- Example: The pig is eating in the field.
-- Example Translation: Con lợn đang ăn ngoài đồng.
+- Vietnamese Meaning: Con lợn; con heo.
+- Example: The pig was sleeping in the barn.
+- Example Translation: Con lợn đang ngủ trong chuồng.
 
 ## 1941. pile
 
 - Type: Noun, Verb
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /paɪl/
-- English Meaning: A group of things placed on top of each other.
+- English Meaning: A number of things placed on top of each other; to place things in a pile.
 - Vietnamese Meaning: Đống; chất đống.
 - Example: There was a pile of books on the desk.
 - Example Translation: Có một đống sách trên bàn.
 
 ## 1942. pilot
 
-- Type: Noun, Verb
+- Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈpaɪlət/
 - English Meaning: A person who flies an aircraft.
 - Vietnamese Meaning: Phi công.
-- Example: The pilot landed the plane safely.
-- Example Translation: Phi công đã hạ cánh máy bay an toàn.
+- Example: The pilot announced the landing time.
+- Example Translation: Phi công đã thông báo thời gian hạ cánh.
 
 ## 1943. pin
 
 - Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /pɪn/
-- English Meaning: A small pointed object used for fastening things.
+- English Meaning: A thin piece of metal used for fastening things; to attach with a pin.
 - Vietnamese Meaning: Ghim; ghim lại.
 - Example: She pinned the note to the board.
 - Example Translation: Cô ấy ghim tờ ghi chú lên bảng.
@@ -447,142 +447,152 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Adjective, Noun
 - CEFR Level: A1
 - IPA (US): /pɪŋk/
-- English Meaning: A pale red color.
+- English Meaning: Having the color between red and white.
 - Vietnamese Meaning: Màu hồng.
-- Example: She wore a pink dress.
-- Example Translation: Cô ấy mặc một chiếc váy màu hồng.
+- Example: She bought a pink sweater.
+- Example Translation: Cô ấy đã mua một chiếc áo len màu hồng.
 
 ## 1945. pipe
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /paɪp/
-- English Meaning: A tube used to carry liquids or gases.
+- English Meaning: A tube through which liquid or gas can flow.
 - Vietnamese Meaning: Ống dẫn.
-- Example: Water flows through the pipe.
-- Example Translation: Nước chảy qua đường ống.
+- Example: Water flows through these pipes.
+- Example Translation: Nước chảy qua các đường ống này.
 
 ## 1946. pitch
 
-- Type: Noun, Verb
+- Type: Noun
 - CEFR Level: B2
 - IPA (US): /pɪtʃ/
-- English Meaning: A sports field or to throw something.
-- Vietnamese Meaning: Sân thi đấu; ném.
-- Example: The players ran onto the pitch.
-- Example Translation: Các cầu thủ chạy ra sân.
+- English Meaning: The level of a sound; a sales presentation or sports field.
+- Vietnamese Meaning: Cao độ; lời chào hàng; sân thi đấu.
+- Example: Her voice has a very high pitch.
+- Example Translation: Giọng của cô ấy có cao độ rất cao.
 
-## 1947. place
+## 1947. pizza
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /ˈpiːtsə/
+- English Meaning: A flat baked dish topped with cheese and other ingredients.
+- Vietnamese Meaning: Bánh pizza.
+- Example: We ordered a large pizza for dinner.
+- Example Translation: Chúng tôi đã gọi một chiếc pizza lớn cho bữa tối.
+
+## 1948. place
 
 - Type: Noun, Verb
-- CEFR Level: A1
+- CEFR Level: A1, B1
 - IPA (US): /pleɪs/
-- English Meaning: A particular position or area.
+- English Meaning: A location; to put something somewhere.
 - Vietnamese Meaning: Địa điểm; đặt.
-- Example: This is a good place to study.
-- Example Translation: Đây là một nơi tốt để học tập.
+- Example: Please place the keys on the table.
+- Example Translation: Hãy đặt chìa khóa lên bàn.
 
-## 1948. plain
+## 1949. plain
 
-- Type: Adjective, Noun
-- CEFR Level: B1
+- Type: Adjective
+- CEFR Level: B2
 - IPA (US): /pleɪn/
-- English Meaning: Simple and not decorated.
-- Vietnamese Meaning: Đơn giản; đồng bằng.
+- English Meaning: Simple and not decorated; obvious and clear.
+- Vietnamese Meaning: Đơn giản; rõ ràng.
 - Example: She wore a plain white shirt.
 - Example Translation: Cô ấy mặc một chiếc áo sơ mi trắng đơn giản.
 
-## 1949. plan
+## 1950. plan
 
 - Type: Noun, Verb
 - CEFR Level: A1
 - IPA (US): /plæn/
-- English Meaning: An arrangement for doing something.
-- Vietnamese Meaning: Kế hoạch.
-- Example: We need a better plan.
-- Example Translation: Chúng ta cần một kế hoạch tốt hơn.
+- English Meaning: An idea about what you will do; to arrange in advance.
+- Vietnamese Meaning: Kế hoạch; lên kế hoạch.
+- Example: We plan to visit Hanoi next month.
+- Example Translation: Chúng tôi dự định đến thăm Hà Nội vào tháng tới.
 
-## 1950. plane
+## 1951. plane
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /pleɪn/
-- English Meaning: A flying vehicle with wings.
+- English Meaning: A vehicle that flies in the air.
 - Vietnamese Meaning: Máy bay.
-- Example: The plane departed on time.
-- Example Translation: Máy bay cất cánh đúng giờ.
+- Example: The plane arrived on time.
+- Example Translation: Máy bay đã đến đúng giờ.
 
-## 1951. planet
+## 1952. planet
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈplænɪt/
 - English Meaning: A large object that moves around a star.
 - Vietnamese Meaning: Hành tinh.
-- Example: Earth is the planet we live on.
-- Example Translation: Trái Đất là hành tinh chúng ta đang sống.
+- Example: Earth is the third planet from the Sun.
+- Example Translation: Trái Đất là hành tinh thứ ba tính từ Mặt Trời.
 
-## 1952. planning
+## 1953. planning
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈplænɪŋ/
-- English Meaning: The process of deciding what to do and how to do it.
+- English Meaning: The process of deciding in detail how to do something.
 - Vietnamese Meaning: Sự lập kế hoạch.
-- Example: Careful planning is important for success.
-- Example Translation: Lập kế hoạch cẩn thận rất quan trọng để thành công.
+- Example: Careful planning is essential for success.
+- Example Translation: Việc lập kế hoạch cẩn thận là điều cần thiết để thành công.
 
-## 1953. plant
+## 1954. plant
 
 - Type: Noun, Verb
-- CEFR Level: A1
+- CEFR Level: A1, A2
 - IPA (US): /plænt/
-- English Meaning: A living thing that grows in the ground.
+- English Meaning: A living thing that grows in the ground; to put in the ground to grow.
 - Vietnamese Meaning: Cây; trồng cây.
-- Example: She planted flowers in the garden.
-- Example Translation: Cô ấy trồng hoa trong vườn.
+- Example: They planted trees in the park.
+- Example Translation: Họ đã trồng cây trong công viên.
 
-## 1954. plastic
+## 1955. plastic
 
 - Type: Noun, Adjective
 - CEFR Level: A2
 - IPA (US): /ˈplæstɪk/
-- English Meaning: A light artificial material.
-- Vietnamese Meaning: Nhựa.
-- Example: The bottle is made of plastic.
-- Example Translation: Chai được làm bằng nhựa.
+- English Meaning: A synthetic material used to make many products.
+- Vietnamese Meaning: Nhựa; bằng nhựa.
+- Example: Many bottles are made of plastic.
+- Example Translation: Nhiều chai lọ được làm bằng nhựa.
 
-## 1955. plate
+## 1956. plate
 
 - Type: Noun
-- CEFR Level: A1
+- CEFR Level: A2
 - IPA (US): /pleɪt/
 - English Meaning: A flat dish used for serving food.
 - Vietnamese Meaning: Cái đĩa.
-- Example: Put the food on the plate.
-- Example Translation: Hãy đặt thức ăn lên đĩa.
+- Example: She placed the food on a plate.
+- Example Translation: Cô ấy đặt thức ăn lên một chiếc đĩa.
 
-## 1956. platform
+## 1957. platform
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈplætfɔːrm/
-- English Meaning: A raised surface or a system for services.
-- Vietnamese Meaning: Nền tảng; sân ga.
-- Example: The train arrived at platform three.
-- Example Translation: Tàu đến sân ga số ba.
+- English Meaning: A raised area where people stand; a technology or service system.
+- Vietnamese Meaning: Sân ga; nền tảng.
+- Example: The train is waiting at platform three.
+- Example Translation: Chuyến tàu đang đợi ở sân ga số ba.
 
-## 1957. play
+## 1958. play
 
 - Type: Verb, Noun
 - CEFR Level: A1
 - IPA (US): /pleɪ/
-- English Meaning: To take part in a game or activity.
+- English Meaning: To take part in a game or activity; a theatrical performance.
 - Vietnamese Meaning: Chơi; vở kịch.
-- Example: Children love to play outside.
-- Example Translation: Trẻ em thích chơi ngoài trời.
+- Example: The children are playing outside.
+- Example Translation: Bọn trẻ đang chơi bên ngoài.
 
-## 1958. player
+## 1959. player
 
 - Type: Noun
 - CEFR Level: A1
@@ -592,27 +602,38 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Example: She is the best player on the team.
 - Example Translation: Cô ấy là cầu thủ giỏi nhất đội.
 
-## 1959. pleasant
+## 1960. pleasant
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈpleznt/
-- English Meaning: Enjoyable or nice.
-- Vietnamese Meaning: Dễ chịu.
-- Example: We had a pleasant evening.
-- Example Translation: Chúng tôi có một buổi tối dễ chịu.
+- English Meaning: Enjoyable, attractive, or friendly.
+- Vietnamese Meaning: Dễ chịu; thú vị.
+- Example: We had a pleasant evening together.
+- Example Translation: Chúng tôi đã có một buổi tối dễ chịu cùng nhau.
 
-## 1960. please
 
-- Type: Verb, Adverb, Exclamation
-- CEFR Level: A1
+## 1961. please
+
+- Type: Exclamation, Verb
+- CEFR Level: A1, A2
 - IPA (US): /pliːz/
-- English Meaning: To make someone happy; used in polite requests.
-- Vietnamese Meaning: Làm hài lòng; làm ơn.
+- English Meaning: Used to make a polite request; to make someone happy or satisfied.
+- Vietnamese Meaning: Làm ơn; làm hài lòng.
 - Example: Please close the door.
 - Example Translation: Làm ơn đóng cửa lại.
 
-## 1961. pleasure
+## 1962. pleased
+
+- Type: Adjective
+- CEFR Level: A2
+- IPA (US): /pliːzd/
+- English Meaning: Happy or satisfied about something.
+- Vietnamese Meaning: Hài lòng; vui mừng.
+- Example: I'm pleased with the results.
+- Example Translation: Tôi hài lòng với kết quả.
+
+## 1963. pleasure
 
 - Type: Noun
 - CEFR Level: B1
@@ -622,257 +643,268 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Example: It was a pleasure to meet you.
 - Example Translation: Rất vui được gặp bạn.
 
-## 1962. plenty
+## 1964. plenty
 
-- Type: Pronoun, Noun
+- Type: Pronoun, Determiner
 - CEFR Level: B1
 - IPA (US): /ˈplenti/
-- English Meaning: A large amount of something.
-- Vietnamese Meaning: Nhiều.
+- English Meaning: A large amount or number.
+- Vietnamese Meaning: Nhiều; dồi dào.
 - Example: We have plenty of time.
 - Example Translation: Chúng ta có rất nhiều thời gian.
 
-## 1963. plot
+## 1965. plot
 
 - Type: Noun, Verb
-- CEFR Level: B2
+- CEFR Level: B1, B2
 - IPA (US): /plɑːt/
-- English Meaning: The story of a book or film.
+- English Meaning: The story of a book or movie; to secretly plan something.
 - Vietnamese Meaning: Cốt truyện; âm mưu.
 - Example: The movie has an interesting plot.
 - Example Translation: Bộ phim có cốt truyện thú vị.
 
-## 1964. plus
+## 1966. plus
 
-- Type: Preposition, Conjunction, Noun
-- CEFR Level: A2
+- Type: Preposition, Adjective, Conjunction, Noun
+- CEFR Level: B1, B2
 - IPA (US): /plʌs/
-- English Meaning: Added to; and.
-- Vietnamese Meaning: Cộng; thêm vào.
-- Example: Three plus two equals five.
-- Example Translation: Ba cộng hai bằng năm.
+- English Meaning: Added to; and also; an advantage.
+- Vietnamese Meaning: Cộng; thêm vào; điểm cộng.
+- Example: The package includes breakfast plus free Wi-Fi.
+- Example Translation: Gói dịch vụ bao gồm bữa sáng và Wi-Fi miễn phí.
 
-## 1965. pocket
+## 1967. pocket
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈpɑːkɪt/
-- English Meaning: A small pouch sewn into clothing.
+- English Meaning: A small pouch sewn into clothing for carrying things.
 - Vietnamese Meaning: Túi áo; túi quần.
 - Example: He put the keys in his pocket.
 - Example Translation: Anh ấy bỏ chìa khóa vào túi quần.
 
-## 1966. poem
+## 1968. podcast
 
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B1
+- IPA (US): /ˈpɑːdkæst/
+- English Meaning: A digital audio program available on the internet.
+- Vietnamese Meaning: Podcast.
+- Example: I listen to educational podcasts every day.
+- Example Translation: Tôi nghe podcast giáo dục mỗi ngày.
+
+## 1969. poem
+
+- Type: Noun
+- CEFR Level: B1
 - IPA (US): /ˈpoʊəm/
-- English Meaning: A piece of writing with artistic rhythm and language.
+- English Meaning: A piece of writing that expresses feelings or ideas in a literary style.
 - Vietnamese Meaning: Bài thơ.
 - Example: She wrote a poem about nature.
-- Example Translation: Cô ấy viết một bài thơ về thiên nhiên.
+- Example Translation: Cô ấy đã viết một bài thơ về thiên nhiên.
 
-## 1967. poet
+## 1970. poet
 
 - Type: Noun
-- CEFR Level: B2
+- CEFR Level: B1
 - IPA (US): /ˈpoʊət/
 - English Meaning: A person who writes poems.
 - Vietnamese Meaning: Nhà thơ.
-- Example: The poet became famous worldwide.
-- Example Translation: Nhà thơ trở nên nổi tiếng trên toàn thế giới.
+- Example: The poet became famous for his works.
+- Example Translation: Nhà thơ trở nên nổi tiếng nhờ các tác phẩm của mình.
 
-## 1968. poetry
+## 1971. poetry
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈpoʊətri/
-- English Meaning: Poems as a form of literature.
+- English Meaning: Poems in general or the art of writing poems.
 - Vietnamese Meaning: Thơ ca.
 - Example: She enjoys reading poetry.
 - Example Translation: Cô ấy thích đọc thơ.
 
-## 1969. point
+## 1972. point
 
 - Type: Noun, Verb
-- CEFR Level: A1
+- CEFR Level: A1, B1
 - IPA (US): /pɔɪnt/
-- English Meaning: A particular place or idea.
-- Vietnamese Meaning: Điểm; chỉ.
-- Example: That's a good point.
-- Example Translation: Đó là một ý kiến hay.
+- English Meaning: A particular place, idea, or detail; to direct attention toward something.
+- Vietnamese Meaning: Điểm; chỉ ra.
+- Example: That's an important point.
+- Example Translation: Đó là một điểm quan trọng.
 
-## 1970. poison
+## 1973. pointed
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ˈpɔɪntɪd/
+- English Meaning: Having a sharp end; direct and critical.
+- Vietnamese Meaning: Nhọn; thẳng thắn.
+- Example: She asked a pointed question.
+- Example Translation: Cô ấy đã đặt một câu hỏi thẳng thắn.
+
+## 1974. poison
 
 - Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /ˈpɔɪzn/
-- English Meaning: A substance that can cause illness or death.
+- English Meaning: A substance that can cause illness or death; to make something poisonous.
 - Vietnamese Meaning: Chất độc; đầu độc.
-- Example: Some plants contain poison.
-- Example Translation: Một số loài cây có chứa chất độc.
+- Example: The snake's poison is dangerous.
+- Example Translation: Chất độc của con rắn rất nguy hiểm.
 
-## 1971. poisonous
+## 1975. poisonous
 
 - Type: Adjective
-- CEFR Level: B2
+- CEFR Level: B1
 - IPA (US): /ˈpɔɪzənəs/
-- English Meaning: Containing poison.
+- English Meaning: Containing poison or able to cause harm if eaten or touched.
 - Vietnamese Meaning: Có độc.
-- Example: Be careful of poisonous snakes.
-- Example Translation: Hãy cẩn thận với những con rắn độc.
+- Example: Some mushrooms are poisonous.
+- Example Translation: Một số loại nấm có độc.
 
-## 1972. police
+## 1976. police
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /pəˈliːs/
-- English Meaning: The organization responsible for public safety.
+- English Meaning: The organization responsible for enforcing laws and maintaining public order.
 - Vietnamese Meaning: Cảnh sát.
-- Example: The police arrived quickly.
-- Example Translation: Cảnh sát đến rất nhanh.
+- Example: The police are investigating the case.
+- Example Translation: Cảnh sát đang điều tra vụ việc.
 
-## 1973. policy
+## 1977. policy
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈpɑːləsi/
-- English Meaning: A set of rules or plans.
+- English Meaning: A plan or set of rules used by an organization or government.
 - Vietnamese Meaning: Chính sách.
-- Example: The company changed its policy.
-- Example Translation: Công ty đã thay đổi chính sách.
+- Example: The company introduced a new policy.
+- Example Translation: Công ty đã đưa ra một chính sách mới.
 
-## 1974. political
+## 1978. polite
+
+- Type: Adjective
+- CEFR Level: A2
+- IPA (US): /pəˈlaɪt/
+- English Meaning: Showing good manners and respect for others.
+- Vietnamese Meaning: Lịch sự.
+- Example: It is polite to say thank you.
+- Example Translation: Nói cảm ơn là một hành động lịch sự.
+
+## 1979. political
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /pəˈlɪtɪkl/
-- English Meaning: Related to government or politics.
+- English Meaning: Connected with government, politics, or public affairs.
 - Vietnamese Meaning: Thuộc chính trị.
-- Example: Political debates were broadcast live.
-- Example Translation: Các cuộc tranh luận chính trị được phát trực tiếp.
+- Example: The country faces many political challenges.
+- Example Translation: Đất nước đang đối mặt với nhiều thách thức chính trị.
 
-## 1975. politician
+## 1980. politician
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˌpɑːləˈtɪʃən/
-- English Meaning: A person involved in politics.
+- English Meaning: A person whose job is working in politics.
 - Vietnamese Meaning: Chính trị gia.
-- Example: The politician addressed the public.
-- Example Translation: Chính trị gia đã phát biểu trước công chúng.
+- Example: The politician spoke at the conference.
+- Example Translation: Vị chính trị gia đã phát biểu tại hội nghị.
 
-## 1976. politics
+
+## 1981. politics
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈpɑːlətɪks/
-- English Meaning: Activities related to governing a country.
+- English Meaning: Activities involved in governing a country or influencing public affairs.
 - Vietnamese Meaning: Chính trị.
-- Example: He studies politics at university.
-- Example Translation: Anh ấy học ngành chính trị ở đại học.
+- Example: He is interested in politics.
+- Example Translation: Anh ấy quan tâm đến chính trị.
 
-## 1977. poll
-
-- Type: Noun, Verb
-- CEFR Level: B2
-- IPA (US): /poʊl/
-- English Meaning: A survey of public opinion.
-- Vietnamese Meaning: Cuộc thăm dò ý kiến.
-- Example: The poll showed strong support.
-- Example Translation: Cuộc thăm dò cho thấy sự ủng hộ mạnh mẽ.
-
-## 1978. pollution
+## 1982. pollution
 
 - Type: Noun
 - CEFR Level: A2
-- IPA (US): /pəˈluːʃən/
+- IPA (US): /pəˈluːʃn/
 - English Meaning: Damage caused to the environment by harmful substances.
 - Vietnamese Meaning: Ô nhiễm.
 - Example: Air pollution is a serious problem.
 - Example Translation: Ô nhiễm không khí là một vấn đề nghiêm trọng.
 
-## 1979. pool
+## 1983. pool
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /puːl/
-- English Meaning: An area of water for swimming.
+- English Meaning: An area of water used for swimming.
 - Vietnamese Meaning: Hồ bơi.
-- Example: The children are playing in the pool.
-- Example Translation: Bọn trẻ đang chơi trong hồ bơi.
+- Example: The children are swimming in the pool.
+- Example Translation: Bọn trẻ đang bơi trong hồ bơi.
 
-## 1980. poor
+## 1984. poor
 
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /pʊr/
-- English Meaning: Having little money or of low quality.
+- English Meaning: Having little money; of low quality.
 - Vietnamese Meaning: Nghèo; kém.
-- Example: He came from a poor family.
-- Example Translation: Anh ấy xuất thân từ một gia đình nghèo.
+- Example: The family was very poor.
+- Example Translation: Gia đình đó rất nghèo.
 
-## 1981. pop
+## 1985. pop
 
-- Type: Noun, Verb
-- CEFR Level: B1
+- Type: Noun, Adjective
+- CEFR Level: A2
 - IPA (US): /pɑːp/
-- English Meaning: Popular music; to move suddenly.
-- Vietnamese Meaning: Nhạc pop; bật ra.
+- English Meaning: Popular music; relating to popular culture.
+- Vietnamese Meaning: Nhạc pop; thuộc nhạc đại chúng.
 - Example: She enjoys listening to pop music.
 - Example Translation: Cô ấy thích nghe nhạc pop.
 
-## 1982. popular
+## 1986. popular
 
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /ˈpɑːpjələr/
-- English Meaning: Liked by many people.
-- Vietnamese Meaning: Phổ biến.
-- Example: Soccer is a popular sport.
-- Example Translation: Bóng đá là một môn thể thao phổ biến.
+- English Meaning: Liked or enjoyed by many people.
+- Vietnamese Meaning: Phổ biến; được yêu thích.
+- Example: This restaurant is very popular.
+- Example Translation: Nhà hàng này rất nổi tiếng.
 
-## 1983. population
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˌpɑːpjuˈleɪʃən/
-- English Meaning: The number of people living in a place.
-- Vietnamese Meaning: Dân số.
-- Example: The city's population is growing.
-- Example Translation: Dân số thành phố đang tăng lên.
-
-## 1984. porch
+## 1987. popularity
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /pɔːrtʃ/
-- English Meaning: A covered area at the entrance of a building.
-- Vietnamese Meaning: Hiên nhà.
-- Example: They sat on the porch all evening.
-- Example Translation: Họ ngồi ở hiên nhà suốt buổi tối.
+- IPA (US): /ˌpɑːpjuˈlærəti/
+- English Meaning: The state of being liked by many people.
+- Vietnamese Meaning: Sự phổ biến.
+- Example: The singer's popularity continues to grow.
+- Example Translation: Sự nổi tiếng của ca sĩ này tiếp tục tăng lên.
 
-## 1985. port
+## 1988. population
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˌpɑːpjuˈleɪʃn/
+- English Meaning: All the people living in a particular area.
+- Vietnamese Meaning: Dân số.
+- Example: The city's population has increased rapidly.
+- Example Translation: Dân số thành phố đã tăng nhanh chóng.
+
+## 1989. port
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /pɔːrt/
-- English Meaning: A place where ships load and unload.
+- English Meaning: A place where ships load and unload goods and passengers.
 - Vietnamese Meaning: Cảng.
-- Example: The ship arrived at the port.
-- Example Translation: Con tàu đã cập cảng.
+- Example: The ship arrived at the port this morning.
+- Example Translation: Con tàu đã đến cảng sáng nay.
 
-## 1986. portion
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /ˈpɔːrʃən/
-- English Meaning: A part or share of something.
-- Vietnamese Meaning: Phần; khẩu phần.
-- Example: She ate a small portion of rice.
-- Example Translation: Cô ấy ăn một phần cơm nhỏ.
-
-## 1987. portrait
+## 1990. portrait
 
 - Type: Noun
 - CEFR Level: B1
@@ -880,29 +912,39 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: A painting, drawing, or photograph of a person.
 - Vietnamese Meaning: Chân dung.
 - Example: The museum displayed a portrait of the king.
-- Example Translation: Bảo tàng trưng bày một bức chân dung của nhà vua.
+- Example Translation: Bảo tàng trưng bày bức chân dung của nhà vua.
 
-## 1988. position
+## 1991. pose
+
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /poʊz/
+- English Meaning: To sit or stand in a particular position for a photograph or painting.
+- Vietnamese Meaning: Tạo dáng.
+- Example: She posed for a family photo.
+- Example Translation: Cô ấy tạo dáng để chụp ảnh gia đình.
+
+## 1992. position
 
 - Type: Noun, Verb
 - CEFR Level: A2, B2
-- IPA (US): /pəˈzɪʃən/
-- English Meaning: The place where someone or something is located.
-- Vietnamese Meaning: Vị trí; chức vụ.
-- Example: The company advertised a new position.
-- Example Translation: Công ty đăng tuyển một vị trí mới.
+- IPA (US): /pəˈzɪʃn/
+- English Meaning: A place or location; to put something in a particular place.
+- Vietnamese Meaning: Vị trí; đặt vào vị trí.
+- Example: Please position the chair near the window.
+- Example Translation: Hãy đặt chiếc ghế gần cửa sổ.
 
-## 1989. positive
+## 1993. positive
 
-- Type: Adjective
-- CEFR Level: A2
+- Type: Adjective, Noun
+- CEFR Level: A1, B2
 - IPA (US): /ˈpɑːzətɪv/
-- English Meaning: Good, useful, or hopeful.
-- Vietnamese Meaning: Tích cực.
-- Example: She has a positive attitude.
-- Example Translation: Cô ấy có thái độ tích cực.
+- English Meaning: Good, hopeful, or confident; a positive result.
+- Vietnamese Meaning: Tích cực; kết quả dương tính.
+- Example: She has a positive attitude toward life.
+- Example Translation: Cô ấy có thái độ tích cực đối với cuộc sống.
 
-## 1990. possess
+## 1994. possess
 
 - Type: Verb
 - CEFR Level: B2
@@ -912,102 +954,62 @@ Words 1901 to 2000 from the Oxford 3000 list - the 3000 most important words to 
 - Example: He possesses excellent communication skills.
 - Example Translation: Anh ấy sở hữu kỹ năng giao tiếp xuất sắc.
 
-## 1991. possession
+## 1995. possession
 
 - Type: Noun
-- CEFR Level: B2
-- IPA (US): /pəˈzeʃən/
+- CEFR Level: A2
+- IPA (US): /pəˈzeʃn/
 - English Meaning: Something that belongs to someone.
-- Vietnamese Meaning: Tài sản; sự sở hữu.
-- Example: The car is one of her most valuable possessions.
-- Example Translation: Chiếc xe là một trong những tài sản giá trị nhất của cô ấy.
+- Vietnamese Meaning: Tài sản; vật sở hữu.
+- Example: The car is one of his most valuable possessions.
+- Example Translation: Chiếc xe là một trong những tài sản có giá trị nhất của anh ấy.
 
-## 1992. possibility
+## 1996. possibility
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˌpɑːsəˈbɪləti/
 - English Meaning: A chance that something may happen.
 - Vietnamese Meaning: Khả năng.
 - Example: There is a possibility of rain tomorrow.
 - Example Translation: Có khả năng trời sẽ mưa vào ngày mai.
 
-## 1993. possible
+## 1997. possible
 
 - Type: Adjective
-- CEFR Level: A2
+- CEFR Level: A1
 - IPA (US): /ˈpɑːsəbl/
 - English Meaning: Able to happen or be done.
 - Vietnamese Meaning: Có thể.
 - Example: Is it possible to finish today?
 - Example Translation: Có thể hoàn thành hôm nay không?
 
-## 1994. possibly
+## 1998. possibly
 
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ˈpɑːsəbli/
 - English Meaning: Perhaps; maybe.
 - Vietnamese Meaning: Có lẽ.
-- Example: This is possibly the best solution.
-- Example Translation: Đây có lẽ là giải pháp tốt nhất.
+- Example: We could possibly arrive earlier.
+- Example Translation: Chúng tôi có thể đến sớm hơn.
 
-## 1995. post
+## 1999. post
 
 - Type: Noun, Verb
-- CEFR Level: A2, B1
+- CEFR Level: A1
 - IPA (US): /poʊst/
-- English Meaning: Mail; to publish or send something.
-- Vietnamese Meaning: Bưu điện; đăng tải.
+- English Meaning: Mail; to send or publish something.
+- Vietnamese Meaning: Thư tín; đăng tải; gửi.
 - Example: She posted a photo online.
 - Example Translation: Cô ấy đã đăng một bức ảnh lên mạng.
 
-## 1996. pot
+## 2000. poster
 
 - Type: Noun
 - CEFR Level: A2
-- IPA (US): /pɑːt/
-- English Meaning: A container used for cooking or holding plants.
-- Vietnamese Meaning: Cái nồi; chậu.
-- Example: The soup is cooking in the pot.
-- Example Translation: Món súp đang được nấu trong nồi.
-
-## 1997. potato
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /pəˈteɪtoʊ/
-- English Meaning: A round vegetable that grows underground.
-- Vietnamese Meaning: Khoai tây.
-- Example: We had potatoes with dinner.
-- Example Translation: Chúng tôi ăn khoai tây trong bữa tối.
-
-## 1998. potential
-
-- Type: Adjective, Noun
-- CEFR Level: B2
-- IPA (US): /pəˈtenʃəl/
-- English Meaning: Possible in the future; ability to develop.
-- Vietnamese Meaning: Tiềm năng.
-- Example: She has great potential as a leader.
-- Example Translation: Cô ấy có tiềm năng lớn để trở thành nhà lãnh đạo.
-
-## 1999. pound
-
-- Type: Noun, Verb
-- CEFR Level: A2, B1
-- IPA (US): /paʊnd/
-- English Meaning: A unit of weight or currency.
-- Vietnamese Meaning: Pound; cân Anh.
-- Example: The package weighs five pounds.
-- Example Translation: Bưu kiện nặng năm pound.
-
-## 2000. pour
-
-- Type: Verb
-- CEFR Level: A2
-- IPA (US): /pɔːr/
-- English Meaning: To make a liquid flow from one container to another.
-- Vietnamese Meaning: Rót.
-- Example: Please pour me a glass of water.
-- Example Translation: Làm ơn rót cho tôi một cốc nước.
+- IPA (US): /ˈpoʊstər/
+- English Meaning: A large printed picture or notice displayed publicly.
+- Vietnamese Meaning: Áp phích.
+- Example: The poster advertised a music festival.
+- Example Translation: Tấm áp phích quảng cáo một lễ hội âm nhạc.

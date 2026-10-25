@@ -12,348 +12,397 @@ Words 1701 to 1800 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-## 1701. murder
+## 1701. multiple
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ˈmʌltəpl/
+- English Meaning: Many in number; involving several things or people.
+- Vietnamese Meaning: Nhiều; đa dạng.
+- Example: The project has multiple benefits.
+- Example Translation: Dự án có nhiều lợi ích.
+
+## 1702. multiply
+
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /ˈmʌltɪplaɪ/
+- English Meaning: To increase greatly in number; to perform multiplication.
+- Vietnamese Meaning: Nhân lên; nhân.
+- Example: The population multiplied rapidly.
+- Example Translation: Dân số đã tăng lên nhanh chóng.
+
+## 1703. murder
 
 - Type: Noun, Verb
-- CEFR Level: B1, B2
+- CEFR Level: B1
 - IPA (US): /ˈmɜːrdər/
-- English Meaning: The crime of intentionally killing someone.
-- Vietnamese Meaning: Vụ giết người; giết người.
+- English Meaning: The crime of intentionally killing someone; to kill someone deliberately.
+- Vietnamese Meaning: Vụ giết người; giết hại.
 - Example: The police investigated the murder.
 - Example Translation: Cảnh sát đã điều tra vụ giết người.
 
-## 1702. muscle
+## 1704. muscle
 
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /ˈmʌsl/
-- English Meaning: A part of the body that helps movement.
+- English Meaning: A part of the body that produces movement.
 - Vietnamese Meaning: Cơ bắp.
 - Example: Exercise helps build muscle.
 - Example Translation: Tập thể dục giúp phát triển cơ bắp.
 
-## 1703. museum
+## 1705. museum
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /mjuˈziːəm/
-- English Meaning: A place where historical, scientific, or artistic objects are displayed.
+- English Meaning: A building where objects of historical, scientific, or artistic interest are displayed.
 - Vietnamese Meaning: Bảo tàng.
-- Example: We visited a history museum.
-- Example Translation: Chúng tôi đã tham quan một bảo tàng lịch sử.
+- Example: We visited the history museum.
+- Example Translation: Chúng tôi đã tham quan bảo tàng lịch sử.
 
-## 1704. music
+## 1706. music
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈmjuːzɪk/
-- English Meaning: Sounds arranged in a way that is pleasant to listen to.
+- English Meaning: Sounds arranged in a way that is pleasant or expressive.
 - Vietnamese Meaning: Âm nhạc.
 - Example: I enjoy listening to music.
 - Example Translation: Tôi thích nghe nhạc.
 
-## 1705. musical
+## 1707. musical
 
 - Type: Adjective, Noun
-- CEFR Level: B1
+- CEFR Level: A2, B1
 - IPA (US): /ˈmjuːzɪkl/
-- English Meaning: Connected with music; a play that includes songs.
-- Vietnamese Meaning: Thuộc âm nhạc; vở nhạc kịch.
+- English Meaning: Related to music; a play or movie that includes songs.
+- Vietnamese Meaning: Thuộc âm nhạc; nhạc kịch.
 - Example: She has great musical talent.
-- Example Translation: Cô ấy có tài năng âm nhạc tuyệt vời.
+- Example Translation: Cô ấy có năng khiếu âm nhạc tuyệt vời.
 
-## 1706. musician
+## 1708. musician
 
 - Type: Noun
 - CEFR Level: A2
-- IPA (US): /mjuˈzɪʃən/
-- English Meaning: A person who plays music or writes music.
+- IPA (US): /mjuˈzɪʃn/
+- English Meaning: A person who plays or writes music.
 - Vietnamese Meaning: Nhạc sĩ; nhạc công.
-- Example: He is a talented musician.
-- Example Translation: Anh ấy là một nhạc sĩ tài năng.
+- Example: The musician performed on stage.
+- Example Translation: Người nhạc sĩ đã biểu diễn trên sân khấu.
 
-## 1707. must
+## 1709. must
 
 - Type: Modal Verb
 - CEFR Level: A1
 - IPA (US): /mʌst/
-- English Meaning: Used to express necessity.
+- English Meaning: Used to express necessity or strong obligation.
 - Vietnamese Meaning: Phải.
 - Example: You must wear a seat belt.
 - Example Translation: Bạn phải thắt dây an toàn.
 
-## 1708. my
+## 1710. my
 
 - Type: Determiner
 - CEFR Level: A1
 - IPA (US): /maɪ/
-- English Meaning: Belonging to me.
+- English Meaning: Belonging to or connected with me.
 - Vietnamese Meaning: Của tôi.
-- Example: My phone is on the table.
-- Example Translation: Điện thoại của tôi ở trên bàn.
+- Example: This is my book.
+- Example Translation: Đây là cuốn sách của tôi.
 
-## 1709. myself
+## 1711. myself
 
 - Type: Pronoun
 - CEFR Level: A2
 - IPA (US): /maɪˈself/
-- English Meaning: Used by a speaker to refer to himself or herself.
-- Vietnamese Meaning: Chính tôi; tự tôi.
-- Example: I did it myself.
-- Example Translation: Tôi tự làm việc đó.
+- English Meaning: Used by the speaker to refer to themselves.
+- Vietnamese Meaning: Chính tôi; bản thân tôi.
+- Example: I made the cake myself.
+- Example Translation: Chính tôi đã làm chiếc bánh này.
 
-## 1710. mystery
+## 1712. mysterious
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /mɪˈstɪriəs/
+- English Meaning: Difficult to understand or explain.
+- Vietnamese Meaning: Bí ẩn.
+- Example: A mysterious light appeared in the sky.
+- Example Translation: Một ánh sáng bí ẩn xuất hiện trên bầu trời.
+
+## 1713. mystery
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈmɪstəri/
-- English Meaning: Something difficult to explain or understand.
+- English Meaning: Something that is difficult to understand or explain.
 - Vietnamese Meaning: Điều bí ẩn.
 - Example: The disappearance remains a mystery.
-- Example Translation: Sự mất tích vẫn là một điều bí ẩn.
+- Example Translation: Vụ mất tích vẫn là một điều bí ẩn.
 
-## 1711. nail
+## 1714. nail
 
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /neɪl/
-- English Meaning: The hard part at the end of a finger or toe.
-- Vietnamese Meaning: Móng tay; móng chân.
-- Example: She painted her nails red.
-- Example Translation: Cô ấy sơn móng tay màu đỏ.
+- English Meaning: A hard covering on the end of a finger or toe; a metal pin used in building.
+- Vietnamese Meaning: Móng tay; đinh.
+- Example: He hit the nail with a hammer.
+- Example Translation: Anh ấy đóng chiếc đinh bằng búa.
 
-## 1712. name
+## 1715. name
 
 - Type: Noun, Verb
 - CEFR Level: A1
 - IPA (US): /neɪm/
-- English Meaning: The word used to identify a person or thing.
-- Vietnamese Meaning: Tên.
-- Example: What is your name?
-- Example Translation: Tên của bạn là gì?
+- English Meaning: The word by which a person or thing is known; to give a name.
+- Vietnamese Meaning: Tên; đặt tên.
+- Example: They named their daughter Emma.
+- Example Translation: Họ đặt tên con gái là Emma.
 
-## 1713. narrative
+## 1716. narrative
 
 - Type: Noun, Adjective
-- CEFR Level: B2
+- CEFR Level: B1
 - IPA (US): /ˈnærətɪv/
-- English Meaning: A story or description of events.
-- Vietnamese Meaning: Câu chuyện; tường thuật.
-- Example: The book has a strong narrative.
-- Example Translation: Cuốn sách có một cốt truyện hấp dẫn.
+- English Meaning: A story or description of events; relating to a story.
+- Vietnamese Meaning: Câu chuyện; mang tính tường thuật.
+- Example: The novel uses a first-person narrative.
+- Example Translation: Cuốn tiểu thuyết sử dụng lối kể chuyện ngôi thứ nhất.
 
-## 1714. narrow
+## 1717. narrow
 
-- Type: Adjective
-- CEFR Level: B2
+- Type: Adjective, Verb
+- CEFR Level: A2, B2
 - IPA (US): /ˈnæroʊ/
-- English Meaning: Not wide.
-- Vietnamese Meaning: Hẹp.
+- English Meaning: Not wide; to become or make narrower.
+- Vietnamese Meaning: Hẹp; thu hẹp.
 - Example: The road is very narrow.
 - Example Translation: Con đường rất hẹp.
 
-## 1715. nation
+## 1718. nation
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /ˈneɪʃən/
+- IPA (US): /ˈneɪʃn/
 - English Meaning: A country and its people.
 - Vietnamese Meaning: Quốc gia.
-- Example: The nation celebrated the holiday.
-- Example Translation: Quốc gia tổ chức lễ kỷ niệm ngày lễ.
+- Example: The nation celebrated the victory.
+- Example Translation: Quốc gia đã ăn mừng chiến thắng.
 
-## 1716. national
+## 1719. national
 
 - Type: Adjective, Noun
-- CEFR Level: A2, B1
-- IPA (US): /ˈnæʃənəl/
-- English Meaning: Relating to a whole country.
-- Vietnamese Meaning: Quốc gia; toàn quốc.
-- Example: This is a national event.
-- Example Translation: Đây là một sự kiện cấp quốc gia.
+- CEFR Level: A2, B2
+- IPA (US): /ˈnæʃənl/
+- English Meaning: Relating to a nation; a citizen of a country.
+- Vietnamese Meaning: Quốc gia; công dân.
+- Example: This is a national holiday.
+- Example Translation: Đây là một ngày lễ quốc gia.
 
-## 1717. native
+## 1720. native
 
 - Type: Adjective, Noun
 - CEFR Level: B1
 - IPA (US): /ˈneɪtɪv/
-- English Meaning: Belonging originally to a place.
-- Vietnamese Meaning: Bản địa.
-- Example: English is not my native language.
-- Example Translation: Tiếng Anh không phải ngôn ngữ mẹ đẻ của tôi.
+- English Meaning: Belonging originally to a place; a person born in a place.
+- Vietnamese Meaning: Bản địa; người bản xứ.
+- Example: English is not her native language.
+- Example Translation: Tiếng Anh không phải là ngôn ngữ mẹ đẻ của cô ấy.
 
-## 1718. natural
+## 1721. natural
 
 - Type: Adjective
-- CEFR Level: A2
+- CEFR Level: A1
 - IPA (US): /ˈnætʃrəl/
-- English Meaning: Existing in nature, not made by people.
+- English Meaning: Existing in nature and not made by humans.
 - Vietnamese Meaning: Tự nhiên.
-- Example: The area is famous for its natural beauty.
-- Example Translation: Khu vực này nổi tiếng vì vẻ đẹp tự nhiên.
+- Example: The area is known for its natural beauty.
+- Example Translation: Khu vực này nổi tiếng với vẻ đẹp tự nhiên.
 
-## 1719. naturally
+## 1722. naturally
 
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ˈnætʃrəli/
 - English Meaning: In a natural way; of course.
-- Vietnamese Meaning: Một cách tự nhiên; đương nhiên.
-- Example: She naturally accepted the offer.
-- Example Translation: Cô ấy đương nhiên chấp nhận lời đề nghị.
+- Vietnamese Meaning: Một cách tự nhiên; tất nhiên.
+- Example: She speaks naturally in front of large audiences.
+- Example Translation: Cô ấy nói chuyện rất tự nhiên trước đám đông.
 
-## 1720. nature
+## 1723. nature
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈneɪtʃər/
-- English Meaning: The physical world and living things.
+- English Meaning: The physical world and everything in it that is not made by humans.
 - Vietnamese Meaning: Thiên nhiên.
-- Example: We should protect nature.
-- Example Translation: Chúng ta nên bảo vệ thiên nhiên.
+- Example: We spent the weekend enjoying nature.
+- Example Translation: Chúng tôi đã dành cuối tuần để tận hưởng thiên nhiên.
 
-## 1721. near
+## 1724. near
 
 - Type: Preposition, Adjective, Adverb
 - CEFR Level: A1
 - IPA (US): /nɪr/
-- English Meaning: Close to.
+- English Meaning: Close to someone or something.
 - Vietnamese Meaning: Gần.
-- Example: The school is near my house.
-- Example Translation: Trường học ở gần nhà tôi.
+- Example: My school is near my house.
+- Example Translation: Trường học của tôi gần nhà.
 
-## 1722. nearby
-
-- Type: Adjective, Adverb
-- CEFR Level: A2
-- IPA (US): /ˌnɪrˈbaɪ/
-- English Meaning: Not far away.
-- Vietnamese Meaning: Gần đó.
-- Example: There is a park nearby.
-- Example Translation: Có một công viên ở gần đó.
-
-## 1723. nearly
+## 1725. nearly
 
 - Type: Adverb
 - CEFR Level: A2
 - IPA (US): /ˈnɪrli/
-- English Meaning: Almost.
+- English Meaning: Almost; not quite.
 - Vietnamese Meaning: Gần như.
-- Example: It is nearly midnight.
-- Example Translation: Gần như đã đến nửa đêm.
+- Example: We have nearly finished the project.
+- Example Translation: Chúng tôi gần như đã hoàn thành dự án.
 
-## 1724. necessarily
+## 1726. neat
+
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /niːt/
+- English Meaning: Tidy and well organized.
+- Vietnamese Meaning: Gọn gàng; ngăn nắp.
+- Example: He keeps his desk neat and clean.
+- Example Translation: Anh ấy giữ bàn làm việc gọn gàng và sạch sẽ.
+
+## 1727. necessarily
 
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ˌnesəˈserəli/
 - English Meaning: In a way that is required or unavoidable.
-- Vietnamese Meaning: Nhất thiết.
-- Example: Bigger doesn't necessarily mean better.
-- Example Translation: Lớn hơn không nhất thiết là tốt hơn.
+- Vietnamese Meaning: Nhất thiết; tất yếu.
+- Example: Expensive products are not necessarily better.
+- Example Translation: Những sản phẩm đắt tiền không nhất thiết tốt hơn.
 
-## 1725. necessary
+## 1728. necessary
 
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /ˈnesəseri/
-- English Meaning: Needed in order to achieve something.
+- English Meaning: Needed or required.
 - Vietnamese Meaning: Cần thiết.
-- Example: Experience is necessary for the job.
-- Example Translation: Kinh nghiệm là cần thiết cho công việc.
+- Example: It is necessary to wear a helmet.
+- Example Translation: Việc đội mũ bảo hiểm là cần thiết.
 
-## 1726. neck
+## 1729. neck
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /nek/
-- English Meaning: The part of the body between the head and shoulders.
+- English Meaning: The part of the body connecting the head to the shoulders.
 - Vietnamese Meaning: Cổ.
 - Example: My neck hurts after sleeping badly.
-- Example Translation: Cổ tôi đau sau khi ngủ không đúng tư thế.
+- Example Translation: Cổ tôi bị đau sau khi ngủ không đúng tư thế.
 
-## 1727. need
+## 1730. need
 
-- Type: Verb, Noun
-- CEFR Level: A1
+- Type: Verb, Noun, Modal Verb
+- CEFR Level: A1, A2, B1
 - IPA (US): /niːd/
-- English Meaning: To require something because it is essential.
+- English Meaning: To require something; something required.
 - Vietnamese Meaning: Cần; nhu cầu.
-- Example: I need some help.
-- Example Translation: Tôi cần một chút giúp đỡ.
+- Example: We need more time to finish the work.
+- Example Translation: Chúng tôi cần thêm thời gian để hoàn thành công việc.
 
-## 1728. negative
-
-- Type: Adjective
-- CEFR Level: B1
-- IPA (US): /ˈneɡətɪv/
-- English Meaning: Harmful, bad, or expressing disagreement.
-- Vietnamese Meaning: Tiêu cực.
-- Example: Try not to focus on negative thoughts.
-- Example Translation: Hãy cố gắng không tập trung vào những suy nghĩ tiêu cực.
-
-## 1729. negotiate
-
-- Type: Verb
-- CEFR Level: B2
-- IPA (US): /nɪˈɡoʊʃieɪt/
-- English Meaning: To discuss in order to reach an agreement.
-- Vietnamese Meaning: Đàm phán.
-- Example: The companies negotiated a new contract.
-- Example Translation: Các công ty đã đàm phán một hợp đồng mới.
-
-## 1730. negotiation
+## 1731. needle
 
 - Type: Noun
-- CEFR Level: B2
-- IPA (US): /nɪˌɡoʊʃiˈeɪʃən/
-- English Meaning: A formal discussion aimed at reaching an agreement.
-- Vietnamese Meaning: Cuộc đàm phán.
-- Example: The negotiation lasted several days.
-- Example Translation: Cuộc đàm phán kéo dài nhiều ngày.
+- CEFR Level: B1
+- IPA (US): /ˈniːdl/
+- English Meaning: A thin pointed tool used for sewing.
+- Vietnamese Meaning: Kim.
+- Example: She threaded the needle carefully.
+- Example Translation: Cô ấy xỏ chỉ vào kim một cách cẩn thận.
 
+## 1732. negative
 
-## 1731. nerve
+- Type: Adjective, Noun
+- CEFR Level: A1, B2
+- IPA (US): /ˈneɡətɪv/
+- English Meaning: Bad or harmful; indicating "no" or an absence of something.
+- Vietnamese Meaning: Tiêu cực; âm tính.
+- Example: Try not to have a negative attitude.
+- Example Translation: Hãy cố gắng đừng có thái độ tiêu cực.
+
+## 1733. neighbor
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /ˈneɪbər/
+- English Meaning: A person who lives near you.
+- Vietnamese Meaning: Hàng xóm.
+- Example: Our neighbors are very friendly.
+- Example Translation: Hàng xóm của chúng tôi rất thân thiện.
+
+## 1734. neighborhood
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /ˈneɪbərhʊd/
+- English Meaning: The area where people live near each other.
+- Vietnamese Meaning: Khu dân cư; khu phố.
+- Example: It is a safe neighborhood.
+- Example Translation: Đây là một khu dân cư an toàn.
+
+## 1735. neither
+
+- Type: Determiner, Pronoun, Adverb
+- CEFR Level: A2, B1
+- IPA (US): /ˈniːðər/, /ˈnaɪðər/
+- English Meaning: Not one and not the other.
+- Vietnamese Meaning: Không cái nào.
+- Example: Neither answer is correct.
+- Example Translation: Không câu trả lời nào đúng.
+
+## 1736. nerve
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /nɜːrv/
-- English Meaning: A thread-like structure that carries messages in the body.
-- Vietnamese Meaning: Dây thần kinh.
-- Example: The injury damaged a nerve.
-- Example Translation: Chấn thương đã làm tổn thương một dây thần kinh.
+- English Meaning: One of the fibers that carry messages in the body; courage.
+- Vietnamese Meaning: Dây thần kinh; sự can đảm.
+- Example: She had the nerve to speak in front of everyone.
+- Example Translation: Cô ấy đủ can đảm để phát biểu trước mọi người.
 
-## 1732. nervous
+## 1737. nervous
 
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /ˈnɜːrvəs/
-- English Meaning: Worried or afraid about something.
+- English Meaning: Worried or anxious about something.
 - Vietnamese Meaning: Lo lắng; hồi hộp.
-- Example: I felt nervous before the exam.
-- Example Translation: Tôi cảm thấy hồi hộp trước kỳ thi.
+- Example: He felt nervous before the exam.
+- Example Translation: Anh ấy cảm thấy hồi hộp trước kỳ thi.
 
-## 1733. net
+## 1738. net
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /net/
-- English Meaning: Material made of string with holes in it.
+- English Meaning: A material made of connected strings used for catching or holding things.
 - Vietnamese Meaning: Lưới.
-- Example: The ball hit the net.
-- Example Translation: Quả bóng chạm lưới.
+- Example: The fisherman repaired his net.
+- Example Translation: Người ngư dân sửa lại chiếc lưới của mình.
 
-## 1734. network
+## 1739. network
 
-- Type: Noun, Verb
-- CEFR Level: B1, B2
+- Type: Noun
+- CEFR Level: A2
 - IPA (US): /ˈnetwɜːrk/
-- English Meaning: A system of connected people or things.
-- Vietnamese Meaning: Mạng lưới.
-- Example: The company has a global network.
-- Example Translation: Công ty có một mạng lưới toàn cầu.
+- English Meaning: A system of connected people, organizations, or computers.
+- Vietnamese Meaning: Mạng lưới; mạng.
+- Example: Our office computer network is very reliable.
+- Example Translation: Mạng máy tính văn phòng của chúng tôi rất đáng tin cậy.
 
-## 1735. never
+## 1740. never
 
 - Type: Adverb
 - CEFR Level: A1
@@ -363,27 +412,27 @@ Words 1701 to 1800 from the Oxford 3000 list - the 3000 most important words to 
 - Example: I never drink coffee at night.
 - Example Translation: Tôi không bao giờ uống cà phê vào buổi tối.
 
-## 1736. nevertheless
+## 1741. nevertheless
 
 - Type: Adverb
 - CEFR Level: B2
 - IPA (US): /ˌnevərðəˈles/
-- English Meaning: Despite that; however.
+- English Meaning: Despite what has just been said.
 - Vietnamese Meaning: Tuy nhiên; dù vậy.
 - Example: The task was difficult; nevertheless, we succeeded.
 - Example Translation: Nhiệm vụ rất khó; tuy nhiên, chúng tôi đã thành công.
 
-## 1737. new
+## 1742. new
 
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /nuː/
-- English Meaning: Recently made or obtained.
+- English Meaning: Recently created, bought, or discovered.
 - Vietnamese Meaning: Mới.
-- Example: I bought a new phone.
-- Example Translation: Tôi đã mua một chiếc điện thoại mới.
+- Example: I bought a new computer.
+- Example Translation: Tôi đã mua một chiếc máy tính mới.
 
-## 1738. news
+## 1743. news
 
 - Type: Noun
 - CEFR Level: A1
@@ -391,29 +440,39 @@ Words 1701 to 1800 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: Information about recent events.
 - Vietnamese Meaning: Tin tức.
 - Example: Did you hear the news?
-- Example Translation: Bạn có nghe tin tức không?
+- Example Translation: Bạn đã nghe tin tức chưa?
 
-## 1739. newspaper
+## 1744. newspaper
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈnuːzpeɪpər/
-- English Meaning: A printed publication containing news.
+- English Meaning: A publication containing news and articles.
 - Vietnamese Meaning: Báo.
 - Example: My grandfather reads the newspaper every morning.
 - Example Translation: Ông tôi đọc báo mỗi sáng.
 
-## 1740. next
+## 1745. next
 
 - Type: Adjective, Adverb, Noun
-- CEFR Level: A1
+- CEFR Level: A1, B1
 - IPA (US): /nekst/
 - English Meaning: Coming immediately after.
 - Vietnamese Meaning: Tiếp theo.
-- Example: See you next week.
-- Example Translation: Hẹn gặp bạn tuần tới.
+- Example: I'll see you next week.
+- Example Translation: Tôi sẽ gặp bạn vào tuần tới.
 
-## 1741. nice
+## 1746. next to
+
+- Type: Preposition
+- CEFR Level: A1
+- IPA (US): /ˈnekst tuː/
+- English Meaning: Very close to; beside.
+- Vietnamese Meaning: Bên cạnh.
+- Example: The bank is next to the post office.
+- Example Translation: Ngân hàng nằm cạnh bưu điện.
+
+## 1747. nice
 
 - Type: Adjective
 - CEFR Level: A1
@@ -423,187 +482,238 @@ Words 1701 to 1800 from the Oxford 3000 list - the 3000 most important words to 
 - Example: She is a very nice person.
 - Example Translation: Cô ấy là một người rất tốt bụng.
 
-## 1742. night
+## 1748. night
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /naɪt/
-- English Meaning: The period of darkness between evening and morning.
-- Vietnamese Meaning: Ban đêm.
+- English Meaning: The time between evening and morning when it is dark.
+- Vietnamese Meaning: Ban đêm; đêm.
 - Example: We arrived late at night.
-- Example Translation: Chúng tôi đến vào đêm muộn.
+- Example Translation: Chúng tôi đến nơi vào đêm muộn.
 
-## 1743. no
+## 1749. nightmare
 
-- Type: Determiner, Adverb, Exclamation
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ˈnaɪtmer/
+- English Meaning: A frightening dream; a very unpleasant experience.
+- Vietnamese Meaning: Ác mộng.
+- Example: He woke up after having a nightmare.
+- Example Translation: Anh ấy tỉnh dậy sau khi gặp ác mộng.
+
+## 1750. nine
+
+- Type: Number
+- CEFR Level: A1
+- IPA (US): /naɪn/
+- English Meaning: The number 9.
+- Vietnamese Meaning: Số chín.
+- Example: There are nine students in the room.
+- Example Translation: Có chín học sinh trong phòng.
+
+
+## 1751. nineteen
+
+- Type: Number
+- CEFR Level: A1
+- IPA (US): /ˌnaɪnˈtiːn/
+- English Meaning: The number 19.
+- Vietnamese Meaning: Số mười chín.
+- Example: There are nineteen students in the class.
+- Example Translation: Có mười chín học sinh trong lớp.
+
+## 1752. ninety
+
+- Type: Number
+- CEFR Level: A1
+- IPA (US): /ˈnaɪnti/
+- English Meaning: The number 90.
+- Vietnamese Meaning: Số chín mươi.
+- Example: My grandfather is ninety years old.
+- Example Translation: Ông tôi chín mươi tuổi.
+
+## 1753. no
+
+- Type: Exclamation, Determiner
 - CEFR Level: A1
 - IPA (US): /noʊ/
-- English Meaning: Not any; used to refuse or disagree.
-- Vietnamese Meaning: Không.
-- Example: No students were absent today.
-- Example Translation: Hôm nay không có học sinh nào vắng mặt.
+- English Meaning: Used to give a negative answer or show the absence of something.
+- Vietnamese Meaning: Không; không có.
+- Example: No, I don't agree.
+- Example Translation: Không, tôi không đồng ý.
 
-## 1744. nobody
+## 1754. nobody
 
 - Type: Pronoun
-- CEFR Level: A2
+- CEFR Level: A1
 - IPA (US): /ˈnoʊbədi/
-- English Meaning: No person.
+- English Meaning: No person; not anyone.
 - Vietnamese Meaning: Không ai.
-- Example: Nobody knows the answer.
+- Example: Nobody knew the answer.
 - Example Translation: Không ai biết câu trả lời.
 
-## 1745. nod
-
-- Type: Verb, Noun
-- CEFR Level: B1
-- IPA (US): /nɑːd/
-- English Meaning: To move your head up and down to show agreement.
-- Vietnamese Meaning: Gật đầu.
-- Example: She nodded in agreement.
-- Example Translation: Cô ấy gật đầu đồng ý.
-
-## 1746. noise
+## 1755. noise
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /nɔɪz/
-- English Meaning: A sound, especially one that is loud or unwanted.
+- English Meaning: Sound, especially when it is loud or unpleasant.
 - Vietnamese Meaning: Tiếng ồn.
-- Example: The noise kept me awake.
-- Example Translation: Tiếng ồn làm tôi thức giấc.
+- Example: The noise kept me awake all night.
+- Example Translation: Tiếng ồn khiến tôi thức cả đêm.
 
-## 1747. noisy
+## 1756. noisy
 
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /ˈnɔɪzi/
 - English Meaning: Making a lot of noise.
 - Vietnamese Meaning: Ồn ào.
-- Example: The classroom was noisy.
-- Example Translation: Lớp học rất ồn ào.
+- Example: The restaurant was very noisy.
+- Example Translation: Nhà hàng rất ồn ào.
 
-## 1748. none
+## 1757. none
 
 - Type: Pronoun
 - CEFR Level: A2
 - IPA (US): /nʌn/
-- English Meaning: Not any people or things.
-- Vietnamese Meaning: Không ai; không cái nào.
-- Example: None of the answers were correct.
-- Example Translation: Không câu trả lời nào đúng.
+- English Meaning: Not one; not any.
+- Vietnamese Meaning: Không cái nào; không ai.
+- Example: None of the students were absent.
+- Example Translation: Không học sinh nào vắng mặt.
 
-## 1749. nor
+## 1758. no one
 
-- Type: Conjunction
+- Type: Pronoun
+- CEFR Level: A1
+- IPA (US): /noʊ wʌn/
+- English Meaning: Nobody; not any person.
+- Vietnamese Meaning: Không ai.
+- Example: No one answered the phone.
+- Example Translation: Không ai trả lời điện thoại.
+
+## 1759. nor
+
+- Type: Conjunction, Adverb
 - CEFR Level: B1
 - IPA (US): /nɔːr/
 - English Meaning: Used to introduce another negative statement.
 - Vietnamese Meaning: Cũng không.
-- Example: He doesn't smoke, nor does he drink.
-- Example Translation: Anh ấy không hút thuốc, cũng không uống rượu.
+- Example: He doesn't eat meat, nor does he drink milk.
+- Example Translation: Anh ấy không ăn thịt và cũng không uống sữa.
 
-## 1750. normal
+## 1760. normal
 
-- Type: Adjective
-- CEFR Level: A2
+- Type: Adjective, Noun
+- CEFR Level: A2, B1
 - IPA (US): /ˈnɔːrml/
-- English Meaning: Usual or expected.
+- English Meaning: Usual or expected; the usual condition.
 - Vietnamese Meaning: Bình thường.
-- Example: Everything returned to normal.
-- Example Translation: Mọi thứ trở lại bình thường.
+- Example: Everything returned to normal after the storm.
+- Example Translation: Mọi thứ trở lại bình thường sau cơn bão.
 
-## 1751. normally
+## 1761. normally
 
 - Type: Adverb
 - CEFR Level: A2
 - IPA (US): /ˈnɔːrməli/
-- English Meaning: Usually.
+- English Meaning: In the usual way or under normal conditions.
 - Vietnamese Meaning: Thông thường.
-- Example: I normally get up at six.
+- Example: I normally get up at six o'clock.
 - Example Translation: Tôi thường thức dậy lúc sáu giờ.
 
-## 1752. north
+## 1762. north
 
 - Type: Noun, Adjective, Adverb
 - CEFR Level: A1
 - IPA (US): /nɔːrθ/
 - English Meaning: The direction opposite to south.
-- Vietnamese Meaning: Phía bắc.
-- Example: They traveled north.
-- Example Translation: Họ đi về phía bắc.
+- Vietnamese Meaning: Phía bắc; hướng bắc.
+- Example: They traveled north for two days.
+- Example Translation: Họ đã đi về phía bắc trong hai ngày.
 
-## 1753. northern
+## 1763. northern
 
 - Type: Adjective
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /ˈnɔːrðərn/
-- English Meaning: Located in or relating to the north.
+- English Meaning: Located in or related to the north.
 - Vietnamese Meaning: Thuộc phía bắc.
 - Example: Northern Vietnam has four seasons.
 - Example Translation: Miền Bắc Việt Nam có bốn mùa.
 
-## 1754. nose
+## 1764. nose
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /noʊz/
-- English Meaning: The part of the face used for smelling and breathing.
+- English Meaning: The part of the face used for breathing and smelling.
 - Vietnamese Meaning: Mũi.
-- Example: My nose is blocked.
-- Example Translation: Mũi tôi bị nghẹt.
+- Example: Her nose was red from the cold.
+- Example Translation: Mũi cô ấy đỏ vì lạnh.
 
-## 1755. not
+## 1765. not
 
 - Type: Adverb
 - CEFR Level: A1
 - IPA (US): /nɑːt/
-- English Meaning: Used to make a verb negative.
+- English Meaning: Used to make a word or statement negative.
 - Vietnamese Meaning: Không.
-- Example: I do not understand.
-- Example Translation: Tôi không hiểu.
+- Example: I am not tired.
+- Example Translation: Tôi không mệt.
 
-## 1756. note
+## 1766. note
 
 - Type: Noun, Verb
 - CEFR Level: A1, B1
 - IPA (US): /noʊt/
-- English Meaning: A short written record; to notice.
+- English Meaning: A short written message; to notice or record something.
 - Vietnamese Meaning: Ghi chú; lưu ý.
-- Example: Please take notes during the lecture.
-- Example Translation: Hãy ghi chú trong suốt bài giảng.
+- Example: Please make a note of the date.
+- Example Translation: Vui lòng ghi chú ngày tháng đó.
 
-## 1757. nothing
+## 1767. nothing
 
 - Type: Pronoun
 - CEFR Level: A1
 - IPA (US): /ˈnʌθɪŋ/
 - English Meaning: Not anything.
 - Vietnamese Meaning: Không có gì.
-- Example: There is nothing to worry about.
-- Example Translation: Không có gì phải lo lắng.
+- Example: There is nothing in the box.
+- Example Translation: Không có gì trong chiếc hộp.
 
-## 1758. notice
+## 1768. notice
 
 - Type: Verb, Noun
-- CEFR Level: A1, B1
+- CEFR Level: A2
 - IPA (US): /ˈnoʊtɪs/
-- English Meaning: To become aware of something.
+- English Meaning: To see or become aware of something; an announcement.
 - Vietnamese Meaning: Nhận thấy; thông báo.
 - Example: Did you notice the change?
 - Example Translation: Bạn có nhận thấy sự thay đổi không?
 
-## 1759. novel
+## 1769. notion
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ˈnoʊʃn/
+- English Meaning: An idea, belief, or understanding of something.
+- Vietnamese Meaning: Quan niệm; ý tưởng.
+- Example: I disagree with that notion.
+- Example Translation: Tôi không đồng ý với quan niệm đó.
+
+## 1770. novel
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈnɑːvl/
-- English Meaning: A long written story.
+- English Meaning: A long written story, usually fictional.
 - Vietnamese Meaning: Tiểu thuyết.
-- Example: She is reading a novel.
-- Example Translation: Cô ấy đang đọc một cuốn tiểu thuyết.
+- Example: She is reading a historical novel.
+- Example Translation: Cô ấy đang đọc một cuốn tiểu thuyết lịch sử.
 
-## 1760. November
+## 1771. November
 
 - Type: Noun
 - CEFR Level: A1
@@ -611,405 +721,294 @@ Words 1701 to 1800 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: The eleventh month of the year.
 - Vietnamese Meaning: Tháng Mười Một.
 - Example: My birthday is in November.
-- Example Translation: Sinh nhật tôi vào tháng Mười Một.
+- Example Translation: Sinh nhật của tôi vào tháng Mười Một.
 
+## 1772. now
 
-## 1761. nowhere
+- Type: Adverb, Conjunction
+- CEFR Level: A1, B1
+- IPA (US): /naʊ/
+- English Meaning: At the present time.
+- Vietnamese Meaning: Bây giờ; hiện nay.
+- Example: We need to leave now.
+- Example Translation: Chúng ta cần phải đi ngay bây giờ.
+
+## 1773. nowhere
 
 - Type: Adverb
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈnoʊwer/
-- English Meaning: In no place.
-- Vietnamese Meaning: Không ở đâu cả.
-- Example: The key was nowhere to be found.
-- Example Translation: Không tìm thấy chìa khóa ở đâu cả.
+- English Meaning: In or to no place.
+- Vietnamese Meaning: Không nơi nào.
+- Example: I have nowhere to go.
+- Example Translation: Tôi không có nơi nào để đi.
 
-## 1762. nuclear
+## 1774. nuclear
 
 - Type: Adjective
-- CEFR Level: B2
+- CEFR Level: B1
 - IPA (US): /ˈnuːkliər/
-- English Meaning: Related to nuclear energy or weapons.
+- English Meaning: Related to atomic energy or weapons.
 - Vietnamese Meaning: Hạt nhân.
-- Example: Nuclear power can generate electricity.
-- Example Translation: Năng lượng hạt nhân có thể tạo ra điện.
+- Example: The country invested in nuclear energy.
+- Example Translation: Quốc gia này đã đầu tư vào năng lượng hạt nhân.
 
-## 1763. number
+## 1775. number
 
 - Type: Noun, Verb
-- CEFR Level: A1
+- CEFR Level: A1, A2
 - IPA (US): /ˈnʌmbər/
-- English Meaning: A mathematical symbol used for counting.
-- Vietnamese Meaning: Con số; số lượng.
+- English Meaning: A symbol or quantity; to assign numbers.
+- Vietnamese Meaning: Con số; đánh số.
 - Example: What is your phone number?
 - Example Translation: Số điện thoại của bạn là gì?
 
-## 1764. numerous
+## 1776. numerous
 
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /ˈnuːmərəs/
 - English Meaning: Existing in large numbers.
-- Vietnamese Meaning: Nhiều.
-- Example: The report contains numerous examples.
-- Example Translation: Báo cáo chứa nhiều ví dụ.
+- Vietnamese Meaning: Nhiều; vô số.
+- Example: Numerous studies support this theory.
+- Example Translation: Nhiều nghiên cứu ủng hộ lý thuyết này.
 
-## 1765. nurse
+## 1777. nurse
 
-- Type: Noun, Verb
-- CEFR Level: A2
+- Type: Noun
+- CEFR Level: A1
 - IPA (US): /nɜːrs/
-- English Meaning: A person trained to care for sick people.
+- English Meaning: A person trained to care for sick or injured people.
 - Vietnamese Meaning: Y tá; điều dưỡng.
 - Example: The nurse checked my temperature.
-- Example Translation: Y tá đã kiểm tra nhiệt độ của tôi.
+- Example Translation: Người y tá đã đo nhiệt độ cho tôi.
 
-## 1766. nut
+## 1778. nut
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /nʌt/
-- English Meaning: A dry fruit with a hard shell.
-- Vietnamese Meaning: Hạt.
+- English Meaning: A hard-shelled fruit with an edible seed inside.
+- Vietnamese Meaning: Hạt; quả hạch.
 - Example: Almonds are a type of nut.
 - Example Translation: Hạnh nhân là một loại hạt.
 
-## 1767. object
+## 1779. obey
+
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /əˈbeɪ/
+- English Meaning: To do what someone tells you to do or follow rules.
+- Vietnamese Meaning: Tuân theo; vâng lời.
+- Example: Children should obey their parents.
+- Example Translation: Trẻ em nên vâng lời cha mẹ.
+
+## 1780. object
 
 - Type: Noun, Verb
-- CEFR Level: A2, B2
-- IPA (US): /ˈɑːbdʒekt/, /əbˈdʒekt/
-- English Meaning: A thing that can be seen or touched.
-- Vietnamese Meaning: Đồ vật; phản đối.
-- Example: There was a strange object on the table.
-- Example Translation: Có một vật lạ trên bàn.
+- CEFR Level: A1, B2
+- IPA (US): /ˈɑːbdʒekt/ (n.), /əbˈdʒekt/ (v.)
+- English Meaning: A thing that can be seen or touched; to express opposition.
+- Vietnamese Meaning: Vật thể; phản đối.
+- Example: Several people objected to the proposal.
+- Example Translation: Một số người đã phản đối đề xuất đó.
 
-## 1768. objective
+## 1781. objective
 
 - Type: Noun, Adjective
 - CEFR Level: B2
 - IPA (US): /əbˈdʒektɪv/
-- English Meaning: A goal; based on facts rather than feelings.
+- English Meaning: A goal that you want to achieve; based on facts and not influenced by personal feelings.
 - Vietnamese Meaning: Mục tiêu; khách quan.
-- Example: Our objective is to improve quality.
-- Example Translation: Mục tiêu của chúng tôi là cải thiện chất lượng.
+- Example: Our main objective is to improve customer satisfaction.
+- Example Translation: Mục tiêu chính của chúng tôi là cải thiện sự hài lòng của khách hàng.
 
-## 1769. obligation
+## 1782. obligation
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˌɑːblɪˈɡeɪʃən/
-- English Meaning: Something that you must do.
+- IPA (US): /ˌɑːblɪˈɡeɪʃn/
+- English Meaning: A duty or responsibility that you must fulfill.
 - Vietnamese Meaning: Nghĩa vụ.
-- Example: Parents have an obligation to care for children.
+- Example: Parents have an obligation to care for their children.
 - Example Translation: Cha mẹ có nghĩa vụ chăm sóc con cái.
 
-## 1770. observation
+## 1783. observation
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˌɑːbzərˈveɪʃən/
-- English Meaning: The act of noticing or watching something carefully.
-- Vietnamese Meaning: Sự quan sát.
-- Example: The scientist recorded her observations.
-- Example Translation: Nhà khoa học đã ghi lại các quan sát của mình.
+- IPA (US): /ˌɑːbzərˈveɪʃn/
+- English Meaning: The act of watching something carefully or a comment based on what is seen.
+- Vietnamese Meaning: Sự quan sát; nhận xét.
+- Example: His observation helped solve the problem.
+- Example Translation: Sự quan sát của anh ấy đã giúp giải quyết vấn đề.
 
-## 1771. observe
+## 1784. observe
 
 - Type: Verb
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /əbˈzɜːrv/
-- English Meaning: To watch carefully.
+- English Meaning: To watch or notice something carefully.
 - Vietnamese Meaning: Quan sát.
-- Example: Students observed the experiment.
-- Example Translation: Các học sinh quan sát thí nghiệm.
+- Example: Scientists observed changes in the climate.
+- Example Translation: Các nhà khoa học đã quan sát những thay đổi của khí hậu.
 
-## 1772. obtain
+## 1785. obtain
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /əbˈteɪn/
-- English Meaning: To get or acquire something.
-- Vietnamese Meaning: Đạt được; có được.
-- Example: You must obtain permission first.
-- Example Translation: Bạn phải xin phép trước.
+- English Meaning: To get or gain something.
+- Vietnamese Meaning: Đạt được; thu được.
+- Example: She obtained a scholarship to study abroad.
+- Example Translation: Cô ấy đã giành được học bổng để du học.
 
-## 1773. obvious
+## 1786. obvious
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈɑːbviəs/
 - English Meaning: Easy to see or understand.
 - Vietnamese Meaning: Rõ ràng.
-- Example: The answer is obvious.
-- Example Translation: Câu trả lời rất rõ ràng.
+- Example: It was obvious that he was tired.
+- Example Translation: Rõ ràng là anh ấy đã mệt.
 
-## 1774. obviously
+## 1787. obviously
 
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ˈɑːbviəsli/
-- English Meaning: In a way that is easy to notice or understand.
-- Vietnamese Meaning: Rõ ràng là.
-- Example: She was obviously upset.
-- Example Translation: Rõ ràng là cô ấy đang buồn.
+- English Meaning: In a way that is clear and easy to understand.
+- Vietnamese Meaning: Rõ ràng.
+- Example: She obviously knew the answer.
+- Example Translation: Rõ ràng cô ấy biết câu trả lời.
 
-## 1775. occasion
+## 1788. occasion
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /əˈkeɪʒən/
-- English Meaning: A particular event or time.
+- IPA (US): /əˈkeɪʒn/
+- English Meaning: A special event or a particular time when something happens.
 - Vietnamese Meaning: Dịp; sự kiện.
-- Example: It was a special occasion.
-- Example Translation: Đó là một dịp đặc biệt.
+- Example: It was a special occasion for the family.
+- Example Translation: Đó là một dịp đặc biệt đối với gia đình.
 
-## 1776. occasionally
+## 1789. occasionally
 
 - Type: Adverb
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /əˈkeɪʒənəli/
 - English Meaning: Sometimes but not often.
 - Vietnamese Meaning: Thỉnh thoảng.
-- Example: We occasionally meet for coffee.
-- Example Translation: Chúng tôi thỉnh thoảng gặp nhau uống cà phê.
+- Example: I occasionally visit my old school.
+- Example Translation: Tôi thỉnh thoảng ghé thăm trường cũ của mình.
 
-## 1777. occupation
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /ˌɑːkjuˈpeɪʃən/
-- English Meaning: A person's job or profession.
-- Vietnamese Meaning: Nghề nghiệp.
-- Example: Please state your occupation.
-- Example Translation: Vui lòng cho biết nghề nghiệp của bạn.
-
-## 1778. occupy
-
-- Type: Verb
-- CEFR Level: B2
-- IPA (US): /ˈɑːkjupaɪ/
-- English Meaning: To fill or use a space or time.
-- Vietnamese Meaning: Chiếm; sử dụng.
-- Example: The office occupies two floors.
-- Example Translation: Văn phòng chiếm hai tầng.
-
-## 1779. occur
+## 1790. occur
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /əˈkɜːr/
-- English Meaning: To happen.
+- English Meaning: To happen or take place.
 - Vietnamese Meaning: Xảy ra.
-- Example: The accident occurred yesterday.
-- Example Translation: Tai nạn xảy ra hôm qua.
+- Example: The accident occurred late at night.
+- Example Translation: Tai nạn xảy ra vào đêm khuya.
 
-## 1780. ocean
+## 1791. ocean
 
 - Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˈoʊʃən/
+- CEFR Level: A1
+- IPA (US): /ˈoʊʃn/
 - English Meaning: A very large area of salt water.
 - Vietnamese Meaning: Đại dương.
 - Example: The Pacific Ocean is the largest ocean.
 - Example Translation: Thái Bình Dương là đại dương lớn nhất.
 
-## 1781. October
+## 1792. o'clock
+
+- Type: Adverb
+- CEFR Level: A1
+- IPA (US): /əˈklɑːk/
+- English Meaning: Used for telling the time on the hour.
+- Vietnamese Meaning: Giờ đúng.
+- Example: The meeting starts at three o'clock.
+- Example Translation: Cuộc họp bắt đầu lúc ba giờ.
+
+## 1793. October
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ɑːkˈtoʊbər/
 - English Meaning: The tenth month of the year.
 - Vietnamese Meaning: Tháng Mười.
-- Example: School starts in October.
-- Example Translation: Trường học bắt đầu vào tháng Mười.
+- Example: The festival takes place in October.
+- Example Translation: Lễ hội diễn ra vào tháng Mười.
 
-## 1782. odd
+## 1794. odd
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ɑːd/
-- English Meaning: Strange or unusual.
-- Vietnamese Meaning: Kỳ lạ.
-- Example: That's an odd question.
-- Example Translation: Đó là một câu hỏi kỳ lạ.
+- English Meaning: Strange or unusual; not divisible by two.
+- Vietnamese Meaning: Kỳ lạ; lẻ.
+- Example: That's a very odd question.
+- Example Translation: Đó là một câu hỏi rất kỳ lạ.
 
-## 1783. of
+## 1795. of
 
 - Type: Preposition
 - CEFR Level: A1
-- IPA (US): /əv/
-- English Meaning: Expressing relationship or belonging.
+- IPA (US): /əv/, /ʌv/
+- English Meaning: Used to show belonging, relation, or connection.
 - Vietnamese Meaning: Của.
 - Example: The color of the car is red.
 - Example Translation: Màu của chiếc xe là màu đỏ.
 
-## 1784. off
+## 1796. off
 
-- Type: Adverb, Preposition, Adjective
+- Type: Adverb, Preposition
 - CEFR Level: A1
 - IPA (US): /ɔːf/
-- English Meaning: Away from a place or position.
+- English Meaning: Away from a place or position; not operating.
 - Vietnamese Meaning: Ra khỏi; tắt.
-- Example: Turn off the lights.
-- Example Translation: Hãy tắt đèn.
+- Example: Please turn off the lights.
+- Example Translation: Làm ơn tắt đèn.
 
-## 1785. offense
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /əˈfens/
-- English Meaning: An illegal act or something that causes anger.
-- Vietnamese Meaning: Vi phạm; sự xúc phạm.
-- Example: Theft is a serious offense.
-- Example Translation: Trộm cắp là một hành vi vi phạm nghiêm trọng.
-
-## 1786. offend
+## 1797. offend
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /əˈfend/
-- English Meaning: To upset or hurt someone's feelings.
+- English Meaning: To upset or hurt someone by words or actions.
 - Vietnamese Meaning: Xúc phạm.
-- Example: I didn't mean to offend you.
-- Example Translation: Tôi không cố ý xúc phạm bạn.
+- Example: I didn't mean to offend anyone.
+- Example Translation: Tôi không có ý xúc phạm bất kỳ ai.
 
-## 1787. offensive
+## 1798. offense
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /əˈfens/
+- English Meaning: An illegal act or something that causes hurt feelings.
+- Vietnamese Meaning: Sự xúc phạm; hành vi vi phạm.
+- Example: No offense was intended by his comment.
+- Example Translation: Bình luận của anh ấy không có ý xúc phạm.
+
+## 1799. offensive
 
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /əˈfensɪv/
-- English Meaning: Causing someone to feel upset or angry.
-- Vietnamese Meaning: Mang tính xúc phạm.
+- English Meaning: Rude or insulting; causing someone to feel upset.
+- Vietnamese Meaning: Xúc phạm; phản cảm.
 - Example: Some people found the joke offensive.
-- Example Translation: Một số người thấy câu đùa đó mang tính xúc phạm.
+- Example Translation: Một số người cho rằng câu đùa đó mang tính xúc phạm.
 
-## 1788. offer
+## 1800. offer
 
 - Type: Verb, Noun
 - CEFR Level: A2
 - IPA (US): /ˈɔːfər/
-- English Meaning: To ask someone if they would like something.
+- English Meaning: To provide or present something for consideration; a proposal.
 - Vietnamese Meaning: Đề nghị; lời đề nghị.
-- Example: She offered me some help.
-- Example Translation: Cô ấy đề nghị giúp đỡ tôi.
-
-## 1789. office
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /ˈɔːfɪs/
-- English Meaning: A room or building where people work.
-- Vietnamese Meaning: Văn phòng.
-- Example: He works in an office.
-- Example Translation: Anh ấy làm việc trong một văn phòng.
-
-## 1790. officer
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˈɔːfɪsər/
-- English Meaning: A person holding a position of authority.
-- Vietnamese Meaning: Sĩ quan; viên chức.
-- Example: A police officer helped us.
-- Example Translation: Một cảnh sát đã giúp chúng tôi.
-
-## 1791. official
-
-- Type: Adjective, Noun
-- CEFR Level: B1
-- IPA (US): /əˈfɪʃəl/
-- English Meaning: Approved by authority.
-- Vietnamese Meaning: Chính thức.
-- Example: This is the official announcement.
-- Example Translation: Đây là thông báo chính thức.
-
-## 1792. often
-
-- Type: Adverb
-- CEFR Level: A1
-- IPA (US): /ˈɔːfən/
-- English Meaning: Many times.
-- Vietnamese Meaning: Thường xuyên.
-- Example: I often visit my grandparents.
-- Example Translation: Tôi thường xuyên thăm ông bà.
-
-## 1793. oil
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ɔɪl/
-- English Meaning: A thick liquid used as fuel or in cooking.
-- Vietnamese Meaning: Dầu.
-- Example: Add a little oil to the pan.
-- Example Translation: Hãy cho một ít dầu vào chảo.
-
-## 1794. OK
-
-- Type: Adjective, Adverb, Exclamation
-- CEFR Level: A1
-- IPA (US): /ˌoʊˈkeɪ/
-- English Meaning: Acceptable or satisfactory.
-- Vietnamese Meaning: Được; ổn.
-- Example: Everything is OK now.
-- Example Translation: Mọi thứ giờ đã ổn.
-
-## 1795. old
-
-- Type: Adjective
-- CEFR Level: A1
-- IPA (US): /oʊld/
-- English Meaning: Having lived or existed for a long time.
-- Vietnamese Meaning: Già; cũ.
-- Example: My grandfather is very old.
-- Example Translation: Ông tôi đã rất già.
-
-## 1796. old-fashioned
-
-- Type: Adjective
-- CEFR Level: B1
-- IPA (US): /ˌoʊld ˈfæʃənd/
-- English Meaning: No longer modern or fashionable.
-- Vietnamese Meaning: Lỗi thời.
-- Example: Some people think this design is old-fashioned.
-- Example Translation: Một số người cho rằng thiết kế này đã lỗi thời.
-
-## 1797. Olympic
-
-- Type: Adjective, Noun
-- CEFR Level: A2
-- IPA (US): /əˈlɪmpɪk/
-- English Meaning: Related to the Olympic Games.
-- Vietnamese Meaning: Thuộc Thế vận hội.
-- Example: She dreams of winning an Olympic medal.
-- Example Translation: Cô ấy mơ giành huy chương Olympic.
-
-## 1798. on
-
-- Type: Preposition, Adverb
-- CEFR Level: A1
-- IPA (US): /ɑːn/
-- English Meaning: In contact with a surface.
-- Vietnamese Meaning: Trên.
-- Example: The book is on the table.
-- Example Translation: Cuốn sách ở trên bàn.
-
-## 1799. once
-
-- Type: Adverb, Conjunction
-- CEFR Level: A2
-- IPA (US): /wʌns/
-- English Meaning: One time only.
-- Vietnamese Meaning: Một lần.
-- Example: I've visited Paris once.
-- Example Translation: Tôi đã đến Paris một lần.
-
-## 1800. one
-
-- Type: Number, Pronoun
-- CEFR Level: A1
-- IPA (US): /wʌn/
-- English Meaning: The number 1.
-- Vietnamese Meaning: Một.
-- Example: I have one brother.
-- Example Translation: Tôi có một người anh trai.
+- Example: She offered me a cup of coffee.
+- Example Translation: Cô ấy mời tôi một tách cà phê.

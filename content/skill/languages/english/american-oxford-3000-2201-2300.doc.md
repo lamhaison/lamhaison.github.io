@@ -12,1002 +12,1184 @@ Words 2201 to 2300 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-## 2201. resolution
+### 2201. repeated
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /rɪˈpiːtɪd/
+- English Meaning: Happening again and again.
+- Vietnamese Meaning: Lặp đi lặp lại.
+- Example: The repeated warnings were ignored.
+- Example Translation: Những cảnh báo lặp đi lặp lại đã bị phớt lờ.
+
+### 2202. replace
+- Type: Verb
+- CEFR Level: A2
+- IPA (US): /rɪˈpleɪs/
+- English Meaning: To take the place of something or someone.
+- Vietnamese Meaning: Thay thế.
+- Example: We need to replace the old computer.
+- Example Translation: Chúng ta cần thay thế chiếc máy tính cũ.
+
+### 2203. reply
+- Type: Verb, Noun
+- CEFR Level: A2
+- IPA (US): /rɪˈplaɪ/
+- English Meaning: To answer; an answer.
+- Vietnamese Meaning: Trả lời; hồi đáp.
+- Example: She replied to my email quickly.
+- Example Translation: Cô ấy trả lời email của tôi rất nhanh.
+
+### 2204. report
+- Type: Noun, Verb
+- CEFR Level: A1, A2
+- IPA (US): /rɪˈpɔːrt/
+- English Meaning: A written or spoken account; to provide information.
+- Vietnamese Meaning: Báo cáo; báo cáo lại.
+- Example: I finished the monthly report.
+- Example Translation: Tôi đã hoàn thành báo cáo tháng.
+
+### 2205. reporter
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /rɪˈpɔːrtər/
+- English Meaning: A person whose job is reporting news.
+- Vietnamese Meaning: Phóng viên.
+- Example: The reporter interviewed the suspect.
+- Example Translation: Phóng viên đã phỏng vấn nghi phạm.
+
+### 2206. represent
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /ˌreprɪˈzent/
+- English Meaning: To act or speak on behalf of someone; to symbolize.
+- Vietnamese Meaning: Đại diện; tượng trưng cho.
+- Example: She represents our company at events.
+- Example Translation: Cô ấy đại diện cho công ty tại các sự kiện.
+
+### 2207. representative
+- Type: Noun, Adjective
+- CEFR Level: B2
+- IPA (US): /ˌreprɪˈzentətɪv/
+- English Meaning: A person chosen to act for others; typical of a group.
+- Vietnamese Meaning: Người đại diện; tiêu biểu.
+- Example: Talk to a customer service representative.
+- Example Translation: Hãy nói chuyện với nhân viên đại diện chăm sóc khách hàng.
+
+### 2208. reputation
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ˌrepjuˈteɪʃn/
+- English Meaning: The opinion people generally have about someone or something.
+- Vietnamese Meaning: Danh tiếng.
+- Example: The restaurant has an excellent reputation.
+- Example Translation: Nhà hàng có danh tiếng rất tốt.
+
+### 2209. request
+- Type: Noun, Verb
+- CEFR Level: A2, B1
+- IPA (US): /rɪˈkwest/
+- English Meaning: A polite asking for something.
+- Vietnamese Meaning: Yêu cầu; đề nghị.
+- Example: We received a request for more information.
+- Example Translation: Chúng tôi nhận được yêu cầu cung cấp thêm thông tin.
+
+### 2210. require
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /rɪˈkwaɪər/
+- English Meaning: To need something.
+- Vietnamese Meaning: Yêu cầu; cần.
+- Example: This position requires experience.
+- Example Translation: Vị trí này yêu cầu kinh nghiệm.
+
+### 2211. requirement
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /rɪˈkwaɪərmənt/
+- English Meaning: Something that is necessary or required.
+- Vietnamese Meaning: Yêu cầu; điều kiện.
+- Example: English is a requirement for the job.
+- Example Translation: Tiếng Anh là yêu cầu cho công việc này.
+
+### 2212. rescue
+- Type: Verb, Noun
+- CEFR Level: B2
+- IPA (US): /ˈreskjuː/
+- English Meaning: To save someone from danger.
+- Vietnamese Meaning: Cứu hộ; giải cứu.
+- Example: Firefighters rescued the family.
+- Example Translation: Lính cứu hỏa đã giải cứu gia đình đó.
+
+### 2213. research
+- Type: Noun, Verb
+- CEFR Level: A2
+- IPA (US): /rɪˈsɜːrtʃ/
+- English Meaning: Careful study to discover new facts.
+- Vietnamese Meaning: Nghiên cứu.
+- Example: She is doing research on climate change.
+- Example Translation: Cô ấy đang nghiên cứu về biến đổi khí hậu.
+
+### 2214. researcher
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /rɪˈsɜːrtʃər/
+- English Meaning: A person who carries out research.
+- Vietnamese Meaning: Nhà nghiên cứu.
+- Example: Researchers collected data from students.
+- Example Translation: Các nhà nghiên cứu đã thu thập dữ liệu từ sinh viên.
+
+### 2215. reservation
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ˌrezərˈveɪʃn/
+- English Meaning: An arrangement to keep a seat, room, or table for someone.
+- Vietnamese Meaning: Đặt chỗ.
+- Example: I made a hotel reservation online.
+- Example Translation: Tôi đã đặt phòng khách sạn trực tuyến.
+
+### 2216. reserve
+- Type: Noun, Verb
+- CEFR Level: B2
+- IPA (US): /rɪˈzɜːrv/
+- English Meaning: To keep something for future use.
+- Vietnamese Meaning: Dự trữ; đặt trước.
+- Example: Please reserve two tickets for us.
+- Example Translation: Vui lòng đặt trước hai vé cho chúng tôi.
+
+### 2217. resident
+- Type: Noun, Adjective
+- CEFR Level: B2
+- IPA (US): /ˈrezɪdənt/
+- English Meaning: A person who lives in a place.
+- Vietnamese Meaning: Cư dân.
+- Example: Local residents attended the meeting.
+- Example Translation: Các cư dân địa phương đã tham dự cuộc họp.
+
+### 2218. resist
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /rɪˈzɪst/
+- English Meaning: To fight against or refuse to accept something.
+- Vietnamese Meaning: Chống lại; kháng cự.
+- Example: He couldn't resist eating the cake.
+- Example Translation: Anh ấy không thể cưỡng lại việc ăn chiếc bánh.
+
+### 2219. resolve
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /rɪˈzɑːlv/
+- English Meaning: To solve a problem or difficulty.
+- Vietnamese Meaning: Giải quyết.
+- Example: We must resolve this issue soon.
+- Example Translation: Chúng ta phải giải quyết vấn đề này sớm.
+
+### 2220. resort
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /rɪˈzɔːrt/
+- English Meaning: A place where people go for vacations and relaxation.
+- Vietnamese Meaning: Khu nghỉ dưỡng.
+- Example: They stayed at a beach resort.
+- Example Translation: Họ đã ở tại một khu nghỉ dưỡng ven biển.
+
+## 2201. repeated
+
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /rɪˈpiːtɪd/
+- English Meaning: Happening again and again.
+- Vietnamese Meaning: Lặp đi lặp lại.
+- Example: The repeated warnings were ignored.
+- Example Translation: Những cảnh báo lặp đi lặp lại đã bị phớt lờ.
+
+## 2202. replace
+
+- Type: Verb
+- CEFR Level: A2
+- IPA (US): /rɪˈpleɪs/
+- English Meaning: To take the place of something or someone.
+- Vietnamese Meaning: Thay thế.
+- Example: We need to replace the old computer.
+- Example Translation: Chúng ta cần thay thế chiếc máy tính cũ.
+
+## 2203. reply
+
+- Type: Verb, Noun
+- CEFR Level: A2
+- IPA (US): /rɪˈplaɪ/
+- English Meaning: To answer; an answer.
+- Vietnamese Meaning: Trả lời; hồi đáp.
+- Example: She replied to my email quickly.
+- Example Translation: Cô ấy trả lời email của tôi rất nhanh.
+
+## 2204. report
+
+- Type: Noun, Verb
+- CEFR Level: A1, A2
+- IPA (US): /rɪˈpɔːrt/
+- English Meaning: A written or spoken account; to provide information.
+- Vietnamese Meaning: Báo cáo; báo cáo lại.
+- Example: I finished the monthly report.
+- Example Translation: Tôi đã hoàn thành báo cáo tháng.
+
+## 2205. reporter
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /rɪˈpɔːrtər/
+- English Meaning: A person whose job is reporting news.
+- Vietnamese Meaning: Phóng viên.
+- Example: The reporter interviewed the suspect.
+- Example Translation: Phóng viên đã phỏng vấn nghi phạm.
+
+## 2206. represent
+
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /ˌreprɪˈzent/
+- English Meaning: To act or speak on behalf of someone; to symbolize.
+- Vietnamese Meaning: Đại diện; tượng trưng cho.
+- Example: She represents our company at events.
+- Example Translation: Cô ấy đại diện cho công ty tại các sự kiện.
+
+## 2207. representative
+
+- Type: Noun, Adjective
+- CEFR Level: B2
+- IPA (US): /ˌreprɪˈzentətɪv/
+- English Meaning: A person chosen to act for others; typical of a group.
+- Vietnamese Meaning: Người đại diện; tiêu biểu.
+- Example: Talk to a customer service representative.
+- Example Translation: Hãy nói chuyện với nhân viên đại diện chăm sóc khách hàng.
+
+## 2208. reputation
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˌrezəˈluːʃən/
-- English Meaning: A decision or solution to a problem.
-- Vietnamese Meaning: Giải pháp; nghị quyết.
-- Example: We finally reached a resolution.
-- Example Translation: Cuối cùng chúng tôi đã đạt được một giải pháp.
+- IPA (US): /ˌrepjuˈteɪʃn/
+- English Meaning: The opinion people generally have about someone or something.
+- Vietnamese Meaning: Danh tiếng.
+- Example: The restaurant has an excellent reputation.
+- Example Translation: Nhà hàng có danh tiếng rất tốt.
 
-## 2202. resolve
+## 2209. request
+
+- Type: Noun, Verb
+- CEFR Level: A2, B1
+- IPA (US): /rɪˈkwest/
+- English Meaning: A polite asking for something.
+- Vietnamese Meaning: Yêu cầu; đề nghị.
+- Example: We received a request for more information.
+- Example Translation: Chúng tôi nhận được yêu cầu cung cấp thêm thông tin.
+
+## 2210. require
+
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /rɪˈkwaɪər/
+- English Meaning: To need something.
+- Vietnamese Meaning: Yêu cầu; cần.
+- Example: This position requires experience.
+- Example Translation: Vị trí này yêu cầu kinh nghiệm.
+
+## 2211. requirement
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /rɪˈkwaɪərmənt/
+- English Meaning: Something that is necessary or required.
+- Vietnamese Meaning: Yêu cầu; điều kiện.
+- Example: English is a requirement for the job.
+- Example Translation: Tiếng Anh là yêu cầu cho công việc này.
+
+## 2212. rescue
+
+- Type: Verb, Noun
+- CEFR Level: B2
+- IPA (US): /ˈreskjuː/
+- English Meaning: To save someone from danger.
+- Vietnamese Meaning: Cứu hộ; giải cứu.
+- Example: Firefighters rescued the family.
+- Example Translation: Lính cứu hỏa đã giải cứu gia đình đó.
+
+## 2213. research
+
+- Type: Noun, Verb
+- CEFR Level: A2
+- IPA (US): /rɪˈsɜːrtʃ/
+- English Meaning: Careful study to discover new facts.
+- Vietnamese Meaning: Nghiên cứu.
+- Example: She is doing research on climate change.
+- Example Translation: Cô ấy đang nghiên cứu về biến đổi khí hậu.
+
+## 2214. researcher
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /rɪˈsɜːrtʃər/
+- English Meaning: A person who carries out research.
+- Vietnamese Meaning: Nhà nghiên cứu.
+- Example: Researchers collected data from students.
+- Example Translation: Các nhà nghiên cứu đã thu thập dữ liệu từ sinh viên.
+
+## 2215. reservation
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ˌrezərˈveɪʃn/
+- English Meaning: An arrangement to keep a seat, room, or table for someone.
+- Vietnamese Meaning: Đặt chỗ.
+- Example: I made a hotel reservation online.
+- Example Translation: Tôi đã đặt phòng khách sạn trực tuyến.
+
+## 2216. reserve
+
+- Type: Noun, Verb
+- CEFR Level: B2
+- IPA (US): /rɪˈzɜːrv/
+- English Meaning: To keep something for future use.
+- Vietnamese Meaning: Dự trữ; đặt trước.
+- Example: Please reserve two tickets for us.
+- Example Translation: Vui lòng đặt trước hai vé cho chúng tôi.
+
+## 2217. resident
+
+- Type: Noun, Adjective
+- CEFR Level: B2
+- IPA (US): /ˈrezɪdənt/
+- English Meaning: A person who lives in a place.
+- Vietnamese Meaning: Cư dân.
+- Example: Local residents attended the meeting.
+- Example Translation: Các cư dân địa phương đã tham dự cuộc họp.
+
+## 2218. resist
+
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /rɪˈzɪst/
+- English Meaning: To fight against or refuse to accept something.
+- Vietnamese Meaning: Chống lại; kháng cự.
+- Example: He couldn't resist eating the cake.
+- Example Translation: Anh ấy không thể cưỡng lại việc ăn chiếc bánh.
+
+## 2219. resolve
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /rɪˈzɑːlv/
 - English Meaning: To solve a problem or difficulty.
 - Vietnamese Meaning: Giải quyết.
-- Example: The issue was resolved quickly.
-- Example Translation: Vấn đề đã được giải quyết nhanh chóng.
+- Example: We must resolve this issue soon.
+- Example Translation: Chúng ta phải giải quyết vấn đề này sớm.
 
-## 2203. resort
+## 2220. resort
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /rɪˈzɔːrt/
-- English Meaning: A place where people go for vacations.
+- English Meaning: A place where people go for vacations and relaxation.
 - Vietnamese Meaning: Khu nghỉ dưỡng.
 - Example: They stayed at a beach resort.
-- Example Translation: Họ ở tại một khu nghỉ dưỡng ven biển.
+- Example Translation: Họ đã ở tại một khu nghỉ dưỡng ven biển.
 
-## 2204. resource
+## 2221. resource
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈriːsɔːrs/
-- English Meaning: Something useful that can be used when needed.
-- Vietnamese Meaning: Tài nguyên.
-- Example: Water is an important natural resource.
-- Example Translation: Nước là một tài nguyên thiên nhiên quan trọng.
+- English Meaning: Something useful that can help achieve a goal.
+- Vietnamese Meaning: Nguồn lực; tài nguyên.
+- Example: Time is one of our most valuable resources.
+- Example Translation: Thời gian là một trong những nguồn lực quý giá nhất của chúng ta.
 
-## 2205. respect
+## 2222. respect
 
 - Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /rɪˈspekt/
-- English Meaning: Admiration and consideration for someone.
+- English Meaning: Admiration for someone or something; to admire or value.
 - Vietnamese Meaning: Sự tôn trọng; tôn trọng.
-- Example: We should respect other people's opinions.
-- Example Translation: Chúng ta nên tôn trọng ý kiến của người khác.
+- Example: I respect her decision.
+- Example Translation: Tôi tôn trọng quyết định của cô ấy.
 
-## 2206. respond
+## 2223. respond
 
 - Type: Verb
 - CEFR Level: A2
 - IPA (US): /rɪˈspɑːnd/
-- English Meaning: To answer or react.
-- Vietnamese Meaning: Phản hồi.
-- Example: She responded to my email immediately.
-- Example Translation: Cô ấy phản hồi email của tôi ngay lập tức.
+- English Meaning: To answer or react to something.
+- Vietnamese Meaning: Phản hồi; đáp lại.
+- Example: Please respond to the email by Friday.
+- Example Translation: Vui lòng phản hồi email trước thứ Sáu.
 
-## 2207. response
+## 2224. response
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /rɪˈspɑːns/
 - English Meaning: An answer or reaction.
-- Vietnamese Meaning: Phản hồi; câu trả lời.
-- Example: Thank you for your response.
-- Example Translation: Cảm ơn phản hồi của bạn.
+- Vietnamese Meaning: Phản hồi; sự đáp lại.
+- Example: We received a positive response from customers.
+- Example Translation: Chúng tôi nhận được phản hồi tích cực từ khách hàng.
 
-## 2208. responsibility
+## 2225. responsibility
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /rɪˌspɑːnsəˈbɪləti/
-- English Meaning: Something that it is your duty to do.
+- English Meaning: A duty or task that you are expected to do.
 - Vietnamese Meaning: Trách nhiệm.
-- Example: Parenting is a big responsibility.
-- Example Translation: Làm cha mẹ là một trách nhiệm lớn.
+- Example: Managing the team is her responsibility.
+- Example Translation: Quản lý nhóm là trách nhiệm của cô ấy.
 
-## 2209. responsible
+## 2226. responsible
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /rɪˈspɑːnsəbl/
-- English Meaning: Having a duty and being trustworthy.
+- English Meaning: Having a duty to deal with something; reliable.
 - Vietnamese Meaning: Có trách nhiệm.
-- Example: She is responsible for managing the project.
-- Example Translation: Cô ấy chịu trách nhiệm quản lý dự án.
+- Example: He is responsible for the project.
+- Example Translation: Anh ấy chịu trách nhiệm cho dự án.
 
-## 2210. rest
+## 2227. rest (remaining part)
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /rest/
+- English Meaning: The remaining part of something.
+- Vietnamese Meaning: Phần còn lại.
+- Example: I'll finish the rest of the work tomorrow.
+- Example Translation: Tôi sẽ hoàn thành phần công việc còn lại vào ngày mai.
+
+## 2228. rest (sleep/relax)
 
 - Type: Noun, Verb
 - CEFR Level: A2
 - IPA (US): /rest/
-- English Meaning: Relaxation after work or activity.
+- English Meaning: A period of relaxing or sleeping; to relax.
 - Vietnamese Meaning: Nghỉ ngơi.
-- Example: You need some rest after the trip.
-- Example Translation: Bạn cần nghỉ ngơi sau chuyến đi.
+- Example: You should get some rest.
+- Example Translation: Bạn nên nghỉ ngơi một chút.
 
-## 2211. restaurant
+## 2229. restaurant
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈrestrɑːnt/
-- English Meaning: A place where meals are prepared and served.
+- English Meaning: A place where people pay to eat meals.
 - Vietnamese Meaning: Nhà hàng.
-- Example: We had dinner at a restaurant.
-- Example Translation: Chúng tôi ăn tối tại một nhà hàng.
+- Example: We had dinner at a local restaurant.
+- Example Translation: Chúng tôi ăn tối tại một nhà hàng địa phương.
 
-## 2212. result
+## 2230. result
 
 - Type: Noun, Verb
 - CEFR Level: A1, B1
 - IPA (US): /rɪˈzʌlt/
-- English Meaning: The outcome of an action or event.
+- English Meaning: The outcome of something; to happen because of something.
 - Vietnamese Meaning: Kết quả.
-- Example: The exam results were announced today.
-- Example Translation: Kết quả kỳ thi được công bố hôm nay.
+- Example: Hard work usually results in success.
+- Example Translation: Chăm chỉ thường dẫn đến thành công.
 
-## 2213. retain
+## 2231. retain
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /rɪˈteɪn/
-- English Meaning: To keep something over time.
-- Vietnamese Meaning: Giữ lại.
-- Example: It is difficult to retain all the information.
-- Example Translation: Thật khó để giữ lại tất cả thông tin.
+- English Meaning: To keep or continue to have something.
+- Vietnamese Meaning: Giữ lại; duy trì.
+- Example: The company wants to retain talented employees.
+- Example Translation: Công ty muốn giữ lại những nhân viên tài năng.
 
-## 2214. retire
+## 2232. retire
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /rɪˈtaɪər/
-- English Meaning: To stop working because of age.
+- English Meaning: To stop working permanently because of age.
 - Vietnamese Meaning: Nghỉ hưu.
-- Example: He plans to retire next year.
-- Example Translation: Ông ấy dự định nghỉ hưu năm sau.
+- Example: My father plans to retire next year.
+- Example Translation: Bố tôi dự định nghỉ hưu vào năm sau.
 
-## 2215. retirement
+## 2233. retired
 
-- Type: Noun
+- Type: Adjective
 - CEFR Level: B1
-- IPA (US): /rɪˈtaɪərmənt/
-- English Meaning: The period after leaving work permanently.
-- Vietnamese Meaning: Sự nghỉ hưu.
-- Example: She is looking forward to retirement.
-- Example Translation: Bà ấy mong chờ cuộc sống nghỉ hưu.
+- IPA (US): /rɪˈtaɪərd/
+- English Meaning: No longer working because of retirement.
+- Vietnamese Meaning: Đã nghỉ hưu.
+- Example: He is a retired teacher.
+- Example Translation: Ông ấy là một giáo viên đã nghỉ hưu.
 
-## 2216. return
+## 2234. return
 
 - Type: Verb, Noun
 - CEFR Level: A1
 - IPA (US): /rɪˈtɜːrn/
-- English Meaning: To come back or give something back.
-- Vietnamese Meaning: Trở lại; hoàn trả.
-- Example: I returned the book yesterday.
-- Example Translation: Tôi đã trả lại cuốn sách hôm qua.
+- English Meaning: To come back; the act of coming back.
+- Vietnamese Meaning: Trở về; sự trở lại.
+- Example: She returned home late.
+- Example Translation: Cô ấy trở về nhà muộn.
 
-## 2217. reveal
+## 2235. reveal
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /rɪˈviːl/
-- English Meaning: To make something known.
+- English Meaning: To make something known or visible.
 - Vietnamese Meaning: Tiết lộ.
-- Example: The report revealed new information.
-- Example Translation: Báo cáo đã tiết lộ thông tin mới.
+- Example: The report revealed several problems.
+- Example Translation: Báo cáo đã tiết lộ một số vấn đề.
 
-## 2218. revenue
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /ˈrevənuː/
-- English Meaning: Income produced by a business.
-- Vietnamese Meaning: Doanh thu.
-- Example: The company's revenue increased this year.
-- Example Translation: Doanh thu của công ty tăng trong năm nay.
-
-## 2219. review
+## 2236. review
 
 - Type: Noun, Verb
 - CEFR Level: A2
 - IPA (US): /rɪˈvjuː/
-- English Meaning: An examination or evaluation of something.
-- Vietnamese Meaning: Đánh giá; xem xét.
-- Example: The product received positive reviews.
-- Example Translation: Sản phẩm nhận được những đánh giá tích cực.
+- English Meaning: An examination or assessment; to examine again.
+- Vietnamese Meaning: Đánh giá; xem xét lại.
+- Example: Let's review the document before sending it.
+- Example Translation: Hãy xem lại tài liệu trước khi gửi đi.
 
-## 2220. revolution
+## 2237. revise
+
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /rɪˈvaɪz/
+- English Meaning: To change or improve something; to study again before an exam.
+- Vietnamese Meaning: Sửa đổi; ôn tập.
+- Example: She revised her presentation slides.
+- Example Translation: Cô ấy đã chỉnh sửa các slide thuyết trình.
+
+## 2238. revolution
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˌrevəˈluːʃən/
-- English Meaning: A major change in society or technology.
+- IPA (US): /ˌrevəˈluːʃn/
+- English Meaning: A major change in society, technology, or government.
 - Vietnamese Meaning: Cuộc cách mạng.
 - Example: The internet caused a communication revolution.
 - Example Translation: Internet đã tạo ra một cuộc cách mạng trong giao tiếp.
 
-## 2221. reward
+## 2239. reward
 
 - Type: Noun, Verb
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /rɪˈwɔːrd/
-- English Meaning: Something given in return for good behavior or work.
-- Vietnamese Meaning: Phần thưởng.
-- Example: Hard work brings rewards.
-- Example Translation: Làm việc chăm chỉ mang lại phần thưởng.
+- English Meaning: Something given in return for effort or achievement.
+- Vietnamese Meaning: Phần thưởng; thưởng.
+- Example: Employees received a reward for their performance.
+- Example Translation: Nhân viên nhận được phần thưởng cho thành tích của họ.
 
-## 2222. rhythm
+## 2240. rhythm
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈrɪðəm/
-- English Meaning: A regular pattern of sounds or movement.
+- English Meaning: A regular pattern of sounds, movements, or events.
 - Vietnamese Meaning: Nhịp điệu.
-- Example: The song has a strong rhythm.
-- Example Translation: Bài hát có nhịp điệu mạnh mẽ.
+- Example: I like the rhythm of this song.
+- Example Translation: Tôi thích nhịp điệu của bài hát này.
 
-## 2223. rice
+
+## 2241. rice
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /raɪs/
-- English Meaning: Small grains used as food.
+- English Meaning: Small white grains used as food.
 - Vietnamese Meaning: Gạo; cơm.
-- Example: Rice is a staple food in Vietnam.
-- Example Translation: Gạo là lương thực chính ở Việt Nam.
+- Example: Rice is a staple food in many Asian countries.
+- Example Translation: Gạo là lương thực chính ở nhiều nước châu Á.
 
-## 2224. rich
+## 2242. rich
 
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /rɪtʃ/
-- English Meaning: Having a lot of money.
+- English Meaning: Having a lot of money or valuable possessions.
 - Vietnamese Meaning: Giàu có.
 - Example: He became rich through business.
 - Example Translation: Anh ấy trở nên giàu có nhờ kinh doanh.
 
-## 2225. rid
+## 2243. rid
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /rɪd/
 - English Meaning: To remove something unwanted.
 - Vietnamese Meaning: Loại bỏ.
-- Example: We need to get rid of old files.
-- Example Translation: Chúng ta cần loại bỏ các tệp cũ.
+- Example: We need to get rid of these old files.
+- Example Translation: Chúng ta cần loại bỏ những tệp cũ này.
 
-## 2226. ride
+## 2244. ride
 
 - Type: Verb, Noun
-- CEFR Level: A1
+- CEFR Level: A1, A2
 - IPA (US): /raɪd/
-- English Meaning: To travel on a bicycle, horse, or motorcycle.
-- Vietnamese Meaning: Cưỡi; đi xe.
-- Example: He rides his bike to school.
-- Example Translation: Anh ấy đi xe đạp đến trường.
+- English Meaning: To sit on and control a bicycle, motorcycle, horse, etc.; a journey.
+- Vietnamese Meaning: Cưỡi; đi xe; chuyến đi.
+- Example: She rides her bike to work.
+- Example Translation: Cô ấy đi làm bằng xe đạp.
 
-## 2227. right
+## 2245. right
 
 - Type: Adjective, Adverb, Noun
 - CEFR Level: A1
 - IPA (US): /raɪt/
-- English Meaning: Correct; on the side opposite the left.
-- Vietnamese Meaning: Đúng; bên phải.
-- Example: Turn right at the traffic light.
-- Example Translation: Hãy rẽ phải ở đèn giao thông.
+- English Meaning: Correct; on the right side; a moral or legal entitlement.
+- Vietnamese Meaning: Đúng; bên phải; quyền.
+- Example: You gave the right answer.
+- Example Translation: Bạn đã đưa ra câu trả lời đúng.
 
-## 2228. ring
+## 2246. ring (circle)
 
-- Type: Noun, Verb
+- Type: Noun
 - CEFR Level: A2
 - IPA (US): /rɪŋ/
-- English Meaning: A circular piece of jewelry; to make a bell sound.
-- Vietnamese Meaning: Nhẫn; reo.
-- Example: The phone began to ring.
-- Example Translation: Điện thoại bắt đầu đổ chuông.
+- English Meaning: A small circular band, often worn on a finger.
+- Vietnamese Meaning: Nhẫn.
+- Example: She wore a gold ring.
+- Example Translation: Cô ấy đeo một chiếc nhẫn vàng.
 
-## 2229. rise
+## 2247. ring (sound/call)
 
 - Type: Verb, Noun
-- CEFR Level: B1
+- CEFR Level: A2, B1
+- IPA (US): /rɪŋ/
+- English Meaning: To produce a bell sound or make a phone call.
+- Vietnamese Meaning: Reng; gọi điện.
+- Example: I'll ring you later.
+- Example Translation: Tôi sẽ gọi cho bạn sau.
+
+## 2248. rise
+
+- Type: Verb, Noun
+- CEFR Level: A2, B2
 - IPA (US): /raɪz/
-- English Meaning: To move upward.
-- Vietnamese Meaning: Tăng lên; mọc lên.
+- English Meaning: To move upward; an increase.
+- Vietnamese Meaning: Tăng lên; sự gia tăng.
 - Example: Prices continue to rise.
 - Example Translation: Giá cả tiếp tục tăng.
 
-## 2230. risk
+## 2249. risk
 
 - Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /rɪsk/
-- English Meaning: The possibility of danger or loss.
-- Vietnamese Meaning: Rủi ro.
-- Example: Investing always involves risk.
-- Example Translation: Đầu tư luôn đi kèm rủi ro.
+- English Meaning: The possibility of danger or loss; to expose to danger.
+- Vietnamese Meaning: Rủi ro; mạo hiểm.
+- Example: Investing always involves some risk.
+- Example Translation: Đầu tư luôn có một số rủi ro.
 
-## 2231. river
+## 2250. river
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈrɪvər/
-- English Meaning: A natural flow of water.
+- English Meaning: A large natural stream of water.
 - Vietnamese Meaning: Con sông.
 - Example: The river flows through the city.
 - Example Translation: Con sông chảy qua thành phố.
 
-## 2232. road
+## 2251. road
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /roʊd/
-- English Meaning: A hard surface for vehicles and travel.
+- English Meaning: A route for vehicles to travel on.
 - Vietnamese Meaning: Con đường.
 - Example: The road was closed for repairs.
 - Example Translation: Con đường bị đóng để sửa chữa.
 
-## 2233. rock
+## 2252. robot
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ˈroʊbɑːt/
+- English Meaning: A machine that can perform tasks automatically.
+- Vietnamese Meaning: Rô-bốt.
+- Example: The factory uses robots to assemble products.
+- Example Translation: Nhà máy sử dụng rô-bốt để lắp ráp sản phẩm.
+
+## 2253. rock (stone)
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /rɑːk/
 - English Meaning: A large piece of stone.
-- Vietnamese Meaning: Đá.
-- Example: The climber stood on a rock.
-- Example Translation: Người leo núi đứng trên một tảng đá.
+- Vietnamese Meaning: Đá tảng; đá.
+- Example: He sat on a rock near the lake.
+- Example Translation: Anh ấy ngồi trên một tảng đá gần hồ.
 
-## 2234. role
+## 2254. rock (music)
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /rɑːk/
+- English Meaning: A style of popular music with a strong beat.
+- Vietnamese Meaning: Nhạc rock.
+- Example: She enjoys listening to rock music.
+- Example Translation: Cô ấy thích nghe nhạc rock.
+
+## 2255. role
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /roʊl/
-- English Meaning: A function or position in a situation.
+- English Meaning: A position, function, or character in a situation.
 - Vietnamese Meaning: Vai trò.
-- Example: She plays an important role in the team.
-- Example Translation: Cô ấy đóng vai trò quan trọng trong nhóm.
+- Example: He plays an important role in the team.
+- Example Translation: Anh ấy đóng vai trò quan trọng trong nhóm.
 
-## 2235. roll
+## 2256. roll
 
 - Type: Verb, Noun
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /roʊl/
-- English Meaning: To move by turning over and over.
-- Vietnamese Meaning: Lăn.
+- English Meaning: To move by turning over and over; a rounded piece of bread.
+- Vietnamese Meaning: Lăn; cuộn.
 - Example: The ball rolled across the floor.
 - Example Translation: Quả bóng lăn qua sàn nhà.
 
-## 2236. romantic
+## 2257. romantic
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /roʊˈmæntɪk/
-- English Meaning: Connected with love.
+- English Meaning: Related to love and affection.
 - Vietnamese Meaning: Lãng mạn.
-- Example: They had a romantic dinner.
-- Example Translation: Họ có một bữa tối lãng mạn.
+- Example: They had a romantic dinner by the beach.
+- Example Translation: Họ đã có một bữa tối lãng mạn bên bờ biển.
 
-## 2237. roof
+## 2258. roof
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ruːf/
 - English Meaning: The top covering of a building.
 - Vietnamese Meaning: Mái nhà.
-- Example: The roof needs repair.
-- Example Translation: Mái nhà cần được sửa chữa.
+- Example: The roof was damaged during the storm.
+- Example Translation: Mái nhà bị hư hại trong cơn bão.
 
-## 2238. room
+## 2259. room
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ruːm/
-- English Meaning: A part of a building enclosed by walls.
+- English Meaning: A part of a building separated by walls.
 - Vietnamese Meaning: Căn phòng.
 - Example: My room is on the second floor.
 - Example Translation: Phòng của tôi ở tầng hai.
 
-## 2239. root
+## 2260. root
 
 - Type: Noun
-- CEFR Level: B1
-- IPA (US): /ruːt/
-- English Meaning: The part of a plant below the ground.
-- Vietnamese Meaning: Rễ cây.
-- Example: The roots absorb water.
-- Example Translation: Rễ cây hấp thụ nước.
+- CEFR Level: B2
+- IPA (US): /ruːt/, /rʊt/
+- English Meaning: The part of a plant below the ground; the basic cause or source of something.
+- Vietnamese Meaning: Rễ; gốc rễ.
+- Example: We need to find the root cause of the problem.
+- Example Translation: Chúng ta cần tìm nguyên nhân gốc rễ của vấn đề.
 
-## 2240. rope
+## 2261. rope
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /roʊp/
-- English Meaning: Thick strong cord.
+- English Meaning: Thick strong cord made from twisted fibers.
 - Vietnamese Meaning: Dây thừng.
-- Example: They tied the boat with a rope.
-- Example Translation: Họ buộc thuyền bằng dây thừng.
+- Example: They used a rope to climb the hill.
+- Example Translation: Họ dùng dây thừng để leo lên ngọn đồi.
 
-## 2241. rough
+## 2262. rough
 
 - Type: Adjective
-- CEFR Level: B2
+- CEFR Level: B1
 - IPA (US): /rʌf/
-- English Meaning: Not smooth; difficult.
+- English Meaning: Not smooth; difficult or unpleasant.
 - Vietnamese Meaning: Gồ ghề; khó khăn.
-- Example: The road was rough and uneven.
-- Example Translation: Con đường gồ ghề và không bằng phẳng.
+- Example: We went through a rough period last year.
+- Example Translation: Chúng tôi đã trải qua một giai đoạn khó khăn năm ngoái.
 
-## 2242. round
+## 2263. round
 
-- Type: Adjective, Preposition, Adverb, Noun
-- CEFR Level: A2
+- Type: Adjective, Adverb, Preposition, Noun
+- CEFR Level: A2, B2
 - IPA (US): /raʊnd/
-- English Meaning: Shaped like a circle.
-- Vietnamese Meaning: Tròn.
-- Example: We sat around a round table.
-- Example Translation: Chúng tôi ngồi quanh một chiếc bàn tròn.
+- English Meaning: Shaped like a circle; around something.
+- Vietnamese Meaning: Tròn; xung quanh.
+- Example: They sat around a round table.
+- Example Translation: Họ ngồi quanh một chiếc bàn tròn.
 
-## 2243. route
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /ruːt/
-- English Meaning: A way from one place to another.
-- Vietnamese Meaning: Tuyến đường.
-- Example: This is the shortest route.
-- Example Translation: Đây là tuyến đường ngắn nhất.
-
-## 2244. routine
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /ruˈtiːn/
-- English Meaning: The usual way of doing things.
-- Vietnamese Meaning: Thói quen; công việc thường lệ.
-- Example: Morning exercise is part of my routine.
-- Example Translation: Tập thể dục buổi sáng là một phần thói quen của tôi.
-
-## 2245. row
+## 2264. route
 
 - Type: Noun
 - CEFR Level: A2
-- IPA (US): /roʊ/
-- English Meaning: A line of people or things.
-- Vietnamese Meaning: Hàng.
-- Example: The students stood in a row.
-- Example Translation: Các học sinh đứng thành một hàng.
+- IPA (US): /ruːt/, /raʊt/
+- English Meaning: A way or path from one place to another.
+- Vietnamese Meaning: Tuyến đường; lộ trình.
+- Example: This is the fastest route to the airport.
+- Example Translation: Đây là tuyến đường nhanh nhất đến sân bay.
 
-## 2246. royal
+## 2265. routine
+
+- Type: Noun, Adjective
+- CEFR Level: A1, B2
+- IPA (US): /ruːˈtiːn/
+- English Meaning: A regular way of doing things; ordinary.
+- Vietnamese Meaning: Thói quen; thường lệ.
+- Example: Exercise is part of my daily routine.
+- Example Translation: Tập thể dục là một phần trong thói quen hằng ngày của tôi.
+
+## 2266. row
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /roʊ/
+- English Meaning: A line of people or things arranged next to each other.
+- Vietnamese Meaning: Hàng.
+- Example: We sat in the front row.
+- Example Translation: Chúng tôi ngồi ở hàng đầu tiên.
+
+## 2267. royal
 
 - Type: Adjective
-- CEFR Level: B2
+- CEFR Level: B1
 - IPA (US): /ˈrɔɪəl/
-- English Meaning: Connected with a king or queen.
+- English Meaning: Connected with a king, queen, or royal family.
 - Vietnamese Meaning: Hoàng gia.
 - Example: They visited the royal palace.
 - Example Translation: Họ đã tham quan cung điện hoàng gia.
 
-## 2247. rub
+## 2268. rub
 
 - Type: Verb
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /rʌb/
-- English Meaning: To move your hand over something repeatedly.
-- Vietnamese Meaning: Chà xát.
-- Example: He rubbed his hands together.
-- Example Translation: Anh ấy chà hai tay vào nhau.
+- English Meaning: To move your hand across a surface with pressure.
+- Vietnamese Meaning: Chà; xoa.
+- Example: He rubbed his eyes because he was tired.
+- Example Translation: Anh ấy dụi mắt vì mệt.
 
-## 2248. rubber
+## 2269. rubber
 
 - Type: Noun, Adjective
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ˈrʌbər/
-- English Meaning: An elastic material made from latex.
+- English Meaning: A strong elastic material made from latex.
 - Vietnamese Meaning: Cao su.
 - Example: These gloves are made of rubber.
 - Example Translation: Những chiếc găng tay này được làm bằng cao su.
 
-## 2249. rude
+## 2270. rude
 
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /ruːd/
 - English Meaning: Not polite.
 - Vietnamese Meaning: Thô lỗ.
-- Example: It's rude to interrupt people.
+- Example: It is rude to interrupt people.
 - Example Translation: Ngắt lời người khác là bất lịch sự.
 
-## 2250. rule
+## 2271. rule
 
 - Type: Noun, Verb
-- CEFR Level: A1
+- CEFR Level: A1, B1
 - IPA (US): /ruːl/
-- English Meaning: An official instruction about what is allowed.
+- English Meaning: An official instruction; to control or govern.
 - Vietnamese Meaning: Quy tắc; cai trị.
-- Example: You must follow the rules.
-- Example Translation: Bạn phải tuân theo các quy tắc.
+- Example: Employees must follow company rules.
+- Example Translation: Nhân viên phải tuân thủ các quy tắc của công ty.
 
-## 2251. run
+## 2272. run
 
 - Type: Verb, Noun
-- CEFR Level: A1
+- CEFR Level: A1, A2
 - IPA (US): /rʌn/
-- English Meaning: To move quickly on foot.
+- English Meaning: To move quickly on foot; a period of running.
 - Vietnamese Meaning: Chạy.
-- Example: She runs every morning.
-- Example Translation: Cô ấy chạy bộ mỗi sáng.
+- Example: I run every morning.
+- Example Translation: Tôi chạy bộ mỗi sáng.
 
-## 2252. runner
+## 2273. runner
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈrʌnər/
 - English Meaning: A person who runs, especially as a sport.
-- Vietnamese Meaning: Người chạy bộ.
-- Example: He is a marathon runner.
-- Example Translation: Anh ấy là một vận động viên chạy marathon.
+- Vietnamese Meaning: Người chạy bộ; vận động viên chạy.
+- Example: She is an excellent runner.
+- Example Translation: Cô ấy là một vận động viên chạy xuất sắc.
 
-## 2253. running
+## 2274. running
 
-- Type: Noun, Adjective
+- Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈrʌnɪŋ/
-- English Meaning: The activity of running.
-- Vietnamese Meaning: Việc chạy bộ.
-- Example: Running is good for your health.
-- Example Translation: Chạy bộ tốt cho sức khỏe.
+- English Meaning: The activity or sport of running.
+- Vietnamese Meaning: Chạy bộ.
+- Example: Running helps improve fitness.
+- Example Translation: Chạy bộ giúp cải thiện thể lực.
 
-## 2254. rural
+## 2275. rural
 
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /ˈrʊrəl/
-- English Meaning: Connected with the countryside.
+- English Meaning: Relating to the countryside.
 - Vietnamese Meaning: Thuộc nông thôn.
-- Example: They live in a rural area.
-- Example Translation: Họ sống ở một vùng nông thôn.
+- Example: He grew up in a rural area.
+- Example Translation: Anh ấy lớn lên ở một vùng nông thôn.
 
-## 2255. rush
+## 2276. rush
 
 - Type: Verb, Noun
 - CEFR Level: B2
 - IPA (US): /rʌʃ/
 - English Meaning: To move or do something very quickly.
-- Vietnamese Meaning: Vội vàng.
-- Example: Don't rush your decision.
-- Example Translation: Đừng vội vàng quyết định.
+- Vietnamese Meaning: Vội vã; sự gấp gáp.
+- Example: There's no need to rush.
+- Example Translation: Không cần phải vội.
 
-## 2256. sad
+## 2277. sad
 
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /sæd/
-- English Meaning: Unhappy.
+- English Meaning: Unhappy or feeling sorrow.
 - Vietnamese Meaning: Buồn.
 - Example: She felt sad after hearing the news.
 - Example Translation: Cô ấy cảm thấy buồn sau khi nghe tin.
 
-## 2257. sadly
+## 2278. sadly
 
 - Type: Adverb
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈsædli/
-- English Meaning: In a sad way.
-- Vietnamese Meaning: Một cách buồn bã.
-- Example: He looked sadly out the window.
-- Example Translation: Anh ấy buồn bã nhìn ra ngoài cửa sổ.
+- English Meaning: In an unhappy or regrettable way.
+- Vietnamese Meaning: Đáng buồn thay.
+- Example: Sadly, the event was canceled.
+- Example Translation: Đáng buồn thay, sự kiện đã bị hủy.
 
-## 2258. safe
+## 2279. safe
 
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /seɪf/
-- English Meaning: Protected from danger.
+- English Meaning: Free from danger or harm.
 - Vietnamese Meaning: An toàn.
-- Example: The children are safe now.
-- Example Translation: Bọn trẻ bây giờ đã an toàn.
+- Example: The children are safe at home.
+- Example Translation: Bọn trẻ đang an toàn ở nhà.
 
-## 2259. safety
+## 2280. safety
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈseɪfti/
 - English Meaning: The condition of being safe.
 - Vietnamese Meaning: Sự an toàn.
-- Example: Safety is our main concern.
-- Example Translation: An toàn là mối quan tâm chính của chúng tôi.
+- Example: Safety is our top priority.
+- Example Translation: An toàn là ưu tiên hàng đầu của chúng tôi.
 
-## 2260. sail
+
+## 2281. sail
 
 - Type: Verb, Noun
-- CEFR Level: B1
+- CEFR Level: A2, B1
 - IPA (US): /seɪl/
-- English Meaning: To travel on water in a boat.
-- Vietnamese Meaning: Đi thuyền buồm.
+- English Meaning: To travel on water in a boat or ship; a piece of cloth used to catch the wind.
+- Vietnamese Meaning: Đi thuyền buồm; cánh buồm.
 - Example: They sailed across the lake.
-- Example Translation: Họ đi thuyền qua hồ.
+- Example Translation: Họ đã đi thuyền qua hồ.
 
-## 2261. salad
+## 2282. sailing
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈseɪlɪŋ/
+- English Meaning: The activity of traveling in a sailboat.
+- Vietnamese Meaning: Môn chèo thuyền buồm.
+- Example: Sailing is a popular summer activity.
+- Example Translation: Chèo thuyền buồm là một hoạt động phổ biến vào mùa hè.
+
+## 2283. sailor
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ˈseɪlər/
+- English Meaning: A person who works on or travels by a ship.
+- Vietnamese Meaning: Thủy thủ.
+- Example: The sailor spent months at sea.
+- Example Translation: Người thủy thủ đã ở trên biển nhiều tháng.
+
+## 2284. salad
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈsæləd/
-- English Meaning: A dish made mainly of raw vegetables.
-- Vietnamese Meaning: Sa lát.
-- Example: I'd like a salad for lunch.
-- Example Translation: Tôi muốn ăn sa lát vào bữa trưa.
+- English Meaning: A dish of mixed vegetables, fruits, or other cold ingredients.
+- Vietnamese Meaning: Salad.
+- Example: I ordered a chicken salad for lunch.
+- Example Translation: Tôi gọi một phần salad gà cho bữa trưa.
 
-## 2262. salary
+## 2285. salary
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈsæləri/
-- English Meaning: Money paid regularly for work.
+- English Meaning: Money paid regularly to an employee for work.
 - Vietnamese Meaning: Tiền lương.
-- Example: She receives a good salary.
-- Example Translation: Cô ấy nhận được mức lương tốt.
+- Example: She received a salary increase this year.
+- Example Translation: Cô ấy đã được tăng lương trong năm nay.
 
-## 2263. sale
+## 2286. sale
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /seɪl/
-- English Meaning: The act of selling or a period of reduced prices.
+- English Meaning: The act of selling something; a period when goods are sold at lower prices.
 - Vietnamese Meaning: Việc bán hàng; đợt giảm giá.
-- Example: The store is having a sale.
-- Example Translation: Cửa hàng đang có đợt giảm giá.
+- Example: The store is having a big sale this weekend.
+- Example Translation: Cửa hàng đang có đợt giảm giá lớn vào cuối tuần này.
 
-## 2264. salt
+## 2287. salt
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /sɔːlt/
-- English Meaning: A white substance used to flavor food.
+- English Meaning: A white substance used to add flavor to food.
 - Vietnamese Meaning: Muối.
-- Example: Add a little salt to the soup.
-- Example Translation: Hãy thêm một ít muối vào súp.
+- Example: The soup needs a little more salt.
+- Example Translation: Món súp cần thêm một ít muối.
 
-## 2265. same
+## 2288. same
 
-- Type: Adjective, Pronoun
+- Type: Adjective, Pronoun, Adverb
 - CEFR Level: A1
 - IPA (US): /seɪm/
-- English Meaning: Exactly alike.
-- Vietnamese Meaning: Giống nhau.
-- Example: We have the same birthday.
-- Example Translation: Chúng tôi có cùng ngày sinh.
+- English Meaning: Not different; exactly alike.
+- Vietnamese Meaning: Giống nhau; cùng một.
+- Example: We have the same opinion.
+- Example Translation: Chúng tôi có cùng quan điểm.
 
-## 2266. sample
+## 2289. sample
 
 - Type: Noun, Verb
-- CEFR Level: B1
+- CEFR Level: B1, B2
 - IPA (US): /ˈsæmpl/
-- English Meaning: A small amount used to represent a larger whole.
-- Vietnamese Meaning: Mẫu.
-- Example: The scientist examined a sample of water.
-- Example Translation: Nhà khoa học kiểm tra một mẫu nước.
+- English Meaning: A small amount used as an example or for testing.
+- Vietnamese Meaning: Mẫu; lấy mẫu.
+- Example: The researcher collected blood samples.
+- Example Translation: Nhà nghiên cứu đã thu thập các mẫu máu.
 
-## 2267. sand
+## 2290. sand
 
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /sænd/
-- English Meaning: Small grains of rock found on beaches.
+- English Meaning: Small grains of rock found on beaches and deserts.
 - Vietnamese Meaning: Cát.
-- Example: Children played in the sand.
+- Example: The children played in the sand.
 - Example Translation: Bọn trẻ chơi trên cát.
 
-## 2268. satellite
+## 2291. sandwich
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /ˈsænwɪtʃ/
+- English Meaning: Two pieces of bread with food between them.
+- Vietnamese Meaning: Bánh sandwich.
+- Example: I had a sandwich for lunch.
+- Example Translation: Tôi ăn một chiếc bánh sandwich cho bữa trưa.
+
+## 2292. satellite
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈsætəlaɪt/
-- English Meaning: An object that moves around a planet.
+- English Meaning: An object that moves around a planet, or a device sent into space.
 - Vietnamese Meaning: Vệ tinh.
-- Example: The satellite sends information to Earth.
-- Example Translation: Vệ tinh gửi thông tin về Trái Đất.
+- Example: The satellite sends images back to Earth.
+- Example Translation: Vệ tinh gửi hình ảnh về Trái Đất.
 
-## 2269. satisfaction
+## 2293. satisfied
 
-- Type: Noun
+- Type: Adjective
 - CEFR Level: B2
-- IPA (US): /ˌsætɪsˈfækʃən/
-- English Meaning: A feeling of pleasure from achievement.
-- Vietnamese Meaning: Sự hài lòng.
-- Example: Customer satisfaction is important.
-- Example Translation: Sự hài lòng của khách hàng rất quan trọng.
+- IPA (US): /ˈsætɪsfaɪd/
+- English Meaning: Pleased because expectations were met.
+- Vietnamese Meaning: Hài lòng.
+- Example: Customers were satisfied with the service.
+- Example Translation: Khách hàng hài lòng với dịch vụ.
 
-## 2270. satisfy
+## 2294. satisfy
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ˈsætɪsfaɪ/
-- English Meaning: To meet a need or expectation.
+- English Meaning: To meet a need, expectation, or desire.
 - Vietnamese Meaning: Làm hài lòng; đáp ứng.
-- Example: The product satisfied customers.
-- Example Translation: Sản phẩm làm hài lòng khách hàng.
+- Example: The product satisfied all requirements.
+- Example Translation: Sản phẩm đã đáp ứng mọi yêu cầu.
 
-## 2271. Saturday
+## 2295. Saturday
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈsætərdeɪ/
 - English Meaning: The day after Friday.
 - Vietnamese Meaning: Thứ Bảy.
-- Example: We're meeting on Saturday.
-- Example Translation: Chúng tôi sẽ gặp nhau vào thứ Bảy.
+- Example: We usually go out on Saturday.
+- Example Translation: Chúng tôi thường đi chơi vào thứ Bảy.
 
-## 2272. sauce
+## 2296. sauce
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /sɔːs/
 - English Meaning: A liquid added to food for flavor.
 - Vietnamese Meaning: Nước sốt.
-- Example: This pasta needs more sauce.
-- Example Translation: Món mì này cần thêm nước sốt.
+- Example: This pasta comes with tomato sauce.
+- Example Translation: Món mì này đi kèm với sốt cà chua.
 
-## 2273. save
+## 2297. save
 
 - Type: Verb
 - CEFR Level: A2
 - IPA (US): /seɪv/
-- English Meaning: To keep something for future use.
-- Vietnamese Meaning: Tiết kiệm; cứu.
-- Example: I save money every month.
-- Example Translation: Tôi tiết kiệm tiền mỗi tháng.
+- English Meaning: To keep something safe; to avoid spending money.
+- Vietnamese Meaning: Cứu; tiết kiệm; lưu.
+- Example: Don't forget to save your work.
+- Example Translation: Đừng quên lưu công việc của bạn.
 
-## 2274. saving
+## 2298. saving
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ˈseɪvɪŋ/
-- English Meaning: Money kept for future use.
-- Vietnamese Meaning: Khoản tiết kiệm.
-- Example: She spent her savings on a house.
+- English Meaning: Money that has been kept for future use.
+- Vietnamese Meaning: Tiền tiết kiệm.
+- Example: She used her savings to buy a house.
 - Example Translation: Cô ấy dùng tiền tiết kiệm để mua nhà.
 
-## 2275. say
+## 2299. say
 
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /seɪ/
-- English Meaning: To speak words.
+- English Meaning: To speak words; to express something in words.
 - Vietnamese Meaning: Nói.
-- Example: What did you say?
-- Example Translation: Bạn đã nói gì?
+- Example: What did he say?
+- Example Translation: Anh ấy đã nói gì?
 
-## 2276. scale
+## 2300. scale
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /skeɪl/
-- English Meaning: A system of measurement or size.
-- Vietnamese Meaning: Thang đo; quy mô.
-- Example: The project grew on a large scale.
-- Example Translation: Dự án phát triển với quy mô lớn.
-
-## 2277. scene
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /siːn/
-- English Meaning: A place where something happens.
-- Vietnamese Meaning: Cảnh; hiện trường.
-- Example: Police arrived at the scene.
-- Example Translation: Cảnh sát đến hiện trường.
-
-## 2278. schedule
-
-- Type: Noun, Verb
-- CEFR Level: A2
-- IPA (US): /ˈskedʒuːl/
-- English Meaning: A plan of times and activities.
-- Vietnamese Meaning: Lịch trình.
-- Example: My schedule is very busy this week.
-- Example Translation: Lịch trình của tôi rất bận tuần này.
-
-## 2279. scheme
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /skiːm/
-- English Meaning: A plan or system.
-- Vietnamese Meaning: Kế hoạch; đề án.
-- Example: The government introduced a new scheme.
-- Example Translation: Chính phủ đã giới thiệu một đề án mới.
-
-## 2280. school
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /skuːl/
-- English Meaning: A place where children are educated.
-- Vietnamese Meaning: Trường học.
-- Example: The children walked to school.
-- Example Translation: Những đứa trẻ đi bộ đến trường.
-
-## 2281. science
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /ˈsaɪəns/
-- English Meaning: The study of the natural world.
-- Vietnamese Meaning: Khoa học.
-- Example: Science helps us understand nature.
-- Example Translation: Khoa học giúp chúng ta hiểu thiên nhiên.
-
-## 2282. scientific
-
-- Type: Adjective
-- CEFR Level: B1
-- IPA (US): /ˌsaɪənˈtɪfɪk/
-- English Meaning: Related to science.
-- Vietnamese Meaning: Thuộc khoa học.
-- Example: The article is based on scientific research.
-- Example Translation: Bài báo dựa trên nghiên cứu khoa học.
-
-## 2283. scientist
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /ˈsaɪəntɪst/
-- English Meaning: A person who studies science.
-- Vietnamese Meaning: Nhà khoa học.
-- Example: The scientist made an important discovery.
-- Example Translation: Nhà khoa học đã có một phát hiện quan trọng.
-
-## 2284. score
-
-- Type: Noun, Verb
-- CEFR Level: A2
-- IPA (US): /skɔːr/
-- English Meaning: The number of points achieved.
-- Vietnamese Meaning: Điểm số.
-- Example: She got a high score in the exam.
-- Example Translation: Cô ấy đạt điểm cao trong kỳ thi.
-
-## 2285. screen
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /skriːn/
-- English Meaning: The flat surface of a TV, phone, or computer.
-- Vietnamese Meaning: Màn hình.
-- Example: The screen is too bright.
-- Example Translation: Màn hình quá sáng.
-
-## 2286. sea
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /siː/
-- English Meaning: A large area of salt water.
-- Vietnamese Meaning: Biển.
-- Example: We spent our holiday by the sea.
-- Example Translation: Chúng tôi dành kỳ nghỉ bên bờ biển.
-
-## 2287. search
-
-- Type: Noun, Verb
-- CEFR Level: A2
-- IPA (US): /sɜːrtʃ/
-- English Meaning: To look carefully for something.
-- Vietnamese Meaning: Tìm kiếm.
-- Example: Police are searching for the missing person.
-- Example Translation: Cảnh sát đang tìm kiếm người mất tích.
-
-## 2288. season
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /ˈsiːzn/
-- English Meaning: One of the four periods of the year.
-- Vietnamese Meaning: Mùa.
-- Example: Spring is my favorite season.
-- Example Translation: Mùa xuân là mùa yêu thích của tôi.
-
-## 2289. seat
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /siːt/
-- English Meaning: Something designed for sitting on.
-- Vietnamese Meaning: Ghế; chỗ ngồi.
-- Example: Please take a seat.
-- Example Translation: Mời bạn ngồi.
-
-## 2290. second
-
-- Type: Number, Noun, Adjective
-- CEFR Level: A1
-- IPA (US): /ˈsekənd/
-- English Meaning: Coming after the first.
-- Vietnamese Meaning: Thứ hai; giây.
-- Example: She finished in second place.
-- Example Translation: Cô ấy về đích ở vị trí thứ hai.
-
-## 2291. secondary
-
-- Type: Adjective
-- CEFR Level: B1
-- IPA (US): /ˈsekənderi/
-- English Meaning: Less important; relating to high school.
-- Vietnamese Meaning: Thứ yếu; trung học.
-- Example: Education is a secondary concern here.
-- Example Translation: Giáo dục là mối quan tâm thứ yếu ở đây.
-
-## 2292. secret
-
-- Type: Noun, Adjective
-- CEFR Level: A2
-- IPA (US): /ˈsiːkrət/
-- English Meaning: Something known by only a few people.
-- Vietnamese Meaning: Bí mật.
-- Example: Can you keep a secret?
-- Example Translation: Bạn có thể giữ bí mật không?
-
-## 2293. secretary
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˈsekrəteri/
-- English Meaning: A person who assists in an office.
-- Vietnamese Meaning: Thư ký.
-- Example: The secretary arranged the meeting.
-- Example Translation: Thư ký đã sắp xếp cuộc họp.
-
-## 2294. section
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˈsekʃən/
-- English Meaning: A part of something larger.
-- Vietnamese Meaning: Phần; mục.
-- Example: Read section three carefully.
-- Example Translation: Hãy đọc kỹ phần ba.
-
-## 2295. sector
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /ˈsektər/
-- English Meaning: A part of the economy or society.
-- Vietnamese Meaning: Lĩnh vực; khu vực.
-- Example: The technology sector is growing rapidly.
-- Example Translation: Lĩnh vực công nghệ đang phát triển nhanh chóng.
-
-## 2296. secure
-
-- Type: Adjective, Verb
-- CEFR Level: B2
-- IPA (US): /sɪˈkjʊr/
-- English Meaning: Safe and protected.
-- Vietnamese Meaning: An toàn; bảo đảm.
-- Example: The building is secure.
-- Example Translation: Tòa nhà được bảo vệ an toàn.
-
-## 2297. security
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /sɪˈkjʊrəti/
-- English Meaning: Protection from danger.
-- Vietnamese Meaning: An ninh; bảo mật.
-- Example: Airport security was very strict.
-- Example Translation: An ninh sân bay rất nghiêm ngặt.
-
-## 2298. see
-
-- Type: Verb
-- CEFR Level: A1
-- IPA (US): /siː/
-- English Meaning: To use your eyes to notice something.
-- Vietnamese Meaning: Nhìn thấy.
-- Example: I can see the mountains.
-- Example Translation: Tôi có thể nhìn thấy núi.
-
-## 2299. seed
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /siːd/
-- English Meaning: The part of a plant from which a new plant grows.
-- Vietnamese Meaning: Hạt giống.
-- Example: Farmers plant seeds in spring.
-- Example Translation: Nông dân gieo hạt vào mùa xuân.
-
-## 2300. seek
-
-- Type: Verb
-- CEFR Level: B2
-- IPA (US): /siːk/
-- English Meaning: To try to find or obtain something.
-- Vietnamese Meaning: Tìm kiếm.
-- Example: Many people seek better opportunities.
-- Example Translation: Nhiều người tìm kiếm cơ hội tốt hơn.
+- English Meaning: The size or extent of something; a system of measurement.
+- Vietnamese Meaning: Quy mô; thang đo.
+- Example: The project was completed on a large scale.
+- Example Translation: Dự án đã được hoàn thành ở quy mô lớn.

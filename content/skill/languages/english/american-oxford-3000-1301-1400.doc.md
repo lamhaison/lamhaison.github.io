@@ -17,7 +17,7 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /ˈhjuːmərəs/
-- English Meaning: Funny and making people laugh.
+- English Meaning: Funny and able to make people laugh.
 - Vietnamese Meaning: Hài hước.
 - Example: He gave a humorous speech.
 - Example Translation: Anh ấy đã có một bài phát biểu hài hước.
@@ -29,8 +29,8 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /ˈhʌndrəd/
 - English Meaning: The number 100.
 - Vietnamese Meaning: Một trăm.
-- Example: There are one hundred students in the school.
-- Example Translation: Có một trăm học sinh trong trường.
+- Example: One hundred people attended the event.
+- Example Translation: Một trăm người đã tham dự sự kiện.
 
 ## 1303. hungry
 
@@ -40,25 +40,25 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: Wanting or needing food.
 - Vietnamese Meaning: Đói.
 - Example: I'm hungry after the long walk.
-- Example Translation: Tôi đói sau chuyến đi bộ dài.
+- Example Translation: Tôi đói sau khi đi bộ một quãng đường dài.
 
 ## 1304. hunt
 
 - Type: Verb, Noun
 - CEFR Level: B1, B2
 - IPA (US): /hʌnt/
-- English Meaning: To search for or chase animals.
-- Vietnamese Meaning: Săn bắn; cuộc săn.
-- Example: They hunt deer in the forest.
-- Example Translation: Họ săn hươu trong rừng.
+- English Meaning: To search for and catch animals or look for something; an act of hunting.
+- Vietnamese Meaning: Săn bắn; cuộc săn tìm.
+- Example: They hunt for information online.
+- Example Translation: Họ tìm kiếm thông tin trên mạng.
 
 ## 1305. hunting
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈhʌntɪŋ/
-- English Meaning: The activity of hunting animals.
-- Vietnamese Meaning: Việc săn bắn.
+- English Meaning: The activity of chasing and catching animals.
+- Vietnamese Meaning: Hoạt động săn bắn.
 - Example: Hunting is restricted in this area.
 - Example Translation: Việc săn bắn bị hạn chế ở khu vực này.
 
@@ -67,18 +67,18 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈhɜːrəkeɪn/
-- English Meaning: A very powerful tropical storm.
-- Vietnamese Meaning: Bão lớn.
+- English Meaning: A violent tropical storm with very strong winds.
+- Vietnamese Meaning: Bão nhiệt đới; cuồng phong.
 - Example: The hurricane caused severe damage.
 - Example Translation: Cơn bão đã gây thiệt hại nghiêm trọng.
 
 ## 1307. hurry
 
-- Type: Verb, Noun
+- Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /ˈhɜːri/
-- English Meaning: To move or act quickly.
-- Vietnamese Meaning: Vội vàng.
+- English Meaning: To move or act quickly; great speed.
+- Vietnamese Meaning: Vội vàng; vội.
 - Example: Hurry, or we'll miss the bus.
 - Example Translation: Nhanh lên, nếu không chúng ta sẽ lỡ xe buýt.
 
@@ -87,10 +87,10 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - Type: Verb, Adjective, Noun
 - CEFR Level: A2, B2
 - IPA (US): /hɜːrt/
-- English Meaning: To cause pain or injury.
-- Vietnamese Meaning: Làm đau; bị thương.
-- Example: My leg still hurts.
-- Example Translation: Chân tôi vẫn còn đau.
+- English Meaning: To cause pain or injury; injured or upset.
+- Vietnamese Meaning: Làm đau; bị đau; nỗi đau.
+- Example: I hurt my knee while running.
+- Example Translation: Tôi bị đau đầu gối khi chạy.
 
 ## 1309. husband
 
@@ -98,20 +98,19 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - CEFR Level: A1
 - IPA (US): /ˈhʌzbənd/
 - English Meaning: A married man.
-- Vietnamese Meaning: Chồng.
-- Example: Her husband works as a doctor.
-- Example Translation: Chồng cô ấy làm bác sĩ.
+- Vietnamese Meaning: Người chồng.
+- Example: Her husband works as a teacher.
+- Example Translation: Chồng cô ấy làm giáo viên.
 
 ## 1310. I
 
 - Type: Pronoun
 - CEFR Level: A1
 - IPA (US): /aɪ/
-- English Meaning: Used by a speaker to refer to himself or herself.
+- English Meaning: Used by a speaker to refer to themselves.
 - Vietnamese Meaning: Tôi.
-- Example: I am learning English.
-- Example Translation: Tôi đang học tiếng Anh.
-
+- Example: I enjoy reading books.
+- Example Translation: Tôi thích đọc sách.
 
 ## 1311. ice
 
@@ -120,18 +119,18 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /aɪs/
 - English Meaning: Frozen water.
 - Vietnamese Meaning: Nước đá; băng.
-- Example: Put some ice in my drink.
-- Example Translation: Hãy cho một ít đá vào đồ uống của tôi.
+- Example: Put some ice in the drink.
+- Example Translation: Hãy cho một ít đá vào đồ uống.
 
 ## 1312. ice cream
 
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈaɪs kriːm/
-- English Meaning: A sweet frozen dessert.
+- English Meaning: A frozen sweet food made from milk or cream.
 - Vietnamese Meaning: Kem.
-- Example: The children ate ice cream.
-- Example Translation: Những đứa trẻ ăn kem.
+- Example: The children ate ice cream after lunch.
+- Example Translation: Bọn trẻ ăn kem sau bữa trưa.
 
 ## 1313. idea
 
@@ -140,38 +139,38 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /aɪˈdiːə/
 - English Meaning: A thought, plan, or suggestion.
 - Vietnamese Meaning: Ý tưởng.
-- Example: That's a good idea.
-- Example Translation: Đó là một ý tưởng hay.
+- Example: That's a great idea.
+- Example Translation: Đó là một ý tưởng tuyệt vời.
 
 ## 1314. ideal
 
 - Type: Adjective, Noun
 - CEFR Level: A2, B2
 - IPA (US): /aɪˈdiːəl/
-- English Meaning: Perfect or most suitable.
+- English Meaning: Perfect or most suitable; a perfect standard.
 - Vietnamese Meaning: Lý tưởng.
-- Example: This is an ideal place to study.
-- Example Translation: Đây là nơi lý tưởng để học tập.
+- Example: This hotel is ideal for families.
+- Example Translation: Khách sạn này rất lý tưởng cho các gia đình.
 
 ## 1315. identify
 
 - Type: Verb
 - CEFR Level: A2
 - IPA (US): /aɪˈdentɪfaɪ/
-- English Meaning: To recognize or name someone or something.
-- Vietnamese Meaning: Nhận dạng; xác định.
-- Example: Can you identify the problem?
-- Example Translation: Bạn có thể xác định vấn đề không?
+- English Meaning: To recognize or establish who or what someone or something is.
+- Vietnamese Meaning: Xác định; nhận dạng.
+- Example: The police identified the suspect.
+- Example Translation: Cảnh sát đã xác định được nghi phạm.
 
 ## 1316. identity
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /aɪˈdentəti/
-- English Meaning: Who a person is or the characteristics that make them unique.
+- English Meaning: The characteristics that make a person who they are.
 - Vietnamese Meaning: Danh tính; bản sắc.
-- Example: He proved his identity with a passport.
-- Example Translation: Anh ấy chứng minh danh tính bằng hộ chiếu.
+- Example: She wanted to protect her identity.
+- Example Translation: Cô ấy muốn bảo vệ danh tính của mình.
 
 ## 1317. if
 
@@ -189,29 +188,29 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - CEFR Level: B1
 - IPA (US): /ɪɡˈnɔːr/
 - English Meaning: To pay no attention to something or someone.
-- Vietnamese Meaning: Phớt lờ.
-- Example: Don't ignore the warning signs.
-- Example Translation: Đừng phớt lờ các dấu hiệu cảnh báo.
+- Vietnamese Meaning: Phớt lờ; bỏ qua.
+- Example: Don't ignore warning signs.
+- Example Translation: Đừng bỏ qua các dấu hiệu cảnh báo.
 
 ## 1319. ill
 
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /ɪl/
-- English Meaning: Sick or unwell.
+- English Meaning: Sick or not healthy.
 - Vietnamese Meaning: Ốm; bệnh.
-- Example: She felt ill yesterday.
-- Example Translation: Hôm qua cô ấy cảm thấy không khỏe.
+- Example: She has been ill for a week.
+- Example Translation: Cô ấy đã bị ốm một tuần.
 
 ## 1320. illegal
 
 - Type: Adjective
 - CEFR Level: B1
-- IPA (US): /ɪˈliːɡəl/
+- IPA (US): /ɪˈliːɡl/
 - English Meaning: Against the law.
 - Vietnamese Meaning: Bất hợp pháp.
-- Example: It is illegal to steal.
-- Example Translation: Trộm cắp là hành vi bất hợp pháp.
+- Example: It is illegal to drive without a license.
+- Example Translation: Lái xe không có bằng là bất hợp pháp.
 
 ## 1321. illness
 
@@ -220,78 +219,78 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /ˈɪlnəs/
 - English Meaning: A disease or period of being sick.
 - Vietnamese Meaning: Bệnh tật; sự đau ốm.
-- Example: He missed school because of illness.
-- Example Translation: Cậu ấy nghỉ học vì bị ốm.
+- Example: His illness kept him away from work.
+- Example Translation: Bệnh tật khiến anh ấy phải nghỉ làm.
 
 ## 1322. illustrate
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ˈɪləstreɪt/
-- English Meaning: To explain or make something clear with examples or pictures.
+- English Meaning: To explain or make something clear by giving examples or pictures.
 - Vietnamese Meaning: Minh họa.
-- Example: The chart illustrates the results.
-- Example Translation: Biểu đồ minh họa các kết quả.
+- Example: The teacher used a chart to illustrate the concept.
+- Example Translation: Giáo viên đã dùng biểu đồ để minh họa khái niệm đó.
 
 ## 1323. illustration
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˌɪləˈstreɪʃən/
-- English Meaning: A picture or example used to explain something.
-- Vietnamese Meaning: Hình minh họa.
-- Example: The book contains colorful illustrations.
-- Example Translation: Cuốn sách chứa các hình minh họa đầy màu sắc.
+- IPA (US): /ˌɪləˈstreɪʃn/
+- English Meaning: A picture in a book or an example used to explain something.
+- Vietnamese Meaning: Hình minh họa; ví dụ minh họa.
+- Example: The book contains many colorful illustrations.
+- Example Translation: Cuốn sách có nhiều hình minh họa đầy màu sắc.
 
 ## 1324. image
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈɪmɪdʒ/
-- English Meaning: A picture or representation of something.
+- English Meaning: A picture, photograph, or visual representation.
 - Vietnamese Meaning: Hình ảnh.
-- Example: The image is very clear.
-- Example Translation: Hình ảnh rất rõ nét.
+- Example: The website uses high-quality images.
+- Example Translation: Trang web sử dụng những hình ảnh chất lượng cao.
 
 ## 1325. imaginary
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ɪˈmædʒɪneri/
-- English Meaning: Existing only in the mind.
-- Vietnamese Meaning: Tưởng tượng.
-- Example: The story features an imaginary world.
-- Example Translation: Câu chuyện có một thế giới tưởng tượng.
+- English Meaning: Existing only in the mind and not in reality.
+- Vietnamese Meaning: Tưởng tượng; không có thật.
+- Example: Children often create imaginary friends.
+- Example Translation: Trẻ em thường tạo ra những người bạn tưởng tượng.
 
 ## 1326. imagination
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ɪˌmædʒɪˈneɪʃən/
-- English Meaning: The ability to create ideas or pictures in the mind.
+- IPA (US): /ɪˌmædʒɪˈneɪʃn/
+- English Meaning: The ability to form pictures or ideas in the mind.
 - Vietnamese Meaning: Trí tưởng tượng.
-- Example: Children have vivid imaginations.
-- Example Translation: Trẻ em có trí tưởng tượng phong phú.
+- Example: Her imagination helped her become a successful writer.
+- Example Translation: Trí tưởng tượng đã giúp cô ấy trở thành một nhà văn thành công.
 
 ## 1327. imagine
 
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /ɪˈmædʒɪn/
-- English Meaning: To form a picture or idea in your mind.
+- English Meaning: To form a picture or idea of something in your mind.
 - Vietnamese Meaning: Tưởng tượng.
-- Example: Can you imagine living on Mars?
-- Example Translation: Bạn có thể tưởng tượng sống trên sao Hỏa không?
+- Example: Can you imagine living on another planet?
+- Example Translation: Bạn có thể tưởng tượng việc sống trên một hành tinh khác không?
 
 ## 1328. immediate
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ɪˈmiːdiət/
-- English Meaning: Happening at once.
+- English Meaning: Happening or done without delay.
 - Vietnamese Meaning: Ngay lập tức.
-- Example: We need immediate action.
-- Example Translation: Chúng ta cần hành động ngay lập tức.
+- Example: The situation requires immediate action.
+- Example Translation: Tình huống này đòi hỏi hành động ngay lập tức.
 
 ## 1329. immediately
 
@@ -310,69 +309,58 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /ˈɪmɪɡrənt/
 - English Meaning: A person who comes to live permanently in another country.
 - Vietnamese Meaning: Người nhập cư.
-- Example: The immigrant started a new life in Canada.
-- Example Translation: Người nhập cư bắt đầu cuộc sống mới ở Canada.
-
-
-## 1330. immigrant
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /ˈɪmɪɡrənt/
-- English Meaning: A person who comes to live permanently in another country.
-- Vietnamese Meaning: Người nhập cư.
-- Example: The immigrant started a new life in Canada.
-- Example Translation: Người nhập cư bắt đầu cuộc sống mới ở Canada.
+- Example: The city has many immigrants from different countries.
+- Example Translation: Thành phố có nhiều người nhập cư từ các quốc gia khác nhau.
 
 ## 1331. impact
 
 - Type: Noun, Verb
-- CEFR Level: B1, B2
+- CEFR Level: B1
 - IPA (US): /ˈɪmpækt/
-- English Meaning: A strong effect or influence.
+- English Meaning: A strong effect on something; to affect strongly.
 - Vietnamese Meaning: Tác động; ảnh hưởng.
-- Example: The decision had a major impact on the company.
-- Example Translation: Quyết định đó có tác động lớn đến công ty.
+- Example: Technology has a major impact on education.
+- Example Translation: Công nghệ có tác động lớn đến giáo dục.
 
 ## 1332. impatient
 
 - Type: Adjective
 - CEFR Level: B2
-- IPA (US): /ɪmˈpeɪʃənt/
+- IPA (US): /ɪmˈpeɪʃnt/
 - English Meaning: Annoyed because something is taking too long.
 - Vietnamese Meaning: Thiếu kiên nhẫn.
 - Example: He became impatient while waiting.
-- Example Translation: Anh ấy trở nên thiếu kiên nhẫn khi chờ đợi.
+- Example Translation: Anh ấy trở nên mất kiên nhẫn khi chờ đợi.
 
 ## 1333. imply
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ɪmˈplaɪ/
-- English Meaning: To suggest something without saying it directly.
-- Vietnamese Meaning: Hàm ý.
-- Example: Are you implying that I'm wrong?
-- Example Translation: Bạn đang hàm ý rằng tôi sai sao?
+- English Meaning: To suggest something indirectly rather than stating it directly.
+- Vietnamese Meaning: Ngụ ý.
+- Example: Are you implying that I am wrong?
+- Example Translation: Bạn đang ngụ ý rằng tôi sai sao?
 
 ## 1334. import
 
 - Type: Noun, Verb
 - CEFR Level: B1
-- IPA (US): /ˈɪmpɔːrt/, /ɪmˈpɔːrt/
-- English Meaning: To bring goods into a country.
-- Vietnamese Meaning: Nhập khẩu.
-- Example: The country imports oil.
-- Example Translation: Quốc gia này nhập khẩu dầu.
+- IPA (US): /ˈɪmpɔːrt/ (n.), /ɪmˈpɔːrt/ (v.)
+- English Meaning: Goods brought into a country; to bring goods into a country.
+- Vietnamese Meaning: Hàng nhập khẩu; nhập khẩu.
+- Example: The country imports most of its oil.
+- Example Translation: Quốc gia này nhập khẩu phần lớn dầu mỏ.
 
 ## 1335. importance
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ɪmˈpɔːrtns/
-- English Meaning: The quality of being important.
+- English Meaning: The quality of being significant or valuable.
 - Vietnamese Meaning: Tầm quan trọng.
-- Example: We discussed the importance of education.
-- Example Translation: Chúng tôi thảo luận về tầm quan trọng của giáo dục.
+- Example: He stressed the importance of education.
+- Example Translation: Anh ấy nhấn mạnh tầm quan trọng của giáo dục.
 
 ## 1336. important
 
@@ -381,18 +369,18 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /ɪmˈpɔːrtnt/
 - English Meaning: Having great value or significance.
 - Vietnamese Meaning: Quan trọng.
-- Example: This is an important meeting.
-- Example Translation: Đây là một cuộc họp quan trọng.
+- Example: This is an important decision.
+- Example Translation: Đây là một quyết định quan trọng.
 
 ## 1337. impose
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ɪmˈpoʊz/
-- English Meaning: To force a rule, duty, or obligation on someone.
+- English Meaning: To force someone to accept something.
 - Vietnamese Meaning: Áp đặt.
 - Example: The government imposed new taxes.
-- Example Translation: Chính phủ áp đặt các loại thuế mới.
+- Example Translation: Chính phủ đã áp đặt các loại thuế mới.
 
 ## 1338. impossible
 
@@ -401,48 +389,48 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /ɪmˈpɑːsəbl/
 - English Meaning: Not able to happen or be done.
 - Vietnamese Meaning: Không thể.
-- Example: It is impossible to predict the future exactly.
-- Example Translation: Không thể dự đoán chính xác tương lai.
+- Example: It's impossible to finish in one day.
+- Example Translation: Không thể hoàn thành trong một ngày.
 
 ## 1339. impress
 
 - Type: Verb
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ɪmˈpres/
-- English Meaning: To make someone admire or respect you.
+- English Meaning: To cause someone to admire or respect you.
 - Vietnamese Meaning: Gây ấn tượng.
-- Example: Her skills impressed the judges.
-- Example Translation: Kỹ năng của cô ấy gây ấn tượng với ban giám khảo.
+- Example: Her skills impressed the interviewers.
+- Example Translation: Kỹ năng của cô ấy đã gây ấn tượng với các nhà tuyển dụng.
 
 ## 1340. impressed
 
 - Type: Adjective
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ɪmˈprest/
-- English Meaning: Feeling admiration for someone or something.
+- English Meaning: Feeling admiration or respect for someone or something.
 - Vietnamese Meaning: Ấn tượng.
-- Example: I was impressed by the performance.
-- Example Translation: Tôi rất ấn tượng với màn trình diễn.
+- Example: We were impressed by the performance.
+- Example Translation: Chúng tôi rất ấn tượng với màn trình diễn đó.
 
 ## 1341. impression
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /ɪmˈpreʃən/
-- English Meaning: An opinion formed about someone or something.
+- IPA (US): /ɪmˈpreʃn/
+- English Meaning: An opinion or feeling about someone or something.
 - Vietnamese Meaning: Ấn tượng.
-- Example: She made a good first impression.
-- Example Translation: Cô ấy tạo được ấn tượng đầu tiên tốt đẹp.
+- Example: She made a good impression at the interview.
+- Example Translation: Cô ấy đã tạo ấn tượng tốt trong buổi phỏng vấn.
 
 ## 1342. impressive
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ɪmˈpresɪv/
-- English Meaning: Causing admiration.
-- Vietnamese Meaning: Ấn tượng.
-- Example: It was an impressive achievement.
-- Example Translation: Đó là một thành tựu ấn tượng.
+- English Meaning: Causing admiration because of quality, skill, or size.
+- Vietnamese Meaning: Ấn tượng; đáng ngưỡng mộ.
+- Example: The building is very impressive.
+- Example Translation: Tòa nhà đó rất ấn tượng.
 
 ## 1343. improve
 
@@ -452,7 +440,7 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: To become better or make something better.
 - Vietnamese Meaning: Cải thiện.
 - Example: She wants to improve her English.
-- Example Translation: Cô ấy muốn cải thiện tiếng Anh.
+- Example Translation: Cô ấy muốn cải thiện tiếng Anh của mình.
 
 ## 1344. improvement
 
@@ -461,45 +449,45 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /ɪmˈpruːvmənt/
 - English Meaning: A change that makes something better.
 - Vietnamese Meaning: Sự cải thiện.
-- Example: There has been a big improvement.
-- Example Translation: Đã có một sự cải thiện lớn.
+- Example: There has been a significant improvement in sales.
+- Example Translation: Đã có sự cải thiện đáng kể trong doanh số bán hàng.
 
 ## 1345. in
 
 - Type: Preposition, Adverb
 - CEFR Level: A1
 - IPA (US): /ɪn/
-- English Meaning: Inside or within something.
-- Vietnamese Meaning: Trong.
-- Example: The keys are in my bag.
-- Example Translation: Chìa khóa ở trong túi của tôi.
+- English Meaning: Inside a place, area, or object.
+- Vietnamese Meaning: Trong; ở trong.
+- Example: The keys are in the drawer.
+- Example Translation: Chìa khóa ở trong ngăn kéo.
 
 ## 1346. inch
 
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B2
 - IPA (US): /ɪntʃ/
 - English Meaning: A unit of length equal to 2.54 centimeters.
-- Vietnamese Meaning: Inch.
-- Example: The screen is 15 inches wide.
-- Example Translation: Màn hình rộng 15 inch.
+- Vietnamese Meaning: Inch; 2,54 cm.
+- Example: The screen is fifteen inches wide.
+- Example Translation: Màn hình rộng mười lăm inch.
 
 ## 1347. incident
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈɪnsɪdənt/
-- English Meaning: An event, especially an unusual or unpleasant one.
-- Vietnamese Meaning: Sự cố.
+- English Meaning: An event, especially one that is unusual or important.
+- Vietnamese Meaning: Sự cố; vụ việc.
 - Example: The incident was reported to the police.
-- Example Translation: Sự cố đã được báo cho cảnh sát.
+- Example Translation: Vụ việc đã được báo cho cảnh sát.
 
 ## 1348. include
 
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /ɪnˈkluːd/
-- English Meaning: To contain something as part of a whole.
+- English Meaning: To have someone or something as part of a group.
 - Vietnamese Meaning: Bao gồm.
 - Example: The price includes breakfast.
 - Example Translation: Giá đã bao gồm bữa sáng.
@@ -511,271 +499,291 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - IPA (US): /ɪnˈkluːdɪd/
 - English Meaning: Contained as part of something.
 - Vietnamese Meaning: Được bao gồm.
-- Example: Tax is included in the price.
-- Example Translation: Thuế được bao gồm trong giá.
+- Example: Lunch is included in the package.
+- Example Translation: Bữa trưa được bao gồm trong gói dịch vụ.
 
 ## 1350. including
 
 - Type: Preposition
 - CEFR Level: A2
 - IPA (US): /ɪnˈkluːdɪŋ/
-- English Meaning: Containing as part of the whole.
-- Vietnamese Meaning: Bao gồm cả.
+- English Meaning: Containing someone or something as part of a group.
+- Vietnamese Meaning: Bao gồm.
 - Example: Everyone attended, including the manager.
 - Example Translation: Mọi người đều tham dự, bao gồm cả quản lý.
 
 ## 1351. income
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ˈɪnkʌm/
-- English Meaning: Money earned from work or investments.
+- English Meaning: Money received regularly from work, investments, or other sources.
 - Vietnamese Meaning: Thu nhập.
-- Example: Her income increased last year.
-- Example Translation: Thu nhập của cô ấy tăng năm ngoái.
+- Example: Her income has increased this year.
+- Example Translation: Thu nhập của cô ấy đã tăng trong năm nay.
 
 ## 1352. increase
 
 - Type: Verb, Noun
 - CEFR Level: A2
-- IPA (US): /ɪnˈkriːs/, /ˈɪnkriːs/
-- English Meaning: To become larger or greater.
+- IPA (US): /ɪnˈkriːs/ (v.), /ˈɪnkriːs/ (n.)
+- English Meaning: To become greater in size, number, or amount; a rise.
 - Vietnamese Meaning: Tăng; sự gia tăng.
-- Example: Prices continue to increase.
-- Example Translation: Giá cả tiếp tục tăng.
+- Example: The company increased its profits.
+- Example Translation: Công ty đã tăng lợi nhuận của mình.
 
-## 1353. increasing
+## 1353. increasingly
+
+- Type: Adverb
+- CEFR Level: B2
+- IPA (US): /ɪnˈkriːsɪŋli/
+- English Meaning: More and more over time.
+- Vietnamese Meaning: Ngày càng.
+- Example: People are increasingly using online services.
+- Example Translation: Mọi người ngày càng sử dụng các dịch vụ trực tuyến.
+
+## 1354. incredible
 
 - Type: Adjective
-- CEFR Level: B2
-- IPA (US): /ɪnˈkriːsɪŋ/
-- English Meaning: Becoming greater in size, number, or importance.
-- Vietnamese Meaning: Đang tăng lên.
-- Example: There is increasing demand for clean energy.
-- Example Translation: Nhu cầu về năng lượng sạch đang tăng lên.
+- CEFR Level: A2
+- IPA (US): /ɪnˈkredəbl/
+- English Meaning: Extremely good or difficult to believe.
+- Vietnamese Meaning: Tuyệt vời; khó tin.
+- Example: She has an incredible memory.
+- Example Translation: Cô ấy có một trí nhớ đáng kinh ngạc.
 
-## 1354. indeed
+## 1355. incredibly
+
+- Type: Adverb
+- CEFR Level: B1
+- IPA (US): /ɪnˈkredəbli/
+- English Meaning: In an extremely impressive or surprising way.
+- Vietnamese Meaning: Cực kỳ.
+- Example: The task was incredibly difficult.
+- Example Translation: Nhiệm vụ đó cực kỳ khó khăn.
+
+## 1356. indeed
 
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ɪnˈdiːd/
-- English Meaning: In fact; really.
-- Vietnamese Meaning: Thật vậy.
-- Example: It was indeed a difficult task.
-- Example Translation: Đó thực sự là một nhiệm vụ khó khăn.
+- English Meaning: Used to emphasize that something is true.
+- Vietnamese Meaning: Thật vậy; quả thực.
+- Example: It was indeed a memorable experience.
+- Example Translation: Đó quả thực là một trải nghiệm đáng nhớ.
 
-## 1355. independent
+## 1357. independent
 
 - Type: Adjective
-- CEFR Level: B2
+- CEFR Level: A2
 - IPA (US): /ˌɪndɪˈpendənt/
-- English Meaning: Free from control by others.
+- English Meaning: Free from control by others; able to act alone.
 - Vietnamese Meaning: Độc lập.
 - Example: She became financially independent.
-- Example Translation: Cô ấy trở nên độc lập về tài chính.
+- Example Translation: Cô ấy đã trở nên độc lập về tài chính.
 
-## 1356. index
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /ˈɪndeks/
-- English Meaning: An alphabetical list of topics in a book.
-- Vietnamese Meaning: Chỉ mục.
-- Example: Check the index for the page number.
-- Example Translation: Hãy xem chỉ mục để tìm số trang.
-
-## 1357. indicate
+## 1358. indicate
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /ˈɪndɪkeɪt/
-- English Meaning: To show or point out something.
+- English Meaning: To show, suggest, or point out something.
 - Vietnamese Meaning: Chỉ ra; cho thấy.
-- Example: The results indicate success.
-- Example Translation: Kết quả cho thấy sự thành công.
+- Example: The data indicates a positive trend.
+- Example Translation: Dữ liệu cho thấy một xu hướng tích cực.
 
-## 1358. indication
+## 1359. indirect
 
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /ˌɪndɪˈkeɪʃən/
-- English Meaning: A sign that something exists or is likely to happen.
-- Vietnamese Meaning: Dấu hiệu; sự chỉ dẫn.
-- Example: There was no indication of trouble.
-- Example Translation: Không có dấu hiệu của rắc rối.
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /ˌɪndəˈrekt/
+- English Meaning: Not direct; happening through another person or method.
+- Vietnamese Meaning: Gián tiếp.
+- Example: We received indirect information about the event.
+- Example Translation: Chúng tôi nhận được thông tin gián tiếp về sự kiện đó.
 
-## 1359. individual
+## 1360. individual
 
 - Type: Noun, Adjective
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˌɪndɪˈvɪdʒuəl/
-- English Meaning: A single person or thing.
-- Vietnamese Meaning: Cá nhân.
-- Example: Each individual has unique talents.
-- Example Translation: Mỗi cá nhân đều có tài năng riêng.
+- English Meaning: A single person or thing; separate and distinct.
+- Vietnamese Meaning: Cá nhân; riêng lẻ.
+- Example: Each individual has unique abilities.
+- Example Translation: Mỗi cá nhân đều có những khả năng riêng biệt.
 
-## 1360. indoor
+
+## 1361. indoor
 
 - Type: Adjective
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /ˈɪndɔːr/
 - English Meaning: Happening or located inside a building.
 - Vietnamese Meaning: Trong nhà.
-- Example: We played indoor games.
-- Example Translation: Chúng tôi chơi các trò chơi trong nhà.
+- Example: We played indoor games because it was raining.
+- Example Translation: Chúng tôi chơi các trò chơi trong nhà vì trời mưa.
 
-
-## 1360. indoor
-
-- Type: Adjective
-- CEFR Level: A2
-- IPA (US): /ˈɪndɔːr/
-- English Meaning: Happening or located inside a building.
-- Vietnamese Meaning: Trong nhà.
-- Example: We played indoor games.
-- Example Translation: Chúng tôi chơi các trò chơi trong nhà.
-
-## 1361. indoors
+## 1362. indoors
 
 - Type: Adverb
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /ˌɪnˈdɔːrz/
 - English Meaning: Inside a building.
 - Vietnamese Meaning: Trong nhà.
-- Example: It was raining, so we stayed indoors.
-- Example Translation: Trời mưa nên chúng tôi ở trong nhà.
+- Example: It was too cold to stay outdoors, so we stayed indoors.
+- Example Translation: Trời quá lạnh để ở ngoài, vì vậy chúng tôi ở trong nhà.
 
-## 1362. industry
+## 1363. industrial
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ɪnˈdʌstriəl/
+- English Meaning: Related to industry or manufacturing.
+- Vietnamese Meaning: Thuộc công nghiệp.
+- Example: The city is an important industrial center.
+- Example Translation: Thành phố này là một trung tâm công nghiệp quan trọng.
+
+## 1364. industry
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈɪndəstri/
-- English Meaning: The production of goods or a particular business sector.
-- Vietnamese Meaning: Công nghiệp; ngành.
-- Example: Tourism is an important industry.
-- Example Translation: Du lịch là một ngành quan trọng.
+- English Meaning: The production of goods; a particular business sector.
+- Vietnamese Meaning: Công nghiệp; ngành nghề.
+- Example: The tourism industry creates many jobs.
+- Example Translation: Ngành du lịch tạo ra nhiều việc làm.
 
-## 1363. infection
+## 1365. infection
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ɪnˈfekʃən/
-- English Meaning: A disease caused by harmful microorganisms.
+- IPA (US): /ɪnˈfekʃn/
+- English Meaning: A disease caused by harmful bacteria, viruses, or other organisms.
 - Vietnamese Meaning: Nhiễm trùng.
-- Example: The doctor treated the infection.
-- Example Translation: Bác sĩ đã điều trị nhiễm trùng.
+- Example: The doctor prescribed medicine for the infection.
+- Example Translation: Bác sĩ đã kê thuốc điều trị nhiễm trùng.
 
-## 1364. influence
+## 1366. influence
 
 - Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /ˈɪnfluəns/
-- English Meaning: The power to affect people or situations.
-- Vietnamese Meaning: Ảnh hưởng.
-- Example: Parents have a strong influence on children.
+- English Meaning: The power to affect people or situations; to affect someone or something.
+- Vietnamese Meaning: Ảnh hưởng; tác động.
+- Example: Parents have a strong influence on their children.
 - Example Translation: Cha mẹ có ảnh hưởng lớn đến con cái.
 
-## 1365. inform
+## 1367. inform
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ɪnˈfɔːrm/
-- English Meaning: To give information to someone.
+- English Meaning: To give someone information.
 - Vietnamese Meaning: Thông báo.
-- Example: Please inform me of any changes.
-- Example Translation: Hãy thông báo cho tôi về bất kỳ thay đổi nào.
+- Example: Please inform us of any changes.
+- Example Translation: Vui lòng thông báo cho chúng tôi về bất kỳ thay đổi nào.
 
-## 1366. informal
+## 1368. informal
 
 - Type: Adjective
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ɪnˈfɔːrml/
-- English Meaning: Relaxed and not official.
-- Vietnamese Meaning: Không chính thức.
-- Example: It was an informal meeting.
-- Example Translation: Đó là một cuộc họp không chính thức.
+- English Meaning: Relaxed and not following strict rules or traditions.
+- Vietnamese Meaning: Không chính thức; thân mật.
+- Example: We had an informal discussion after the meeting.
+- Example Translation: Chúng tôi đã có một cuộc trao đổi không chính thức sau cuộc họp.
 
-## 1367. information
+## 1369. information
 
 - Type: Noun
 - CEFR Level: A1
-- IPA (US): /ˌɪnfərˈmeɪʃən/
-- English Meaning: Facts or details about something.
+- IPA (US): /ˌɪnfərˈmeɪʃn/
+- English Meaning: Facts or details about a subject.
 - Vietnamese Meaning: Thông tin.
-- Example: I need more information.
-- Example Translation: Tôi cần thêm thông tin.
+- Example: I need more information about the course.
+- Example Translation: Tôi cần thêm thông tin về khóa học.
 
-## 1368. ingredient
+## 1370. ingredient
 
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ɪnˈɡriːdiənt/
-- English Meaning: One of the foods used to make a dish.
-- Vietnamese Meaning: Nguyên liệu.
-- Example: Sugar is an important ingredient.
-- Example Translation: Đường là một nguyên liệu quan trọng.
+- English Meaning: One of the foods or substances used to make something.
+- Vietnamese Meaning: Thành phần; nguyên liệu.
+- Example: Flour is an essential ingredient in bread.
+- Example Translation: Bột mì là nguyên liệu thiết yếu để làm bánh mì.
 
-## 1369. initial
+## 1371. initial
 
-- Type: Adjective, Noun
+- Type: Adjective
 - CEFR Level: B2
-- IPA (US): /ɪˈnɪʃəl/
-- English Meaning: Existing at the beginning.
+- IPA (US): /ɪˈnɪʃl/
+- English Meaning: Happening at the beginning.
 - Vietnamese Meaning: Ban đầu.
-- Example: The initial plan was successful.
-- Example Translation: Kế hoạch ban đầu đã thành công.
+- Example: The initial response was positive.
+- Example Translation: Phản hồi ban đầu là tích cực.
 
-## 1370. initiative
+## 1372. initially
+
+- Type: Adverb
+- CEFR Level: B2
+- IPA (US): /ɪˈnɪʃəli/
+- English Meaning: At the beginning.
+- Vietnamese Meaning: Ban đầu.
+- Example: Initially, we planned to travel by train.
+- Example Translation: Ban đầu, chúng tôi dự định đi bằng tàu hỏa.
+
+## 1373. initiative
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ɪˈnɪʃətɪv/
-- English Meaning: A new plan or action to solve a problem.
-- Vietnamese Meaning: Sáng kiến.
-- Example: The company launched a new initiative.
-- Example Translation: Công ty đã triển khai một sáng kiến mới.
+- English Meaning: The ability to act independently; a new plan or action.
+- Vietnamese Meaning: Sáng kiến; tính chủ động.
+- Example: She showed great initiative at work.
+- Example Translation: Cô ấy thể hiện tính chủ động rất tốt trong công việc.
 
-## 1371. injure
+## 1374. injure
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /ˈɪndʒər/
-- English Meaning: To hurt someone physically.
+- English Meaning: To harm someone's body.
 - Vietnamese Meaning: Làm bị thương.
-- Example: Several people were injured in the accident.
-- Example Translation: Một số người bị thương trong vụ tai nạn.
+- Example: He injured his ankle while playing soccer.
+- Example Translation: Anh ấy bị thương mắt cá chân khi chơi bóng đá.
 
-## 1372. injured
+## 1375. injured
 
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈɪndʒərd/
-- English Meaning: Hurt in an accident or attack.
+- English Meaning: Hurt physically.
 - Vietnamese Meaning: Bị thương.
-- Example: The injured player left the field.
-- Example Translation: Cầu thủ bị thương đã rời sân.
+- Example: Several passengers were injured in the accident.
+- Example Translation: Một số hành khách đã bị thương trong vụ tai nạn.
 
-## 1373. injury
+## 1376. injury
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈɪndʒəri/
-- English Meaning: Physical harm to a person.
-- Vietnamese Meaning: Chấn thương.
-- Example: He suffered a serious injury.
-- Example Translation: Anh ấy bị một chấn thương nghiêm trọng.
+- English Meaning: Physical damage to a person's body.
+- Vietnamese Meaning: Chấn thương; vết thương.
+- Example: The injury kept him out of competition.
+- Example Translation: Chấn thương khiến anh ấy không thể thi đấu.
 
-## 1374. inner
+## 1377. inner
 
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /ˈɪnər/
-- English Meaning: Located inside; relating to thoughts and feelings.
-- Vietnamese Meaning: Bên trong.
-- Example: She found inner peace.
-- Example Translation: Cô ấy tìm thấy sự bình yên nội tâm.
+- English Meaning: Located on the inside; relating to thoughts and feelings.
+- Vietnamese Meaning: Bên trong; nội tâm.
+- Example: She found inner peace through meditation.
+- Example Translation: Cô ấy tìm thấy sự bình yên nội tâm thông qua thiền định.
 
-## 1375. innocent
+## 1378. innocent
 
 - Type: Adjective
 - CEFR Level: B1
@@ -783,255 +791,225 @@ Words 1301 to 1400 from the Oxford 3000 list - the 3000 most important words to 
 - English Meaning: Not guilty of a crime or wrongdoing.
 - Vietnamese Meaning: Vô tội.
 - Example: The man was proven innocent.
-- Example Translation: Người đàn ông được chứng minh là vô tội.
+- Example Translation: Người đàn ông đã được chứng minh là vô tội.
 
-## 1376. inquiry
+## 1379. inquiry
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ɪnˈkwaɪəri/
 - English Meaning: A request for information or an investigation.
-- Vietnamese Meaning: Cuộc điều tra; sự hỏi thăm.
-- Example: The company received an inquiry from a customer.
-- Example Translation: Công ty nhận được một yêu cầu từ khách hàng.
+- Vietnamese Meaning: Sự hỏi thăm; cuộc điều tra.
+- Example: The company received many customer inquiries.
+- Example Translation: Công ty nhận được nhiều câu hỏi từ khách hàng.
 
-## 1377. insect
+## 1380. insect
 
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈɪnsekt/
-- English Meaning: A small animal with six legs.
+- English Meaning: A small animal with six legs and usually wings.
 - Vietnamese Meaning: Côn trùng.
-- Example: Butterflies are insects.
-- Example Translation: Bướm là côn trùng.
+- Example: Butterflies are beautiful insects.
+- Example Translation: Bướm là những loài côn trùng đẹp.
 
-## 1378. inside
 
-- Type: Preposition, Adverb, Noun
+## 1381. inside
+
+- Type: Preposition, Adverb, Noun, Adjective
 - CEFR Level: A2
 - IPA (US): /ˌɪnˈsaɪd/
-- English Meaning: Within something.
-- Vietnamese Meaning: Bên trong.
-- Example: The keys are inside the box.
-- Example Translation: Chìa khóa ở trong hộp.
+- English Meaning: In or into the inner part of something.
+- Vietnamese Meaning: Bên trong; phía trong.
+- Example: The children stayed inside during the storm.
+- Example Translation: Bọn trẻ ở trong nhà trong suốt cơn bão.
 
-## 1379. insight
+## 1382. insight
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈɪnsaɪt/
-- English Meaning: A deep understanding of something.
-- Vietnamese Meaning: Sự thấu hiểu.
-- Example: The report provides useful insights.
-- Example Translation: Báo cáo cung cấp những hiểu biết hữu ích.
+- English Meaning: A deep understanding of a person or situation.
+- Vietnamese Meaning: Sự thấu hiểu; hiểu biết sâu sắc.
+- Example: The report provides valuable insight into customer behavior.
+- Example Translation: Báo cáo cung cấp những hiểu biết sâu sắc về hành vi khách hàng.
 
-## 1380. insist
+## 1383. insist
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ɪnˈsɪst/
-- English Meaning: To demand that something happen.
-- Vietnamese Meaning: Khăng khăng; nhất quyết.
-- Example: She insisted on paying the bill.
-- Example Translation: Cô ấy nhất quyết trả hóa đơn.
+- English Meaning: To demand firmly that something should happen.
+- Vietnamese Meaning: Khăng khăng; kiên quyết yêu cầu.
+- Example: She insisted on paying for the meal.
+- Example Translation: Cô ấy khăng khăng trả tiền bữa ăn.
 
-## 1381. inspire
+## 1384. inspire
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ɪnˈspaɪər/
-- English Meaning: To motivate or encourage someone.
+- English Meaning: To make someone feel motivated or excited to do something.
 - Vietnamese Meaning: Truyền cảm hứng.
-- Example: Her story inspired many people.
-- Example Translation: Câu chuyện của cô ấy truyền cảm hứng cho nhiều người.
+- Example: Her success inspired many young people.
+- Example Translation: Thành công của cô ấy đã truyền cảm hứng cho nhiều người trẻ.
 
-## 1382. install
+## 1385. install
 
 - Type: Verb
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ɪnˈstɔːl/
-- English Meaning: To put equipment or software into use.
+- English Meaning: To put equipment or software in place so that it can be used.
 - Vietnamese Meaning: Cài đặt; lắp đặt.
-- Example: I installed a new app.
-- Example Translation: Tôi đã cài đặt một ứng dụng mới.
+- Example: I installed a new app on my phone.
+- Example Translation: Tôi đã cài đặt một ứng dụng mới trên điện thoại.
 
-## 1383. instance
+## 1386. instance
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈɪnstəns/
-- English Meaning: An example of something happening.
+- English Meaning: A particular example or case of something.
 - Vietnamese Meaning: Trường hợp; ví dụ.
-- Example: This is one instance of the problem.
-- Example Translation: Đây là một trường hợp của vấn đề.
+- Example: This is just one instance of the problem.
+- Example Translation: Đây chỉ là một ví dụ của vấn đề đó.
 
-## 1384. instead
+## 1387. instead
 
 - Type: Adverb
 - CEFR Level: A2
 - IPA (US): /ɪnˈsted/
-- English Meaning: As an alternative.
+- English Meaning: As an alternative to something else.
 - Vietnamese Meaning: Thay vào đó.
-- Example: Let's walk instead.
-- Example Translation: Thay vào đó chúng ta hãy đi bộ.
+- Example: We stayed home instead.
+- Example Translation: Thay vào đó chúng tôi ở nhà.
 
-## 1385. institution
+## 1388. instead of
+
+- Type: Preposition
+- CEFR Level: A2
+- IPA (US): /ɪnˈsted əv/
+- English Meaning: In place of someone or something.
+- Vietnamese Meaning: Thay vì.
+- Example: She drank tea instead of coffee.
+- Example Translation: Cô ấy uống trà thay vì cà phê.
+
+## 1389. institute
 
 - Type: Noun
 - CEFR Level: B2
-- IPA (US): /ˌɪnstɪˈtuːʃən/
-- English Meaning: A large organization with a special purpose.
-- Vietnamese Meaning: Tổ chức; học viện.
+- IPA (US): /ˈɪnstɪtuːt/
+- English Meaning: An organization that conducts research or education.
+- Vietnamese Meaning: Viện; học viện.
+- Example: He works for a medical research institute.
+- Example Translation: Anh ấy làm việc cho một viện nghiên cứu y học.
+
+## 1390. institution
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ˌɪnstɪˈtuːʃn/
+- English Meaning: A large organization such as a university, bank, or hospital.
+- Vietnamese Meaning: Tổ chức; cơ sở.
 - Example: The university is a respected institution.
 - Example Translation: Trường đại học là một tổ chức được tôn trọng.
 
-## 1386. instruction
+## 1391. instruction
 
 - Type: Noun
 - CEFR Level: A2
-- IPA (US): /ɪnˈstrʌkʃən/
-- English Meaning: Information about how to do something.
-- Vietnamese Meaning: Hướng dẫn.
+- IPA (US): /ɪnˈstrʌkʃn/
+- English Meaning: Information telling someone how to do something.
+- Vietnamese Meaning: Hướng dẫn; chỉ dẫn.
 - Example: Follow the instructions carefully.
-- Example Translation: Hãy làm theo hướng dẫn cẩn thận.
+- Example Translation: Hãy làm theo hướng dẫn một cách cẩn thận.
 
-## 1387. instructor
+## 1392. instructor
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ɪnˈstrʌktər/
 - English Meaning: A person who teaches a skill or subject.
 - Vietnamese Meaning: Người hướng dẫn; giảng viên.
-- Example: The instructor explained the lesson.
-- Example Translation: Người hướng dẫn đã giải thích bài học.
+- Example: The instructor explained the exercise.
+- Example Translation: Người hướng dẫn đã giải thích bài tập.
 
-## 1388. instrument
+## 1393. instrument
 
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈɪnstrəmənt/
-- English Meaning: A tool or a musical device.
+- English Meaning: A tool or device used for a particular purpose, especially in science or music.
 - Vietnamese Meaning: Dụng cụ; nhạc cụ.
-- Example: She plays a musical instrument.
-- Example Translation: Cô ấy chơi một loại nhạc cụ.
+- Example: She plays several musical instruments.
+- Example Translation: Cô ấy chơi được nhiều nhạc cụ.
 
-## 1389. insurance
+## 1394. insurance
 
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ɪnˈʃʊrəns/
-- English Meaning: Protection against financial loss.
+- English Meaning: An arrangement that provides financial protection against loss or damage.
 - Vietnamese Meaning: Bảo hiểm.
-- Example: Do you have health insurance?
-- Example Translation: Bạn có bảo hiểm y tế không?
+- Example: Health insurance is important.
+- Example Translation: Bảo hiểm y tế rất quan trọng.
 
-## 1390. intelligent
+## 1395. intelligence
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ɪnˈtelɪdʒəns/
+- English Meaning: The ability to learn, understand, and think well.
+- Vietnamese Meaning: Trí thông minh.
+- Example: Intelligence alone does not guarantee success.
+- Example Translation: Chỉ riêng trí thông minh không đảm bảo thành công.
+
+## 1396. intelligent
 
 - Type: Adjective
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ɪnˈtelɪdʒənt/
-- English Meaning: Having the ability to learn and understand quickly.
+- English Meaning: Able to learn, understand, and think in a smart way.
 - Vietnamese Meaning: Thông minh.
 - Example: She is an intelligent student.
 - Example Translation: Cô ấy là một học sinh thông minh.
 
-## 1391. intend
+## 1397. intend
 
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /ɪnˈtend/
-- English Meaning: To plan or mean to do something.
+- English Meaning: To have a plan or purpose in mind.
 - Vietnamese Meaning: Dự định.
-- Example: I intend to study abroad.
-- Example Translation: Tôi dự định đi du học.
+- Example: I intend to finish the project this week.
+- Example Translation: Tôi dự định hoàn thành dự án trong tuần này.
 
-## 1392. intention
+## 1398. intended
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ɪnˈtendɪd/
+- English Meaning: Planned or meant for a particular purpose.
+- Vietnamese Meaning: Được dự định.
+- Example: The book reached its intended audience.
+- Example Translation: Cuốn sách đã tiếp cận đúng đối tượng được nhắm đến.
+
+## 1399. intense
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ɪnˈtens/
+- English Meaning: Extremely strong or serious.
+- Vietnamese Meaning: Mãnh liệt; dữ dội.
+- Example: The competition was intense.
+- Example Translation: Cuộc thi diễn ra rất gay cấn.
+
+## 1400. intention
 
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /ɪnˈtenʃən/
-- English Meaning: A plan or purpose.
+- IPA (US): /ɪnˈtenʃn/
+- English Meaning: Something that you plan or want to do.
 - Vietnamese Meaning: Ý định.
-- Example: His intention was good.
-- Example Translation: Ý định của anh ấy là tốt.
-
-## 1393. interest
-
-- Type: Noun, Verb
-- CEFR Level: A1, B1
-- IPA (US): /ˈɪntrəst/
-- English Meaning: Curiosity or attention toward something.
-- Vietnamese Meaning: Sự quan tâm; làm quan tâm.
-- Example: She has an interest in art.
-- Example Translation: Cô ấy quan tâm đến nghệ thuật.
-
-## 1394. interested
-
-- Type: Adjective
-- CEFR Level: A1
-- IPA (US): /ˈɪntrəstɪd/
-- English Meaning: Wanting to know more about something.
-- Vietnamese Meaning: Quan tâm; hứng thú.
-- Example: I'm interested in science.
-- Example Translation: Tôi hứng thú với khoa học.
-
-## 1395. interesting
-
-- Type: Adjective
-- CEFR Level: A1
-- IPA (US): /ˈɪntrəstɪŋ/
-- English Meaning: Attracting attention or curiosity.
-- Vietnamese Meaning: Thú vị.
-- Example: It is an interesting book.
-- Example Translation: Đó là một cuốn sách thú vị.
-
-## 1396. internal
-
-- Type: Adjective
-- CEFR Level: B2
-- IPA (US): /ɪnˈtɜːrnl/
-- English Meaning: Existing inside an organization or object.
-- Vietnamese Meaning: Nội bộ; bên trong.
-- Example: The company conducted an internal review.
-- Example Translation: Công ty đã thực hiện một cuộc đánh giá nội bộ.
-
-## 1397. international
-
-- Type: Adjective
-- CEFR Level: A2
-- IPA (US): /ˌɪntərˈnæʃənəl/
-- English Meaning: Involving more than one country.
-- Vietnamese Meaning: Quốc tế.
-- Example: It's an international company.
-- Example Translation: Đó là một công ty quốc tế.
-
-## 1398. Internet
-
-- Type: Noun
-- CEFR Level: A1
-- IPA (US): /ˈɪntərnet/
-- English Meaning: The worldwide computer network.
-- Vietnamese Meaning: Internet.
-- Example: I found the information on the Internet.
-- Example Translation: Tôi tìm thấy thông tin trên Internet.
-
-## 1399. interpret
-
-- Type: Verb
-- CEFR Level: B2
-- IPA (US): /ɪnˈtɜːrprət/
-- English Meaning: To explain the meaning of something.
-- Vietnamese Meaning: Diễn giải; phiên dịch.
-- Example: Different people interpret the poem differently.
-- Example Translation: Những người khác nhau diễn giải bài thơ theo những cách khác nhau.
-
-## 1400. interrupt
-
-- Type: Verb
-- CEFR Level: B1
-- IPA (US): /ˌɪntəˈrʌpt/
-- English Meaning: To stop someone while they are speaking or doing something.
-- Vietnamese Meaning: Ngắt lời; làm gián đoạn.
-- Example: Sorry to interrupt, but I have a question.
-- Example Translation: Xin lỗi vì đã ngắt lời, nhưng tôi có một câu hỏi.
-
+- Example: His intention was to help others.
+- Example Translation: Ý định của anh ấy là giúp đỡ người khác.

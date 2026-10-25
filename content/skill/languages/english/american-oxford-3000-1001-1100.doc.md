@@ -12,388 +12,403 @@ Words 1001 to 1100 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-## 1001. farm
-
+### 1001. farm
 - Type: Noun, Verb
 - CEFR Level: A1, A2
 - IPA (US): /fɑːrm/
-- English Meaning: Land used for growing crops or raising animals.
+- English Meaning: A place where crops are grown or animals are raised; to grow crops or raise animals.
 - Vietnamese Meaning: Nông trại; canh tác.
-- Example: My uncle owns a farm.
-- Example Translation: Chú tôi sở hữu một nông trại.
+- Example: My uncle owns a large farm.
+- Example Translation: Chú tôi sở hữu một nông trại lớn.
 
-## 1002. farmer
-
+### 1002. farmer
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈfɑːrmər/
-- English Meaning: A person who works on a farm.
+- English Meaning: A person who owns or works on a farm.
 - Vietnamese Meaning: Nông dân.
-- Example: The farmer grows vegetables.
-- Example Translation: Người nông dân trồng rau.
+- Example: The farmer grows vegetables and rice.
+- Example Translation: Người nông dân trồng rau và lúa.
 
-## 1003. farming
-
+### 1003. farming
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈfɑːrmɪŋ/
 - English Meaning: The activity of growing crops and raising animals.
-- Vietnamese Meaning: Nghề nông.
-- Example: Farming is important to the local economy.
-- Example Translation: Nông nghiệp rất quan trọng đối với nền kinh tế địa phương.
+- Vietnamese Meaning: Nghề nông; việc canh tác.
+- Example: Farming is the main source of income in the village.
+- Example Translation: Nghề nông là nguồn thu nhập chính của ngôi làng.
 
-## 1004. fast
+### 1004. fascinating
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /ˈfæsɪneɪtɪŋ/
+- English Meaning: Extremely interesting and attractive.
+- Vietnamese Meaning: Hấp dẫn; cuốn hút.
+- Example: The documentary was fascinating.
+- Example Translation: Bộ phim tài liệu rất hấp dẫn.
 
+### 1005. fashion
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈfæʃn/
+- English Meaning: A popular style of clothes, hair, or behavior.
+- Vietnamese Meaning: Thời trang.
+- Example: She is interested in fashion.
+- Example Translation: Cô ấy quan tâm đến thời trang.
+
+### 1006. fashionable
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /ˈfæʃənəbl/
+- English Meaning: Following the latest style or trend.
+- Vietnamese Meaning: Hợp thời trang.
+- Example: That restaurant is very fashionable.
+- Example Translation: Nhà hàng đó rất thời thượng.
+
+### 1007. fast
 - Type: Adjective, Adverb
 - CEFR Level: A1
 - IPA (US): /fæst/
 - English Meaning: Moving or happening quickly.
 - Vietnamese Meaning: Nhanh.
-- Example: He is a fast runner.
-- Example Translation: Anh ấy là một vận động viên chạy nhanh.
+- Example: He runs very fast.
+- Example Translation: Anh ấy chạy rất nhanh.
 
-## 1005. fat
+### 1008. fasten
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /ˈfæsn/
+- English Meaning: To close or attach something securely.
+- Vietnamese Meaning: Buộc chặt; cài chặt.
+- Example: Please fasten your seat belt.
+- Example Translation: Vui lòng thắt dây an toàn.
 
-- Type: Noun, Adjective
-- CEFR Level: A2
+### 1009. fat
+- Type: Adjective, Noun
+- CEFR Level: A1, A2
 - IPA (US): /fæt/
-- English Meaning: A natural substance in food; overweight.
-- Vietnamese Meaning: Chất béo; béo.
-- Example: This food contains too much fat.
-- Example Translation: Thức ăn này chứa quá nhiều chất béo.
+- English Meaning: Having too much body weight; a natural oily substance in the body.
+- Vietnamese Meaning: Béo; chất béo.
+- Example: Eating too much fat is unhealthy.
+- Example Translation: Ăn quá nhiều chất béo không tốt cho sức khỏe.
 
-## 1006. father
-
+### 1010. father
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈfɑːðər/
 - English Meaning: A male parent.
 - Vietnamese Meaning: Cha; bố.
-- Example: My father works in a bank.
-- Example Translation: Bố tôi làm việc ở ngân hàng.
+- Example: My father works as an engineer.
+- Example Translation: Bố tôi làm kỹ sư.
 
-## 1007. fault
-
+### 1011. fault
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /fɔːlt/
-- English Meaning: Responsibility for a mistake or problem.
-- Vietnamese Meaning: Lỗi; khuyết điểm.
-- Example: It was my fault.
-- Example Translation: Đó là lỗi của tôi.
+- English Meaning: Responsibility for a mistake or problem; a defect.
+- Vietnamese Meaning: Lỗi; trách nhiệm.
+- Example: The accident was not my fault.
+- Example Translation: Tai nạn đó không phải lỗi của tôi.
 
-## 1008. favor
-
+### 1012. favor
 - Type: Noun, Verb
-- CEFR Level: A2
+- CEFR Level: B1, B2
 - IPA (US): /ˈfeɪvər/
-- English Meaning: Kind help given to someone.
-- Vietnamese Meaning: Sự giúp đỡ; ưu ái.
+- English Meaning: A kind act; to prefer or support.
+- Vietnamese Meaning: Sự giúp đỡ; ủng hộ.
 - Example: Could you do me a favor?
 - Example Translation: Bạn có thể giúp tôi một việc được không?
 
-## 1009. favorite
-
+### 1013. favorite
 - Type: Adjective, Noun
 - CEFR Level: A1
 - IPA (US): /ˈfeɪvərɪt/
-- English Meaning: Liked more than others.
+- English Meaning: Liked more than any other.
 - Vietnamese Meaning: Yêu thích nhất.
 - Example: Blue is my favorite color.
-- Example Translation: Màu xanh là màu tôi thích nhất.
+- Example Translation: Màu xanh là màu tôi yêu thích nhất.
 
-## 1010. fear
-
+### 1014. fear
 - Type: Noun, Verb
-- CEFR Level: A2
+- CEFR Level: A2, B1
 - IPA (US): /fɪr/
-- English Meaning: An unpleasant feeling caused by danger.
-- Vietnamese Meaning: Nỗi sợ hãi.
-- Example: She has a fear of heights.
-- Example Translation: Cô ấy sợ độ cao.
+- English Meaning: A feeling of being afraid; to be afraid.
+- Vietnamese Meaning: Sợ hãi; nỗi sợ.
+- Example: Many people fear failure.
+- Example Translation: Nhiều người sợ thất bại.
 
-## 1011. feather
-
+### 1015. feather
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈfeðər/
-- English Meaning: One of the soft parts covering a bird.
+- English Meaning: One of the soft parts covering a bird's body.
 - Vietnamese Meaning: Lông vũ.
 - Example: The bird lost a feather.
-- Example Translation: Con chim rụng một chiếc lông.
+- Example Translation: Con chim rụng một chiếc lông vũ.
 
-## 1012. feature
-
+### 1016. feature
 - Type: Noun, Verb
 - CEFR Level: A2, B1
 - IPA (US): /ˈfiːtʃər/
-- English Meaning: An important part or characteristic.
-- Vietnamese Meaning: Đặc điểm; tính năng.
-- Example: This phone has many useful features.
-- Example Translation: Chiếc điện thoại này có nhiều tính năng hữu ích.
+- English Meaning: An important part or characteristic; to include as an important part.
+- Vietnamese Meaning: Tính năng; đặc điểm.
+- Example: The app has a useful new feature.
+- Example Translation: Ứng dụng có một tính năng mới hữu ích.
 
-## 1013. February
-
+### 1017. February
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈfebrueri/
 - English Meaning: The second month of the year.
 - Vietnamese Meaning: Tháng Hai.
 - Example: My birthday is in February.
-- Example Translation: Sinh nhật tôi vào tháng Hai.
+- Example Translation: Sinh nhật của tôi vào tháng Hai.
 
-## 1014. federal
-
+### 1018. federal
 - Type: Adjective
-- CEFR Level: B2
-- IPA (US): /ˈfedərəl/
-- English Meaning: Relating to the central government.
-- Vietnamese Meaning: Liên bang.
-- Example: The federal government announced new policies.
-- Example Translation: Chính phủ liên bang công bố các chính sách mới.
-
-## 1015. fee
-
-- Type: Noun
 - CEFR Level: B1
+- IPA (US): /ˈfedərəl/
+- English Meaning: Relating to a central government.
+- Vietnamese Meaning: Liên bang.
+- Example: The issue was discussed by federal officials.
+- Example Translation: Vấn đề đã được các quan chức liên bang thảo luận.
+
+### 1019. fee
+- Type: Noun
+- CEFR Level: B2
 - IPA (US): /fiː/
 - English Meaning: An amount of money paid for a service.
 - Vietnamese Meaning: Phí.
-- Example: There is an entrance fee.
-- Example Translation: Có một khoản phí vào cửa.
+- Example: You must pay an entrance fee.
+- Example Translation: Bạn phải trả phí vào cửa.
 
-## 1016. feed
-
-- Type: Verb
-- CEFR Level: A2
+### 1020. feed
+- Type: Verb, Noun
+- CEFR Level: A2, B2
 - IPA (US): /fiːd/
 - English Meaning: To give food to a person or animal.
-- Vietnamese Meaning: Cho ăn.
+- Vietnamese Meaning: Cho ăn; thức ăn chăn nuôi.
 - Example: She feeds the cat every morning.
 - Example Translation: Cô ấy cho mèo ăn mỗi sáng.
 
-## 1017. feedback
-
+### 1021. feedback
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: B2
 - IPA (US): /ˈfiːdbæk/
-- English Meaning: Opinions about how well something is done.
-- Vietnamese Meaning: Phản hồi.
-- Example: The teacher gave useful feedback.
-- Example Translation: Giáo viên đưa ra những phản hồi hữu ích.
+- English Meaning: Comments or suggestions about performance, work, or behavior.
+- Vietnamese Meaning: Phản hồi; góp ý.
+- Example: We received positive feedback from customers.
+- Example Translation: Chúng tôi nhận được phản hồi tích cực từ khách hàng.
 
-## 1018. feel
-
-- Type: Verb
-- CEFR Level: A1
+### 1022. feel
+- Type: Verb, Noun
+- CEFR Level: A1, B2
 - IPA (US): /fiːl/
-- English Meaning: To experience an emotion or sensation.
-- Vietnamese Meaning: Cảm thấy.
-- Example: I feel happy today.
-- Example Translation: Hôm nay tôi cảm thấy vui.
+- English Meaning: To experience an emotion or physical sensation.
+- Vietnamese Meaning: Cảm thấy; cảm giác.
+- Example: I feel much better today.
+- Example Translation: Hôm nay tôi cảm thấy tốt hơn nhiều.
 
-## 1019. feeling
-
+### 1023. feeling
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈfiːlɪŋ/
-- English Meaning: An emotion or sense.
-- Vietnamese Meaning: Cảm giác; cảm xúc.
-- Example: I have a good feeling about this.
-- Example Translation: Tôi có cảm giác tốt về việc này.
+- English Meaning: An emotion or opinion.
+- Vietnamese Meaning: Cảm xúc; cảm giác.
+- Example: I have a good feeling about this project.
+- Example Translation: Tôi có cảm giác tốt về dự án này.
 
-## 1020. fellow
-
+### 1024. fellow
 - Type: Adjective, Noun
 - CEFR Level: B2
 - IPA (US): /ˈfeloʊ/
-- English Meaning: Sharing the same activity or position.
-- Vietnamese Meaning: Đồng nghiệp; cùng hội.
+- English Meaning: A person in the same position, group, or activity.
+- Vietnamese Meaning: Đồng nghiệp; bạn đồng hành.
 - Example: She helped her fellow students.
-- Example Translation: Cô ấy giúp đỡ các bạn học cùng lớp.
+- Example Translation: Cô ấy đã giúp các bạn học cùng.
 
-## 1021. female
-
+### 1025. female
 - Type: Adjective, Noun
 - CEFR Level: A2
 - IPA (US): /ˈfiːmeɪl/
-- English Meaning: Belonging to the sex that can have babies.
-- Vietnamese Meaning: Nữ; phụ nữ.
-- Example: The award went to a female athlete.
-- Example Translation: Giải thưởng thuộc về một nữ vận động viên.
+- English Meaning: Belonging to the sex that can give birth or produce eggs.
+- Vietnamese Meaning: Nữ; giống cái.
+- Example: The company hired more female engineers.
+- Example Translation: Công ty đã tuyển thêm nhiều kỹ sư nữ.
 
-## 1022. fence
-
+### 1026. fence
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /fens/
-- English Meaning: A structure that surrounds an area.
+- English Meaning: A barrier around a field, garden, or property.
 - Vietnamese Meaning: Hàng rào.
-- Example: They built a fence around the house.
-- Example Translation: Họ xây một hàng rào quanh ngôi nhà.
+- Example: They built a fence around the garden.
+- Example Translation: Họ xây một hàng rào quanh khu vườn.
 
-## 1023. festival
-
+### 1027. festival
 - Type: Noun
 - CEFR Level: A1
-- IPA (US): /ˈfestɪvəl/
-- English Meaning: A special event with celebrations.
+- IPA (US): /ˈfestɪvl/
+- English Meaning: A special event or celebration.
 - Vietnamese Meaning: Lễ hội.
-- Example: The city hosts a music festival every year.
-- Example Translation: Thành phố tổ chức lễ hội âm nhạc hằng năm.
+- Example: Thousands of people attended the music festival.
+- Example Translation: Hàng nghìn người đã tham dự lễ hội âm nhạc.
 
-## 1024. few
+### 1028. fever
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈfiːvər/
+- English Meaning: A medical condition in which body temperature is higher than normal.
+- Vietnamese Meaning: Sốt.
+- Example: She stayed home because she had a fever.
+- Example Translation: Cô ấy ở nhà vì bị sốt.
 
-- Type: Determiner, Pronoun
+### 1029. few
+- Type: Determiner, Adjective, Pronoun
 - CEFR Level: A1
 - IPA (US): /fjuː/
 - English Meaning: A small number of.
-- Vietnamese Meaning: Một vài.
-- Example: Only a few people know the answer.
+- Vietnamese Meaning: Một vài; ít.
+- Example: Only a few people knew the answer.
 - Example Translation: Chỉ có một vài người biết câu trả lời.
 
-## 1025. fiction
-
+### 1030. fiction
 - Type: Noun
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈfɪkʃən/
-- English Meaning: Literature about imaginary events.
-- Vietnamese Meaning: Tiểu thuyết; truyện hư cấu.
-- Example: She enjoys reading fiction.
-- Example Translation: Cô ấy thích đọc tiểu thuyết.
+- English Meaning: Literature that describes imaginary people and events.
+- Vietnamese Meaning: Truyện hư cấu.
+- Example: She enjoys reading science fiction.
+- Example Translation: Cô ấy thích đọc truyện khoa học viễn tưởng.
 
-## 1026. field
-
+### 1031. field
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /fiːld/
-- English Meaning: An area of land or a subject of study.
+- English Meaning: An area of land or a particular area of study or work.
 - Vietnamese Meaning: Cánh đồng; lĩnh vực.
-- Example: He works in the medical field.
-- Example Translation: Anh ấy làm việc trong lĩnh vực y tế.
+- Example: He works in the field of software engineering.
+- Example Translation: Anh ấy làm việc trong lĩnh vực kỹ thuật phần mềm.
 
-## 1027. fifteen
-
+### 1032. fifteen
 - Type: Number
 - CEFR Level: A1
 - IPA (US): /ˌfɪfˈtiːn/
 - English Meaning: The number 15.
 - Vietnamese Meaning: Mười lăm.
-- Example: There are fifteen students present.
-- Example Translation: Có mười lăm học sinh có mặt.
+- Example: Fifteen students joined the club.
+- Example Translation: Mười lăm học sinh đã tham gia câu lạc bộ.
 
-## 1028. fifth
-
-- Type: Number
+### 1033. fifth
+- Type: Number, Adjective
 - CEFR Level: A1
 - IPA (US): /fɪfθ/
-- English Meaning: Coming after the fourth and before the sixth.
+- English Meaning: Coming after the fourth.
 - Vietnamese Meaning: Thứ năm.
-- Example: She finished fifth in the race.
-- Example Translation: Cô ấy về đích thứ năm.
+- Example: Today is the fifth day of the month.
+- Example Translation: Hôm nay là ngày thứ năm của tháng.
 
-## 1029. fifty
-
+### 1034. fifty
 - Type: Number
 - CEFR Level: A1
 - IPA (US): /ˈfɪfti/
 - English Meaning: The number 50.
 - Vietnamese Meaning: Năm mươi.
 - Example: Fifty people attended the event.
-- Example Translation: Năm mươi người tham dự sự kiện.
+- Example Translation: Năm mươi người đã tham dự sự kiện.
 
-## 1030. fight
-
+### 1035. fight
 - Type: Verb, Noun
 - CEFR Level: A2
 - IPA (US): /faɪt/
-- English Meaning: To use force against someone or struggle against something.
+- English Meaning: To use physical force against someone; a violent struggle.
 - Vietnamese Meaning: Chiến đấu; cuộc chiến.
-- Example: They fought for their rights.
-- Example Translation: Họ đã đấu tranh cho quyền lợi của mình.
+- Example: The two boys started to fight.
+- Example Translation: Hai cậu bé bắt đầu đánh nhau.
 
-## 1031. figure
+### 1036. fighting
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ˈfaɪtɪŋ/
+- English Meaning: The act of taking part in a fight or battle.
+- Vietnamese Meaning: Sự chiến đấu; đánh nhau.
+- Example: The fighting continued for several days.
+- Example Translation: Cuộc chiến đấu kéo dài nhiều ngày.
 
+### 1037. figure
 - Type: Noun, Verb
-- CEFR Level: A2, B1
+- CEFR Level: A2, B2
 - IPA (US): /ˈfɪɡjər/
-- English Meaning: A number, amount, or shape; to understand.
+- English Meaning: A number, shape, or person; to understand or calculate.
 - Vietnamese Meaning: Con số; hình dáng; tính toán.
-- Example: The sales figures increased this year.
-- Example Translation: Các con số doanh số đã tăng trong năm nay.
+- Example: Sales figures increased this year.
+- Example Translation: Các con số doanh thu đã tăng trong năm nay.
 
-## 1032. file
-
+### 1038. file
 - Type: Noun, Verb
-- CEFR Level: A2
+- CEFR Level: B1, B2
 - IPA (US): /faɪl/
-- English Meaning: A collection of information or a document stored electronically.
-- Vietnamese Meaning: Tệp; hồ sơ.
-- Example: Save the file before closing the program.
-- Example Translation: Hãy lưu tệp trước khi đóng chương trình.
+- English Meaning: A collection of documents; to officially submit documents.
+- Vietnamese Meaning: Tệp; hồ sơ; nộp hồ sơ.
+- Example: Please save the file before closing the application.
+- Example Translation: Hãy lưu tệp trước khi đóng ứng dụng.
 
-## 1033. fill
-
+### 1039. fill
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /fɪl/
 - English Meaning: To make something full.
-- Vietnamese Meaning: Làm đầy.
-- Example: Please fill the bottle with water.
+- Vietnamese Meaning: Làm đầy; điền vào.
+- Example: Fill the bottle with water.
 - Example Translation: Hãy đổ đầy nước vào chai.
 
-## 1034. film
-
+### 1040. film
 - Type: Noun, Verb
-- CEFR Level: A1, B1
+- CEFR Level: A2
 - IPA (US): /fɪlm/
-- English Meaning: A movie or the act of recording moving images.
+- English Meaning: A movie; to record moving images.
 - Vietnamese Meaning: Bộ phim; quay phim.
 - Example: We watched a film last night.
-- Example Translation: Chúng tôi xem một bộ phim tối qua.
+- Example Translation: Chúng tôi đã xem một bộ phim tối qua.
 
-## 1035. final
-
+### 1041. final
 - Type: Adjective, Noun
-- CEFR Level: A2
+- CEFR Level: A1, A2
 - IPA (US): /ˈfaɪnl/
-- English Meaning: Last in a series or process.
-- Vietnamese Meaning: Cuối cùng; trận chung kết.
-- Example: This is the final chapter.
-- Example Translation: Đây là chương cuối cùng.
+- English Meaning: Last; happening at the end.
+- Vietnamese Meaning: Cuối cùng; trận/chặng cuối.
+- Example: This is the final version of the report.
+- Example Translation: Đây là phiên bản cuối cùng của báo cáo.
 
-## 1036. finally
-
+### 1042. finally
 - Type: Adverb
 - CEFR Level: A2
 - IPA (US): /ˈfaɪnəli/
-- English Meaning: At the end of a process or period.
+- English Meaning: At the end of a process or period of time.
 - Vietnamese Meaning: Cuối cùng.
-- Example: We finally reached our destination.
-- Example Translation: Cuối cùng chúng tôi đã đến đích.
+- Example: We finally completed the project.
+- Example Translation: Cuối cùng chúng tôi đã hoàn thành dự án.
 
-## 1037. finance
-
+### 1043. finance
 - Type: Noun, Verb
 - CEFR Level: B2
 - IPA (US): /ˈfaɪnæns/
-- English Meaning: The management of money.
-- Vietnamese Meaning: Tài chính.
+- English Meaning: The management of money; to provide money for something.
+- Vietnamese Meaning: Tài chính; tài trợ.
 - Example: She works in finance.
 - Example Translation: Cô ấy làm việc trong lĩnh vực tài chính.
 
-## 1038. financial
-
+### 1044. financial
 - Type: Adjective
 - CEFR Level: B1
-- IPA (US): /faɪˈnænʃəl/
-- English Meaning: Related to money or finance.
+- IPA (US): /faɪˈnænʃl/
+- English Meaning: Relating to money or finance.
 - Vietnamese Meaning: Thuộc tài chính.
-- Example: The company faces financial difficulties.
-- Example Translation: Công ty đang gặp khó khăn tài chính.
+- Example: The company is facing financial difficulties.
+- Example Translation: Công ty đang gặp khó khăn về tài chính.
 
-## 1039. find
-
+### 1045. find
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /faɪnd/
@@ -402,429 +417,394 @@ Words 1001 to 1100 from the Oxford 3000 list - the 3000 most important words to 
 - Example: I can't find my keys.
 - Example Translation: Tôi không thể tìm thấy chìa khóa của mình.
 
-## 1040. finding
-
+### 1046. finding
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈfaɪndɪŋ/
-- English Meaning: Information discovered as a result of research.
+- English Meaning: Information discovered during research or investigation.
 - Vietnamese Meaning: Phát hiện; kết quả nghiên cứu.
-- Example: The findings were published in a journal.
-- Example Translation: Các phát hiện đã được công bố trên tạp chí.
+- Example: The report contains important findings.
+- Example Translation: Báo cáo chứa những phát hiện quan trọng.
 
-## 1041. fine
-
-- Type: Adjective, Adverb, Noun
-- CEFR Level: A1, B1
+### 1047. fine
+- Type: Adjective
+- CEFR Level: A1
 - IPA (US): /faɪn/
-- English Meaning: Good or satisfactory.
+- English Meaning: Good; satisfactory.
 - Vietnamese Meaning: Tốt; ổn.
-- Example: Everything is fine now.
-- Example Translation: Bây giờ mọi thứ đều ổn.
+- Example: I'm feeling fine today.
+- Example Translation: Hôm nay tôi cảm thấy ổn.
 
-## 1042. finger
-
+### 1048. finger
 - Type: Noun
-- CEFR Level: A1
+- CEFR Level: A2
 - IPA (US): /ˈfɪŋɡər/
-- English Meaning: One of the parts at the end of the hand.
+- English Meaning: One of the five parts at the end of a hand.
 - Vietnamese Meaning: Ngón tay.
-- Example: She cut her finger while cooking.
-- Example Translation: Cô ấy bị đứt tay khi nấu ăn.
+- Example: She pointed at the screen with her finger.
+- Example Translation: Cô ấy chỉ vào màn hình bằng ngón tay.
 
-## 1043. finish
-
+### 1049. finish
 - Type: Verb, Noun
-- CEFR Level: A1
+- CEFR Level: A1, A2
 - IPA (US): /ˈfɪnɪʃ/
-- English Meaning: To complete something.
-- Vietnamese Meaning: Hoàn thành.
-- Example: I finished my homework.
-- Example Translation: Tôi đã hoàn thành bài tập về nhà.
+- English Meaning: To complete something; the end of an activity.
+- Vietnamese Meaning: Hoàn thành; sự kết thúc.
+- Example: I need to finish my homework tonight.
+- Example Translation: Tôi cần hoàn thành bài tập về nhà tối nay.
 
-## 1044. fire
-
+### 1050. fire
 - Type: Noun, Verb
-- CEFR Level: A1, B2
-- IPA (US): /faɪər/
-- English Meaning: Heat and light produced by burning.
-- Vietnamese Meaning: Lửa; hỏa hoạn.
-- Example: The fire damaged several houses.
-- Example Translation: Đám cháy đã làm hư hại nhiều ngôi nhà.
+- CEFR Level: A1, A2
+- IPA (US): /faɪr/
+- English Meaning: The flames and heat produced by burning; to shoot or dismiss someone from a job.
+- Vietnamese Meaning: Lửa; sa thải; khai hỏa.
+- Example: The fire caused significant damage.
+- Example Translation: Vụ cháy gây ra thiệt hại đáng kể.
 
-## 1045. firm
-
+### 1051. firm
 - Type: Noun, Adjective
 - CEFR Level: B2
 - IPA (US): /fɜːrm/
-- English Meaning: A business company; strong and fixed.
+- English Meaning: A business company; strong and not soft.
 - Vietnamese Meaning: Công ty; vững chắc.
-- Example: He works for a law firm.
-- Example Translation: Anh ấy làm việc cho một công ty luật.
+- Example: She works for a law firm.
+- Example Translation: Cô ấy làm việc cho một công ty luật.
 
-## 1046. first
-
-- Type: Number, Adjective, Adverb
-- CEFR Level: A1
+### 1052. first
+- Type: Number, Determiner, Adverb, Noun
+- CEFR Level: A1, A2
 - IPA (US): /fɜːrst/
-- English Meaning: Before all others in time or order.
-- Vietnamese Meaning: Đầu tiên; thứ nhất.
-- Example: She finished first in the race.
-- Example Translation: Cô ấy về nhất trong cuộc đua.
+- English Meaning: Coming before all others.
+- Vietnamese Meaning: Thứ nhất; đầu tiên.
+- Example: He was the first person to arrive.
+- Example Translation: Anh ấy là người đầu tiên đến nơi.
 
-## 1047. fish
-
+### 1053. fish
 - Type: Noun, Verb
-- CEFR Level: A1
+- CEFR Level: A1, A2
 - IPA (US): /fɪʃ/
-- English Meaning: An animal that lives in water.
-- Vietnamese Meaning: Cá.
-- Example: We ate fish for dinner.
+- English Meaning: An animal that lives in water; to catch fish.
+- Vietnamese Meaning: Cá; câu cá.
+- Example: We had fish for dinner.
 - Example Translation: Chúng tôi ăn cá vào bữa tối.
 
-## 1048. fishing
-
+### 1054. fishing
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈfɪʃɪŋ/
 - English Meaning: The activity of catching fish.
-- Vietnamese Meaning: Việc câu cá.
-- Example: Fishing is his favorite hobby.
-- Example Translation: Câu cá là sở thích yêu thích của anh ấy.
+- Vietnamese Meaning: Việc câu cá; đánh cá.
+- Example: Fishing is one of his favorite hobbies.
+- Example Translation: Câu cá là một trong những sở thích yêu thích của anh ấy.
 
-## 1049. fit
-
+### 1055. fit
 - Type: Verb, Adjective
 - CEFR Level: A2
 - IPA (US): /fɪt/
-- English Meaning: To be the right size; healthy and strong.
+- English Meaning: To be the right size; healthy and physically strong.
 - Vietnamese Meaning: Vừa vặn; khỏe mạnh.
-- Example: This shirt fits me well.
-- Example Translation: Chiếc áo này vừa với tôi.
+- Example: This shirt fits me perfectly.
+- Example Translation: Chiếc áo này vừa vặn với tôi.
 
-## 1050. fitness
-
+### 1056. fitness
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈfɪtnəs/
-- English Meaning: The condition of being physically healthy.
-- Vietnamese Meaning: Thể lực; sức khỏe.
+- English Meaning: The condition of being healthy and physically strong.
+- Vietnamese Meaning: Thể lực; sức khỏe thể chất.
 - Example: Regular exercise improves fitness.
 - Example Translation: Tập thể dục thường xuyên cải thiện thể lực.
 
-## 1051. five
-
+### 1057. five
 - Type: Number
 - CEFR Level: A1
 - IPA (US): /faɪv/
 - English Meaning: The number 5.
 - Vietnamese Meaning: Năm.
-- Example: I have five books.
-- Example Translation: Tôi có năm quyển sách.
+- Example: There are five books on the desk.
+- Example Translation: Có năm cuốn sách trên bàn.
 
-## 1052. fix
-
-- Type: Verb
-- CEFR Level: A2
+### 1058. fix
+- Type: Verb, Noun
+- CEFR Level: A2, B2
 - IPA (US): /fɪks/
-- English Meaning: To repair something.
-- Vietnamese Meaning: Sửa chữa.
-- Example: He fixed the broken chair.
-- Example Translation: Anh ấy đã sửa chiếc ghế bị hỏng.
+- English Meaning: To repair something; a solution to a problem.
+- Vietnamese Meaning: Sửa chữa; giải pháp.
+- Example: Can you fix my computer?
+- Example Translation: Bạn có thể sửa máy tính của tôi không?
 
-## 1053. flag
+### 1059. fixed
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /fɪkst/
+- English Meaning: Not likely to change; repaired.
+- Vietnamese Meaning: Cố định; đã được sửa.
+- Example: We pay a fixed monthly fee.
+- Example Translation: Chúng tôi trả một khoản phí cố định hàng tháng.
 
+### 1060. flag
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: B1
 - IPA (US): /flæɡ/
-- English Meaning: A piece of cloth with a symbol representing a country or group.
+- English Meaning: A piece of cloth representing a country or organization.
 - Vietnamese Meaning: Lá cờ.
 - Example: The national flag was raised.
 - Example Translation: Quốc kỳ đã được kéo lên.
 
-## 1054. flame
-
+### 1061. flame
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /fleɪm/
-- English Meaning: The bright burning part of a fire.
+- English Meaning: The visible burning part of a fire.
 - Vietnamese Meaning: Ngọn lửa.
 - Example: The flame burned brightly.
 - Example Translation: Ngọn lửa cháy sáng rực.
 
-## 1055. flash
-
+### 1062. flash
 - Type: Noun, Verb
 - CEFR Level: B2
 - IPA (US): /flæʃ/
-- English Meaning: A sudden bright light.
-- Vietnamese Meaning: Tia chớp; đèn nháy.
-- Example: A flash of lightning lit the sky.
-- Example Translation: Một tia chớp thắp sáng bầu trời.
+- English Meaning: A sudden bright light; to shine suddenly.
+- Vietnamese Meaning: Tia chớp; lóe sáng.
+- Example: There was a flash of lightning.
+- Example Translation: Có một tia chớp lóe lên.
 
-## 1056. flat
-
+### 1063. flat
 - Type: Adjective, Noun
 - CEFR Level: A2
 - IPA (US): /flæt/
 - English Meaning: Having a level surface; an apartment.
-- Vietnamese Meaning: Bằng phẳng; căn hộ.
+- Vietnamese Meaning: Phẳng; căn hộ.
 - Example: They live in a small flat.
 - Example Translation: Họ sống trong một căn hộ nhỏ.
 
-## 1057. flavor
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /ˈfleɪvər/
-- English Meaning: The taste of food or drink.
-- Vietnamese Meaning: Hương vị.
-- Example: This ice cream has a rich flavor.
-- Example Translation: Kem này có hương vị đậm đà.
-
-## 1058. flesh
-
-- Type: Noun
+### 1064. flexible
+- Type: Adjective
 - CEFR Level: B2
-- IPA (US): /fleʃ/
-- English Meaning: The soft part of a person's or animal's body.
-- Vietnamese Meaning: Thịt; da thịt.
-- Example: The wound cut through the flesh.
-- Example Translation: Vết thương cắt vào phần da thịt.
+- IPA (US): /ˈfleksəbl/
+- English Meaning: Able to change or adapt easily.
+- Vietnamese Meaning: Linh hoạt.
+- Example: Our company offers flexible working hours.
+- Example Translation: Công ty chúng tôi cung cấp giờ làm việc linh hoạt.
 
-## 1059. flight
-
+### 1065. flight
 - Type: Noun
-- CEFR Level: A2
+- CEFR Level: A1
 - IPA (US): /flaɪt/
-- English Meaning: A journey on an airplane.
+- English Meaning: A journey by air.
 - Vietnamese Meaning: Chuyến bay.
-- Example: Our flight leaves at 8 a.m.
-- Example Translation: Chuyến bay của chúng tôi khởi hành lúc 8 giờ sáng.
+- Example: My flight leaves at 8 a.m.
+- Example Translation: Chuyến bay của tôi khởi hành lúc 8 giờ sáng.
 
-## 1060. float
-
+### 1066. float
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /floʊt/
-- English Meaning: To stay on the surface of a liquid.
+- English Meaning: To stay on the surface of water or another liquid.
 - Vietnamese Meaning: Nổi.
 - Example: The boat floated on the lake.
-- Example Translation: Chiếc thuyền nổi trên hồ.
+- Example Translation: Con thuyền nổi trên mặt hồ.
 
-
-## 1061. flood
-
+### 1067. flood
 - Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /flʌd/
-- English Meaning: A large amount of water covering land that is usually dry.
-- Vietnamese Meaning: Lũ lụt; ngập lụt.
-- Example: The flood damaged many homes.
+- English Meaning: A large amount of water covering normally dry land.
+- Vietnamese Meaning: Lũ lụt; làm ngập.
+- Example: The flood damaged many houses.
 - Example Translation: Trận lũ đã làm hư hại nhiều ngôi nhà.
 
-## 1062. floor
-
+### 1068. floor
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /flɔːr/
 - English Meaning: The surface you walk on inside a building.
 - Vietnamese Meaning: Sàn nhà; tầng.
-- Example: The book fell on the floor.
-- Example Translation: Cuốn sách rơi xuống sàn nhà.
+- Example: The keys fell on the floor.
+- Example Translation: Chìa khóa rơi xuống sàn nhà.
 
-## 1063. flour
-
+### 1069. flour
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /flaʊər/
-- English Meaning: Powder made from grains used in baking.
+- English Meaning: Powder made from grain, used for baking.
 - Vietnamese Meaning: Bột mì.
-- Example: We need flour to make bread.
-- Example Translation: Chúng ta cần bột mì để làm bánh mì.
+- Example: Bread is made from flour.
+- Example Translation: Bánh mì được làm từ bột mì.
 
-## 1064. flow
-
+### 1070. flow
 - Type: Verb, Noun
 - CEFR Level: B1
 - IPA (US): /floʊ/
-- English Meaning: To move steadily and continuously.
+- English Meaning: To move continuously in one direction; steady movement.
 - Vietnamese Meaning: Chảy; dòng chảy.
 - Example: Water flows through the river.
 - Example Translation: Nước chảy qua con sông.
 
-## 1065. flower
-
+### 1071. flower
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈflaʊər/
-- English Meaning: The colorful part of a plant.
+- English Meaning: The colored part of a plant that produces seeds.
 - Vietnamese Meaning: Hoa.
-- Example: She picked a yellow flower.
-- Example Translation: Cô ấy hái một bông hoa màu vàng.
+- Example: She bought a beautiful flower.
+- Example Translation: Cô ấy đã mua một bông hoa đẹp.
 
-## 1066. flu
-
+### 1072. flu
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /fluː/
-- English Meaning: A common illness that causes fever and body aches.
-- Vietnamese Meaning: Cúm.
+- English Meaning: A common illness caused by a virus.
+- Vietnamese Meaning: Bệnh cúm.
 - Example: He stayed home because he had the flu.
 - Example Translation: Anh ấy ở nhà vì bị cúm.
 
-## 1067. fly
-
+### 1073. fly
 - Type: Verb, Noun
-- CEFR Level: A1
+- CEFR Level: A1, A2
 - IPA (US): /flaɪ/
-- English Meaning: To move through the air using wings or an aircraft.
+- English Meaning: To move through the air; a small insect.
 - Vietnamese Meaning: Bay; con ruồi.
 - Example: Birds can fly long distances.
 - Example Translation: Chim có thể bay những quãng đường dài.
 
-## 1068. flying
-
+### 1074. flying
 - Type: Noun, Adjective
 - CEFR Level: A2
 - IPA (US): /ˈflaɪɪŋ/
-- English Meaning: The activity of traveling through the air.
-- Vietnamese Meaning: Việc bay.
-- Example: Flying is faster than driving.
-- Example Translation: Đi máy bay nhanh hơn lái xe.
+- English Meaning: The activity of traveling by air; moving through the air.
+- Vietnamese Meaning: Việc bay; đang bay.
+- Example: Flying is the fastest way to travel.
+- Example Translation: Đi máy bay là cách di chuyển nhanh nhất.
 
-## 1069. focus
-
+### 1075. focus
 - Type: Noun, Verb
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈfoʊkəs/
-- English Meaning: Special attention given to something.
+- English Meaning: The center of interest or attention; to concentrate.
 - Vietnamese Meaning: Sự tập trung; tập trung.
-- Example: Please focus on your work.
-- Example Translation: Hãy tập trung vào công việc của bạn.
+- Example: We need to focus on the main problem.
+- Example Translation: Chúng ta cần tập trung vào vấn đề chính.
 
-## 1070. fold
-
+### 1076. fold
 - Type: Verb, Noun
-- CEFR Level: B1
+- CEFR Level: B1, B2
 - IPA (US): /foʊld/
-- English Meaning: To bend something so that one part covers another.
-- Vietnamese Meaning: Gấp lại.
+- English Meaning: To bend something so one part lies on another.
+- Vietnamese Meaning: Gấp; nếp gấp.
 - Example: Fold the paper in half.
-- Example Translation: Hãy gấp đôi tờ giấy.
+- Example Translation: Hãy gấp đôi tờ giấy lại.
 
-## 1071. folk
+### 1077. folding
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ˈfoʊldɪŋ/
+- English Meaning: Able to be folded.
+- Vietnamese Meaning: Có thể gấp lại.
+- Example: We bought a folding table for camping.
+- Example Translation: Chúng tôi mua một chiếc bàn gấp để đi cắm trại.
 
+### 1078. folk
 - Type: Noun, Adjective
 - CEFR Level: B1
 - IPA (US): /foʊk/
-- English Meaning: Traditional and related to ordinary people.
+- English Meaning: Traditional and common among ordinary people.
 - Vietnamese Meaning: Dân gian.
-- Example: We listened to folk music.
-- Example Translation: Chúng tôi nghe nhạc dân gian.
+- Example: She enjoys folk music.
+- Example Translation: Cô ấy thích nhạc dân gian.
 
-## 1072. follow
-
+### 1079. follow
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /ˈfɑːloʊ/
-- English Meaning: To go after someone or obey instructions.
+- English Meaning: To go after someone or something; to obey instructions.
 - Vietnamese Meaning: Theo sau; làm theo.
-- Example: Please follow the instructions.
-- Example Translation: Hãy làm theo hướng dẫn.
+- Example: Please follow the instructions carefully.
+- Example Translation: Vui lòng làm theo hướng dẫn cẩn thận.
 
-## 1073. following
-
-- Type: Adjective, Preposition, Noun
-- CEFR Level: A2
+### 1080. following
+- Type: Adjective, Noun, Preposition
+- CEFR Level: A2, B1, B2
 - IPA (US): /ˈfɑːloʊɪŋ/
-- English Meaning: Coming next or after.
-- Vietnamese Meaning: Tiếp theo.
+- English Meaning: Next; coming after; after something.
+- Vietnamese Meaning: Tiếp theo; sau đây.
 - Example: Answer the following questions.
-- Example Translation: Hãy trả lời các câu hỏi sau.
+- Example Translation: Hãy trả lời các câu hỏi sau đây.
 
-## 1074. food
-
+### 1081. food
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /fuːd/
-- English Meaning: Things that people and animals eat.
+- English Meaning: Things that people or animals eat.
 - Vietnamese Meaning: Thức ăn.
-- Example: Healthy food is important.
-- Example Translation: Thức ăn lành mạnh rất quan trọng.
+- Example: Healthy food is important for everyone.
+- Example Translation: Thức ăn lành mạnh rất quan trọng đối với mọi người.
 
-## 1075. foot
-
+### 1082. foot
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /fʊt/
-- English Meaning: The lower part of the leg used for standing and walking.
+- English Meaning: The part at the end of a person's leg.
 - Vietnamese Meaning: Bàn chân.
-- Example: My foot hurts after the walk.
-- Example Translation: Bàn chân tôi đau sau khi đi bộ.
+- Example: My foot hurts after the long walk.
+- Example Translation: Bàn chân tôi bị đau sau quãng đường đi dài.
 
-## 1076. football
-
+### 1083. football
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈfʊtbɔːl/
-- English Meaning: A popular team sport played with a ball.
+- English Meaning: A sport played by two teams with a ball.
 - Vietnamese Meaning: Bóng đá.
-- Example: Football is the most popular sport in the world.
-- Example Translation: Bóng đá là môn thể thao phổ biến nhất thế giới.
+- Example: Football is the most popular sport in many countries.
+- Example Translation: Bóng đá là môn thể thao phổ biến nhất ở nhiều quốc gia.
 
-## 1077. for
-
+### 1084. for
 - Type: Preposition
 - CEFR Level: A1
 - IPA (US): /fɔːr/
-- English Meaning: Used to show purpose, benefit, or duration.
+- English Meaning: Used to show purpose, reason, or destination.
 - Vietnamese Meaning: Cho; vì.
 - Example: This gift is for you.
 - Example Translation: Món quà này dành cho bạn.
 
-## 1078. force
-
+### 1085. force
 - Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /fɔːrs/
-- English Meaning: Strength or power used to make something happen.
+- English Meaning: Physical power; to make someone do something.
 - Vietnamese Meaning: Lực; ép buộc.
-- Example: The force of the wind was strong.
-- Example Translation: Sức gió rất mạnh.
+- Example: They forced him to leave.
+- Example Translation: Họ ép anh ấy rời đi.
 
-## 1079. foreign
-
+### 1086. foreign
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /ˈfɔːrən/
-- English Meaning: Connected with another country.
+- English Meaning: Belonging to or coming from another country.
 - Vietnamese Meaning: Nước ngoài.
 - Example: She speaks several foreign languages.
 - Example Translation: Cô ấy nói được nhiều ngoại ngữ.
 
-## 1080. forest
-
+### 1087. forest
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈfɔːrɪst/
 - English Meaning: A large area covered with trees.
 - Vietnamese Meaning: Rừng.
-- Example: The forest is home to many animals.
-- Example Translation: Khu rừng là nơi sinh sống của nhiều loài động vật.
+- Example: Many animals live in the forest.
+- Example Translation: Nhiều loài động vật sống trong rừng.
 
-## 1081. forever
-
+### 1088. forever
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /fərˈevər/
-- English Meaning: For all time; endlessly.
+- English Meaning: For all time; always.
 - Vietnamese Meaning: Mãi mãi.
-- Example: I will remember this forever.
-- Example Translation: Tôi sẽ nhớ điều này mãi mãi.
+- Example: I will remember this moment forever.
+- Example Translation: Tôi sẽ nhớ khoảnh khắc này mãi mãi.
 
-## 1082. forget
-
+### 1089. forget
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /fərˈɡet/
@@ -833,108 +813,97 @@ Words 1001 to 1100 from the Oxford 3000 list - the 3000 most important words to 
 - Example: Don't forget your keys.
 - Example Translation: Đừng quên chìa khóa của bạn.
 
-## 1083. forgive
-
+### 1090. forgive
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /fərˈɡɪv/
 - English Meaning: To stop being angry with someone for a mistake.
 - Vietnamese Meaning: Tha thứ.
-- Example: She forgave him for the error.
-- Example Translation: Cô ấy đã tha thứ cho anh ấy vì lỗi đó.
+- Example: Please forgive me for being late.
+- Example Translation: Xin hãy tha thứ cho tôi vì đã đến muộn.
 
-## 1084. fork
-
+### 1091. fork
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /fɔːrk/
-- English Meaning: A tool used for eating with prongs.
+- English Meaning: A tool with points used for eating food.
 - Vietnamese Meaning: Cái nĩa.
 - Example: Use a fork to eat the salad.
-- Example Translation: Hãy dùng nĩa để ăn salad.
+- Example Translation: Hãy dùng nĩa để ăn món salad.
 
-## 1085. form
-
+### 1092. form
 - Type: Noun, Verb
-- CEFR Level: A1, B1
+- CEFR Level: A1
 - IPA (US): /fɔːrm/
-- English Meaning: A type, shape, or document; to create.
-- Vietnamese Meaning: Hình thức; biểu mẫu; hình thành.
+- English Meaning: A document to fill in; to create or make.
+- Vietnamese Meaning: Mẫu đơn; hình thành.
 - Example: Please fill out this form.
-- Example Translation: Vui lòng điền vào biểu mẫu này.
+- Example Translation: Vui lòng điền vào mẫu đơn này.
 
-## 1086. formal
-
+### 1093. formal
 - Type: Adjective
-- CEFR Level: B1
-- IPA (US): /ˈfɔːrməl/
-- English Meaning: Following official or traditional rules.
+- CEFR Level: A2
+- IPA (US): /ˈfɔːrml/
+- English Meaning: Suitable for official or serious situations.
 - Vietnamese Meaning: Trang trọng; chính thức.
-- Example: Wear formal clothes to the event.
-- Example Translation: Hãy mặc trang phục trang trọng đến sự kiện.
+- Example: He wore formal clothes to the event.
+- Example Translation: Anh ấy mặc trang phục trang trọng đến sự kiện.
 
-## 1087. former
-
+### 1094. former
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /ˈfɔːrmər/
-- English Meaning: Previous or earlier.
-- Vietnamese Meaning: Trước đây.
-- Example: He is a former teacher.
-- Example Translation: Ông ấy là một giáo viên trước đây.
+- English Meaning: Previous; belonging to an earlier time.
+- Vietnamese Meaning: Trước đây; cũ.
+- Example: She met her former manager.
+- Example Translation: Cô ấy gặp người quản lý cũ của mình.
 
-## 1088. fortunately
-
+### 1095. fortunately
 - Type: Adverb
-- CEFR Level: B1
+- CEFR Level: A2
 - IPA (US): /ˈfɔːrtʃənətli/
-- English Meaning: Happily; by good luck.
+- English Meaning: Happily or luckily.
 - Vietnamese Meaning: May mắn thay.
 - Example: Fortunately, nobody was hurt.
 - Example Translation: May mắn thay, không ai bị thương.
 
-## 1089. fortune
-
+### 1096. fortune
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈfɔːrtʃən/
-- English Meaning: Great wealth or luck.
-- Vietnamese Meaning: Vận may; tài sản lớn.
+- English Meaning: A large amount of money or luck.
+- Vietnamese Meaning: Tài sản lớn; vận may.
 - Example: He made a fortune in business.
-- Example Translation: Anh ấy đã kiếm được một gia tài từ kinh doanh.
+- Example Translation: Anh ấy kiếm được một gia tài nhờ kinh doanh.
 
-## 1090. forty
-
+### 1097. forty
 - Type: Number
 - CEFR Level: A1
 - IPA (US): /ˈfɔːrti/
 - English Meaning: The number 40.
 - Vietnamese Meaning: Bốn mươi.
-- Example: Forty students attended the class.
-- Example Translation: Có bốn mươi học sinh tham dự lớp học.
+- Example: Forty people attended the conference.
+- Example Translation: Bốn mươi người đã tham dự hội nghị.
 
-## 1091. forward
-
-- Type: Adverb, Adjective, Verb
-- CEFR Level: A2, B1
+### 1098. forward
+- Type: Adverb, Adjective
+- CEFR Level: A2, B2
 - IPA (US): /ˈfɔːrwərd/
-- English Meaning: Toward the front or ahead.
-- Vietnamese Meaning: Về phía trước; chuyển tiếp.
-- Example: She stepped forward to speak.
-- Example Translation: Cô ấy bước lên phía trước để phát biểu.
+- English Meaning: Toward the front; moving ahead.
+- Vietnamese Meaning: Về phía trước; tiến tới.
+- Example: Please move forward in the line.
+- Example Translation: Vui lòng tiến lên phía trước trong hàng.
 
-## 1092. found
-
+### 1099. found
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /faʊnd/
-- English Meaning: To establish or start an organization, company, or institution.
+- English Meaning: To establish or start an organization or institution.
 - Vietnamese Meaning: Thành lập.
-- Example: They founded the company in 2010.
-- Example Translation: Họ thành lập công ty vào năm 2010.
+- Example: She founded the company in 2015.
+- Example Translation: Cô ấy thành lập công ty vào năm 2015.
 
-## 1093. four
-
+### 1100. four
 - Type: Number
 - CEFR Level: A1
 - IPA (US): /fɔːr/
@@ -942,73 +911,3 @@ Words 1001 to 1100 from the Oxford 3000 list - the 3000 most important words to 
 - Vietnamese Meaning: Bốn.
 - Example: There are four chairs in the room.
 - Example Translation: Có bốn chiếc ghế trong phòng.
-
-## 1094. fourteen
-
-- Type: Number
-- CEFR Level: A1
-- IPA (US): /ˌfɔːrˈtiːn/
-- English Meaning: The number 14.
-- Vietnamese Meaning: Mười bốn.
-- Example: She is fourteen years old.
-- Example Translation: Cô ấy mười bốn tuổi.
-
-## 1095. fourth
-
-- Type: Number
-- CEFR Level: A1
-- IPA (US): /fɔːrθ/
-- English Meaning: Coming after the third and before the fifth.
-- Vietnamese Meaning: Thứ tư.
-- Example: He finished fourth in the race.
-- Example Translation: Anh ấy về đích thứ tư.
-
-## 1096. frame
-
-- Type: Noun, Verb
-- CEFR Level: B2
-- IPA (US): /freɪm/
-- English Meaning: A structure that surrounds or supports something.
-- Vietnamese Meaning: Khung; đóng khung.
-- Example: The picture is in a wooden frame.
-- Example Translation: Bức tranh được đặt trong một khung gỗ.
-
-## 1097. free
-
-- Type: Adjective, Adverb, Verb
-- CEFR Level: A1, B2
-- IPA (US): /friː/
-- English Meaning: Not costing money or not controlled by others.
-- Vietnamese Meaning: Miễn phí; tự do.
-- Example: Admission is free today.
-- Example Translation: Vé vào cửa hôm nay được miễn phí.
-
-## 1098. freedom
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /ˈfriːdəm/
-- English Meaning: The right to act, speak, or think as you want.
-- Vietnamese Meaning: Tự do.
-- Example: Freedom of speech is important.
-- Example Translation: Tự do ngôn luận rất quan trọng.
-
-## 1099. freeze
-
-- Type: Verb
-- CEFR Level: B1
-- IPA (US): /friːz/
-- English Meaning: To become or make something very cold and solid.
-- Vietnamese Meaning: Đóng băng.
-- Example: Water freezes at 0°C.
-- Example Translation: Nước đóng băng ở 0°C.
-
-## 1100. frequency
-
-- Type: Noun
-- CEFR Level: B2
-- IPA (US): /ˈfriːkwənsi/
-- English Meaning: The rate at which something happens or is repeated.
-- Vietnamese Meaning: Tần suất.
-- Example: The frequency of earthquakes has increased.
-- Example Translation: Tần suất động đất đã tăng lên.

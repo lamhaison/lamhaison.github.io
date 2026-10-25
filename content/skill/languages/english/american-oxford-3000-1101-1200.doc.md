@@ -12,68 +12,115 @@ Words 1101 to 1200 from the Oxford 3000 list - the 3000 most important words to 
 
 ---
 
-## 1101. frequent
+### 1101. fourteen
+- Type: Number
+- CEFR Level: A1
+- IPA (US): /ˌfɔːrˈtiːn/
+- English Meaning: The number 14.
+- Vietnamese Meaning: Mười bốn.
+- Example: There are fourteen students in the classroom.
+- Example Translation: Có mười bốn học sinh trong lớp.
 
-- Type: Adjective
+### 1102. fourth
+- Type: Number, Adjective
+- CEFR Level: A1
+- IPA (US): /fɔːrθ/
+- English Meaning: Coming after the third.
+- Vietnamese Meaning: Thứ tư.
+- Example: She finished in fourth place.
+- Example Translation: Cô ấy về đích ở vị trí thứ tư.
+
+### 1103. frame
+- Type: Noun, Verb
 - CEFR Level: B1
-- IPA (US): /ˈfriːkwənt/
-- English Meaning: Happening often.
-- Vietnamese Meaning: Thường xuyên.
-- Example: He makes frequent trips abroad.
-- Example Translation: Anh ấy thường xuyên đi công tác nước ngoài.
+- IPA (US): /freɪm/
+- English Meaning: A structure that surrounds or supports something.
+- Vietnamese Meaning: Khung; đóng khung.
+- Example: The picture is in a wooden frame.
+- Example Translation: Bức tranh được đặt trong một khung gỗ.
 
-## 1102. frequently
+### 1104. free
+- Type: Adjective, Adverb, Verb
+- CEFR Level: A1, A2, B2
+- IPA (US): /friː/
+- English Meaning: Not costing money; not controlled or restricted.
+- Vietnamese Meaning: Miễn phí; tự do.
+- Example: Admission is free for children.
+- Example Translation: Trẻ em được vào cửa miễn phí.
 
+### 1105. freedom
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ˈfriːdəm/
+- English Meaning: The power or right to act, speak, or think as one wants.
+- Vietnamese Meaning: Sự tự do.
+- Example: Everyone values freedom of speech.
+- Example Translation: Mọi người đều coi trọng quyền tự do ngôn luận.
+
+### 1106. freeze
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /friːz/
+- English Meaning: To become or make something extremely cold and solid.
+- Vietnamese Meaning: Đóng băng.
+- Example: Water freezes at 0°C.
+- Example Translation: Nước đóng băng ở 0°C.
+
+### 1107. frequency
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ˈfriːkwənsi/
+- English Meaning: The number of times something happens.
+- Vietnamese Meaning: Tần suất.
+- Example: The frequency of meetings has increased.
+- Example Translation: Tần suất các cuộc họp đã tăng lên.
+
+### 1108. frequently
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ˈfriːkwəntli/
 - English Meaning: Often.
 - Vietnamese Meaning: Thường xuyên.
 - Example: She frequently visits her grandparents.
-- Example Translation: Cô ấy thường xuyên thăm ông bà.
+- Example Translation: Cô ấy thường xuyên thăm ông bà của mình.
 
-## 1103. fresh
-
+### 1109. fresh
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /freʃ/
-- English Meaning: New, clean, or recently produced.
+- English Meaning: Recently made, obtained, or experienced; not old.
 - Vietnamese Meaning: Tươi; mới.
-- Example: We bought fresh vegetables.
-- Example Translation: Chúng tôi mua rau tươi.
+- Example: We bought some fresh vegetables.
+- Example Translation: Chúng tôi đã mua một ít rau tươi.
 
-## 1104. Friday
-
+### 1110. Friday
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈfraɪdeɪ/
-- English Meaning: The sixth day of the week.
+- English Meaning: The day after Thursday.
 - Vietnamese Meaning: Thứ Sáu.
-- Example: The meeting is on Friday.
-- Example Translation: Cuộc họp diễn ra vào thứ Sáu.
+- Example: Our meeting is scheduled for Friday.
+- Example Translation: Cuộc họp của chúng tôi được lên lịch vào thứ Sáu.
 
-## 1105. friend
-
+### 1111. friend
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /frend/
-- English Meaning: A person you know and like.
+- English Meaning: A person you know well and like.
 - Vietnamese Meaning: Bạn bè.
-- Example: My friend lives nearby.
-- Example Translation: Bạn tôi sống gần đây.
+- Example: She is my best friend.
+- Example Translation: Cô ấy là bạn thân nhất của tôi.
 
-## 1106. friendly
-
+### 1112. friendly
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /ˈfrendli/
-- English Meaning: Kind and pleasant.
+- English Meaning: Kind and pleasant toward others.
 - Vietnamese Meaning: Thân thiện.
-- Example: The staff are very friendly.
+- Example: The staff were very friendly.
 - Example Translation: Nhân viên rất thân thiện.
 
-## 1107. friendship
-
+### 1113. friendship
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ˈfrendʃɪp/
@@ -82,28 +129,25 @@ Words 1101 to 1200 from the Oxford 3000 list - the 3000 most important words to 
 - Example: Their friendship lasted many years.
 - Example Translation: Tình bạn của họ kéo dài nhiều năm.
 
-## 1108. frighten
-
+### 1114. frighten
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /ˈfraɪtn/
 - English Meaning: To make someone feel afraid.
 - Vietnamese Meaning: Làm sợ hãi.
-- Example: The loud noise frightened the child.
-- Example Translation: Tiếng động lớn làm đứa trẻ sợ hãi.
+- Example: The loud noise frightened the children.
+- Example Translation: Tiếng động lớn làm bọn trẻ sợ hãi.
 
-## 1109. frightened
-
+### 1115. frightened
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈfraɪtnd/
-- English Meaning: Feeling afraid.
-- Vietnamese Meaning: Hoảng sợ.
-- Example: She looked frightened.
-- Example Translation: Cô ấy trông rất sợ hãi.
+- English Meaning: Feeling afraid or scared.
+- Vietnamese Meaning: Sợ hãi.
+- Example: She looked frightened after the incident.
+- Example Translation: Cô ấy trông rất sợ hãi sau sự việc.
 
-## 1110. frightening
-
+### 1116. frightening
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈfraɪtnɪŋ/
@@ -112,905 +156,761 @@ Words 1101 to 1200 from the Oxford 3000 list - the 3000 most important words to 
 - Example: It was a frightening experience.
 - Example Translation: Đó là một trải nghiệm đáng sợ.
 
-## 1111. frog
-
+### 1117. frog
 - Type: Noun
 - CEFR Level: A2
-- IPA (US): /frɑːɡ/
-- English Meaning: A small animal that lives both on land and in water.
+- IPA (US): /frɔːɡ/
+- English Meaning: A small animal with long back legs that lives near water.
 - Vietnamese Meaning: Con ếch.
 - Example: The frog jumped into the pond.
 - Example Translation: Con ếch nhảy xuống ao.
 
-## 1112. from
-
+### 1118. from
 - Type: Preposition
 - CEFR Level: A1
-- IPA (US): /frəm/
-- English Meaning: Showing where something starts or originates.
+- IPA (US): /frəm/, /frʌm/
+- English Meaning: Showing the place where something starts.
 - Vietnamese Meaning: Từ.
-- Example: She comes from Vietnam.
-- Example Translation: Cô ấy đến từ Việt Nam.
+- Example: She came from Canada.
+- Example Translation: Cô ấy đến từ Canada.
 
-## 1113. front
-
+### 1119. front
 - Type: Noun, Adjective
 - CEFR Level: A1
 - IPA (US): /frʌnt/
-- English Meaning: The forward-facing part of something.
-- Vietnamese Meaning: Mặt trước; phía trước.
-- Example: The car is parked in front of the house.
-- Example Translation: Chiếc xe đậu trước ngôi nhà.
+- English Meaning: The part that faces forward; located in the front.
+- Vietnamese Meaning: Phía trước; mặt trước.
+- Example: There is a garden in front of the house.
+- Example Translation: Có một khu vườn phía trước ngôi nhà.
 
-## 1114. frozen
-
+### 1120. frozen
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈfroʊzn/
 - English Meaning: Turned into ice or kept at a very low temperature.
-- Vietnamese Meaning: Đông lạnh.
-- Example: We bought frozen seafood.
-- Example Translation: Chúng tôi mua hải sản đông lạnh.
+- Vietnamese Meaning: Đông lạnh; đóng băng.
+- Example: We bought some frozen food.
+- Example Translation: Chúng tôi đã mua một ít thực phẩm đông lạnh.
 
-## 1115. fruit
-
+### 1121. fruit
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /fruːt/
-- English Meaning: The sweet product of a plant that contains seeds.
+- English Meaning: The sweet and edible part of a plant that contains seeds.
 - Vietnamese Meaning: Trái cây.
-- Example: Fruit is good for your health.
-- Example Translation: Trái cây tốt cho sức khỏe.
+- Example: Eating fruit every day is good for your health.
+- Example Translation: Ăn trái cây mỗi ngày tốt cho sức khỏe của bạn.
 
-## 1116. fry
-
+### 1122. fry
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /fraɪ/
-- English Meaning: To cook food in hot oil.
+- English Meaning: To cook food in hot oil or fat.
 - Vietnamese Meaning: Chiên; rán.
-- Example: She fried some eggs for breakfast.
-- Example Translation: Cô ấy chiên vài quả trứng cho bữa sáng.
+- Example: She fried some fish for dinner.
+- Example Translation: Cô ấy chiên một ít cá cho bữa tối.
 
-## 1117. fuel
-
+### 1123. fuel
 - Type: Noun, Verb
 - CEFR Level: B1, B2
 - IPA (US): /ˈfjuːəl/
-- English Meaning: Material used to produce energy.
-- Vietnamese Meaning: Nhiên liệu.
+- English Meaning: A substance used to produce energy; to provide energy.
+- Vietnamese Meaning: Nhiên liệu; tiếp nhiên liệu.
 - Example: Rising fuel prices affect transportation costs.
 - Example Translation: Giá nhiên liệu tăng ảnh hưởng đến chi phí vận chuyển.
 
-## 1118. full
-
+### 1124. full
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /fʊl/
 - English Meaning: Containing as much as possible.
 - Vietnamese Meaning: Đầy.
-- Example: The restaurant was full.
-- Example Translation: Nhà hàng đã kín chỗ.
+- Example: The restaurant was full of customers.
+- Example Translation: Nhà hàng chật kín khách hàng.
 
-## 1119. fully
-
+### 1125. fully
 - Type: Adverb
 - CEFR Level: B2
 - IPA (US): /ˈfʊli/
-- English Meaning: Completely.
+- English Meaning: Completely or entirely.
 - Vietnamese Meaning: Hoàn toàn.
-- Example: I fully understand your concern.
-- Example Translation: Tôi hoàn toàn hiểu mối lo ngại của bạn.
+- Example: I fully understand your concerns.
+- Example Translation: Tôi hoàn toàn hiểu những lo ngại của bạn.
 
-## 1120. fun
-
+### 1126. fun
 - Type: Noun, Adjective
 - CEFR Level: A1, A2
 - IPA (US): /fʌn/
-- English Meaning: Enjoyment or amusement.
+- English Meaning: Enjoyment or pleasure; enjoyable.
 - Vietnamese Meaning: Niềm vui; thú vị.
-- Example: The party was a lot of fun.
-- Example Translation: Bữa tiệc rất vui.
+- Example: We had a lot of fun at the party.
+- Example Translation: Chúng tôi đã có rất nhiều niềm vui ở bữa tiệc.
 
-## 1121. function
-
+### 1127. function
 - Type: Noun, Verb
 - CEFR Level: B1, B2
-- IPA (US): /ˈfʌŋkʃən/
-- English Meaning: The purpose of something or how it works.
-- Vietnamese Meaning: Chức năng.
-- Example: The function of the heart is to pump blood.
-- Example Translation: Chức năng của tim là bơm máu.
+- IPA (US): /ˈfʌŋkʃn/
+- English Meaning: A purpose or role; to operate properly.
+- Vietnamese Meaning: Chức năng; hoạt động.
+- Example: This button has an important function.
+- Example Translation: Nút này có một chức năng quan trọng.
 
-## 1122. fund
-
+### 1128. fund
 - Type: Noun, Verb
 - CEFR Level: B2
 - IPA (US): /fʌnd/
-- English Meaning: Money available for a particular purpose.
+- English Meaning: Money available for a purpose; to provide money.
 - Vietnamese Meaning: Quỹ; tài trợ.
 - Example: The project received funding from the government.
-- Example Translation: Dự án nhận được tài trợ từ chính phủ.
+- Example Translation: Dự án đã nhận được tài trợ từ chính phủ.
 
-## 1123. fundamental
-
+### 1129. fundamental
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /ˌfʌndəˈmentl/
-- English Meaning: Very important and basic.
+- English Meaning: Forming the base or foundation of something.
 - Vietnamese Meaning: Cơ bản; nền tảng.
-- Example: Communication is fundamental to teamwork.
-- Example Translation: Giao tiếp là nền tảng của làm việc nhóm.
+- Example: Communication is a fundamental skill for managers.
+- Example Translation: Giao tiếp là một kỹ năng nền tảng đối với các nhà quản lý.
 
-## 1124. funding
-
+### 1130. funding
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈfʌndɪŋ/
-- English Meaning: Money provided for a project or activity.
-- Vietnamese Meaning: Nguồn tài trợ.
-- Example: The project needs more funding.
-- Example Translation: Dự án cần thêm nguồn tài trợ.
+- English Meaning: Money provided for a particular purpose.
+- Vietnamese Meaning: Nguồn tài trợ; vốn.
+- Example: The startup secured additional funding.
+- Example Translation: Công ty khởi nghiệp đã huy động thêm vốn.
 
-## 1125. funny
-
+### 1131. funny
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /ˈfʌni/
-- English Meaning: Causing laughter or amusement.
-- Vietnamese Meaning: Hài hước; buồn cười.
-- Example: The movie was really funny.
-- Example Translation: Bộ phim rất hài hước.
+- English Meaning: Making people laugh; amusing.
+- Vietnamese Meaning: Buồn cười; hài hước.
+- Example: He told a funny story.
+- Example Translation: Anh ấy kể một câu chuyện hài hước.
 
-## 1126. fur
-
+### 1132. fur
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /fɜːr/
-- English Meaning: The thick soft hair that covers some animals.
+- English Meaning: The soft thick hair covering some animals.
 - Vietnamese Meaning: Lông thú.
-- Example: The rabbit has soft fur.
-- Example Translation: Con thỏ có bộ lông mềm.
+- Example: The cat's fur is very soft.
+- Example Translation: Bộ lông của con mèo rất mềm.
 
-## 1127. furniture
-
+### 1133. furniture
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈfɜːrnɪtʃər/
-- English Meaning: Large objects such as tables, chairs, and beds.
+- English Meaning: Large objects such as tables, chairs, and beds used in a home or office.
 - Vietnamese Meaning: Đồ nội thất.
-- Example: They bought new furniture for the house.
-- Example Translation: Họ đã mua đồ nội thất mới cho ngôi nhà.
+- Example: They bought new furniture for their apartment.
+- Example Translation: Họ mua đồ nội thất mới cho căn hộ của mình.
 
-## 1128. further
-
+### 1134. further
 - Type: Adjective, Adverb
 - CEFR Level: A2, B1
 - IPA (US): /ˈfɜːrðər/
-- English Meaning: More distant or additional.
+- English Meaning: More distant; more or additional.
 - Vietnamese Meaning: Xa hơn; thêm nữa.
-- Example: Further information will be provided later.
-- Example Translation: Thông tin thêm sẽ được cung cấp sau.
+- Example: We need further discussion before deciding.
+- Example Translation: Chúng ta cần thảo luận thêm trước khi quyết định.
 
-## 1129. furthermore
-
+### 1135. furthermore
 - Type: Adverb
 - CEFR Level: B2
 - IPA (US): /ˌfɜːrðərˈmɔːr/
 - English Meaning: In addition; moreover.
 - Vietnamese Meaning: Hơn nữa.
-- Example: Furthermore, the plan will save money.
-- Example Translation: Hơn nữa, kế hoạch này sẽ tiết kiệm tiền.
+- Example: Furthermore, the solution reduces costs.
+- Example Translation: Hơn nữa, giải pháp này còn giúp giảm chi phí.
 
-## 1130. future
-
+### 1136. future
 - Type: Noun, Adjective
 - CEFR Level: A1, A2
 - IPA (US): /ˈfjuːtʃər/
 - English Meaning: The time that is yet to come.
 - Vietnamese Meaning: Tương lai.
-- Example: She is planning for her future.
-- Example Translation: Cô ấy đang lên kế hoạch cho tương lai.
+- Example: We are planning for the future.
+- Example Translation: Chúng tôi đang lập kế hoạch cho tương lai.
 
-## 1131. funny
-
-- Type: Adjective
-- CEFR Level: A1
-- IPA (US): /ˈfʌni/
-- English Meaning: Causing laughter or amusement.
-- Vietnamese Meaning: Hài hước; buồn cười.
-- Example: The movie was really funny.
-- Example Translation: Bộ phim rất hài hước.
-
-## 1132. fur
-
-- Type: Noun
-- CEFR Level: B1
-- IPA (US): /fɜːr/
-- English Meaning: The thick soft hair that covers some animals.
-- Vietnamese Meaning: Lông thú.
-- Example: The rabbit has soft fur.
-- Example Translation: Con thỏ có bộ lông mềm.
-
-## 1133. furniture
-
-- Type: Noun
-- CEFR Level: A2
-- IPA (US): /ˈfɜːrnɪtʃər/
-- English Meaning: Large objects such as tables, chairs, and beds.
-- Vietnamese Meaning: Đồ nội thất.
-- Example: They bought new furniture for the house.
-- Example Translation: Họ đã mua đồ nội thất mới cho ngôi nhà.
-
-## 1134. further
-
-- Type: Adjective, Adverb
-- CEFR Level: A2, B1
-- IPA (US): /ˈfɜːrðər/
-- English Meaning: More distant or additional.
-- Vietnamese Meaning: Xa hơn; thêm nữa.
-- Example: Further information will be provided later.
-- Example Translation: Thông tin thêm sẽ được cung cấp sau.
-
-## 1135. furthermore
-
-- Type: Adverb
-- CEFR Level: B2
-- IPA (US): /ˌfɜːrðərˈmɔːr/
-- English Meaning: In addition; moreover.
-- Vietnamese Meaning: Hơn nữa.
-- Example: Furthermore, the plan will save money.
-- Example Translation: Hơn nữa, kế hoạch này sẽ tiết kiệm tiền.
-
-## 1136. future
-
-- Type: Noun, Adjective
-- CEFR Level: A1, A2
-- IPA (US): /ˈfjuːtʃər/
-- English Meaning: The time that is yet to come.
-- Vietnamese Meaning: Tương lai.
-- Example: She is planning for her future.
-- Example Translation: Cô ấy đang lên kế hoạch cho tương lai.
-
-## 1137. gain
-
+### 1137. gain
 - Type: Verb, Noun
 - CEFR Level: B2
 - IPA (US): /ɡeɪn/
-- English Meaning: To obtain or achieve something.
-- Vietnamese Meaning: Đạt được; lợi ích.
-- Example: He gained valuable experience.
-- Example Translation: Anh ấy đã đạt được kinh nghiệm quý giá.
+- English Meaning: To obtain or increase something.
+- Vietnamese Meaning: Đạt được; sự gia tăng.
+- Example: She gained valuable experience from the project.
+- Example Translation: Cô ấy đã có được kinh nghiệm quý giá từ dự án.
 
-## 1138. gallery
-
+### 1138. gallery
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈɡæləri/
-- English Meaning: A place where artworks are displayed.
-- Vietnamese Meaning: Phòng trưng bày.
-- Example: We visited an art gallery.
-- Example Translation: Chúng tôi đã thăm một phòng trưng bày nghệ thuật.
+- English Meaning: A building or room where works of art are displayed.
+- Vietnamese Meaning: Phòng tranh; triển lãm.
+- Example: We visited an art gallery on Sunday.
+- Example Translation: Chúng tôi đã thăm một phòng tranh vào Chủ Nhật.
 
-## 1139. game
-
+### 1139. game
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ɡeɪm/
-- English Meaning: An activity played for fun or competition.
+- English Meaning: An activity or sport played for entertainment.
 - Vietnamese Meaning: Trò chơi.
-- Example: The children played a game together.
-- Example Translation: Bọn trẻ cùng chơi một trò chơi.
+- Example: The children played a game in the park.
+- Example Translation: Những đứa trẻ chơi một trò chơi trong công viên.
 
-## 1140. gang
-
+### 1140. gang
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ɡæŋ/
-- English Meaning: A group of people involved in criminal activities.
+- English Meaning: A group of people, often involved in criminal activities.
 - Vietnamese Meaning: Băng nhóm.
-- Example: Police arrested members of the gang.
-- Example Translation: Cảnh sát đã bắt các thành viên của băng nhóm.
+- Example: The police arrested members of the gang.
+- Example Translation: Cảnh sát đã bắt giữ các thành viên của băng nhóm.
 
-## 1141. gap
 
+### 1141. gap
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡæp/
-- English Meaning: An empty space or difference.
-- Vietnamese Meaning: Khoảng trống; khoảng cách.
-- Example: There is a gap between the two buildings.
-- Example Translation: Có một khoảng trống giữa hai tòa nhà.
+- English Meaning: An empty space or a difference between two things.
+- Vietnamese Meaning: Khoảng trống; khoảng cách; chênh lệch.
+- Example: There is a large gap between rich and poor.
+- Example Translation: Có một khoảng cách lớn giữa người giàu và người nghèo.
 
-## 1142. garage
-
+### 1142. garage
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ɡəˈrɑːʒ/
-- English Meaning: A building where vehicles are kept.
+- English Meaning: A building where a car is kept.
 - Vietnamese Meaning: Nhà để xe; gara.
 - Example: The car is parked in the garage.
-- Example Translation: Chiếc xe được đậu trong gara.
+- Example Translation: Chiếc xe được đỗ trong gara.
 
-## 1143. garbage
-
+### 1143. garbage
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈɡɑːrbɪdʒ/
 - English Meaning: Waste material that is thrown away.
 - Vietnamese Meaning: Rác.
-- Example: Please take out the garbage.
-- Example Translation: Hãy mang rác ra ngoài.
+- Example: Please put the garbage in the bin.
+- Example Translation: Hãy bỏ rác vào thùng.
 
-## 1144. garden
-
+### 1144. garden
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈɡɑːrdn/
-- English Meaning: A piece of land used for growing plants.
+- English Meaning: An area where flowers, vegetables, or other plants are grown.
 - Vietnamese Meaning: Khu vườn.
-- Example: She grows flowers in her garden.
-- Example Translation: Cô ấy trồng hoa trong khu vườn của mình.
+- Example: She grows roses in her garden.
+- Example Translation: Cô ấy trồng hoa hồng trong khu vườn của mình.
 
-## 1145. gas
-
+### 1145. gas
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡæs/
-- English Meaning: A substance like air or fuel used for heating and vehicles.
-- Vietnamese Meaning: Khí đốt; xăng.
-- Example: The car needs more gas.
-- Example Translation: Chiếc xe cần thêm xăng.
+- English Meaning: A substance like air; fuel used for heating or vehicles.
+- Vietnamese Meaning: Khí đốt; xăng (Mỹ).
+- Example: The car is running low on gas.
+- Example Translation: Xe hơi sắp hết xăng.
 
-## 1146. gate
-
+### 1146. gate
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡeɪt/
-- English Meaning: A movable barrier at an entrance.
+- English Meaning: A movable barrier used to close an entrance.
 - Vietnamese Meaning: Cổng.
-- Example: Meet me at the gate.
-- Example Translation: Hãy gặp tôi ở cổng.
+- Example: They met at the school gate.
+- Example Translation: Họ gặp nhau ở cổng trường.
 
-## 1147. gather
-
+### 1147. gather
 - Type: Verb
 - CEFR Level: B1
 - IPA (US): /ˈɡæðər/
-- English Meaning: To bring people or things together.
+- English Meaning: To come together or collect things.
 - Vietnamese Meaning: Tập hợp; thu thập.
-- Example: People gathered in the hall.
-- Example Translation: Mọi người tập trung trong hội trường.
+- Example: We gathered information before making a decision.
+- Example Translation: Chúng tôi thu thập thông tin trước khi đưa ra quyết định.
 
-## 1148. gender
-
+### 1148. gender
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈdʒendər/
 - English Meaning: The state of being male, female, or another identity.
 - Vietnamese Meaning: Giới tính.
-- Example: The study examined gender differences.
-- Example Translation: Nghiên cứu xem xét sự khác biệt giới tính.
+- Example: The survey asked about age and gender.
+- Example Translation: Cuộc khảo sát hỏi về tuổi và giới tính.
 
-## 1149. general
-
+### 1149. general
 - Type: Adjective
 - CEFR Level: A2
 - IPA (US): /ˈdʒenrəl/
-- English Meaning: Affecting most people or things.
-- Vietnamese Meaning: Tổng quát; chung.
-- Example: That's a general rule.
-- Example Translation: Đó là một quy tắc chung.
+- English Meaning: Not specific; relating to most people or things.
+- Vietnamese Meaning: Chung; tổng quát.
+- Example: Let me give you a general idea of the plan.
+- Example Translation: Hãy để tôi cho bạn một ý tưởng tổng quát về kế hoạch.
 
-## 1150. generally
-
+### 1150. generally
 - Type: Adverb
 - CEFR Level: B1
 - IPA (US): /ˈdʒenrəli/
 - English Meaning: Usually; in most cases.
-- Vietnamese Meaning: Nói chung.
-- Example: People generally agree with the idea.
-- Example Translation: Mọi người nhìn chung đồng ý với ý tưởng đó.
+- Vietnamese Meaning: Nói chung; thường là.
+- Example: People generally prefer simple solutions.
+- Example Translation: Mọi người nói chung thích những giải pháp đơn giản.
 
-## 1151. generate
-
+### 1151. generate
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ˈdʒenəreɪt/
 - English Meaning: To produce or create something.
-- Vietnamese Meaning: Tạo ra.
-- Example: The project generated new opportunities.
-- Example Translation: Dự án đã tạo ra những cơ hội mới.
+- Vietnamese Meaning: Tạo ra; sinh ra.
+- Example: The new system can generate reports automatically.
+- Example Translation: Hệ thống mới có thể tự động tạo báo cáo.
 
-## 1152. generation
-
+### 1152. generation
 - Type: Noun
 - CEFR Level: B1
-- IPA (US): /ˌdʒenəˈreɪʃən/
-- English Meaning: People born and living at about the same time.
+- IPA (US): /ˌdʒenəˈreɪʃn/
+- English Meaning: A group of people born around the same time.
 - Vietnamese Meaning: Thế hệ.
-- Example: The younger generation uses technology daily.
-- Example Translation: Thế hệ trẻ sử dụng công nghệ hằng ngày.
+- Example: The younger generation uses technology every day.
+- Example Translation: Thế hệ trẻ sử dụng công nghệ mỗi ngày.
 
-## 1153. generous
-
+### 1153. generous
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈdʒenərəs/
-- English Meaning: Willing to give money, help, or time.
+- English Meaning: Willing to give more than is expected.
 - Vietnamese Meaning: Hào phóng.
 - Example: She is very generous with her time.
-- Example Translation: Cô ấy rất hào phóng về thời gian của mình.
+- Example Translation: Cô ấy rất hào phóng với thời gian của mình.
 
-## 1154. genre
-
+### 1154. genre
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈʒɑːnrə/
-- English Meaning: A category of art, music, literature, or film.
+- English Meaning: A particular type of art, music, literature, or film.
 - Vietnamese Meaning: Thể loại.
 - Example: Science fiction is my favorite genre.
 - Example Translation: Khoa học viễn tưởng là thể loại yêu thích của tôi.
 
-## 1155. gentle
-
+### 1155. gentle
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ˈdʒentl/
-- English Meaning: Kind, calm, and not rough.
-- Vietnamese Meaning: Dịu dàng.
-- Example: She has a gentle voice.
-- Example Translation: Cô ấy có giọng nói dịu dàng.
+- English Meaning: Kind, calm, and not violent.
+- Vietnamese Meaning: Dịu dàng; nhẹ nhàng.
+- Example: He spoke in a gentle voice.
+- Example Translation: Anh ấy nói bằng giọng nhẹ nhàng.
 
-## 1156. geography
-
+### 1156. geography
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /dʒiˈɑːɡrəfi/
 - English Meaning: The study of the Earth's surface and places.
 - Vietnamese Meaning: Địa lý.
-- Example: Geography is my favorite subject.
-- Example Translation: Địa lý là môn học yêu thích của tôi.
+- Example: Geography was my favorite subject at school.
+- Example Translation: Địa lý là môn học yêu thích của tôi ở trường.
 
-## 1157. get
-
+### 1157. get
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /ɡet/
-- English Meaning: To receive, obtain, or become.
-- Vietnamese Meaning: Nhận được; có được.
-- Example: I got a gift from my friend.
-- Example Translation: Tôi nhận được một món quà từ bạn tôi.
+- English Meaning: To receive, obtain, become, or understand.
+- Vietnamese Meaning: Nhận được; lấy; trở nên.
+- Example: I got a message from my manager.
+- Example Translation: Tôi nhận được một tin nhắn từ quản lý của mình.
 
-## 1158. ghost
-
+### 1158. ghost
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ɡoʊst/
 - English Meaning: The spirit of a dead person.
 - Vietnamese Meaning: Ma; hồn ma.
-- Example: The story was about a ghost.
-- Example Translation: Câu chuyện kể về một hồn ma.
+- Example: The story is about a ghost living in an old house.
+- Example Translation: Câu chuyện kể về một hồn ma sống trong một ngôi nhà cũ.
 
-## 1159. giant
-
+### 1159. giant
 - Type: Adjective, Noun
 - CEFR Level: B1
 - IPA (US): /ˈdʒaɪənt/
-- English Meaning: Extremely large.
+- English Meaning: Extremely large; a very large person or thing.
 - Vietnamese Meaning: Khổng lồ.
-- Example: They built a giant statue.
-- Example Translation: Họ đã xây một bức tượng khổng lồ.
+- Example: They built a giant shopping mall.
+- Example Translation: Họ đã xây dựng một trung tâm mua sắm khổng lồ.
 
-## 1160. gift
-
+### 1160. gift
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡɪft/
 - English Meaning: Something given to someone without payment.
 - Vietnamese Meaning: Món quà.
-- Example: She received a birthday gift.
-- Example Translation: Cô ấy nhận được một món quà sinh nhật.
+- Example: She received a gift on her birthday.
+- Example Translation: Cô ấy nhận được một món quà vào ngày sinh nhật.
 
 
-## 1161. girl
-
+### 1161. girl
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ɡɜːrl/
 - English Meaning: A female child or young woman.
-- Vietnamese Meaning: Bé gái; cô gái.
+- Vietnamese Meaning: Cô gái; bé gái.
 - Example: The girl is reading a book.
-- Example Translation: Cô bé đang đọc một cuốn sách.
+- Example Translation: Cô bé đang đọc sách.
 
-## 1162. girlfriend
-
+### 1162. girlfriend
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈɡɜːrlfrend/
-- English Meaning: A woman or girl someone is having a romantic relationship with.
+- English Meaning: A woman or girl with whom someone has a romantic relationship.
 - Vietnamese Meaning: Bạn gái.
-- Example: He went to the movie with his girlfriend.
-- Example Translation: Anh ấy đi xem phim cùng bạn gái.
+- Example: He introduced his girlfriend to his family.
+- Example Translation: Anh ấy giới thiệu bạn gái với gia đình mình.
 
-## 1163. give
-
+### 1163. give
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /ɡɪv/
 - English Meaning: To hand something to someone.
-- Vietnamese Meaning: Cho; đưa.
-- Example: She gave me a gift.
-- Example Translation: Cô ấy đã tặng tôi một món quà.
+- Vietnamese Meaning: Cho; tặng.
+- Example: She gave me a useful book.
+- Example Translation: Cô ấy đã cho tôi một cuốn sách hữu ích.
 
-## 1164. glad
-
+### 1164. glad
 - Type: Adjective
 - CEFR Level: B1
 - IPA (US): /ɡlæd/
-- English Meaning: Pleased and happy.
-- Vietnamese Meaning: Vui mừng.
-- Example: I'm glad to hear the news.
-- Example Translation: Tôi vui khi nghe tin đó.
+- English Meaning: Pleased and happy about something.
+- Vietnamese Meaning: Vui; hài lòng.
+- Example: I'm glad to hear that.
+- Example Translation: Tôi rất vui khi nghe điều đó.
 
-## 1165. glass
-
+### 1165. glass
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ɡlæs/
-- English Meaning: A hard transparent material or a drinking container.
-- Vietnamese Meaning: Thủy tinh; cốc.
+- English Meaning: A hard transparent material; a drinking container.
+- Vietnamese Meaning: Thủy tinh; cốc thủy tinh.
 - Example: She drank a glass of water.
 - Example Translation: Cô ấy uống một cốc nước.
 
-## 1166. global
-
+### 1166. global
 - Type: Adjective
 - CEFR Level: B1
-- IPA (US): /ˈɡloʊbəl/
+- IPA (US): /ˈɡloʊbl/
 - English Meaning: Relating to the whole world.
 - Vietnamese Meaning: Toàn cầu.
 - Example: Climate change is a global issue.
 - Example Translation: Biến đổi khí hậu là một vấn đề toàn cầu.
 
-## 1167. glove
-
+### 1167. glove
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ɡlʌv/
 - English Meaning: A covering worn on the hand.
 - Vietnamese Meaning: Găng tay.
-- Example: Wear gloves when it is cold outside.
-- Example Translation: Hãy đeo găng tay khi trời lạnh.
+- Example: Wear gloves when working in the garden.
+- Example Translation: Hãy đeo găng tay khi làm việc trong vườn.
 
-## 1168. go
-
-- Type: Verb
-- CEFR Level: A1
+### 1168. go
+- Type: Verb, Noun
+- CEFR Level: A1, B1
 - IPA (US): /ɡoʊ/
-- English Meaning: To move or travel from one place to another.
-- Vietnamese Meaning: Đi.
-- Example: I go to school every day.
-- Example Translation: Tôi đi học mỗi ngày.
+- English Meaning: To move or travel somewhere.
+- Vietnamese Meaning: Đi; di chuyển.
+- Example: We go to school by bus.
+- Example Translation: Chúng tôi đi học bằng xe buýt.
 
-## 1169. goal
-
+### 1169. goal
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡoʊl/
-- English Meaning: Something you want to achieve.
+- English Meaning: Something you hope to achieve.
 - Vietnamese Meaning: Mục tiêu.
-- Example: My goal is to improve my English.
-- Example Translation: Mục tiêu của tôi là cải thiện tiếng Anh.
+- Example: My goal is to become a manager.
+- Example Translation: Mục tiêu của tôi là trở thành quản lý.
 
-## 1170. god
-
+### 1170. god
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡɑːd/
-- English Meaning: A being believed to have power over the world.
-- Vietnamese Meaning: Thần; Thượng đế.
-- Example: They prayed to God.
-- Example Translation: Họ cầu nguyện với Thượng đế.
+- English Meaning: A being believed to have power over nature and human life.
+- Vietnamese Meaning: Thần; Chúa.
+- Example: They prayed to God for help.
+- Example Translation: Họ cầu nguyện Chúa giúp đỡ.
 
-## 1171. gold
-
+### 1171. gold
 - Type: Noun, Adjective
 - CEFR Level: A2
 - IPA (US): /ɡoʊld/
-- English Meaning: A valuable yellow metal.
-- Vietnamese Meaning: Vàng.
-- Example: She wears a gold necklace.
+- English Meaning: A valuable yellow metal; made of gold.
+- Vietnamese Meaning: Vàng; bằng vàng.
+- Example: She wore a gold necklace.
 - Example Translation: Cô ấy đeo một chiếc vòng cổ bằng vàng.
 
-## 1172. golf
-
+### 1172. golf
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡɑːlf/
-- English Meaning: A sport played by hitting a ball into holes.
-- Vietnamese Meaning: Môn gôn.
-- Example: He plays golf on weekends.
-- Example Translation: Anh ấy chơi gôn vào cuối tuần.
+- English Meaning: A sport played by hitting a small ball into holes.
+- Vietnamese Meaning: Môn đánh golf.
+- Example: He plays golf every weekend.
+- Example Translation: Anh ấy chơi golf mỗi cuối tuần.
 
-## 1173. good
-
+### 1173. good
 - Type: Adjective, Noun
 - CEFR Level: A1, A2
 - IPA (US): /ɡʊd/
-- English Meaning: Pleasant, useful, or satisfactory.
+- English Meaning: Pleasant, satisfactory, or beneficial.
 - Vietnamese Meaning: Tốt.
-- Example: She is a good student.
-- Example Translation: Cô ấy là một học sinh giỏi.
+- Example: She is a good teacher.
+- Example Translation: Cô ấy là một giáo viên tốt.
 
-## 1174. goodbye
-
+### 1174. goodbye
 - Type: Exclamation, Noun
 - CEFR Level: A1
 - IPA (US): /ˌɡʊdˈbaɪ/
-- English Meaning: A phrase used when leaving someone.
+- English Meaning: Used when leaving someone.
 - Vietnamese Meaning: Tạm biệt.
-- Example: She said goodbye and left.
-- Example Translation: Cô ấy nói tạm biệt rồi rời đi.
+- Example: He said goodbye and left.
+- Example Translation: Anh ấy nói tạm biệt rồi rời đi.
 
-## 1175. goods
-
+### 1175. goods
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ɡʊdz/
-- English Meaning: Products that are bought and sold.
+- English Meaning: Products or items that are bought and sold.
 - Vietnamese Meaning: Hàng hóa.
-- Example: The truck was carrying goods.
-- Example Translation: Chiếc xe tải đang chở hàng hóa.
+- Example: The company exports goods worldwide.
+- Example Translation: Công ty xuất khẩu hàng hóa trên toàn thế giới.
 
-## 1176. govern
-
+### 1176. govern
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ˈɡʌvərn/
-- English Meaning: To control and manage a country or organization.
+- English Meaning: To officially control and manage a country or organization.
 - Vietnamese Meaning: Cai trị; quản lý.
-- Example: Laws help govern society.
-- Example Translation: Luật pháp giúp quản lý xã hội.
+- Example: New laws govern the use of personal data.
+- Example Translation: Các luật mới quản lý việc sử dụng dữ liệu cá nhân.
 
-## 1177. government
-
+### 1177. government
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈɡʌvərnmənt/
-- English Meaning: The group of people who control a country.
+- English Meaning: The group of people who run a country.
 - Vietnamese Meaning: Chính phủ.
-- Example: The government introduced a new policy.
-- Example Translation: Chính phủ đã đưa ra một chính sách mới.
+- Example: The government announced new policies.
+- Example Translation: Chính phủ đã công bố các chính sách mới.
 
-## 1178. governor
-
+### 1178. governor
 - Type: Noun
 - CEFR Level: B2
 - IPA (US): /ˈɡʌvərnər/
-- English Meaning: The official leader of a state or region.
+- English Meaning: A person who governs a state, region, or institution.
 - Vietnamese Meaning: Thống đốc.
-- Example: The governor gave a speech.
-- Example Translation: Thống đốc đã có bài phát biểu.
+- Example: The governor visited the affected areas.
+- Example Translation: Thống đốc đã đến thăm các khu vực bị ảnh hưởng.
 
-## 1179. grab
-
+### 1179. grab
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /ɡræb/
-- English Meaning: To take hold of something quickly.
-- Vietnamese Meaning: Chộp lấy; nắm lấy.
-- Example: He grabbed his bag and ran.
-- Example Translation: Anh ấy chộp lấy túi và chạy.
+- English Meaning: To take or seize something quickly.
+- Vietnamese Meaning: Chộp lấy; giật lấy.
+- Example: He grabbed his bag and ran out.
+- Example Translation: Anh ấy chộp lấy túi và chạy ra ngoài.
 
-## 1180. grade
-
+### 1180. grade
 - Type: Noun, Verb
 - CEFR Level: B1, B2
 - IPA (US): /ɡreɪd/
-- English Meaning: A level, score, or mark for quality or performance.
-- Vietnamese Meaning: Điểm số; cấp độ.
-- Example: She received a high grade on the test.
-- Example Translation: Cô ấy nhận được điểm cao trong bài kiểm tra.
+- English Meaning: A score or level of quality; to evaluate work.
+- Vietnamese Meaning: Điểm số; chấm điểm.
+- Example: She received a high grade on the exam.
+- Example Translation: Cô ấy nhận được điểm cao trong kỳ thi.
 
-## 1181. gradually
 
+### 1181. gradually
 - Type: Adverb
 - CEFR Level: B2
 - IPA (US): /ˈɡrædʒuəli/
-- English Meaning: Slowly over a period of time.
+- English Meaning: Slowly and in small stages over a period of time.
 - Vietnamese Meaning: Dần dần.
-- Example: The weather gradually improved.
-- Example Translation: Thời tiết dần dần cải thiện.
+- Example: The situation gradually improved.
+- Example Translation: Tình hình dần dần được cải thiện.
 
-## 1182. graduate
-
+### 1182. graduate
 - Type: Noun, Verb
 - CEFR Level: B1
 - IPA (US): /ˈɡrædʒuət/ (n.), /ˈɡrædʒueɪt/ (v.)
-- English Meaning: A person who finishes a course of study; to complete studies.
+- English Meaning: A person who has completed a course of study; to complete a degree.
 - Vietnamese Meaning: Sinh viên tốt nghiệp; tốt nghiệp.
 - Example: She graduated from university last year.
-- Example Translation: Cô ấy tốt nghiệp đại học năm ngoái.
+- Example Translation: Cô ấy đã tốt nghiệp đại học năm ngoái.
 
-## 1183. grain
-
+### 1183. grain
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ɡreɪn/
-- English Meaning: A seed used as food, such as wheat or rice.
-- Vietnamese Meaning: Ngũ cốc; hạt.
-- Example: Rice is an important grain.
-- Example Translation: Gạo là một loại ngũ cốc quan trọng.
+- English Meaning: A small hard seed used as food, such as rice or wheat.
+- Vietnamese Meaning: Hạt ngũ cốc.
+- Example: Rice is an important grain in many countries.
+- Example Translation: Gạo là một loại ngũ cốc quan trọng ở nhiều quốc gia.
 
-## 1184. grand
-
+### 1184. grand
 - Type: Adjective
 - CEFR Level: B2
 - IPA (US): /ɡrænd/
-- English Meaning: Impressive and large.
-- Vietnamese Meaning: Tráng lệ; lớn lao.
+- English Meaning: Large, impressive, or important.
+- Vietnamese Meaning: Hoành tráng; lớn lao.
 - Example: They stayed in a grand hotel.
-- Example Translation: Họ ở trong một khách sạn tráng lệ.
+- Example Translation: Họ ở trong một khách sạn sang trọng.
 
-## 1185. grandfather
-
+### 1185. grandfather
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈɡrændfɑːðər/
-- English Meaning: The father of your father or mother.
+- English Meaning: The father of one's father or mother.
 - Vietnamese Meaning: Ông.
 - Example: My grandfather tells great stories.
 - Example Translation: Ông tôi kể những câu chuyện rất hay.
 
-## 1186. grandmother
-
+### 1186. grandmother
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ˈɡrændmʌðər/
-- English Meaning: The mother of your father or mother.
+- English Meaning: The mother of one's father or mother.
 - Vietnamese Meaning: Bà.
-- Example: My grandmother makes delicious food.
-- Example Translation: Bà tôi nấu ăn rất ngon.
+- Example: My grandmother makes delicious cakes.
+- Example Translation: Bà tôi làm bánh rất ngon.
 
-## 1187. grandparent
-
+### 1187. grandparent
 - Type: Noun
 - CEFR Level: A1
-- IPA (US): /ˈɡrændˌperənt/
+- IPA (US): /ˈɡrænperənt/
 - English Meaning: A grandfather or grandmother.
 - Vietnamese Meaning: Ông bà.
-- Example: Many children live near their grandparents.
-- Example Translation: Nhiều trẻ em sống gần ông bà.
+- Example: Many children visit their grandparents on weekends.
+- Example Translation: Nhiều trẻ em đến thăm ông bà vào cuối tuần.
 
-## 1188. grant
-
+### 1188. grant
 - Type: Verb, Noun
 - CEFR Level: B2
 - IPA (US): /ɡrænt/
-- English Meaning: To give something officially; money given for a purpose.
+- English Meaning: To formally give something; money given for a purpose.
 - Vietnamese Meaning: Cấp; khoản tài trợ.
-- Example: The organization granted support to students.
-- Example Translation: Tổ chức đã cấp hỗ trợ cho sinh viên.
+- Example: The government granted financial support to the project.
+- Example Translation: Chính phủ đã cấp hỗ trợ tài chính cho dự án.
 
-## 1189. grass
-
+### 1189. grass
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡræs/
-- English Meaning: A common green plant covering the ground.
+- English Meaning: Green plants that cover the ground in gardens and fields.
 - Vietnamese Meaning: Cỏ.
-- Example: Children played on the grass.
-- Example Translation: Bọn trẻ chơi trên bãi cỏ.
+- Example: The children played on the grass.
+- Example Translation: Những đứa trẻ chơi trên bãi cỏ.
 
-## 1190. grateful
-
+### 1190. grateful
 - Type: Adjective
 - CEFR Level: B1
-- IPA (US): /ˈɡreɪtfəl/
-- English Meaning: Feeling thankful.
+- IPA (US): /ˈɡreɪtfl/
+- English Meaning: Feeling thankful for something.
 - Vietnamese Meaning: Biết ơn.
 - Example: I am grateful for your help.
 - Example Translation: Tôi biết ơn sự giúp đỡ của bạn.
 
-
-## 1191. gray
-
+### 1191. gray
 - Type: Adjective, Noun
 - CEFR Level: A1
 - IPA (US): /ɡreɪ/
-- English Meaning: A color between black and white.
+- English Meaning: Having the color between black and white.
 - Vietnamese Meaning: Màu xám.
-- Example: The sky turned gray before the storm.
-- Example Translation: Bầu trời chuyển sang màu xám trước cơn bão.
+- Example: He wore a gray jacket.
+- Example Translation: Anh ấy mặc một chiếc áo khoác màu xám.
 
-## 1192. great
-
+### 1192. great
 - Type: Adjective
 - CEFR Level: A1
 - IPA (US): /ɡreɪt/
-- English Meaning: Very good, important, or large.
+- English Meaning: Very good, large, or important.
 - Vietnamese Meaning: Tuyệt vời; lớn.
-- Example: She did a great job.
-- Example Translation: Cô ấy đã làm rất tốt.
+- Example: We had a great time.
+- Example Translation: Chúng tôi đã có khoảng thời gian tuyệt vời.
 
-## 1193. green
-
+### 1193. green
 - Type: Adjective, Noun
 - CEFR Level: A1
 - IPA (US): /ɡriːn/
-- English Meaning: The color of grass and leaves.
+- English Meaning: Having the color of grass or leaves.
 - Vietnamese Meaning: Màu xanh lá cây.
-- Example: Green is my favorite color.
-- Example Translation: Màu xanh lá là màu tôi yêu thích.
+- Example: The walls are painted green.
+- Example Translation: Những bức tường được sơn màu xanh lá cây.
 
-## 1194. greet
-
+### 1194. greet
 - Type: Verb
 - CEFR Level: A2
 - IPA (US): /ɡriːt/
 - English Meaning: To welcome or say hello to someone.
-- Vietnamese Meaning: Chào hỏi.
+- Vietnamese Meaning: Chào hỏi; đón tiếp.
 - Example: They greeted us warmly.
-- Example Translation: Họ chào đón chúng tôi nồng nhiệt.
+- Example Translation: Họ chào đón chúng tôi một cách nồng nhiệt.
 
-## 1195. grocery
-
+### 1195. grocery
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ˈɡroʊsəri/
-- English Meaning: Food and other goods sold in a store.
+- English Meaning: Food and household items sold in a store.
 - Vietnamese Meaning: Hàng tạp hóa; thực phẩm.
-- Example: I need to buy some groceries.
-- Example Translation: Tôi cần mua một ít thực phẩm.
+- Example: I need to buy some groceries after work.
+- Example Translation: Tôi cần mua một ít đồ tạp hóa sau giờ làm.
 
-## 1196. ground
-
+### 1196. ground
 - Type: Noun
 - CEFR Level: A2
 - IPA (US): /ɡraʊnd/
 - English Meaning: The surface of the earth.
 - Vietnamese Meaning: Mặt đất.
-- Example: The ball fell to the ground.
-- Example Translation: Quả bóng rơi xuống mặt đất.
+- Example: The leaves fell to the ground.
+- Example Translation: Những chiếc lá rơi xuống mặt đất.
 
-## 1197. group
-
+### 1197. group
 - Type: Noun
 - CEFR Level: A1
 - IPA (US): /ɡruːp/
 - English Meaning: A number of people or things together.
 - Vietnamese Meaning: Nhóm.
-- Example: Our group finished the project.
-- Example Translation: Nhóm chúng tôi đã hoàn thành dự án.
+- Example: We worked together in a group.
+- Example Translation: Chúng tôi làm việc cùng nhau trong một nhóm.
 
-## 1198. grow
-
+### 1198. grow
 - Type: Verb
 - CEFR Level: A1
 - IPA (US): /ɡroʊ/
-- English Meaning: To become larger, older, or develop.
+- English Meaning: To become larger or develop.
 - Vietnamese Meaning: Phát triển; lớn lên.
 - Example: Children grow quickly.
-- Example Translation: Trẻ em lớn nhanh.
+- Example Translation: Trẻ em lớn rất nhanh.
 
-## 1199. growth
-
+### 1199. growth
 - Type: Noun
 - CEFR Level: B1
 - IPA (US): /ɡroʊθ/
-- English Meaning: The process of increasing in size or developing.
-- Vietnamese Meaning: Sự phát triển.
+- English Meaning: The process of increasing in size, number, or importance.
+- Vietnamese Meaning: Sự phát triển; tăng trưởng.
 - Example: The company experienced rapid growth.
-- Example Translation: Công ty đã trải qua sự phát triển nhanh chóng.
+- Example Translation: Công ty đã trải qua sự tăng trưởng nhanh chóng.
 
-## 1200. guarantee
-
+### 1200. guarantee
 - Type: Verb, Noun
 - CEFR Level: B2
 - IPA (US): /ˌɡærənˈtiː/
-- English Meaning: A promise that something will happen or be true.
-- Vietnamese Meaning: Bảo đảm; sự đảm bảo.
-- Example: This product comes with a two-year guarantee.
-- Example Translation: Sản phẩm này đi kèm với bảo hành hai năm.
-
+- English Meaning: To promise that something will happen; a formal promise.
+- Vietnamese Meaning: Đảm bảo; sự bảo đảm.
+- Example: Success cannot be guaranteed.
+- Example Translation: Thành công không thể được đảm bảo.

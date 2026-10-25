@@ -472,16 +472,6 @@ Words 2601 to 2700 from the Oxford 3000 list - the 3000 most important words to 
 - Example: She has strong technical skills.
 - Example Translation: Cô ấy có kỹ năng kỹ thuật tốt.
 
-
-### 2650. technical
-- Type: Adjective
-- CEFR Level: B1
-- IPA (US): /ˈteknɪkl/
-- English Meaning: Related to technology or specialized knowledge.
-- Vietnamese Meaning: Kỹ thuật.
-- Example: She has strong technical skills.
-- Example Translation: Cô ấy có kỹ năng kỹ thuật tốt.
-
 ### 2651. technique
 - Type: Noun
 - CEFR Level: B1
@@ -652,15 +642,6 @@ Words 2601 to 2700 from the Oxford 3000 list - the 3000 most important words to 
 - Vietnamese Meaning: Cảm ơn.
 - Example: I want to thank everyone for their help.
 - Example Translation: Tôi muốn cảm ơn mọi người vì sự giúp đỡ của họ.
-
-### 2670. thanks
-- Type: Noun, Exclamation
-- CEFR Level: A1
-- IPA (US): /θæŋks/
-- English Meaning: An expression of gratitude.
-- Vietnamese Meaning: Lời cảm ơn.
-- Example: Thanks for your advice.
-- Example Translation: Cảm ơn vì lời khuyên của bạn.
 
 
 ### 2670. thanks
