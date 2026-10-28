@@ -1,12 +1,12 @@
 ---
 sections: [Languages]
-id: american-oxford-3000-level-4-native
+id: american-oxford-3000-level-5-native
 pageUrl: https://www.oxfordlearnersdictionaries.com/about/oxford3000
-pageLabel: Oxford 3000 (American English) - Level 4 Native Proficiency
-tags: [english, american, oxford, 3000, common, word, language, level-4, native, proficiency]
+pageLabel: Oxford 3000 (American English) - Level 5 Native Proficiency
+tags: [english, american, oxford, 3000, common, word, language, level-5, native, proficiency]
 ---
 
-## Q: **[english - american - oxford - 3000 - level-4 - native - proficiency] Oxford 3000 - Native Proficiency (Level 4)?**
+## Q: **[english - american - oxford - 3000 - level-5 - native - proficiency] Oxford 3000 - Native Proficiency (Level 4)?**
 
 ## 57. after
 
