@@ -41,3 +41,6 @@ check:
 publish:
 	git switch main
 	./scripts/deploy-pages.sh $(PUBLISH_ARGS)
+
+classify:
+	/bin/bash ./content/backup/test_classify.sh
