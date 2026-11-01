@@ -1,5 +1,69 @@
 import { filterQuestions, highlight } from './score.mjs';
 
+// Helper function to highlight matching text within HTML content
+// Preserves HTML structure while highlighting keywords in text nodes
+function highlightInHtml(html, query) {
+  if (!query.trim()) return html;
+  
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(`<div>${html}</div>`, 'text/html');
+  
+  // Non-recursive walk through text nodes to avoid stack overflow
+  function processNode(node) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      // Use the highlight function from score.mjs to get highlighted HTML
+      const highlighted = highlight(node.textContent, query);
+      
+      if (highlighted !== escapeHtml(node.textContent)) {
+        // Create a temporary container to hold the highlighted HTML
+        const temp = document.createElement('span');
+        temp.innerHTML = highlighted;
+        
+        // Replace the text node with the highlighted content
+        node.parentNode.replaceChild(temp, node);
+        
+        // Return the container so parent can skip its children (already processed)
+        return temp;
+      }
+    }
+    return null;
+  }
+  
+  // Iterative walk to avoid recursion depth issues
+  const stack = [doc.body];
+  
+  while (stack.length > 0) {
+    const node = stack.pop();
+    
+    if (node.nodeType === Node.ELEMENT_NODE && !['SCRIPT', 'STYLE'].includes(node.tagName)) {
+      // Process children in reverse order to maintain correct stack order
+      const children = Array.from(node.childNodes).reverse();
+      
+      for (const child of children) {
+        if (child.nodeType === Node.TEXT_NODE) {
+          const result = processNode(child);
+          // If text was replaced with a span, we don't need to process its children
+          // because highlight() already wrapped content in mark tags
+        } else if (child.nodeType === Node.ELEMENT_NODE && !['SCRIPT', 'STYLE'].includes(child.tagName)) {
+          stack.push(child);
+        }
+      }
+    }
+  }
+  
+  // Return the processed HTML
+  return doc.body.innerHTML;
+}
+
+// Helper function to escape HTML (copied from score.mjs for consistency)
+function escapeHtml(value) {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
 const input = document.querySelector('#q');
 const count = document.querySelector('#count');
 const sectionsEl = document.querySelector('#sections');
@@ -396,17 +460,6 @@ function questionDetail(question) {
   return lines.join('\n');
 }
 
-function escapeHtml(value) {
-  return String(value).replace(
-    /[&<>]/g,
-    (ch) => ({
-      '&': '&amp;',
-      '<': '&lt;',
-      '>': '&gt;',
-    })[ch]
-  );
-}
-
 function escapeAttr(value) {
   return escapeHtml(value).replace(/"/g, '&quot;');
 }
@@ -731,7 +784,17 @@ function resultArticle(question) {
       document.createElement('div');
 
     answer.className = 'answer-body';
-    answer.innerHTML = question.answerHtml;
+    
+    // If there's a query, highlight matching text in the answer
+    if (state.query.trim() && question.answerHtml) {
+      // Parse answer HTML and highlight matching keywords
+      answer.innerHTML = highlightInHtml(
+        question.answerHtml,
+        state.query
+      );
+    } else {
+      answer.innerHTML = question.answerHtml;
+    }
 
     const more =
       document.createElement('p');
