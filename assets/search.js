@@ -8,7 +8,7 @@ function highlightInHtml(html, query) {
   const parser = new DOMParser();
   const doc = parser.parseFromString(`<div>${html}</div>`, 'text/html');
   
-  // Recursively walk through text nodes and highlight matches
+  // Non-recursive walk through text nodes to avoid stack overflow
   function processNode(node) {
     if (node.nodeType === Node.TEXT_NODE) {
       // Use the highlight function from score.mjs to get highlighted HTML
@@ -22,22 +22,34 @@ function highlightInHtml(html, query) {
         // Replace the text node with the highlighted content
         node.parentNode.replaceChild(temp, node);
         
-        // Continue processing the new nodes
-        for (const child of temp.childNodes) {
-          processNode(child);
-        }
+        // Return the container so parent can skip its children (already processed)
+        return temp;
       }
-    } else if (node.nodeType === Node.ELEMENT_NODE) {
-      // Skip certain tags that shouldn't be processed
-      if (!['SCRIPT', 'STYLE'].includes(node.tagName)) {
-        // Process children (use Array.from to avoid live collection issues)
-        Array.from(node.childNodes).forEach(processNode);
+    }
+    return null;
+  }
+  
+  // Iterative walk to avoid recursion depth issues
+  const stack = [doc.body];
+  
+  while (stack.length > 0) {
+    const node = stack.pop();
+    
+    if (node.nodeType === Node.ELEMENT_NODE && !['SCRIPT', 'STYLE'].includes(node.tagName)) {
+      // Process children in reverse order to maintain correct stack order
+      const children = Array.from(node.childNodes).reverse();
+      
+      for (const child of children) {
+        if (child.nodeType === Node.TEXT_NODE) {
+          const result = processNode(child);
+          // If text was replaced with a span, we don't need to process its children
+          // because highlight() already wrapped content in mark tags
+        } else if (child.nodeType === Node.ELEMENT_NODE && !['SCRIPT', 'STYLE'].includes(child.tagName)) {
+          stack.push(child);
+        }
       }
     }
   }
-  
-  // Process all child nodes
-  Array.from(doc.body.childNodes).forEach(processNode);
   
   // Return the processed HTML
   return doc.body.innerHTML;
