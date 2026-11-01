@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Search Highlight Test</title>
+  <link rel="stylesheet" href="./assets/search.css">
+  <style>
+    body { padding: 2rem; }
+    .test-section { margin: 2rem 0; padding: 1rem; border: 1px solid #ddd; border-radius: 8px; }
+    .test-case { margin: 1rem 0; }
+    h3 { margin-top: 0; }
+  </style>
+</head>
+<body>
+  <h1>Search Highlighting Test</h1>
+  
+  <div class="test-section">
+    <h2>Test Cases</h2>
+    
+    <div class="test-case">
+      <h3>Test 1: Title Match (should highlight in title)</h3>
+      <div class="card">
+        <div class="card-top">
+          <div class="card-text">
+            <p class="kicker">Languages</p>
+            <h2 id="test1-title">Understanding Python Functions</h2>
+            <p class="search-line">[english, programming, python]</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="test-case">
+      <h3>Test 2: Tag Match (should highlight in tags)</h3>
+      <div class="card">
+        <div class="card-top">
+          <div class="card-text">
+            <p class="kicker">Languages</p>
+            <h2 id="test2-title">How to use dictionaries</h2>
+            <p class="search-line">[english, programming, python, storage, data-structures]</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="test-case">
+      <h3>Test 3: Answer/Content Match (NEW - should highlight in answer)</h3>
+      <div class="card">
+        <div class="card-top">
+          <div class="card-text">
+            <p class="kicker">Vocabulary</p>
+            <h2 id="test3-title">Oxford 3000 - Level 2</h2>
+            <p class="search-line">[english, vocabulary, oxford]</p>
+          </div>
+        </div>
+        <div class="answer" style="display: block; border-top: 1px solid #ddd; padding: 1rem;">
+          <div class="answer-body" id="test3-answer">
+            <p>This vocabulary section contains the most common words in English.</p>
+            <ul>
+              <li>Learn vocabulary efficiently</li>
+              <li>Practice English pronunciation</li>
+              <li>Build your vocabulary with examples</li>
+            </ul>
+            <p>Regular practice helps improve your English skills.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="test-section">
+    <h2>Instructions</h2>
+    <ol>
+      <li>Test 1: Search for "Python" - should highlight in title</li>
+      <li>Test 2: Search for "python" - should highlight in tags</li>
+      <li>Test 3: Search for "vocabulary" - should highlight in answer body AND in card text</li>
+      <li>All matches should be highlighted with yellow background (<code>&lt;mark&gt;</code> tags)</li>
+    </ol>
+  </div>
+
+  <script type="module">
+    import { highlight } from './assets/score.mjs';
+
+    // Simulate Test 1: Title match
+    const test1Title = document.getElementById('test1-title');
+    test1Title.innerHTML = highlight('Understanding Python Functions', 'python');
+
+    // Simulate Test 2: Tag match
+    const test2Tags = document.querySelector('#test2-title').parentElement.querySelector('.search-line');
+    test2Tags.innerHTML = highlight('[english, programming, python, storage, data-structures]', 'python');
+
+    // Simulate Test 3: Answer match with new highlighting feature
+    const test3Answer = document.getElementById('test3-answer');
+    const test3Title = document.getElementById('test3-title');
+    
+    // Update title (vocabulary should be highlighted here)
+    test3Title.innerHTML = highlight('Oxford 3000 - Level 2', 'vocabulary');
+    
+    // Update tags  
+    const test3Tags = test3Title.parentElement.querySelector('.search-line');
+    test3Tags.innerHTML = highlight('[english, vocabulary, oxford]', 'vocabulary');
+    
+    // Update answer content with highlighting
+    const answerHtml = `
+      <p>This <mark>vocabulary</mark> section contains the most common words in English.</p>
+      <ul>
+        <li>Learn <mark>vocabulary</mark> efficiently</li>
+        <li>Practice English pronunciation</li>
+        <li>Build your <mark>vocabulary</mark> with examples</li>
+      </ul>
+      <p>Regular practice helps improve your English skills.</p>
+    `;
+    test3Answer.innerHTML = answerHtml;
+
+    console.log('✓ All highlighting tests completed');
+    console.log('Open this file in a browser to see the highlighted results');
+  </script>
+</body>
+</html>

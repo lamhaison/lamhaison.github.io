@@ -1,5 +1,57 @@
 import { filterQuestions, highlight } from './score.mjs';
 
+// Helper function to highlight matching text within HTML content
+// Preserves HTML structure while highlighting keywords in text nodes
+function highlightInHtml(html, query) {
+  if (!query.trim()) return html;
+  
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(`<div>${html}</div>`, 'text/html');
+  
+  // Recursively walk through text nodes and highlight matches
+  function processNode(node) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      // Use the highlight function from score.mjs to get highlighted HTML
+      const highlighted = highlight(node.textContent, query);
+      
+      if (highlighted !== escapeHtml(node.textContent)) {
+        // Create a temporary container to hold the highlighted HTML
+        const temp = document.createElement('span');
+        temp.innerHTML = highlighted;
+        
+        // Replace the text node with the highlighted content
+        node.parentNode.replaceChild(temp, node);
+        
+        // Continue processing the new nodes
+        for (const child of temp.childNodes) {
+          processNode(child);
+        }
+      }
+    } else if (node.nodeType === Node.ELEMENT_NODE) {
+      // Skip certain tags that shouldn't be processed
+      if (!['SCRIPT', 'STYLE'].includes(node.tagName)) {
+        // Process children (use Array.from to avoid live collection issues)
+        Array.from(node.childNodes).forEach(processNode);
+      }
+    }
+  }
+  
+  // Process all child nodes
+  Array.from(doc.body.childNodes).forEach(processNode);
+  
+  // Return the processed HTML
+  return doc.body.innerHTML;
+}
+
+// Helper function to escape HTML (copied from score.mjs for consistency)
+function escapeHtml(value) {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
 const input = document.querySelector('#q');
 const count = document.querySelector('#count');
 const sectionsEl = document.querySelector('#sections');
@@ -396,17 +448,6 @@ function questionDetail(question) {
   return lines.join('\n');
 }
 
-function escapeHtml(value) {
-  return String(value).replace(
-    /[&<>]/g,
-    (ch) => ({
-      '&': '&amp;',
-      '<': '&lt;',
-      '>': '&gt;',
-    })[ch]
-  );
-}
-
 function escapeAttr(value) {
   return escapeHtml(value).replace(/"/g, '&quot;');
 }
@@ -731,7 +772,17 @@ function resultArticle(question) {
       document.createElement('div');
 
     answer.className = 'answer-body';
-    answer.innerHTML = question.answerHtml;
+    
+    // If there's a query, highlight matching text in the answer
+    if (state.query.trim() && question.answerHtml) {
+      // Parse answer HTML and highlight matching keywords
+      answer.innerHTML = highlightInHtml(
+        question.answerHtml,
+        state.query
+      );
+    } else {
+      answer.innerHTML = question.answerHtml;
+    }
 
     const more =
       document.createElement('p');
