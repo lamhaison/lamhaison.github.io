@@ -6,7 +6,7 @@ pageLabel: Oxford 3000 (American English) - Level 3 Active Production
 tags: [english, american, oxford, 3000, common, word, language, level-3, production, active]
 ---
 
-## Q: **[english - american - oxford - 3000 - level-3 - production - active] Oxford 3000 - Active Production (Level 3)?**
+## Q: **[english - american - oxford - 3000 - level-3 - production - active] Oxford 3000 - 0001 - 0100 - Active Production (Level 3)?**
 
 ## 3. ability
 
@@ -306,5 +306,279 @@ tags: [english, american, oxford, 3000, common, word, language, level-3, product
 - Vietnamese Meaning: Trong số; giữa.
 - Example: She was among the winners.
 - Example Translation: Cô ấy nằm trong số những người chiến thắng.
+
+---
+
+## Q: **[english - american - oxford - 3000 - level-3 - production - active] Oxford 3000 - 0101 - 0200 - Active Production (Level 3)?**
+
+## 106. anger
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ˈæŋɡər/
+- English Meaning: A strong feeling of being upset.
+- Vietnamese Meaning: Sự tức giận.
+- Example: His anger was easy to see.
+- Example Translation: Sự tức giận của anh ấy rất dễ nhận thấy.
+
+
+## 110. ankle
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈæŋkəl/
+- English Meaning: The joint between the foot and the leg.
+- Vietnamese Meaning: Mắt cá chân.
+- Example: He injured his ankle while running.
+- Example Translation: Anh ấy bị thương ở mắt cá chân khi chạy.
+
+
+## 114. annoy
+
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /əˈnɔɪ/
+- English Meaning: To make someone slightly angry.
+- Vietnamese Meaning: Làm khó chịu.
+- Example: Loud noises annoy me.
+- Example Translation: Tiếng ồn lớn làm tôi khó chịu.
+
+
+## 115. annoyed
+
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /əˈnɔɪd/
+- English Meaning: Feeling slightly angry.
+- Vietnamese Meaning: Khó chịu; bực mình.
+- Example: She was annoyed with her brother.
+- Example Translation: Cô ấy bực mình với em trai mình.
+
+
+## 116. annoying
+
+- Type: Adjective
+- CEFR Level: B1
+- IPA (US): /əˈnɔɪɪŋ/
+- English Meaning: Causing annoyance.
+- Vietnamese Meaning: Gây khó chịu.
+- Example: It's annoying when people are late.
+- Example Translation: Thật khó chịu khi mọi người đến muộn.
+
+
+## 118. another
+
+- Type: Determiner, Pronoun
+- CEFR Level: A1
+- IPA (US): /əˈnʌðər/
+- English Meaning: One more or a different one.
+- Vietnamese Meaning: Một cái khác; thêm một.
+- Example: Could I have another cup of coffee?
+- Example Translation: Tôi có thể uống thêm một tách cà phê được không?
+
+
+## 120. anxious
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ˈæŋkʃəs/
+- English Meaning: Worried or nervous about something.
+- Vietnamese Meaning: Lo lắng.
+- Example: He felt anxious before the interview.
+- Example Translation: Anh ấy cảm thấy lo lắng trước buổi phỏng vấn.
+
+
+## 136. appearance
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /əˈpɪrəns/
+- English Meaning: The way someone or something looks.
+- Vietnamese Meaning: Ngoại hình; sự xuất hiện.
+- Example: Her appearance changed after the haircut.
+- Example Translation: Ngoại hình của cô ấy thay đổi sau khi cắt tóc.
+
+
+## 143. appropriate
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /əˈproʊpriət/
+- English Meaning: Suitable for a particular situation.
+- Vietnamese Meaning: Phù hợp; thích hợp.
+- Example: Wear appropriate clothes for the interview.
+- Example Translation: Hãy mặc trang phục phù hợp cho buổi phỏng vấn.
+
+
+## 146. approximately
+
+- Type: Adverb
+- CEFR Level: B1
+- IPA (US): /əˈprɑːksəmətli/
+- English Meaning: Close to an exact amount or number.
+- Vietnamese Meaning: Khoảng; xấp xỉ.
+- Example: The trip takes approximately two hours.
+- Example Translation: Chuyến đi mất khoảng hai giờ.
+
+
+## 151. argue
+
+- Type: Verb
+- CEFR Level: A2
+- IPA (US): /ˈɑːrɡjuː/
+- English Meaning: To disagree with someone.
+- Vietnamese Meaning: Tranh cãi.
+- Example: They often argue about money.
+- Example Translation: Họ thường tranh cãi về tiền bạc.
+
+
+## 153. arise
+
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /əˈraɪz/
+- English Meaning: To happen or begin to exist.
+- Vietnamese Meaning: Phát sinh; nảy sinh.
+- Example: Problems may arise during the project.
+- Example Translation: Các vấn đề có thể phát sinh trong dự án.
+
+
+## 162. arrival
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /əˈraɪvəl/
+- English Meaning: The act of reaching a place.
+- Vietnamese Meaning: Sự đến nơi.
+- Example: We waited for her arrival.
+- Example Translation: Chúng tôi đợi cô ấy đến.
+
+
+## 167. artist
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /ˈɑːrtɪst/
+- English Meaning: A person who creates art.
+- Vietnamese Meaning: Nghệ sĩ.
+- Example: The artist displayed her paintings.
+- Example Translation: Người nghệ sĩ đã trưng bày các bức tranh của mình.
+
+
+## 172. asleep
+
+- Type: Adjective
+- CEFR Level: A2
+- IPA (US): /əˈsliːp/
+- English Meaning: Sleeping.
+- Vietnamese Meaning: Đang ngủ.
+- Example: The baby is asleep.
+- Example Translation: Đứa bé đang ngủ.
+
+
+## 174. aspect
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ˈæspekt/
+- English Meaning: A particular part of something.
+- Vietnamese Meaning: Khía cạnh.
+- Example: We discussed every aspect of the project.
+- Example Translation: Chúng tôi đã thảo luận mọi khía cạnh của dự án.
+
+
+## 177. assignment
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /əˈsaɪnmənt/
+- English Meaning: A task given to someone.
+- Vietnamese Meaning: Bài tập; nhiệm vụ.
+- Example: I completed my assignment yesterday.
+- Example Translation: Tôi đã hoàn thành bài tập hôm qua.
+
+
+## 181. associated
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /əˈsoʊsieɪtɪd/
+- English Meaning: Connected with something else.
+- Vietnamese Meaning: Liên quan.
+- Example: Stress is associated with poor sleep.
+- Example Translation: Căng thẳng có liên quan đến giấc ngủ kém.
+
+
+## 182. association
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /əˌsoʊsiˈeɪʃən/
+- English Meaning: A connection between things or people.
+- Vietnamese Meaning: Sự liên kết; hiệp hội.
+- Example: There is a strong association between exercise and health.
+- Example Translation: Có mối liên hệ chặt chẽ giữa tập thể dục và sức khỏe.
+
+
+## 185. athlete
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈæθliːt/
+- English Meaning: A person who competes in sports.
+- Vietnamese Meaning: Vận động viên.
+- Example: The athlete trained every day.
+- Example Translation: Vận động viên tập luyện mỗi ngày.
+
+
+## 194. attract
+
+- Type: Verb
+- CEFR Level: B1
+- IPA (US): /əˈtrækt/
+- English Meaning: To make someone interested in something.
+- Vietnamese Meaning: Thu hút.
+- Example: The museum attracts many visitors.
+- Example Translation: Bảo tàng thu hút nhiều khách tham quan.
+
+
+## 195. attraction
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /əˈtrækʃən/
+- English Meaning: Something that draws interest or attention.
+- Vietnamese Meaning: Điểm thu hút; sức hấp dẫn.
+- Example: This beach is a popular tourist attraction.
+- Example Translation: Bãi biển này là một điểm du lịch hấp dẫn.
+
+
+## 197. audience
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈɔːdiəns/
+- English Meaning: The people watching or listening to something.
+- Vietnamese Meaning: Khán giả.
+- Example: The audience enjoyed the performance.
+- Example Translation: Khán giả đã rất thích buổi biểu diễn.
+
+
+## 200. aunt
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /ænt/, /ɑːnt/
+- English Meaning: The sister of a parent or the wife of an uncle.
+- Vietnamese Meaning: Cô; dì; thím; mợ.
+- Example: My aunt lives in Ho Chi Minh City.
+- Example Translation: Dì của tôi sống ở Thành phố Hồ Chí Minh.
+---
+sections: [Languages]
+id: american-oxford-3000-0201-0300
+pageUrl: https://www.oxfordlearnersdictionaries.com/about/oxford3000
+pageLabel: Oxford 3000 (American English) - Words 201-300
+tags: [english, american, oxford, 3000, common, word, language, words-0201-0300]
+---
 
 

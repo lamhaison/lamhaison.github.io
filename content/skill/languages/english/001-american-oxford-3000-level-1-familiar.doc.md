@@ -6,7 +6,7 @@ pageLabel: Oxford 3000 (American English) - Level 1 Familiar Words
 tags: [english, american, oxford, 3000, common, word, language, level-1, familiar]
 ---
 
-## Q: **[english - american - oxford - 3000 - level-1 - familiar] Oxford 3000 - Familiar Words (Level 1)?**
+## Q: **[english - american - oxford - 3000 - level-1 - familiar] Oxford 3000 - 0001 - 0100 - Familiar Words (Level 1)?**
 
 
 ## 2. abandon
@@ -101,6 +101,10 @@ tags: [english, american, oxford, 3000, common, word, language, level-1, familia
 - Example Translation: Khát vọng của cô ấy là trở thành bác sĩ.
 
 
+---
+
+## Q: **[english - american - oxford - 3000 - level-1 - familiar] Oxford 3000 - 0101 - 0200 - Familiar Words (Level 1)?**
+
 ## 101. analysis
 
 - Type: Noun
@@ -111,6 +115,69 @@ tags: [english, american, oxford, 3000, common, word, language, level-1, familia
 - Example: The analysis showed a rise in sales.
 - Example Translation: Bản phân tích cho thấy doanh số tăng lên.
 
----
+## 132. apparent
 
-## Q: **[english - american - oxford - 3000 - level-1 - familiar] Oxford 3000 - 0101 - 0200 - Familiar Words (Level 1)?**
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /əˈpærənt/
+- English Meaning: Easy to notice or understand.
+- Vietnamese Meaning: Rõ ràng; hiển nhiên.
+- Example: The reason for the change was apparent.
+- Example Translation: Lý do của sự thay đổi là rất rõ ràng.
+
+
+## 133. apparently
+
+- Type: Adverb
+- CEFR Level: B2
+- IPA (US): /əˈpærəntli/
+- English Meaning: According to what is known or heard.
+- Vietnamese Meaning: Hình như; rõ ràng là.
+- Example: Apparently, the meeting has been canceled.
+- Example Translation: Hình như cuộc họp đã bị hủy.
+
+
+## 155. armed
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ɑːrmd/
+- English Meaning: Carrying weapons.
+- Vietnamese Meaning: Có vũ trang.
+- Example: Armed guards protected the building.
+- Example Translation: Những người bảo vệ có vũ trang bảo vệ tòa nhà.
+
+
+## 156. arms
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /ɑːrmz/
+- English Meaning: Weapons used in fighting.
+- Vietnamese Meaning: Vũ khí.
+- Example: The country reduced its arms production.
+- Example Translation: Quốc gia này đã giảm sản xuất vũ khí.
+
+
+## 171. aside
+
+- Type: Adverb
+- CEFR Level: B1
+- IPA (US): /əˈsaɪd/
+- English Meaning: To one side or out of the way.
+- Vietnamese Meaning: Sang một bên.
+- Example: She stepped aside to let people pass.
+- Example Translation: Cô ấy bước sang một bên để mọi người đi qua.
+
+
+## 193. attorney
+
+- Type: Noun
+- CEFR Level: B2
+- IPA (US): /əˈtɜːrni/
+- English Meaning: A lawyer who represents clients in legal matters.
+- Vietnamese Meaning: Luật sư.
+- Example: The attorney prepared the legal documents.
+- Example Translation: Luật sư đã chuẩn bị các tài liệu pháp lý.
+
+

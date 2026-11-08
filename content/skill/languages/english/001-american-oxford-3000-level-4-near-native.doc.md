@@ -6,7 +6,7 @@ pageLabel: Oxford 3000 (American English) - Level 4 Near Native Proficiency
 tags: [english, american, oxford, 3000, common, word, language, level-4, near-native, proficiency]
 ---
 
-## Q: **[english - american - oxford - 3000 - level-4 - near-native - proficiency] Oxford 3000 - Near-native proficiency (Level 4)?**
+## Q: **[english - american - oxford - 3000 - level-4 - near-native - proficiency] Oxford 3000 - 0001 - 0100 - Near-native proficiency (Level 4)?**
 
 ## 9. absolutely
 
@@ -328,4 +328,173 @@ tags: [english, american, oxford, 3000, common, word, language, level-4, near-na
 - Vietnamese Meaning: Số lượng; lượng.
 - Example: A large amount of money was invested.
 - Example Translation: Một số tiền lớn đã được đầu tư.
+
+---
+
+## Q: **[english - american - oxford - 3000 - level-4 - near-native - proficiency] Oxford 3000 - 0101 - 0200 - Near-native proficiency (Level 4)?**
+
+## 108. angry
+
+- Type: Adjective
+- CEFR Level: A1
+- IPA (US): /ˈæŋɡri/
+- English Meaning: Feeling strong annoyance or displeasure.
+- Vietnamese Meaning: Tức giận.
+- Example: She was angry about the mistake.
+- Example Translation: Cô ấy tức giận về sai lầm đó.
+
+
+## 128. apart
+
+- Type: Adverb
+- CEFR Level: B1
+- IPA (US): /əˈpɑːrt/
+- English Meaning: Separated by distance or time.
+- Vietnamese Meaning: Tách rời.
+- Example: The two houses are far apart.
+- Example Translation: Hai ngôi nhà ở cách xa nhau.
+
+
+## 140. appointment
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /əˈpɔɪntmənt/
+- English Meaning: A meeting arranged for a specific time.
+- Vietnamese Meaning: Cuộc hẹn.
+- Example: I have a doctor's appointment tomorrow.
+- Example Translation: Tôi có cuộc hẹn với bác sĩ vào ngày mai.
+
+
+## 142. approach
+
+- Type: Noun, Verb
+- CEFR Level: B2
+- IPA (US): /əˈproʊtʃ/
+- English Meaning: A way of dealing with something.
+- Vietnamese Meaning: Cách tiếp cận.
+- Example: We need a new approach to this problem.
+- Example Translation: Chúng ta cần một cách tiếp cận mới cho vấn đề này.
+
+
+## 150. area
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /ˈeriə/
+- English Meaning: A particular place or region.
+- Vietnamese Meaning: Khu vực; vùng.
+- Example: This area is very quiet.
+- Example Translation: Khu vực này rất yên tĩnh.
+
+
+## 152. argument
+
+- Type: Noun
+- CEFR Level: A2
+- IPA (US): /ˈɑːrɡjəmənt/
+- English Meaning: A disagreement between people.
+- Vietnamese Meaning: Cuộc tranh cãi.
+- Example: They had an argument yesterday.
+- Example Translation: Họ đã có một cuộc tranh cãi hôm qua.
+
+
+## 154. arm
+
+- Type: Noun
+- CEFR Level: A1
+- IPA (US): /ɑːrm/
+- English Meaning: The part of the body between the shoulder and hand.
+- Vietnamese Meaning: Cánh tay.
+- Example: He hurt his arm while playing sports.
+- Example Translation: Anh ấy bị đau cánh tay khi chơi thể thao.
+
+
+## 158. around
+
+- Type: Preposition, Adverb
+- CEFR Level: A1
+- IPA (US): /əˈraʊnd/
+- English Meaning: On every side of something.
+- Vietnamese Meaning: Xung quanh.
+- Example: We walked around the park.
+- Example Translation: Chúng tôi đi bộ quanh công viên.
+
+
+## 163. arrive
+
+- Type: Verb
+- CEFR Level: A1
+- IPA (US): /əˈraɪv/
+- English Meaning: To reach a place.
+- Vietnamese Meaning: Đến nơi.
+- Example: We arrived at the station early.
+- Example Translation: Chúng tôi đến nhà ga sớm.
+
+
+## 166. artificial
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ˌɑːrtɪˈfɪʃəl/
+- English Meaning: Made by humans, not natural.
+- Vietnamese Meaning: Nhân tạo.
+- Example: The flowers are artificial.
+- Example Translation: Những bông hoa này là hoa nhân tạo.
+
+
+## 180. associate
+
+- Type: Verb, Noun
+- CEFR Level: B2
+- IPA (US): /əˈsoʊsieɪt/
+- English Meaning: To connect one thing with another.
+- Vietnamese Meaning: Liên kết; cộng sự.
+- Example: Many people associate success with money.
+- Example Translation: Nhiều người liên hệ thành công với tiền bạc.
+
+
+## 189. attempt
+
+- Type: Noun, Verb
+- CEFR Level: B2
+- IPA (US): /əˈtempt/
+- English Meaning: An effort to do something difficult.
+- Vietnamese Meaning: Nỗ lực; cố gắng.
+- Example: He made an attempt to solve the problem.
+- Example Translation: Anh ấy đã cố gắng giải quyết vấn đề.
+
+
+## 190. attend
+
+- Type: Verb
+- CEFR Level: A2
+- IPA (US): /əˈtend/
+- English Meaning: To be present at an event.
+- Vietnamese Meaning: Tham dự.
+- Example: Many students attended the meeting.
+- Example Translation: Nhiều sinh viên đã tham dự cuộc họp.
+
+
+## 192. attitude
+
+- Type: Noun
+- CEFR Level: B1
+- IPA (US): /ˈætɪtuːd/
+- English Meaning: A way of thinking or feeling about something.
+- Vietnamese Meaning: Thái độ.
+- Example: She has a positive attitude toward work.
+- Example Translation: Cô ấy có thái độ tích cực đối với công việc.
+
+
+## 196. attractive
+
+- Type: Adjective
+- CEFR Level: A2
+- IPA (US): /əˈtræktɪv/
+- English Meaning: Pleasant or appealing to look at.
+- Vietnamese Meaning: Hấp dẫn; thu hút.
+- Example: The city is attractive to tourists.
+- Example Translation: Thành phố rất hấp dẫn đối với khách du lịch.
+
 
