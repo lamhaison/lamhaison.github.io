@@ -31,8 +31,7 @@ I do not know the word.
 ### Examples
 
 ```text
-whereas
-venue
+affair
 ```
 
 ### Characteristics
@@ -51,7 +50,7 @@ I have seen the word before.
 ### Example
 
 ```text
-transition
+abandon
 ```
 
 ### Characteristics
@@ -136,7 +135,7 @@ transition
 - Have already used it in a real context
 - Have already used it in a meeting, email, chat, or conversation
 - Can often recall it naturally
-- Do not use it frequently
+- Do not use it frequently (Used less than once per week)
 - It does not always appear automatically
 
 ### Typical Thought
@@ -168,7 +167,7 @@ customer
 - No conscious effort required
 - Used naturally in speaking
 - Used naturally in writing
-- Frequently used in real life
+- Frequently used in real life (Used regularly in daily communication)
 
 ### Typical Thought
 
@@ -177,6 +176,22 @@ I don't think about the word.
 I simply use it.
 ```
 
+---
+
+## Recall Speed (Optional Metric)
+
+Another useful way to measure vocabulary activation is **recall speed**.
+
+A word is not truly active if you still need several seconds to remember it during a conversation.
+
+### Typical Recall Time by Level
+
+| Level | Description | Recall Time |
+|---------|---------|---------|
+| Level 2 | Passive Recognition | Cannot recall independently |
+| Level 3 | Controlled Production | 5–10 seconds |
+| Level 4 | Near Active Vocabulary | 1–3 seconds |
+| Level 5 | Active Vocabulary | Immediate or automatic |
 ---
 
 # Quick Self-Test
@@ -271,7 +286,7 @@ Do NOT spend most of your time on:
 Level 0
 ```
 
-The highest ROI comes from moving words from:
+The highest ROI (Return on Investment) comes from moving words from:
 
 ```text
 Level 2

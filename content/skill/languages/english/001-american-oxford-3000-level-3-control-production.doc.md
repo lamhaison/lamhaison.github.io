@@ -49,25 +49,6 @@ tags: [english, american, oxford, 3000, common, word, language, level-3, product
 - Example: According to the forecast, it will rain tomorrow.
 - Example Translation: Theo dự báo, ngày mai sẽ mưa.
 
-## 18. accurate
-
-- Type: Adjective
-- CEFR Level: B2
-- IPA (US): /ˈækjərət/
-- English Meaning: Correct and precise.
-- Vietnamese Meaning: Chính xác.
-- Example: The report contains accurate information.
-- Example Translation: Báo cáo chứa thông tin chính xác.
-
-## 19. accuse
-
-- Type: Verb
-- CEFR Level: B2
-- IPA (US): /əˈkjuːz/
-- English Meaning: To say that someone has done something wrong.
-- Vietnamese Meaning: Buộc tội; cáo buộc.
-- Example: They accused him of stealing money.
-- Example Translation: Họ cáo buộc anh ấy lấy cắp tiền.
 
 ## 22. acknowledge
 
@@ -80,16 +61,40 @@ tags: [english, american, oxford, 3000, common, word, language, level-3, product
 - Example Translation: Anh ấy thừa nhận rằng mình đã mắc sai lầm.
 
 
-
 ## 23. acquire
 
 - Type: Verb
 - CEFR Level: B2
 - IPA (US): /əˈkwaɪər/
 - English Meaning: To gain or obtain something.
-- Vietnamese Meaning: Có được; tiếp thu.
-- Example: Children acquire language naturally.
-- Example Translation: Trẻ em tiếp thu ngôn ngữ một cách tự nhiên.
+- Vietnamese Meaning: Có được; thu nhận; tiếp thu; mua lại.
+
+### Common Collocations
+
+- acquire a company
+- acquire a business
+- acquire a startup
+- acquire customers
+- acquire users
+- acquire experience
+- acquire knowledge
+- acquire skills
+- acquire expertise
+
+### Examples
+
+- Microsoft acquired LinkedIn.
+  - Microsoft đã mua lại LinkedIn.
+
+- The company acquired thousands of new customers.
+  - Công ty đã có thêm hàng nghìn khách hàng mới.
+
+- She acquired valuable experience during the project.
+  - Cô ấy tích lũy được kinh nghiệm quý giá trong dự án.
+
+- Children acquire language naturally.
+  - Trẻ em tiếp thu ngôn ngữ một cách tự nhiên.
+
 
 
 

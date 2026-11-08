@@ -8,6 +8,16 @@ tags: [english, american, oxford, 3000, common, word, language, level-2, passive
 
 ## Q: **[english - american - oxford - 3000 - level-2 - passive] Oxford 3000 - Passive Vocabulary (Level 2)?**
 
+## 23. acquire
+
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /əˈkwaɪər/
+- English Meaning: To gain or obtain something.
+- Vietnamese Meaning: Có được; tiếp thu.
+- Example: Children acquire language naturally.
+- Example Translation: Trẻ em tiếp thu ngôn ngữ một cách tự nhiên.
+
 ## 61. against
 
 - Type: Preposition
@@ -40,6 +50,9 @@ tags: [english, american, oxford, 3000, common, word, language, level-2, passive
 - Example: We had an amazing trip.
 - Example Translation: Chúng tôi đã có một chuyến đi tuyệt vời.
 
+---
+
+## Q: **[english - american - oxford - 3000 - level-2 - passive] Oxford 3000 - 0101 - 0200 - Passive Vocabulary (Level 2)?**
 
 ## 102. analyze
 

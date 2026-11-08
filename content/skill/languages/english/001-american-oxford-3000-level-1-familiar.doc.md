@@ -29,6 +29,26 @@ tags: [english, american, oxford, 3000, common, word, language, level-1, familia
 - Example: Her academic performance improved greatly.
 - Example Translation: Thành tích học tập của cô ấy đã cải thiện đáng kể.
 
+## 18. accurate
+
+- Type: Adjective
+- CEFR Level: B2
+- IPA (US): /ˈækjərət/
+- English Meaning: Correct and precise.
+- Vietnamese Meaning: Chính xác.
+- Example: The report contains accurate information.
+- Example Translation: Báo cáo chứa thông tin chính xác.
+
+## 19. accuse
+
+- Type: Verb
+- CEFR Level: B2
+- IPA (US): /əˈkjuːz/
+- English Meaning: To say that someone has done something wrong.
+- Vietnamese Meaning: Buộc tội; cáo buộc.
+- Example: They accused him of stealing money.
+- Example Translation: Họ cáo buộc anh ấy lấy cắp tiền.
+
 ## 74. aim
 
 - Type: Noun, Verb
@@ -91,4 +111,6 @@ tags: [english, american, oxford, 3000, common, word, language, level-1, familia
 - Example: The analysis showed a rise in sales.
 - Example Translation: Bản phân tích cho thấy doanh số tăng lên.
 
+---
 
+## Q: **[english - american - oxford - 3000 - level-1 - familiar] Oxford 3000 - 0101 - 0200 - Familiar Words (Level 1)?**

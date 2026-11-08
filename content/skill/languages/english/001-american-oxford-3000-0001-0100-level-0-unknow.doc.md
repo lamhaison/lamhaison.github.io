@@ -71,7 +71,7 @@ tags: [english, american, oxford, 3000, 0001-0100, common, word, language, level
 - Example: Egypt is famous for its ancient monuments.
 - Example Translation: Ai Cập nổi tiếng với các di tích cổ đại.
 
-
+---
 ## Practicing
 Dưới đây là bài luyện nói 1 phút dựa trên các chủ đề thời sự thực tế, cố gắng dùng tất cả các từ:
 
@@ -111,4 +111,3 @@ Câu mẫu ngắn để luyện phản xạ
 Mẫu IELTS Speaking Band 6-7
 
 Recently, I read about a major earthquake. Several countries provided foreign aid, and military aircraft delivered emergency supplies. Some airlines supported rescue missions, and many people accompanied their family members to safe areas. The disaster also damaged several ancient buildings. In addition, it became an important foreign affairs issue because many governments were involved in the relief efforts.
-
