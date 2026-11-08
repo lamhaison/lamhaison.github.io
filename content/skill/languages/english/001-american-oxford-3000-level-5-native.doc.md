@@ -250,7 +250,7 @@ tags: [english, american, oxford, 3000, common, word, language, level-5, native,
 - Example Translation: Tom và Mary là bạn bè.
 
 
-## Q: **[english - american - oxford - 3000 - level-5 - native - proficiency] Oxford 3000 - 0101 - 0200 - Native Proficiency (Level 5)?**
+## Q: **[english - american - oxford - 3000 - level-5 - native - proficiency - 0100-0200] Oxford 3000 - 0101 - 0200 - Native Proficiency (Level 5)?**
 
 
 ## 109. animal
