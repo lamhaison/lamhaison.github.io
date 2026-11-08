@@ -7,6 +7,7 @@ tags: [english, american, oxford, 3000, common, word, language, words-passive, w
 ---
 
 ## Q: **[] How I Classify My Vocabulary?**
+# Vocabulary Activation Framework
 
 ## Why "Know" vs "Don't Know" Is Not Enough
 
@@ -19,12 +20,13 @@ Don't Know
 
 This classification is too simplistic because understanding a word and actively using a word are very different skills.
 
-A better approach is to classify vocabulary into **five levels**.
+A better approach is to classify vocabulary into six activation levels.
 
+---
 
 # Level 0 — Unknown
 
-I don't know the meaning of the word.
+I do not know the word.
 
 ### Examples
 
@@ -37,12 +39,14 @@ venue
 
 - Never seen it before
 - Cannot guess the meaning
+- Cannot recognize it in context
 - Cannot use it
 
+---
 
 # Level 1 — Familiar
 
-I've seen the word before.
+I have seen the word before.
 
 ### Example
 
@@ -57,6 +61,13 @@ transition
 - Not sure of the meaning
 - Cannot use it
 
+### Typical Thought
+
+```text
+I know I've seen this word somewhere.
+```
+
+---
 
 # Level 2 — Passive Recognition
 
@@ -71,10 +82,17 @@ The company is going through a transition period.
 ### Characteristics
 
 - Understand it in context
-- Can read articles containing it
-- Can understand it when hearing it
-- Cannot easily create my own sentence
+- Can understand it when reading
+- Can understand it when listening
+- Cannot easily create a sentence
 
+### Typical Thought
+
+```text
+I understand it, but I wouldn't use it myself.
+```
+
+---
 
 # Level 3 — Controlled Production
 
@@ -88,13 +106,49 @@ We are in a transition phase.
 
 ### Characteristics
 
-- Can write with it
-- Can use it if given enough time
-- Does not naturally appear in conversations
-- Does not automatically appear during meetings
+- Can create sentences
+- Can use it in writing
+- Can use it during practice
+- Requires conscious effort
 
+### Typical Thought
 
-# Level 4 — Active Vocabulary
+```text
+I can use it, but I need a few seconds to think.
+```
+
+---
+
+# Level 4 — Near Active Vocabulary
+
+The word is close to becoming part of my active vocabulary.
+
+### Examples
+
+```text
+stakeholder
+ownership
+transition
+```
+
+### Characteristics
+
+- Have already used it in a real context
+- Have already used it in a meeting, email, chat, or conversation
+- Can often recall it naturally
+- Do not use it frequently
+- It does not always appear automatically
+
+### Typical Thought
+
+```text
+I have used this word before,
+but it is not yet part of my normal speaking habits.
+```
+
+---
+
+# Level 5 — Active Vocabulary
 
 The word comes naturally when speaking or writing.
 
@@ -110,11 +164,20 @@ customer
 
 ### Characteristics
 
+- Immediate recall
 - No conscious effort required
 - Used naturally in speaking
 - Used naturally in writing
-- Available immediately during conversations
+- Frequently used in real life
 
+### Typical Thought
+
+```text
+I don't think about the word.
+I simply use it.
+```
+
+---
 
 # Quick Self-Test
 
@@ -125,68 +188,95 @@ For every word, ask yourself:
 Do I know the meaning?
 
 ```text
-Yes / No
+No
 ```
+
+→ Level 0 or Level 1
+
+---
 
 ## Question 2
 
-Can I make a sentence within 5 seconds?
-
-Example:
+Can I understand it while reading or listening?
 
 ```text
-Doctors urge people to exercise regularly.
+Yes
 ```
+
+→ Level 2
+
+---
 
 ## Question 3
 
-Would I naturally use this word during a conversation or work meeting?
-
-### If Yes
+Can I create a sentence within 5 seconds?
 
 ```text
-Level 4
+Yes
 ```
 
-### If I need time to think
+→ Level 3+
+
+---
+
+## Question 4
+
+Have I used it in a real conversation, meeting, email, or chat?
 
 ```text
-Level 3
+Yes
 ```
 
-### If I only recognize it while reading or listening
+→ Level 4+
+
+---
+
+## Question 5
+
+Would this word naturally appear during a conversation or work meeting?
 
 ```text
-Level 2
+Yes
 ```
+
+→ Level 5
+
+---
 
 # Vocabulary Tracking Spreadsheet
 
 ```text
-Word | Level
-```
-
-Example:
-
-```text
-problem       | 4
-meeting       | 4
+Word          | Level
+--------------|------
+problem       | 5
+meeting       | 5
+customer      | 5
+stakeholder   | 4
+ownership     | 4
+transition    | 4
 roadmap       | 3
-stakeholder   | 3
-urge          | 2
-venue         | 2
+venue         | 3
+urge          | 3
 sympathy      | 2
 whereas       | 1
 ```
 
+---
+
 # Where to Focus
 
-Do NOT spend most of your time on Level 0 words.
-
-The highest return on investment comes from moving words from:
+Do NOT spend most of your time on:
 
 ```text
-Level 2 → Level 4
+Level 0
+```
+
+The highest ROI comes from moving words from:
+
+```text
+Level 2
+↓
+Level 4
 ```
 
 Examples:
@@ -203,12 +293,13 @@ urge
 
 These words are already known.
 
-The problem is that they are not yet part of my active vocabulary.
+The challenge is activation.
 
+---
 
 # Using AI to Activate Vocabulary
 
-Create a list like this:
+Create a list:
 
 ```text
 Words to activate:
@@ -222,7 +313,7 @@ venue
 sympathy
 ```
 
-Use the following prompt when chatting with AI:
+Use the following prompt:
 
 ```text
 When replying in English, try to use the following words whenever appropriate:
@@ -240,7 +331,7 @@ Highlight any of these words in bold.
 Use natural native-level English.
 ```
 
-Over time, repeated exposure moves the words through the stages:
+Over time, repeated exposure moves words through:
 
 ```text
 Level 2
@@ -248,29 +339,54 @@ Level 2
 Level 3
 ↓
 Level 4
+↓
+Level 5
 ```
 
+---
 
 # Long-Term Goal
 
 Target distribution:
 
 ```text
-Level 4 (Active Vocabulary):      ~2,000 words
+Level 5 (Active Vocabulary):       ~2,000 words
 
-Level 3 (Semi-Active Vocabulary): ~2,000 words
+Level 4 (Near Active Vocabulary):  ~2,000 words
 
-Level 2 (Passive Vocabulary):     ~2,000+ words
+Level 3 (Controlled Production):   ~2,000 words
+
+Level 2 (Passive Vocabulary):      5,000+ words
 ```
 
-You do NOT need 8,000 active words.
+You do not need 8,000 active words.
 
 A practical target is:
 
 ```text
 2,000 active words
 +
-2,000 semi-active words
+2,000 near active words
 ```
 
-This is usually enough to communicate comfortably in international engineering and management environments.
+This is usually enough to communicate comfortably in:
+
+- International engineering teams
+- Technical leadership roles
+- Product management
+- Meetings and presentations
+- Daily professional communication
+
+The goal is not to know more words.
+
+The goal is to move words from:
+
+```text
+Level 2
+↓
+Level 4
+↓
+Level 5
+```
+
+until they become part of your natural communication system.

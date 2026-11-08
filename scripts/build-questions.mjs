@@ -150,6 +150,13 @@ function renderMarkdown(src) {
       continue;
     }
 
+    // Handle horizontal rules (---, ***, ___)
+    if (/^(-{3,}|\*{3,}|_{3,})$/.test(line.trim())) {
+      html.push('<div class="separator"></div>');
+      i += 1;
+      continue;
+    }
+
     if (line.trim() === ':::callout') {
       i += 1;
 

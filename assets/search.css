@@ -355,6 +355,13 @@ mark {
   border-radius: 2px;
 }
 
+.separator {
+  height: 1px;
+  background-color: #c8cdd3;
+  width: 100%;
+  margin: .8rem 0;
+}
+
 .answer {
   border-top: 1px solid var(--line);
   padding: .2rem 1rem 1rem;
