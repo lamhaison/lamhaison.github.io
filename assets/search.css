@@ -355,6 +355,39 @@ mark {
   border-radius: 2px;
 }
 
+.separator {
+  /* Modern elegant separator with fade effect */
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    #c8cdd3 15%,
+    #c8cdd3 85%,
+    transparent 100%
+  );
+  width: 100%;
+  margin: 2rem 0;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08);
+  position: relative;
+}
+
+/* Optional: Add subtle accent line above/below for depth */
+.separator::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 15%;
+  right: 15%;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(11, 58, 102, 0.08) 50%,
+    transparent
+  );
+  margin-top: -0.5px;
+}
+
 .answer {
   border-top: 1px solid var(--line);
   padding: .2rem 1rem 1rem;
